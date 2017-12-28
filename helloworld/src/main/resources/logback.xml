@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+    <appender name="consoleAppender1" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <Pattern>.%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg %n
+            </Pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>TRACE</level>
+        </filter>
+    </appender>
+
+    <appender name="consoleAppender2" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <Pattern>.%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - METRIC %msg %n
+            </Pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>TRACE</level>
+        </filter>
+    </appender>
+
+    <property name="CONSOLE_LOG_PATTERN"
+              value="%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(${LOG_LEVEL_PATTERN:-%5p}) %clr(${PID:- }){magenta} %clr(---){faint} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}"/>
+
+    <appender name="consoleAppender3" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <Pattern>${CONSOLE_LOG_PATTERN}</Pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>TRACE</level>
+        </filter>
+    </appender>
+
+    <logger name="com.trogers.HelloWorld" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="consoleAppender3" />
+    </logger>
+
+    <logger name="com.trogers.MetricThingy" additivity="false">
+        <level value="DEBUG" />
+        <appender-ref ref="consoleAppender2" />
+    </logger>
+
+    <root>
+        <level value="INFO" />
+        <appender-ref ref="consoleAppender3" />
+    </root>
+</configuration>

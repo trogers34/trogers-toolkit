@@ -7,13 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A021F9A209AC11300560F76 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A021F99209AC11300560F76 /* main.cpp */; };
-		1A021FA2209AC39B00560F76 /* MyTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A021FA1209AC39B00560F76 /* MyTest.cpp */; };
-		1ABC6D4820A6D102009184BA /* / in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ABC6D4620A6D0E4009184BA /* / */; };
+		1A3FAD1F20A6D1FB00D79620 /* Colors in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FAD1E20A6D1FA00D79620 /* Colors */; };
+		1ABC6D3F20A6C0DF009184BA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ABC6D3E20A6C0DF009184BA /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		1A021F94209AC11200560F76 /* CopyFiles */ = {
+		1ABC6D3920A6C0DF009184BA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -25,125 +24,122 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1A021F96209AC11300560F76 /* cpp-trogers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cpp-trogers"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A021F99209AC11300560F76 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		1A021FA0209AC2A200560F76 /* MyTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTest.h; sourceTree = "<group>"; };
-		1A021FA1209AC39B00560F76 /* MyTest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MyTest.cpp; sourceTree = "<group>"; };
-		1ABC6D4620A6D0E4009184BA /* / */ = {isa = PBXFileReference; lastKnownFileType = folder; name = /; path = ../../../..; sourceTree = "<group>"; };
+		1A3FAD1C20A6D1B500D79620 /* / */ = {isa = PBXFileReference; lastKnownFileType = folder; name = /; path = ../../../..; sourceTree = "<group>"; };
+		1A3FAD1E20A6D1FA00D79620 /* Colors */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Colors; path = ../../../../System/Library/Colors; sourceTree = "<group>"; };
+		1ABC6D3B20A6C0DF009184BA /* casablanca-test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "casablanca-test"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1ABC6D3E20A6C0DF009184BA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1A021F93209AC11200560F76 /* Frameworks */ = {
+		1ABC6D3820A6C0DF009184BA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1ABC6D4820A6D102009184BA /* / in Frameworks */,
+				1A3FAD1F20A6D1FB00D79620 /* Colors in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1A021F8D209AC11200560F76 = {
+		1A3FAD1B20A6D1B400D79620 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1A021F98209AC11300560F76 /* cpp-trogers */,
-				1A021F97209AC11300560F76 /* Products */,
-				1ABC6D4520A6D0E3009184BA /* Frameworks */,
+				1A3FAD1E20A6D1FA00D79620 /* Colors */,
+				1A3FAD1C20A6D1B500D79620 /* / */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1ABC6D3220A6C0DF009184BA = {
+			isa = PBXGroup;
+			children = (
+				1ABC6D3D20A6C0DF009184BA /* casablanca-test */,
+				1ABC6D3C20A6C0DF009184BA /* Products */,
+				1A3FAD1B20A6D1B400D79620 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		1A021F97209AC11300560F76 /* Products */ = {
+		1ABC6D3C20A6C0DF009184BA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1A021F96209AC11300560F76 /* cpp-trogers */,
+				1ABC6D3B20A6C0DF009184BA /* casablanca-test */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1A021F98209AC11300560F76 /* cpp-trogers */ = {
+		1ABC6D3D20A6C0DF009184BA /* casablanca-test */ = {
 			isa = PBXGroup;
 			children = (
-				1A021F99209AC11300560F76 /* main.cpp */,
-				1A021FA0209AC2A200560F76 /* MyTest.h */,
-				1A021FA1209AC39B00560F76 /* MyTest.cpp */,
+				1ABC6D3E20A6C0DF009184BA /* main.cpp */,
 			);
-			path = "cpp-trogers";
-			sourceTree = "<group>";
-		};
-		1ABC6D4520A6D0E3009184BA /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1ABC6D4620A6D0E4009184BA /* / */,
-			);
-			name = Frameworks;
+			path = "casablanca-test";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1A021F95209AC11200560F76 /* cpp-trogers */ = {
+		1ABC6D3A20A6C0DF009184BA /* casablanca-test */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1A021F9D209AC11300560F76 /* Build configuration list for PBXNativeTarget "cpp-trogers" */;
+			buildConfigurationList = 1ABC6D4220A6C0DF009184BA /* Build configuration list for PBXNativeTarget "casablanca-test" */;
 			buildPhases = (
-				1A021F92209AC11200560F76 /* Sources */,
-				1A021F93209AC11200560F76 /* Frameworks */,
-				1A021F94209AC11200560F76 /* CopyFiles */,
+				1ABC6D3720A6C0DF009184BA /* Sources */,
+				1ABC6D3820A6C0DF009184BA /* Frameworks */,
+				1ABC6D3920A6C0DF009184BA /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "cpp-trogers";
-			productName = "cpp-trogers";
-			productReference = 1A021F96209AC11300560F76 /* cpp-trogers */;
+			name = "casablanca-test";
+			productName = "casablanca-test";
+			productReference = 1ABC6D3B20A6C0DF009184BA /* casablanca-test */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1A021F8E209AC11200560F76 /* Project object */ = {
+		1ABC6D3320A6C0DF009184BA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Timothy Rogers";
 				TargetAttributes = {
-					1A021F95209AC11200560F76 = {
+					1ABC6D3A20A6C0DF009184BA = {
 						CreatedOnToolsVersion = 9.3;
 					};
 				};
 			};
-			buildConfigurationList = 1A021F91209AC11200560F76 /* Build configuration list for PBXProject "cpp-trogers" */;
+			buildConfigurationList = 1ABC6D3620A6C0DF009184BA /* Build configuration list for PBXProject "casablanca-test" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 1A021F8D209AC11200560F76;
-			productRefGroup = 1A021F97209AC11300560F76 /* Products */;
+			mainGroup = 1ABC6D3220A6C0DF009184BA;
+			productRefGroup = 1ABC6D3C20A6C0DF009184BA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1A021F95209AC11200560F76 /* cpp-trogers */,
+				1ABC6D3A20A6C0DF009184BA /* casablanca-test */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1A021F92209AC11200560F76 /* Sources */ = {
+		1ABC6D3720A6C0DF009184BA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A021F9A209AC11300560F76 /* main.cpp in Sources */,
-				1A021FA2209AC39B00560F76 /* MyTest.cpp in Sources */,
+				1ABC6D3F20A6C0DF009184BA /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1A021F9B209AC11300560F76 /* Debug */ = {
+		1ABC6D4020A6C0DF009184BA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -201,7 +197,7 @@
 			};
 			name = Debug;
 		};
-		1A021F9C209AC11300560F76 /* Release */ = {
+		1ABC6D4120A6C0DF009184BA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -252,24 +248,36 @@
 			};
 			name = Release;
 		};
-		1A021F9E209AC11300560F76 /* Debug */ = {
+		1ABC6D4320A6C0DF009184BA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CODE_SIGN_STYLE = Automatic;
-				"OTHER_CPLUSPLUSFLAGS[arch=*]" = (
+				"LIBRARY_SEARCH_PATHS[arch=*]" = (
+					/usr/local/opt/openssl/lib,
+					/usr/local/Cellar/boost/1.67.0_1/lib/,
+				);
+				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
-					"-I/usr/local/Cellar/cpprestsdk/2.10.2/include/cpprest",
+					"-I/usr/local/opt/openssl/include",
+					"-I/usr/local/Cellar/cpprestsdk/2.10.2/include",
+					"-I/usr/local/Cellar/boost/1.67.0_1/include",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		1A021F9F209AC11300560F76 /* Release */ = {
+		1ABC6D4420A6C0DF009184BA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CODE_SIGN_STYLE = Automatic;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-I/usr/local/opt/openssl/include",
+					"-I/usr/local/Cellar/cpprestsdk/2.10.2/include",
+					"-I/usr/local/Cellar/boost/1.67.0_1/include",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -277,25 +285,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A021F91209AC11200560F76 /* Build configuration list for PBXProject "cpp-trogers" */ = {
+		1ABC6D3620A6C0DF009184BA /* Build configuration list for PBXProject "casablanca-test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A021F9B209AC11300560F76 /* Debug */,
-				1A021F9C209AC11300560F76 /* Release */,
+				1ABC6D4020A6C0DF009184BA /* Debug */,
+				1ABC6D4120A6C0DF009184BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1A021F9D209AC11300560F76 /* Build configuration list for PBXNativeTarget "cpp-trogers" */ = {
+		1ABC6D4220A6C0DF009184BA /* Build configuration list for PBXNativeTarget "casablanca-test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A021F9E209AC11300560F76 /* Debug */,
-				1A021F9F209AC11300560F76 /* Release */,
+				1ABC6D4320A6C0DF009184BA /* Debug */,
+				1ABC6D4420A6C0DF009184BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1A021F8E209AC11200560F76 /* Project object */;
+	rootObject = 1ABC6D3320A6C0DF009184BA /* Project object */;
 }

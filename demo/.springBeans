@@ -8,9 +8,9 @@
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
 		<config>java:com.example.rs.Example</config>
+		<config>java:com.example.boot.DemoApplication</config>
 	</configs>
 	<autoconfigs>
-		<config>java:com.example.DemoApplication</config>
 	</autoconfigs>
 	<configSets>
 	</configSets>

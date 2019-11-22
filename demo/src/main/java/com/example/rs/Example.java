@@ -9,7 +9,7 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.MyListener;
+import com.example.core.MyListener;
 
 @RestController
 @EnableAutoConfiguration

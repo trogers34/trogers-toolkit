@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.kafka.annotation.EnableKafka;
 import org.springframework.stereotype.Component;
 
-import com.example.MyListener;
+import com.example.core.MyListener;
 import com.example.kafka.MyKafkaListener;
 import com.example.sqs.MySqsListener;
 

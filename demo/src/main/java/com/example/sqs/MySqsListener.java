@@ -1,7 +1,7 @@
 package com.example.sqs;
 import org.springframework.stereotype.Component;
 
-import com.example.MyListener;
+import com.example.core.MyListener;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.aws.messaging.core.QueueMessagingTemplate;

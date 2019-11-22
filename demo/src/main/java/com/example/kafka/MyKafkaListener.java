@@ -2,7 +2,8 @@ package com.example.kafka;
 import org.springframework.kafka.annotation.EnableKafka;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
-import com.example.MyListener;
+
+import com.example.core.MyListener;
 
 
 @Component

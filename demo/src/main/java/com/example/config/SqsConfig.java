@@ -8,9 +8,10 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
 import com.amazonaws.services.sqs.AmazonSQSAsync;
-import com.example.MyListener;
+
 import org.springframework.cloud.aws.messaging.core.QueueMessagingTemplate;
 
+import com.example.core.MyListener;
 import com.example.sqs.MySqsListener;
 
 

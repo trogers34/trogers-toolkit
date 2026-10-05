@@ -23,7 +23,7 @@ python3 -m unittest discover tests
 Open `site/index.html` in a browser. No server or third-party packages are needed
 (Python 3.8+).
 
-The build fails if a person has no persecution section, if a persecution incident doesn't say who was responsible, if a bullet or date has no source, cites a source id that isn't
+The build fails if a person has no persecution or excommunication section, if a persecution incident doesn't say who was responsible, if a bullet or date has no source, cites a source id that isn't
 listed, or has a key date outside the person's lifespan.
 
 ## Publishing
@@ -59,4 +59,6 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `sayings` | optional. `{"original": [...], "popularized": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |
 | `persecution` | required list (may be empty). Each item: `year` and/or `date`, `title`, `summary`, `responsible` (each `name`, `role`, `jurisdiction`, `type`: `church` / `state` / `individual` / `group`), optional `defended_by` (`name`, `role`), `outcome`, `sources` |
 | `persecution_note` | short overview of the person's arrests, trials, and persecution; required if `persecution` is empty (e.g. "None recorded") |
+| `excommunications` | required list (may be empty). Each item: `date`, `by`, `authority`, `reason`, `status` (e.g. "Never lifted"), `sources`. Shown as a table at the top of the persecution section |
+| `excommunication_note` | overview of the person's excommunications; required if `excommunications` is empty (e.g. "Never excommunicated") |
 | `sources` | `id`, `type` (`primary` / `scholarly` / `reference`), `citation`, optional `url` |

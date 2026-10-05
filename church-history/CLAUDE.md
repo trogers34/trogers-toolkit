@@ -32,6 +32,12 @@ record, whoever was responsible and whatever tradition they belonged to.
   role and the jurisdiction or institution they acted under, and type them as `church`,
   `state`, `individual`, or `group`.
 - Record protectors in `defended_by` when they shaped the outcome.
+- Every person also needs `excommunications` and `excommunication_note`. List every
+  excommunication, anathema, or condemnation as a heretic, including posthumous ones:
+  who issued it, under what authority, why, and whether it was ever lifted or reversed
+  (note later apologies or expressions of regret, and say whether they formally revoked
+  anything). If the person was never excommunicated, say so explicitly in
+  `excommunication_note`, so readers know it was checked.
 - Say plainly where responsibility is unknown or only suspected, and who suspects it.
   If a party had no recorded role (e.g. no direct papal involvement), say so in the summary.
 - If the person was never arrested or persecuted, say so in `persecution_note` and leave

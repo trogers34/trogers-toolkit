@@ -26,6 +26,19 @@ Open `site/index.html` in a browser. No server or third-party packages are neede
 The build fails if a bullet or date has no source, cites a source id that isn't
 listed, or has a key date outside the person's lifespan.
 
+## Publishing
+
+The site is published with GitHub Pages at
+**https://trogers34.github.io/trogers-toolkit/**.
+
+`.github/workflows/church-history-pages.yml` runs the tests, rebuilds the site, and
+deploys it on every push to `master` that touches `church-history/`. Pull requests run
+the tests only. A failing test blocks the deploy, so the live site only changes when
+the data is valid.
+
+One-time setup (repo admin): **Settings → Pages → Build and deployment → Source:
+GitHub Actions**.
+
 ## Adding a person
 
 Ask Claude: *"Add Athanasius of Alexandria to the church history site."* Claude

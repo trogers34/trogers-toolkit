@@ -79,6 +79,18 @@ class BuildTest(unittest.TestCase):
         people = build.load_people()
         self.assertGreater(len(people), 0)
 
+    def test_committed_site_is_up_to_date(self):
+        # Fails if someone edited people/ without re-running build.py.
+        people = build.load_people()
+        index = (build.SITE_DIR / "index.html").read_text(encoding="utf-8")
+        self.assertEqual(index, build.render_index(people), "site/ is stale: run python3 build.py")
+        for person in people:
+            self.assertIn(f'href="people/{person["slug"]}.html"', index)
+            page = build.SITE_DIR / "people" / f'{person["slug"]}.html'
+            self.assertTrue(page.exists(), f"missing {page.name}: run python3 build.py")
+            self.assertEqual(page.read_text(encoding="utf-8"), build.render_person(person),
+                             f"{page.name} is stale: run python3 build.py")
+
     def test_build_writes_pages(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)

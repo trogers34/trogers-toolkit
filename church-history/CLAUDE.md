@@ -89,6 +89,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 
 **Modern**
 - John Wesley (`john-wesley`): starter example
+- Charles Haddon Spurgeon (`charles-spurgeon`)
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -189,6 +190,8 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
+- Charles Haddon Spurgeon added (Surrey Gardens false alarm, sermons burned in the American South,
+  Baptist Union censure in the Down-Grade Controversy). 32 people.
 - **Memory upkeep**: rule to update this file after every commit; a PostToolUse hook
   (`.claude/hooks/check-memory-updated.sh`) flags commits to `church-history/` that skip it;
   this change log started.

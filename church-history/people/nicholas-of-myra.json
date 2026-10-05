@@ -1,0 +1,145 @@
+{
+  "name": "Nicholas of Myra",
+  "slug": "nicholas-of-myra",
+  "also_known_as": "Saint Nicholas; Nicholas the Wonderworker; the origin of Santa Claus",
+  "era": "Early Church",
+  "role": "Bishop of Myra in Lycia",
+  "born": {
+    "year": 270,
+    "circa": true,
+    "date": "c. 270 (traditional; not recorded)",
+    "place": "Patara, Lycia, Asia Minor (modern Turkey), according to tradition",
+    "sources": [
+      "english",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 343,
+    "circa": true,
+    "date": "6 December, c. 343 (traditional)",
+    "place": "Myra, Lycia (modern Demre, Turkey)",
+    "sources": [
+      "english",
+      "britannica"
+    ]
+  },
+  "summary": "Fourth-century bishop of Myra about whom very little is known for certain, but whose legends of secret generosity and miracles made him one of the most popular saints in both East and West, and eventually the model for Santa Claus.",
+  "key_dates": [
+    {
+      "year": 303,
+      "circa": true,
+      "label": "Imprisoned during the persecution under Diocletian, according to tradition",
+      "sources": [
+        "english",
+        "anrich"
+      ]
+    },
+    {
+      "year": 325,
+      "label": "Said by later tradition to have attended the Council of Nicaea (he is not on the earliest lists of bishops present)",
+      "sources": [
+        "english",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Served as bishop of Myra in Lycia in the early 4th century. Almost nothing about his life is documented by contemporaries; the earliest detailed accounts were written centuries later.",
+      "sources": [
+        "english",
+        "jones",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Is remembered, in the best-known legend, for secretly giving three bags of gold as dowries so that three poor sisters would not be sold into prostitution, the origin of the custom of secret gift-giving in his name.",
+      "sources": [
+        "anrich",
+        "english"
+      ]
+    },
+    {
+      "text": "Is credited in an early story (the Praxis de stratelatis, c. 5th–6th century) with saving three innocent men from execution and rescuing three imperial officers who had been unjustly condemned.",
+      "sources": [
+        "anrich",
+        "english"
+      ]
+    },
+    {
+      "text": "Became one of the most widely venerated saints of the Middle Ages, patron of sailors, children, merchants, and many cities. His relics were taken from Myra to Bari, Italy, by Italian sailors in 1087, where they remain.",
+      "sources": [
+        "jones",
+        "britannica"
+      ]
+    },
+    {
+      "text": "His feast day, 6 December, and the Dutch figure of Sinterklaas developed in America into Santa Claus.",
+      "sources": [
+        "jones",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "The record for Nicholas rests on later tradition, not contemporary documents. Tradition says he was imprisoned during the Great Persecution under Diocletian and released when Constantine's policy of toleration took effect. A late legend says that he struck the heretic Arius at the Council of Nicaea and was briefly stripped of his office and jailed by the council, but historians regard this story as legend.",
+  "persecution": [
+    {
+      "year": 303,
+      "circa": true,
+      "date": "c. 303–311 (according to tradition)",
+      "title": "Imprisoned during the Great Persecution",
+      "summary": "According to his traditional biographies, Nicholas was imprisoned during the empire-wide persecution of Christians launched by Emperor Diocletian in 303, and freed when the persecution ended. No contemporary record confirms this.",
+      "responsible": [
+        {
+          "name": "Emperor Diocletian",
+          "role": "Ordered the Great Persecution of Christians (303)",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Emperor Galerius",
+          "role": "Co-emperor who drove the persecution until his edict of toleration (311)",
+          "jurisdiction": "Roman Empire (eastern provinces)",
+          "type": "state"
+        },
+        {
+          "name": "Roman provincial authorities of Lycia",
+          "role": "Would have carried out the arrest",
+          "jurisdiction": "Province of Lycia, Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Released, according to tradition, when the persecution ended (311–313).",
+      "sources": [
+        "english",
+        "anrich"
+      ]
+    }
+  ],
+  "excommunication_note": "No excommunication of Nicholas is recorded. The legend that the Council of Nicaea removed him from office for striking Arius is not historical.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "anrich",
+      "type": "primary",
+      "citation": "Gustav Anrich, ed., Hagios Nikolaos: Der heilige Nikolaos in der griechischen Kirche, 2 vols. (Leipzig: Teubner, 1913–1917). Critical edition of the early Greek lives and stories, including the Praxis de stratelatis and the Life by Michael the Archimandrite."
+    },
+    {
+      "id": "english",
+      "type": "scholarly",
+      "citation": "Adam C. English, The Saint Who Would Be Santa Claus: The True Life and Trials of Nicholas of Myra (Waco, TX: Baylor University Press, 2012)."
+    },
+    {
+      "id": "jones",
+      "type": "scholarly",
+      "citation": "Charles W. Jones, Saint Nicholas of Myra, Bari, and Manhattan: Biography of a Legend (Chicago: University of Chicago Press, 1978)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Nicholas,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Nicholas"
+    }
+  ]
+}

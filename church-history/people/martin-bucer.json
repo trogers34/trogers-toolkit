@@ -1,0 +1,291 @@
+{
+  "name": "Martin Bucer",
+  "slug": "martin-bucer",
+  "also_known_as": "Martin Butzer",
+  "era": "Reformation",
+  "role": "Former Dominican friar, reformer of Strasbourg, Regius Professor of Divinity at Cambridge",
+  "born": {
+    "year": 1491,
+    "date": "11 November 1491",
+    "place": "Sélestat (Schlettstadt), Alsace",
+    "sources": [
+      "greschat",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1551,
+    "date": "28 February 1551",
+    "place": "Cambridge, England",
+    "sources": [
+      "greschat",
+      "britannica"
+    ]
+  },
+  "summary": "Reformer of Strasbourg who worked for unity among Protestants and with Catholics, mentored John Calvin, and ended his life in English exile. Under Mary I his body was dug up and burned as a heretic.",
+  "key_dates": [
+    {
+      "year": 1507,
+      "label": "Enters the Dominican order at Sélestat",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1518,
+      "label": "Hears Luther at the Heidelberg Disputation and is won over",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1522,
+      "label": "Released from his vows; marries the former nun Elisabeth Silbereisen",
+      "sources": [
+        "greschat"
+      ]
+    },
+    {
+      "year": 1523,
+      "label": "Excommunicated; takes refuge in Strasbourg",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1529,
+      "label": "Takes part in the Marburg Colloquy between Luther and Zwingli",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1536,
+      "label": "Negotiates the Wittenberg Concord with Luther on the Lord's Supper",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1538,
+      "label": "Welcomes John Calvin to Strasbourg (1538–1541)",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1541,
+      "label": "Takes part in the Regensburg colloquy with Catholic theologians",
+      "sources": [
+        "greschat"
+      ]
+    },
+    {
+      "year": 1549,
+      "label": "Forced out of Strasbourg; becomes Regius Professor of Divinity at Cambridge",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Led the Reformation in Strasbourg for a quarter-century, building a church order, schools, and care for the poor that influenced Reformed churches widely.",
+      "sources": [
+        "greschat",
+        "wright"
+      ]
+    },
+    {
+      "text": "Worked tirelessly for agreement between the Lutheran and Swiss Reformations on the Lord's Supper, achieving the Wittenberg Concord with Luther (1536).",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Co-wrote the Tetrapolitan Confession (1530) for Strasbourg and three other cities.",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Hosted and mentored John Calvin in Strasbourg (1538–1541), whose later church order in Geneva drew on Bucer's model.",
+      "sources": [
+        "greschat",
+        "wright"
+      ]
+    },
+    {
+      "text": "Took part in talks with Catholic theologians, including at Regensburg (1541), seeking reunion of the Western church.",
+      "sources": [
+        "greschat"
+      ]
+    },
+    {
+      "text": "With Luther and Melanchthon, gave secret approval in 1539 to the bigamous second marriage of Landgrave Philip of Hesse, which caused a scandal when it became known in 1540.",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In England, wrote On the Kingdom of Christ (De Regno Christi, 1550) for Edward VI and a critique of the 1549 Prayer Book that influenced its 1552 revision.",
+      "sources": [
+        "de-regno",
+        "greschat"
+      ]
+    }
+  ],
+  "persecution_note": "Bucer was excommunicated by his bishop in 1523, forced out of Strasbourg by the emperor's religious settlement in 1549, and after his death in England was condemned as a heretic under Mary I, his body dug up and burned.",
+  "persecution": [
+    {
+      "year": 1523,
+      "title": "Excommunicated and driven out of Wissembourg",
+      "summary": "As a married former friar preaching Reformation doctrine at Wissembourg (Weissenburg) in Alsace, Bucer was excommunicated by the Bishop of Speyer. He fled to Strasbourg, where, as the son of a citizen, he found protection.",
+      "responsible": [
+        {
+          "name": "Bishop of Speyer",
+          "role": "Excommunicated him (George of the Palatinate, bishop 1513–1529)",
+          "jurisdiction": "Diocese of Speyer",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Strasbourg city council",
+          "role": "Allowed him to stay and later appointed him a preacher"
+        }
+      ],
+      "outcome": "He settled in Strasbourg, which became his base for 26 years.",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1549,
+      "date": "1548–1549",
+      "title": "Forced out of Strasbourg by the Augsburg Interim",
+      "summary": "After defeating the Protestant princes, Emperor Charles V imposed the Augsburg Interim (1548), a religious settlement restoring much Catholic practice. Bucer refused to accept it, and the Strasbourg city council, under imperial pressure, dismissed him in March 1549.",
+      "responsible": [
+        {
+          "name": "Emperor Charles V",
+          "role": "Imposed the Augsburg Interim",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Strasbourg city council",
+          "role": "Dismissed him under imperial pressure",
+          "jurisdiction": "Free Imperial City of Strasbourg",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Thomas Cranmer",
+          "role": "Archbishop of Canterbury; invited him to England"
+        }
+      ],
+      "outcome": "He went to England, where Edward VI's government made him Regius Professor of Divinity at Cambridge.",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1557,
+      "date": "January–February 1557 (six years after his death)",
+      "title": "Posthumous heresy trial; body exhumed and burned",
+      "summary": "During Mary I's restoration of Catholicism, commissioners sent by Cardinal Reginald Pole to visit Cambridge University tried Bucer and the Hebrew scholar Paul Fagius for heresy after their deaths. Their bodies were dug up and burned on Market Hill in Cambridge on 6 February 1557, together with their books.",
+      "responsible": [
+        {
+          "name": "Cardinal Reginald Pole",
+          "role": "Archbishop of Canterbury and papal legate; sent the visitors to Cambridge",
+          "jurisdiction": "Papacy; Church in England",
+          "type": "church"
+        },
+        {
+          "name": "Pole's visitors to Cambridge",
+          "role": "Conducted the posthumous trial (led by Cuthbert Scott, Bishop of Chester)",
+          "jurisdiction": "Legatine visitation of the University of Cambridge",
+          "type": "church"
+        },
+        {
+          "name": "Mary I",
+          "role": "Queen of England, whose government restored the heresy laws",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "His remains were burned. Under Elizabeth I, the University of Cambridge formally restored his and Fagius's honor in 1560.",
+      "sources": [
+        "foxe",
+        "greschat",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Bucer was excommunicated by the Bishop of Speyer in 1523 and condemned as a heretic posthumously in 1557. The Catholic Church never lifted these sentences. The University of Cambridge publicly restored his honor in 1560 under Elizabeth I.",
+  "excommunications": [
+    {
+      "date": "1523",
+      "by": "Bishop of Speyer",
+      "authority": "Diocese of Speyer",
+      "reason": "Married as a former friar and preached Reformation teaching at Wissembourg",
+      "status": "Never lifted",
+      "sources": [
+        "greschat",
+        "britannica"
+      ]
+    },
+    {
+      "date": "1557 (after his death)",
+      "by": "Cardinal Pole's legatine visitors to Cambridge",
+      "authority": "Papal legate in England",
+      "reason": "Condemned as a heretic; body exhumed and burned",
+      "status": "Reversed by the University of Cambridge under Elizabeth I (1560), not by Rome",
+      "sources": [
+        "foxe",
+        "greschat"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "de-regno",
+      "type": "primary",
+      "citation": "Martin Bucer, De Regno Christi, in Melanchthon and Bucer, ed. Wilhelm Pauck, Library of Christian Classics 19 (Philadelphia: Westminster Press, 1969)."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Account of the exhumation of Bucer and Fagius."
+    },
+    {
+      "id": "greschat",
+      "type": "scholarly",
+      "citation": "Martin Greschat, Martin Bucer: A Reformer and His Times, trans. Stephen E. Buckwalter (Louisville: Westminster John Knox, 2004)."
+    },
+    {
+      "id": "wright",
+      "type": "scholarly",
+      "citation": "D. F. Wright, ed., Martin Bucer: Reforming Church and Community (Cambridge: Cambridge University Press, 1994)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Martin Bucer,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Martin-Bucer"
+    }
+  ]
+}

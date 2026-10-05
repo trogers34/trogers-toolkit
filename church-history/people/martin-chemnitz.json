@@ -1,0 +1,160 @@
+{
+  "name": "Martin Chemnitz",
+  "slug": "martin-chemnitz",
+  "also_known_as": "\"The Second Martin\"",
+  "era": "Reformation",
+  "role": "Lutheran theologian, superintendent of Braunschweig, principal author of the Formula of Concord",
+  "born": {
+    "year": 1522,
+    "date": "9 November 1522",
+    "place": "Treuenbrietzen, Brandenburg (Germany)",
+    "sources": [
+      "preus",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1586,
+    "date": "8 April 1586",
+    "place": "Braunschweig (Brunswick), Germany",
+    "sources": [
+      "preus",
+      "britannica"
+    ]
+  },
+  "summary": "Leading Lutheran theologian of the generation after Luther, whose Examination of the Council of Trent was the major Protestant response to Trent, and who led the work on the Formula of Concord that united most German Lutherans.",
+  "key_dates": [
+    {
+      "year": 1545,
+      "label": "Studies at Wittenberg under Philip Melanchthon",
+      "sources": [
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1550,
+      "label": "Becomes librarian to Duke Albert of Prussia at Königsberg",
+      "sources": [
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1554,
+      "label": "Ordained and called to Braunschweig as assistant to the superintendent, Joachim Mörlin",
+      "sources": [
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1565,
+      "label": "Publishes the first volume of the Examination of the Council of Trent (completed 1573)",
+      "sources": [
+        "examen",
+        "preus"
+      ]
+    },
+    {
+      "year": 1567,
+      "label": "Becomes superintendent (chief pastor) of Braunschweig",
+      "sources": [
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1570,
+      "label": "Publishes The Two Natures in Christ",
+      "sources": [
+        "preus"
+      ]
+    },
+    {
+      "year": 1577,
+      "label": "Completes the Formula of Concord with Jakob Andreae and others",
+      "sources": [
+        "book-of-concord",
+        "preus"
+      ]
+    },
+    {
+      "year": 1580,
+      "label": "The Book of Concord is published",
+      "sources": [
+        "book-of-concord",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Examination of the Council of Trent (4 volumes, 1565–1573), a point-by-point reply to Trent's decrees from Scripture and the Church Fathers, and the most important Lutheran response to the council.",
+      "sources": [
+        "examen",
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Was a principal author of the Formula of Concord (1577), which settled the disputes that divided Lutherans after Luther's death and was included in the Book of Concord (1580).",
+      "sources": [
+        "book-of-concord",
+        "preus"
+      ]
+    },
+    {
+      "text": "Wrote The Two Natures in Christ (1570), a major work on the person of Christ and the Lord's Supper.",
+      "sources": [
+        "preus"
+      ]
+    },
+    {
+      "text": "Led the church of Braunschweig for nearly two decades, writing its church order and training its pastors.",
+      "sources": [
+        "preus",
+        "britannica"
+      ]
+    },
+    {
+      "text": "His Loci Theologici, lectures on Melanchthon's theology, were published after his death (1591), and he began a Harmony of the Gospels later completed by Polycarp Leyser and Johann Gerhard.",
+      "sources": [
+        "preus"
+      ]
+    },
+    {
+      "text": "Is often called \"the second Martin,\" from a Catholic saying that \"if the second Martin had not come, the first would hardly have stood.\"",
+      "sources": [
+        "preus"
+      ]
+    }
+  ],
+  "persecution_note": "Chemnitz was never arrested, exiled, or persecuted. He worked under the protection of Lutheran princes and the city of Braunschweig. He left Königsberg in 1553 amid the Osiandrian controversy, but that was a theological dispute among Lutherans, not persecution.",
+  "persecution": [],
+  "excommunication_note": "Chemnitz was never excommunicated by name. The Council of Trent's canons pronounced anathemas on Protestant doctrines in general, which Chemnitz answered in his Examination, but no church issued a sentence against him personally.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "examen",
+      "type": "primary",
+      "citation": "Martin Chemnitz, Examination of the Council of Trent, trans. Fred Kramer, 4 vols. (St. Louis: Concordia, 1971–1986)."
+    },
+    {
+      "id": "book-of-concord",
+      "type": "primary",
+      "citation": "Robert Kolb and Timothy J. Wengert, eds., The Book of Concord: The Confessions of the Evangelical Lutheran Church (Minneapolis: Fortress Press, 2000)."
+    },
+    {
+      "id": "preus",
+      "type": "scholarly",
+      "citation": "J. A. O. Preus, The Second Martin: The Life and Theology of Martin Chemnitz (St. Louis: Concordia, 1994)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Martin Chemnitz,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Martin-Chemnitz"
+    }
+  ]
+}

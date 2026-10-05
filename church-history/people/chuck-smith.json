@@ -1,0 +1,156 @@
+{
+  "name": "Chuck Smith",
+  "slug": "chuck-smith",
+  "also_known_as": "Charles Ward Smith",
+  "era": "Modern",
+  "role": "Pastor of Calvary Chapel Costa Mesa, founder of the Calvary Chapel movement",
+  "born": {
+    "year": 1927,
+    "date": "25 June 1927",
+    "place": "Ventura, California, United States",
+    "sources": [
+      "eskridge",
+      "harvest"
+    ]
+  },
+  "died": {
+    "year": 2013,
+    "date": "3 October 2013, aged 86",
+    "place": "Newport Beach, California, United States",
+    "sources": [
+      "eskridge"
+    ]
+  },
+  "summary": "California pastor who opened his small church to the hippies of the Jesus Movement in the late 1960s, building Calvary Chapel into a worldwide network of churches known for verse-by-verse Bible teaching and contemporary worship music.",
+  "key_dates": [
+    {
+      "year": 1948,
+      "label": "Graduates from L.I.F.E. Bible College; begins pastoring in the Foursquare Church",
+      "sources": [
+        "harvest",
+        "miller"
+      ]
+    },
+    {
+      "year": 1965,
+      "label": "Becomes pastor of Calvary Chapel in Costa Mesa, a congregation of about 25 people",
+      "sources": [
+        "harvest",
+        "miller"
+      ]
+    },
+    {
+      "year": 1968,
+      "label": "Begins reaching hippies with the young evangelist Lonnie Frisbee; the Jesus Movement grows",
+      "sources": [
+        "eskridge",
+        "miller"
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "Calvary Chapel launches Maranatha! Music",
+      "sources": [
+        "eskridge",
+        "miller"
+      ]
+    },
+    {
+      "year": 1978,
+      "label": "Publishes End Times",
+      "sources": [
+        "end-times",
+        "eskridge"
+      ]
+    },
+    {
+      "year": 1982,
+      "label": "Vineyard churches under John Wimber separate from Calvary Chapel",
+      "sources": [
+        "miller"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Welcomed the hippies and young people of the counterculture into his conservative church in the late 1960s, making Calvary Chapel a center of the Jesus Movement.",
+      "sources": [
+        "eskridge",
+        "miller"
+      ]
+    },
+    {
+      "text": "Held mass baptisms in the Pacific Ocean at Corona del Mar, where thousands of young converts were baptized in the early 1970s.",
+      "sources": [
+        "eskridge",
+        "harvest"
+      ]
+    },
+    {
+      "text": "Taught through the whole Bible verse by verse, a style his churches made their hallmark.",
+      "sources": [
+        "distinctives",
+        "miller"
+      ]
+    },
+    {
+      "text": "Built Calvary Chapel into a movement of more than 1,000 affiliated churches worldwide, many led by pastors trained under him.",
+      "sources": [
+        "miller",
+        "eskridge"
+      ]
+    },
+    {
+      "text": "Helped launch contemporary Christian music through Maranatha! Music (1971), which recorded the bands and worship songs of the Jesus Movement.",
+      "sources": [
+        "eskridge",
+        "miller"
+      ]
+    },
+    {
+      "text": "Spread his teaching through the radio program The Word for Today and Calvary Chapel Bible College.",
+      "sources": [
+        "distinctives",
+        "miller"
+      ]
+    },
+    {
+      "text": "In End Times (1978), suggested that the Rapture would probably happen by 1981, based on a reading of prophecy linked to the founding of Israel in 1948.",
+      "sources": [
+        "end-times",
+        "eskridge"
+      ]
+    }
+  ],
+  "persecution_note": "Chuck Smith was never arrested, imprisoned, or persecuted. Some members of his congregation objected when the church first welcomed barefoot, long-haired young people in the late 1960s, but that was a dispute within the church, not persecution.",
+  "persecution": [],
+  "excommunication_note": "Chuck Smith was never excommunicated or disciplined by any church. He left the International Church of the Foursquare Gospel in the 1960s to lead an independent congregation, and Calvary Chapel never belonged to a denomination.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "harvest",
+      "type": "primary",
+      "citation": "Chuck Smith and Tal Brooke, Harvest (Old Tappan, NJ: Chosen Books, 1987)."
+    },
+    {
+      "id": "distinctives",
+      "type": "primary",
+      "citation": "Chuck Smith, Calvary Chapel Distinctives (Costa Mesa, CA: The Word for Today, 2000)."
+    },
+    {
+      "id": "end-times",
+      "type": "primary",
+      "citation": "Chuck Smith, End Times (Costa Mesa, CA: The Word for Today, 1978)."
+    },
+    {
+      "id": "eskridge",
+      "type": "scholarly",
+      "citation": "Larry Eskridge, God's Forever Family: The Jesus People Movement in America (New York: Oxford University Press, 2013)."
+    },
+    {
+      "id": "miller",
+      "type": "scholarly",
+      "citation": "Donald E. Miller, Reinventing American Protestantism: Christianity in the New Millennium (Berkeley: University of California Press, 1997)."
+    }
+  ]
+}

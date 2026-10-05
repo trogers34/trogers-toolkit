@@ -1,0 +1,257 @@
+{
+  "name": "John Chrysostom",
+  "slug": "john-chrysostom",
+  "also_known_as": "Saint John Chrysostom (\"golden-mouthed\")",
+  "era": "Early Church",
+  "role": "Preacher at Antioch, Archbishop of Constantinople",
+  "born": {
+    "year": 349,
+    "circa": true,
+    "date": "c. 347–349",
+    "place": "Antioch, Syria (modern Antakya, Turkey)",
+    "sources": [
+      "kelly-gm",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 407,
+    "date": "14 September 407",
+    "place": "Comana in Pontus (Asia Minor), on a forced march into exile",
+    "sources": [
+      "palladius",
+      "kelly-gm"
+    ]
+  },
+  "summary": "The greatest preacher of the early Greek church, whose sermons earned him the name \"golden-mouthed.\" As Archbishop of Constantinople, he was deposed and exiled after clashing with the imperial court and a rival archbishop, and died on a forced march into exile.",
+  "key_dates": [
+    {
+      "year": 386,
+      "label": "Ordained priest at Antioch; begins twelve years as the city's leading preacher",
+      "sources": [
+        "kelly-gm",
+        "britannica"
+      ]
+    },
+    {
+      "year": 387,
+      "label": "Preaches the Homilies on the Statues during the Antioch riot crisis",
+      "sources": [
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 398,
+      "label": "Made Archbishop of Constantinople",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 403,
+      "label": "Deposed by the Synod of the Oak; briefly exiled and recalled",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 404,
+      "label": "Exiled a second time, to Cucusus in Armenia",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Preached hundreds of sermons, verse by verse through books of the Bible, that are among the most widely read Christian writings of antiquity; the name \"Chrysostom\" (\"golden-mouthed\") was given to him after his death.",
+      "sources": [
+        "kelly-gm",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On the Priesthood, a classic treatise on the responsibilities of ministry.",
+      "sources": [
+        "kelly-gm",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Preached against the luxury of the rich and for care of the poor, and as archbishop cut his own household's expenses and funded hospitals.",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "text": "Reformed the clergy of Constantinople, disciplining corrupt clergy and monks.",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "text": "The main eucharistic liturgy of the Eastern Orthodox Church bears his name (the Divine Liturgy of St. John Chrysostom); its core prayer may go back to him, though the full rite developed later.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "Preached a series of eight sermons Against the Jews (Adversus Judaeos, 386–387) at Antioch, aimed at Christians who attended synagogue. Their harsh language was later used to justify hostility toward Jews.",
+      "sources": [
+        "kelly-gm",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Is honored as a saint in all major traditions and as a Doctor of the Church in the Catholic Church.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Chrysostom was deposed twice and exiled twice by the eastern emperor Arcadius, at the urging of Archbishop Theophilus of Alexandria and with the support of Empress Eudoxia, whom he had offended. His supporters in Constantinople were persecuted after his exile. He died in 407 while soldiers were forcing him on a long march to a more remote place of exile. In 438 his body was brought back to Constantinople, and Emperor Theodosius II publicly asked forgiveness for his parents' treatment of him.",
+  "persecution": [
+    {
+      "year": 403,
+      "title": "Deposed at the Synod of the Oak",
+      "summary": "Theophilus, Archbishop of Alexandria, came to Constantinople and held a synod at an estate called the Oak, near Chalcedon, packed with Chrysostom's opponents. It deposed him on a list of charges, and Emperor Arcadius exiled him.",
+      "responsible": [
+        {
+          "name": "Theophilus of Alexandria",
+          "role": "Archbishop of Alexandria; organized the synod",
+          "jurisdiction": "See of Alexandria",
+          "type": "church"
+        },
+        {
+          "name": "Synod of the Oak",
+          "role": "Bishops who deposed him",
+          "jurisdiction": "Synod near Chalcedon",
+          "type": "church"
+        },
+        {
+          "name": "Emperor Arcadius",
+          "role": "Confirmed the deposition and exiled him",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Empress Eudoxia",
+          "role": "Offended by his preaching; supported his removal",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Recalled within days after riots in the city and an event (traditionally an earthquake) that alarmed the empress.",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 404,
+      "date": "June 404 – September 407",
+      "title": "Second exile and death on a forced march",
+      "summary": "After he preached against celebrations at the dedication of a silver statue of the empress near the cathedral, his enemies deposed him again, arguing that he had resumed his see without lawful reinstatement. Arcadius exiled him to Cucusus in Armenia. On the night he left, the cathedral burned, and his supporters (the \"Johannites\") were arrested and punished. In 407 the government ordered him moved to Pityus on the far shore of the Black Sea; he died on the way at Comana.",
+      "responsible": [
+        {
+          "name": "Emperor Arcadius",
+          "role": "Ordered both exiles",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Empress Eudoxia",
+          "role": "Pressed for his removal (she died in October 404)",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Theophilus of Alexandria",
+          "role": "Led the opposition among bishops",
+          "jurisdiction": "See of Alexandria",
+          "type": "church"
+        },
+        {
+          "name": "Atticus and Arsacius",
+          "role": "Bishops installed in his place, under whom his supporters were persecuted",
+          "jurisdiction": "See of Constantinople",
+          "type": "church"
+        },
+        {
+          "name": "Imperial soldiers",
+          "role": "Forced the march in which he died",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Pope Innocent I",
+          "role": "Bishop of Rome; refused to accept his deposition and broke communion with his opponents"
+        },
+        {
+          "name": "Emperor Honorius",
+          "role": "Western emperor; protested to his brother Arcadius"
+        },
+        {
+          "name": "Olympias",
+          "role": "Deaconess of Constantinople; supported him and was punished for it"
+        }
+      ],
+      "outcome": "He died on 14 September 407. His name was restored to the church's lists of honored bishops within about a decade, and his body was brought back to Constantinople in 438.",
+      "sources": [
+        "palladius",
+        "kelly-gm",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Chrysostom was deposed twice by synods of eastern bishops, in 403 and 404. Rome never accepted the sentences. After his death, his name was restored to the official lists (diptychs) of the churches of Constantinople and Alexandria in the 410s, which amounted to reversing the condemnation.",
+  "excommunications": [
+    {
+      "date": "403",
+      "by": "Synod of the Oak, led by Theophilus of Alexandria",
+      "authority": "Synod of eastern bishops",
+      "reason": "Deposed on charges brought by his enemies",
+      "status": "Briefly reversed when he was recalled in 403",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    },
+    {
+      "date": "404",
+      "by": "Synod of eastern bishops at Constantinople",
+      "authority": "Eastern bishops acting with Emperor Arcadius",
+      "reason": "Deposed again for resuming his see without a synod's approval",
+      "status": "Rejected by Pope Innocent I; reversed after his death when his name was restored (c. 417–419)",
+      "sources": [
+        "palladius",
+        "kelly-gm"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "palladius",
+      "type": "primary",
+      "citation": "Palladius, Dialogue on the Life of St. John Chrysostom, trans. Robert T. Meyer, Ancient Christian Writers 45 (New York: Newman Press, 1985). Written by a supporter c. 408."
+    },
+    {
+      "id": "kelly-gm",
+      "type": "scholarly",
+      "citation": "J. N. D. Kelly, Golden Mouth: The Story of John Chrysostom — Ascetic, Preacher, Bishop (London: Duckworth, 1995)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint John Chrysostom,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-John-Chrysostom"
+    }
+  ]
+}

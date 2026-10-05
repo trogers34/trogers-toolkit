@@ -1,0 +1,208 @@
+{
+  "name": "Gregory the Great",
+  "slug": "gregory-the-great",
+  "also_known_as": "Pope Gregory I; Saint Gregory the Great; Gregory the Dialogist (in the Eastern churches)",
+  "era": "Early Church",
+  "role": "Prefect of Rome, monk, bishop of Rome (pope), 590–604",
+  "born": {
+    "year": 540,
+    "circa": true,
+    "date": "c. 540",
+    "place": "Rome",
+    "sources": [
+      "markus",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 604,
+    "date": "12 March 604",
+    "place": "Rome",
+    "sources": [
+      "markus",
+      "britannica"
+    ]
+  },
+  "summary": "Roman aristocrat turned monk who, as pope, kept Rome fed and defended during plague and Lombard invasions, sent the mission that converted the English, and wrote works on pastoral care and spirituality that shaped the medieval church.",
+  "key_dates": [
+    {
+      "year": 573,
+      "circa": true,
+      "label": "Serves as prefect (chief civil official) of Rome",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 574,
+      "circa": true,
+      "label": "Gives away his wealth and turns his family home into a monastery",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 579,
+      "label": "Papal envoy to the imperial court at Constantinople (c. 579–586)",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 590,
+      "label": "Elected pope during an outbreak of plague",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "year": 591,
+      "label": "Completes the Book of Pastoral Rule",
+      "sources": [
+        "pastoral-rule",
+        "markus"
+      ]
+    },
+    {
+      "year": 593,
+      "label": "Negotiates with the Lombard king Agilulf, who is besieging Rome",
+      "sources": [
+        "markus"
+      ]
+    },
+    {
+      "year": 596,
+      "label": "Sends Augustine and about forty monks to convert the English",
+      "sources": [
+        "bede",
+        "markus"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Sent the mission of Augustine (later first Archbishop of Canterbury) to England in 596, which baptized King Æthelberht of Kent and began the conversion of the Anglo-Saxons.",
+      "sources": [
+        "bede",
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote the Book of Pastoral Rule (c. 591), a guide for bishops that became the standard handbook for clergy in the medieval West.",
+      "sources": [
+        "pastoral-rule",
+        "markus"
+      ]
+    },
+    {
+      "text": "Wrote the Moralia on Job, homilies on the Gospels and Ezekiel, and the Dialogues, which include the main early account of Saint Benedict.",
+      "sources": [
+        "markus",
+        "straw"
+      ]
+    },
+    {
+      "text": "Organized grain supplies, relief for refugees and the poor, and the defense of Rome when the imperial government could not, effectively acting as the city's ruler.",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Left over 850 letters, a key source for the history of the period.",
+      "sources": [
+        "markus"
+      ]
+    },
+    {
+      "text": "Promoted monasticism and was the first monk to become pope.",
+      "sources": [
+        "markus",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Is honored as a saint in Catholic, Orthodox, Anglican, and Lutheran churches, and as a Doctor of the Church; with Leo I, he is one of two popes called \"the Great.\"",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "popularized": [
+      {
+        "phrase": "\"Servant of the servants of God\" (servus servorum Dei)",
+        "reference": "His preferred papal title",
+        "note": "The phrase was used before him, but Gregory adopted it as his regular title, and popes have used it ever since.",
+        "sources": [
+          "markus",
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "The seven deadly sins",
+        "reference": "Moralia on Job",
+        "note": "Gregory revised the earlier list of eight evil thoughts from the desert monks Evagrius and Cassian into a list of seven principal vices, the form that medieval Christianity adopted.",
+        "sources": [
+          "straw",
+          "britannica"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "Gregorian chant",
+        "reference": "Named after him, but not his work",
+        "note": "The chant tradition was attributed to him from the 9th century, but it took its familiar form in the Frankish lands of the 8th and 9th centuries, long after his death.",
+        "sources": [
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"Not Angles, but angels\" (Non Angli sed angeli)",
+        "reference": "A story told about him",
+        "note": "Bede reports, as a tradition handed down, that Gregory said this on seeing English slave boys in Rome. It may be legend.",
+        "sources": [
+          "bede"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Gregory was never arrested, exiled, or persecuted. As pope he faced Lombard armies besieging Rome (593) and disputes with the emperor and the Patriarch of Constantinople, but no one acted against him personally.",
+  "persecution": [],
+  "excommunication_note": "Gregory was never excommunicated. He was pope, and he protested, without any formal break, against the Patriarch of Constantinople's use of the title \"ecumenical patriarch.\"",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "pastoral-rule",
+      "type": "primary",
+      "citation": "Gregory the Great, The Book of Pastoral Rule, trans. George E. Demacopoulos, Popular Patristics 34 (Crestwood, NY: St Vladimir's Seminary Press, 2007)."
+    },
+    {
+      "id": "bede",
+      "type": "primary",
+      "citation": "Bede, Ecclesiastical History of the English People, trans. Leo Sherley-Price, rev. ed. (London: Penguin, 1990). Written 731."
+    },
+    {
+      "id": "markus",
+      "type": "scholarly",
+      "citation": "R. A. Markus, Gregory the Great and His World (Cambridge: Cambridge University Press, 1997)."
+    },
+    {
+      "id": "straw",
+      "type": "scholarly",
+      "citation": "Carole Straw, Gregory the Great: Perfection in Imperfection (Berkeley: University of California Press, 1988)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Gregory the Great,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-the-Great"
+    }
+  ]
+}

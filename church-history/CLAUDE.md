@@ -1,15 +1,83 @@
 # Church History site: instructions for Claude
 
+This is the project's memory. Read it fully before changing anything. It holds every rule
+the user has set and the list of everyone on the site.
+
+## What the user wants (summary of their requests)
+
+1. A web page for each person from church history the user names, with bullet points of
+   what they did, each tied to a cited source.
+2. A home page with a timeline of everyone: when they were born and died, and the very
+   important dates of what they accomplished. Every person must appear on every view of the
+   timeline (the "All" lifespan chart, their era's zoom view, the "All key dates" table,
+   and the People cards). This happens automatically from `people/`; a test guards it.
+3. The full history of each person, good, bad, or indifferent, whatever the user's own
+   preferences and whatever tradition is involved. Include what the person did that
+   reflects badly on them (e.g. Bucer's approval of Philip of Hesse's bigamy, Chrysostom's sermons against
+   the Jews, Graham's 1972 Nixon remarks), stated neutrally and sourced.
+4. All arrests, trials, executions, and persecution of each person, naming who was
+   responsible (organizations, jurisdictions, popes, priests, pastors, rulers, anyone).
+5. All excommunications for every person.
+6. Famous words and sayings, categorized as original, popularized, or misattributed (first
+   requested for Tyndale: "write out all the English sayings he came up with or
+   popularized").
+7. An AI-generated notice at the top of every page.
+8. Publish every addition: commit, merge, and build each time, without asking.
+9. When the user gives a list, skip anyone already on the site ("some duplicates so ignore").
+
+## Adding a person
+
 When the user names a person from church history, add them to the site:
 
 1. Create `people/<slug>.json` (lowercase, hyphenated name). Match the structure of the
    existing files; the field reference is in `README.md`.
-2. Run `python3 build.py`, then `python3 -m unittest discover tests`. Both must pass.
-3. Commit the JSON file and the regenerated `site/` together.
-4. Publish without asking first (the user's standing instruction): push the branch, open a
+2. Add them to the "People on the site" list below (a test fails if you forget).
+3. Run `python3 build.py`, then `python3 -m unittest discover tests`. Both must pass.
+4. Commit the JSON file, the regenerated `site/`, and this file together.
+5. Publish without asking first (the user's standing instruction): push the branch, open a
    pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
    "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
    If a check fails, fix it before merging. Report the live page URL when done.
+6. If a name is ambiguous, pick the most likely church-history figure, say which one you
+   chose, and offer to swap (e.g. "Nicolas" was taken as Nicholas of Myra; "Knox" as John
+   Knox).
+
+Live site: https://trogers34.github.io/trogers-toolkit/
+
+## People on the site
+
+Keep this list in sync with `people/` (the tests check it). Grouped by era, oldest first.
+
+**Early Church**
+- Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
+- Athanasius of Alexandria (`athanasius-of-alexandria`)
+- John Chrysostom (`john-chrysostom`)
+- Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
+- Leo the Great (`leo-the-great`)
+- Gregory the Great (`gregory-the-great`)
+
+**Medieval**
+- Thomas Aquinas (`thomas-aquinas`)
+- William of Ockham (`william-of-ockham`)
+- John Wycliffe (`john-wycliffe`)
+- Jan Hus (`jan-hus`)
+- John Oldcastle (`john-oldcastle`)
+
+**Reformation**
+- Desiderius Erasmus (`desiderius-erasmus`)
+- Martin Luther (`martin-luther`): starter example
+- Thomas Cranmer (`thomas-cranmer`)
+- Martin Bucer (`martin-bucer`)
+- William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
+- John Knox (`john-knox`)
+- Martin Chemnitz (`martin-chemnitz`)
+
+**Modern**
+- John Wesley (`john-wesley`): starter example
+- C. S. Lewis (`c-s-lewis`)
+- Billy Graham (`billy-graham`)
+- Chuck Smith (`chuck-smith`)
+- R. C. Sproul (`r-c-sproul`)
 
 ## AI disclosure
 
@@ -27,7 +95,10 @@ the user says a person has reviewed or edited that page. Never remove the notice
   page numbers, or URLs. If you can't verify a URL, leave `url` out.
 - Where scholars disagree on a date, use `circa: true` and/or note the range in the label
   (e.g. "c. 397–400"). Where calendars differ, say so (e.g. Old Style / New Style).
+- Where the record is mostly tradition or legend (e.g. Nicholas of Myra), say so on the
+  page and label each traditional claim as tradition.
 - Write neutrally and descriptively. Don't judge which tradition was right.
+- If you couldn't check sources online, tell the user which claims are least certain.
 
 ## Persecution, arrests, and executions (required for every person)
 
@@ -36,36 +107,53 @@ record, whoever was responsible and whatever tradition they belonged to.
 
 - Cover every recorded arrest, trial, imprisonment, excommunication, ban, exile, attack,
   and execution suffered by the person. Also cover persecution of their close associates
-  or followers when it was aimed at the person's work (e.g. burning of their readers).
+  or followers when it was aimed at the person's work (e.g. burning of their readers),
+  and posthumous actions (exhumation, burning of remains, bans on their books).
 - For each incident, name everyone responsible: popes, bishops, priests, pastors,
   theologians, kings, emperors, magistrates, councils, mobs, informers. Give each one's
   role and the jurisdiction or institution they acted under, and type them as `church`,
   `state`, `individual`, or `group`.
 - Record protectors in `defended_by` when they shaped the outcome.
-- Every person also needs `excommunications` and `excommunication_note`. List every
-  excommunication, anathema, or condemnation as a heretic, including posthumous ones:
-  who issued it, under what authority, why, and whether it was ever lifted or reversed
-  (note later apologies or expressions of regret, and say whether they formally revoked
-  anything). If the person was never excommunicated, say so explicitly in
-  `excommunication_note`, so readers know it was checked.
 - Say plainly where responsibility is unknown or only suspected, and who suspects it.
   If a party had no recorded role (e.g. no direct papal involvement), say so in the summary.
 - If the person was never arrested or persecuted, say so in `persecution_note` and leave
-  the list empty, or include only incidents that genuinely threatened them.
+  the list empty, or include only incidents that genuinely threatened them. Mention
+  opposition that fell short of persecution (e.g. denunciations) in the note.
 - Stay neutral: describe who did what under which authority, without editorializing.
 
-## Words and sayings (optional)
+## Excommunications (required for every person)
+
+Every person needs `excommunications` and `excommunication_note`. These are shown as a
+table at the top of the persecution section.
+
+- List every excommunication, anathema, deposition by a synod, or condemnation as a
+  heretic, including posthumous ones and bans placing all their works on the Index.
+- Give the date, who issued it, under what authority, why, and its status: whether it was
+  ever lifted or reversed, and by whom. Note later apologies or expressions of regret and
+  say whether they formally revoked anything.
+- If the person was never excommunicated, say so explicitly in `excommunication_note`,
+  so readers know it was checked.
+
+## Words and sayings
 
 When a person is known for famous words or phrases, add a `sayings` section. Use
 `original` (first recorded in their writing), `popularized` (in use before them, made
 famous by them), and `misattributed` (commonly credited to them but not in their
-writings, such as legends or later paraphrases). Say where each one is found.
+writings, such as legends, later paraphrases, or works named after them). Say where each
+one is found. Be explicit that a list is a selection when it can't be complete.
 
 ## Content guidelines
 
 - 6–10 accomplishments, each one or two sentences, most significant first.
 - 5–10 key dates: turning points and major works, not every event. They must fall within
-  the lifespan (the build enforces this).
+  the lifespan (the build enforces this). Posthumous events go in the persecution or
+  excommunication sections instead.
 - `era` is one of `Early Church` (to c. 600), `Medieval` (c. 600–1500), `Reformation`
   (c. 1500–1650), `Modern` (after c. 1650). Reuse existing era names exactly, since each
   distinct era becomes a zoom button on the timeline.
+
+## Open questions for the user
+
+- Whether to add a separate section on persecution these people supported or carried out
+  against others (e.g. Augustine and the Donatists, Luther and the Anabaptists and Jews).
+  Offered; no answer yet.

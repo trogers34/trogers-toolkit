@@ -1,0 +1,277 @@
+{
+  "name": "John Oldcastle",
+  "slug": "john-oldcastle",
+  "also_known_as": "Sir John Oldcastle; Lord Cobham",
+  "era": "Medieval",
+  "role": "English knight, soldier, member of Parliament, and Lollard leader",
+  "born": {
+    "year": 1378,
+    "circa": true,
+    "date": "c. 1378 (exact date unknown)",
+    "place": "Almeley, Herefordshire, England",
+    "sources": [
+      "mcfarlane-lk",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1417,
+    "date": "14 December 1417",
+    "place": "St Giles's Fields, London; hanged and burned as a traitor and heretic",
+    "sources": [
+      "walsingham",
+      "foxe"
+    ]
+  },
+  "summary": "English knight and friend of Henry V who protected Wycliffe's Lollard followers. He was condemned as a heretic, escaped from the Tower of London, led a failed Lollard uprising, and after four years as a fugitive was hanged and burned.",
+  "key_dates": [
+    {
+      "year": 1401,
+      "circa": true,
+      "label": "Serves Henry IV in the wars against Owain Glyndŵr in Wales, alongside Prince Henry",
+      "sources": [
+        "mcfarlane-lk",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1404,
+      "label": "Sits in Parliament as a knight of the shire for Herefordshire",
+      "sources": [
+        "mcfarlane-lk"
+      ]
+    },
+    {
+      "year": 1408,
+      "label": "Marries Joan, heiress of the Cobham barony",
+      "sources": [
+        "mcfarlane-lk",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1409,
+      "label": "Summoned to Parliament as Lord Cobham",
+      "sources": [
+        "mcfarlane-lk",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1413,
+      "label": "Tried and condemned for heresy; escapes from the Tower",
+      "sources": [
+        "fasciculi",
+        "walsingham"
+      ]
+    },
+    {
+      "year": 1414,
+      "label": "The Lollard rising at St Giles's Fields fails; he goes into hiding",
+      "sources": [
+        "walsingham",
+        "mcfarlane-lk"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Fought for Henry IV in Wales and became a companion of Prince Henry, the future Henry V.",
+      "sources": [
+        "mcfarlane-lk",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Rose through marriage to become Lord Cobham and a member of the House of Lords.",
+      "sources": [
+        "mcfarlane-lk",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Became the most prominent lay supporter of the Lollards, the followers of John Wycliffe, protecting unlicensed preachers on his estates and spreading their books.",
+      "sources": [
+        "hudson",
+        "mcfarlane-lk"
+      ]
+    },
+    {
+      "text": "At his heresy trial in 1413, rejected transubstantiation, the need to confess to a priest, the veneration of images, and pilgrimages, and called the pope Antichrist.",
+      "sources": [
+        "fasciculi",
+        "foxe"
+      ]
+    },
+    {
+      "text": "Was regarded as a martyr by later Protestant writers, especially John Foxe.",
+      "sources": [
+        "foxe",
+        "hudson"
+      ]
+    },
+    {
+      "text": "Was the original model for Shakespeare's Falstaff, who was first named Oldcastle in Henry IV, Part 1. The name was changed after objections from Oldcastle's descendants, and the epilogue to Part 2 declares that \"Oldcastle died a martyr, and this is not the man.\"",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Oldcastle was condemned as a heretic by the Archbishop of Canterbury, escaped from the Tower of London, and was outlawed after the failed Lollard rising of 1414. Captured in Wales in 1417, he was condemned by Parliament as a traitor and was hanged and burned. Historians debate how far the 1414 rising was a real plot and how far the government exaggerated it.",
+  "persecution": [
+    {
+      "year": 1410,
+      "title": "Interdict on churches on his estates",
+      "summary": "Because an unlicensed Lollard chaplain had been preaching on Oldcastle's estates in Kent, Archbishop Arundel placed several local churches, including Cooling, Hoo, and Halstow, under interdict, halting services there.",
+      "responsible": [
+        {
+          "name": "Thomas Arundel",
+          "role": "Archbishop of Canterbury",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        }
+      ],
+      "outcome": "The interdict was lifted after a short time.",
+      "sources": [
+        "hudson",
+        "mcfarlane-lk"
+      ]
+    },
+    {
+      "year": 1413,
+      "date": "August–October 1413",
+      "title": "Heresy trial before Archbishop Arundel; escape from the Tower",
+      "summary": "Lollard books belonging to Oldcastle were found at a London illuminator's shop. Henry V tried privately to persuade his old friend to submit, then allowed the church to proceed. Oldcastle was arrested, held in the Tower, and examined in September 1413 at St Paul's and at the Blackfriars by Archbishop Arundel with other bishops. He refused to accept the church's teaching on the sacraments and the pope, and was condemned as a heretic. The king granted forty days' delay, and in October Oldcastle escaped from the Tower with outside help.",
+      "responsible": [
+        {
+          "name": "Thomas Arundel",
+          "role": "Archbishop of Canterbury; presided and pronounced sentence",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "Bishops sitting with Arundel",
+          "role": "Joined in the examination (including the Bishops of London and Winchester)",
+          "jurisdiction": "English Church",
+          "type": "church"
+        },
+        {
+          "name": "Henry V",
+          "role": "King of England; allowed the prosecution and held him in the Tower",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Condemned as a heretic, but escaped before sentence could be carried out.",
+      "sources": [
+        "fasciculi",
+        "walsingham",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1414,
+      "date": "9–10 January 1414",
+      "title": "The Lollard rising crushed at St Giles's Fields",
+      "summary": "Lollards planned to gather at St Giles's Fields outside London, reportedly to seize the king. Henry V, warned in advance, occupied the field and broke up the gathering. Dozens of Lollards were hanged, and some burned, in the following days. Oldcastle was outlawed and attainted for treason.",
+      "responsible": [
+        {
+          "name": "Henry V",
+          "role": "King of England; crushed the rising and ordered the executions",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Oldcastle escaped and hid, mostly in the Welsh border country, for nearly four years.",
+      "sources": [
+        "walsingham",
+        "mcfarlane-lk",
+        "hudson"
+      ]
+    },
+    {
+      "year": 1417,
+      "date": "November–14 December 1417",
+      "title": "Capture in Wales and execution",
+      "summary": "Oldcastle was captured, after a fight in which he was injured, by men of Edward Charlton, Lord of Powys, in mid-Wales and brought to London. With Henry V in France, Parliament, under the king's brother John, Duke of Bedford, condemned him on his earlier outlawry for treason. He was taken to St Giles's Fields the same day, hanged in chains, and burned.",
+      "responsible": [
+        {
+          "name": "Edward Charlton, Lord of Powys",
+          "role": "His men captured him; he was rewarded for it",
+          "jurisdiction": "Lordship of Powys, Welsh Marches",
+          "type": "state"
+        },
+        {
+          "name": "John, Duke of Bedford",
+          "role": "Guardian of England in the king's absence; presided over the proceedings",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Parliament of England",
+          "role": "Condemned him",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Henry V",
+          "role": "King of England, in whose name he was executed",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Executed on 14 December 1417.",
+      "sources": [
+        "walsingham",
+        "foxe",
+        "mcfarlane-lk"
+      ]
+    }
+  ],
+  "excommunication_note": "Oldcastle was condemned as a heretic and excommunicated by Archbishop Thomas Arundel in September 1413. The sentence was never lifted. Later Protestants, led by John Foxe, honored him as a martyr.",
+  "excommunications": [
+    {
+      "date": "25 September 1413",
+      "by": "Thomas Arundel, Archbishop of Canterbury",
+      "authority": "Province of Canterbury, with other bishops",
+      "reason": "Condemned as a heretic for rejecting transubstantiation, confession, and papal authority",
+      "status": "Never lifted; executed in 1417",
+      "sources": [
+        "fasciculi",
+        "foxe"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "fasciculi",
+      "type": "primary",
+      "citation": "Fasciculi Zizaniorum Magistri Johannis Wyclif cum Tritico, ed. W. W. Shirley, Rolls Series 5 (London: Longman, 1858). Includes the record of the proceedings against Oldcastle."
+    },
+    {
+      "id": "walsingham",
+      "type": "primary",
+      "citation": "Thomas Walsingham, The St Albans Chronicle, vol. 2: 1394–1422, ed. and trans. John Taylor, Wendy R. Childs, and Leslie Watkiss (Oxford: Clarendon Press, 2011). A hostile contemporary chronicle."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Account of Sir John Oldcastle, Lord Cobham."
+    },
+    {
+      "id": "mcfarlane-lk",
+      "type": "scholarly",
+      "citation": "K. B. McFarlane, Lancastrian Kings and Lollard Knights (Oxford: Clarendon Press, 1972)."
+    },
+    {
+      "id": "hudson",
+      "type": "scholarly",
+      "citation": "Anne Hudson, The Premature Reformation: Wycliffite Texts and Lollard History (Oxford: Clarendon Press, 1988)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Sir John Oldcastle,\" Encyclopaedia Britannica."
+    }
+  ]
+}

@@ -114,6 +114,14 @@ class BuildTest(unittest.TestCase):
             self.assertEqual(page.read_text(encoding="utf-8"), build.render_person(person),
                              f"{page.name} is stale: run python3 build.py")
 
+    def test_claude_md_lists_every_person(self):
+        # CLAUDE.md is the project's memory; its roster must match people/.
+        import re
+        listed = set(re.findall(r"\(`([a-z0-9-]+)`\)", (build.ROOT / "CLAUDE.md").read_text(encoding="utf-8")))
+        on_site = {p.stem for p in build.PEOPLE_DIR.glob("*.json")}
+        self.assertEqual(on_site - listed, set(), "add these people to CLAUDE.md")
+        self.assertEqual(listed - on_site, set(), "CLAUDE.md lists people with no data file")
+
     def test_build_writes_pages(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)

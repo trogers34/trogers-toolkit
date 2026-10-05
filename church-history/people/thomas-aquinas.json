@@ -1,0 +1,292 @@
+{
+  "name": "Thomas Aquinas",
+  "slug": "thomas-aquinas",
+  "also_known_as": "Saint Thomas Aquinas; the \"Angelic Doctor\"",
+  "era": "Medieval",
+  "role": "Dominican friar, theologian, and philosopher",
+  "born": {
+    "year": 1225,
+    "circa": true,
+    "date": "c. 1225",
+    "place": "Roccasecca, Kingdom of Sicily (central Italy)",
+    "sources": [
+      "torrell",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1274,
+    "date": "7 March 1274",
+    "place": "Fossanova Abbey, Italy, on his way to the Second Council of Lyon",
+    "sources": [
+      "torrell",
+      "britannica"
+    ]
+  },
+  "summary": "Dominican friar who joined Aristotle's philosophy to Christian theology in a systematic body of work, above all the Summa Theologiae, and became the most influential theologian of the Catholic Church.",
+  "key_dates": [
+    {
+      "year": 1244,
+      "label": "Joins the Dominican order; his family seizes him and holds him for about a year",
+      "sources": [
+        "foster",
+        "torrell"
+      ]
+    },
+    {
+      "year": 1245,
+      "label": "Begins studying under Albert the Great in Paris and Cologne",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1256,
+      "label": "Becomes a master of theology at the University of Paris",
+      "sources": [
+        "torrell",
+        "weisheipl"
+      ]
+    },
+    {
+      "year": 1259,
+      "circa": true,
+      "label": "Begins the Summa contra Gentiles (completed c. 1265)",
+      "sources": [
+        "torrell"
+      ]
+    },
+    {
+      "year": 1264,
+      "circa": true,
+      "label": "Composes the liturgy for the new feast of Corpus Christi",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1265,
+      "circa": true,
+      "label": "Begins the Summa Theologiae",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1273,
+      "label": "Stops writing after an experience at Mass on 6 December, leaving the Summa unfinished",
+      "sources": [
+        "foster",
+        "torrell"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Summa Theologiae (c. 1265–1273), a vast, systematic account of Christian theology that became the standard textbook of Catholic theology.",
+      "sources": [
+        "summa",
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote the Summa contra Gentiles (c. 1259–1265), setting out the reasons for Christian belief for readers who did not accept the Bible's authority.",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Combined the newly recovered philosophy of Aristotle with Christian theology, arguing that faith and reason cannot truly contradict each other.",
+      "sources": [
+        "sep",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Set out the \"Five Ways,\" five arguments for the existence of God from motion, causation, contingency, degrees of perfection, and purpose in nature.",
+      "sources": [
+        "summa",
+        "sep"
+      ]
+    },
+    {
+      "text": "Wrote extensive commentaries on Scripture and on Aristotle, along with hundreds of disputed questions.",
+      "sources": [
+        "torrell",
+        "weisheipl"
+      ]
+    },
+    {
+      "text": "Composed hymns for the feast of Corpus Christi that are still sung, including Pange lingua (whose last verses are the Tantum ergo) and Panis angelicus.",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Was canonized in 1323, declared a Doctor of the Church in 1567, and named by Pope Leo XIII (1879) as the model for Catholic philosophy and theology.",
+      "sources": [
+        "torrell",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"Grace does not destroy nature but perfects it\" (gratia non tollit naturam, sed perficit)",
+        "reference": "Summa Theologiae, Part I, question 1, article 8",
+        "sources": [
+          "summa",
+          "sep"
+        ]
+      },
+      {
+        "phrase": "\"All that I have written seems to me like straw\"",
+        "reference": "Reported by his companion Reginald of Piperno after the experience of December 1273",
+        "note": "Not written by Thomas; it is his reported words, recorded in testimony for his canonization.",
+        "sources": [
+          "foster",
+          "torrell"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Aquinas was never arrested or tried. As a young man, his own family held him captive for about a year to stop him becoming a Dominican friar. As a friar teaching in Paris, he was caught up in the hostility of the university's secular masters toward the mendicant orders. After his death, some of his teachings were among those condemned at Paris and Oxford in 1277, until Paris withdrew the condemnation as it touched him in 1325.",
+  "persecution": [
+    {
+      "year": 1244,
+      "date": "1244–1245",
+      "title": "Held captive by his own family",
+      "summary": "Thomas's noble family wanted him to become a Benedictine and, eventually, the powerful abbot of Monte Cassino. When he joined the new, begging Dominican order, his mother had his brothers seize him on the road and hold him at the family's castles. According to his early biographer, his brothers even sent a woman to tempt him, and he drove her out with a burning stick from the fire.",
+      "responsible": [
+        {
+          "name": "Theodora",
+          "role": "His mother; ordered his capture",
+          "jurisdiction": "Aquino family",
+          "type": "individual"
+        },
+        {
+          "name": "His brothers, including Rinaldo",
+          "role": "Seized and held him",
+          "jurisdiction": "Aquino family",
+          "type": "individual"
+        }
+      ],
+      "outcome": "After about a year the family gave up and released him, and he returned to the Dominicans.",
+      "sources": [
+        "foster",
+        "torrell"
+      ]
+    },
+    {
+      "year": 1256,
+      "date": "1255–1257",
+      "title": "Opposed as a friar by the Paris secular masters",
+      "summary": "During a bitter dispute over the place of the mendicant friars in the University of Paris, the secular masters, led by William of Saint-Amour, refused to admit Thomas to their guild as a master, and friars in Paris faced hostility from parts of the university and the city.",
+      "responsible": [
+        {
+          "name": "William of Saint-Amour",
+          "role": "Secular master who led the campaign against the friars",
+          "jurisdiction": "University of Paris",
+          "type": "church"
+        },
+        {
+          "name": "Secular masters of the University of Paris",
+          "role": "Refused to accept the friars as masters",
+          "jurisdiction": "University of Paris",
+          "type": "group"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Pope Alexander IV",
+          "role": "Ordered the university to accept Thomas and the Franciscan Bonaventure as masters"
+        }
+      ],
+      "outcome": "He was admitted as a master in 1257 after papal intervention.",
+      "sources": [
+        "torrell",
+        "weisheipl"
+      ]
+    },
+    {
+      "year": 1277,
+      "date": "1277 (three years after his death)",
+      "title": "Some of his teachings condemned at Paris and Oxford",
+      "summary": "In March 1277 Étienne Tempier, Bishop of Paris, condemned 219 propositions taught in the arts faculty, some of which matched positions held by Thomas. Days later Robert Kilwardby, Archbishop of Canterbury and himself a Dominican, condemned propositions at Oxford that included Thomas's teaching that a human being has only one substantial form. His Franciscan successor John Pecham renewed the Oxford condemnation in 1284.",
+      "responsible": [
+        {
+          "name": "Étienne Tempier",
+          "role": "Bishop of Paris; issued the Paris condemnation",
+          "jurisdiction": "Diocese of Paris",
+          "type": "church"
+        },
+        {
+          "name": "Robert Kilwardby",
+          "role": "Archbishop of Canterbury; issued the Oxford condemnation",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "John Pecham",
+          "role": "Archbishop of Canterbury; renewed the condemnation",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "The Dominican order",
+          "role": "Defended his teaching and made it the order's official doctrine"
+        }
+      ],
+      "outcome": "Thomas was canonized in 1323, and in 1325 the Bishop of Paris, Étienne Bourret, revoked the 1277 condemnation insofar as it touched Thomas's teaching.",
+      "sources": [
+        "torrell",
+        "sep"
+      ]
+    }
+  ],
+  "excommunication_note": "Aquinas was never excommunicated. Some of his teachings were caught up in the 1277 condemnations of propositions at Paris and Oxford, after his death. Those condemnations targeted propositions, not him by name, and Paris revoked its condemnation as it applied to him in 1325.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "summa",
+      "type": "primary",
+      "citation": "Thomas Aquinas, Summa Theologica, trans. Fathers of the English Dominican Province, 2nd rev. ed. (London: Burns Oates & Washbourne, 1920–1925)."
+    },
+    {
+      "id": "foster",
+      "type": "primary",
+      "citation": "Kenelm Foster, ed. and trans., The Life of Saint Thomas Aquinas: Biographical Documents (London: Longmans, Green, 1959). Includes the early lives and canonization testimony."
+    },
+    {
+      "id": "torrell",
+      "type": "scholarly",
+      "citation": "Jean-Pierre Torrell, Saint Thomas Aquinas, vol. 1: The Person and His Work, trans. Robert Royal, rev. ed. (Washington, DC: Catholic University of America Press, 2005)."
+    },
+    {
+      "id": "weisheipl",
+      "type": "scholarly",
+      "citation": "James A. Weisheipl, Friar Thomas d'Aquino: His Life, Thought, and Works (Garden City, NY: Doubleday, 1974)."
+    },
+    {
+      "id": "sep",
+      "type": "reference",
+      "citation": "\"Thomas Aquinas,\" Stanford Encyclopedia of Philosophy.",
+      "url": "https://plato.stanford.edu/entries/aquinas/"
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Thomas Aquinas,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Thomas-Aquinas"
+    }
+  ]
+}

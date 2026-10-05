@@ -1,0 +1,162 @@
+{
+  "name": "R. C. Sproul",
+  "slug": "r-c-sproul",
+  "also_known_as": "Robert Charles Sproul",
+  "era": "Modern",
+  "role": "Presbyterian theologian, teacher, and founder of Ligonier Ministries",
+  "born": {
+    "year": 1939,
+    "date": "13 February 1939",
+    "place": "Pittsburgh, Pennsylvania, United States",
+    "sources": [
+      "nichols"
+    ]
+  },
+  "died": {
+    "year": 2017,
+    "date": "14 December 2017, aged 78",
+    "place": "Altamonte Springs, Florida, United States",
+    "sources": [
+      "nichols"
+    ]
+  },
+  "summary": "American Reformed theologian who made classic Calvinist theology accessible to lay audiences through teaching, books, radio, and Ligonier Ministries, and who became a leading defender of biblical inerrancy and justification by faith alone.",
+  "key_dates": [
+    {
+      "year": 1964,
+      "label": "Graduates from Pittsburgh Theological Seminary; goes on to study at the Free University of Amsterdam",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "year": 1971,
+      "label": "Founds the Ligonier Valley Study Center in western Pennsylvania",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "year": 1977,
+      "label": "Launches Tabletalk magazine",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "year": 1978,
+      "label": "Helps produce the Chicago Statement on Biblical Inerrancy",
+      "sources": [
+        "chicago",
+        "nichols"
+      ]
+    },
+    {
+      "year": 1984,
+      "label": "Moves Ligonier Ministries to the Orlando, Florida, area",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "year": 1985,
+      "label": "Publishes The Holiness of God",
+      "sources": [
+        "holiness",
+        "nichols"
+      ]
+    },
+    {
+      "year": 1997,
+      "label": "Founds Saint Andrew's Chapel in Sanford, Florida",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "Opens Reformation Bible College",
+      "sources": [
+        "nichols"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Founded Ligonier Ministries (1971), which spread Reformed theology to a wide lay audience through teaching series, conferences, Tabletalk magazine, and the radio program Renewing Your Mind.",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "text": "Wrote more than 100 books, including The Holiness of God (1985), his best-known work, and Chosen by God (1986), a defense of the Reformed doctrine of predestination.",
+      "sources": [
+        "holiness",
+        "chosen",
+        "nichols"
+      ]
+    },
+    {
+      "text": "Was a leader of the International Council on Biblical Inerrancy and helped produce the Chicago Statement on Biblical Inerrancy (1978).",
+      "sources": [
+        "chicago",
+        "nichols"
+      ]
+    },
+    {
+      "text": "Defended justification by faith alone against the 1994 Evangelicals and Catholics Together statement, in books such as Faith Alone (1995).",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "text": "Served as general editor of the New Geneva Study Bible (1995), later the Reformation Study Bible.",
+      "sources": [
+        "nichols"
+      ]
+    },
+    {
+      "text": "Taught philosophy and theology at colleges and seminaries, and later founded Saint Andrew's Chapel (1997) and Reformation Bible College (2011) in Florida.",
+      "sources": [
+        "nichols"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"Right now counts forever\"",
+        "reference": "His long-running motto, used as the title of his Tabletalk column",
+        "sources": [
+          "nichols"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "R. C. Sproul was never arrested, imprisoned, or persecuted.",
+  "persecution": [],
+  "excommunication_note": "R. C. Sproul was never excommunicated or disciplined by any church. He was ordained in the mainline United Presbyterian Church and later served as a teaching elder in the Presbyterian Church in America.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holiness",
+      "type": "primary",
+      "citation": "R. C. Sproul, The Holiness of God (Wheaton, IL: Tyndale House, 1985)."
+    },
+    {
+      "id": "chosen",
+      "type": "primary",
+      "citation": "R. C. Sproul, Chosen by God (Wheaton, IL: Tyndale House, 1986)."
+    },
+    {
+      "id": "chicago",
+      "type": "primary",
+      "citation": "International Council on Biblical Inerrancy, The Chicago Statement on Biblical Inerrancy (1978)."
+    },
+    {
+      "id": "nichols",
+      "type": "scholarly",
+      "citation": "Stephen J. Nichols, R. C. Sproul: A Life (Wheaton, IL: Crossway, 2021)."
+    }
+  ]
+}

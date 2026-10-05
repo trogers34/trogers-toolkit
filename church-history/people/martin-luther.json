@@ -1,0 +1,46 @@
+{
+  "name": "Martin Luther",
+  "slug": "martin-luther",
+  "era": "Reformation",
+  "role": "Augustinian friar, professor of theology, reformer",
+  "born": {
+    "year": 1483,
+    "date": "10 November 1483",
+    "place": "Eisleben, County of Mansfeld, Holy Roman Empire",
+    "sources": ["bainton", "britannica"]
+  },
+  "died": {
+    "year": 1546,
+    "date": "18 February 1546",
+    "place": "Eisleben",
+    "sources": ["bainton", "britannica"]
+  },
+  "summary": "German friar and professor whose challenge to the sale of indulgences in 1517 sparked the Protestant Reformation and whose German Bible shaped both the church and the German language.",
+  "key_dates": [
+    {"year": 1505, "label": "Caught in a thunderstorm, vows to become a monk; enters the Augustinian friary at Erfurt", "sources": ["bainton", "oberman"]},
+    {"year": 1512, "label": "Receives doctorate in theology; becomes professor at Wittenberg", "sources": ["bainton", "britannica"]},
+    {"year": 1517, "label": "Writes the Ninety-five Theses against indulgences (31 October)", "sources": ["luthers-works", "bainton"]},
+    {"year": 1519, "label": "Leipzig Debate with Johann Eck", "sources": ["bainton"]},
+    {"year": 1520, "label": "Publishes three major reform treatises; burns the papal bull", "sources": ["luthers-works", "bainton"]},
+    {"year": 1521, "label": "Excommunicated; refuses to recant at the Diet of Worms", "sources": ["bainton", "britannica"]},
+    {"year": 1522, "label": "Publishes his German New Testament (\"September Testament\")", "sources": ["bainton", "britannica"]},
+    {"year": 1525, "label": "Marries Katharina von Bora", "sources": ["bainton", "oberman"]},
+    {"year": 1534, "label": "Complete German Bible published", "sources": ["bainton", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the Ninety-five Theses (1517) disputing the sale of indulgences, which spread rapidly by printing and started the Reformation.", "sources": ["luthers-works", "bainton"]},
+    {"text": "Taught that sinners are justified before God by grace through faith alone, not by works or purchased merit.", "sources": ["oberman", "britannica"]},
+    {"text": "In 1520 published To the Christian Nobility of the German Nation, The Babylonian Captivity of the Church, and The Freedom of a Christian.", "sources": ["luthers-works", "bainton"]},
+    {"text": "Refused to recant his writings before Emperor Charles V at the Diet of Worms (April 1521) unless convinced by Scripture and plain reason.", "sources": ["bainton", "britannica"]},
+    {"text": "Translated the New Testament into German while hidden at the Wartburg castle (published 1522), and with colleagues completed the whole Bible by 1534.", "sources": ["bainton", "britannica"]},
+    {"text": "Married the former nun Katharina von Bora (1525), modeling a married Protestant clergy.", "sources": ["bainton", "oberman"]},
+    {"text": "Wrote The Bondage of the Will (1525) in reply to Erasmus on free will and grace.", "sources": ["luthers-works", "oberman"]},
+    {"text": "Wrote the Small and Large Catechisms (1529) for teaching families and pastors, and many hymns including \"A Mighty Fortress Is Our God.\"", "sources": ["luthers-works", "britannica"]}
+  ],
+  "sources": [
+    {"id": "luthers-works", "type": "primary", "citation": "Luther's Works, American Edition, ed. Jaroslav Pelikan and Helmut T. Lehmann, 55 vols. (St. Louis: Concordia; Philadelphia: Fortress, 1955–1986)."},
+    {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Here I Stand: A Life of Martin Luther (New York: Abingdon-Cokesbury, 1950)."},
+    {"id": "oberman", "type": "scholarly", "citation": "Heiko A. Oberman, Luther: Man between God and the Devil, trans. Eileen Walliser-Schwarzbart (New Haven: Yale University Press, 1989)."},
+    {"id": "britannica", "type": "reference", "citation": "\"Martin Luther,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/Martin-Luther"}
+  ]
+}

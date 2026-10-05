@@ -1,0 +1,55 @@
+# Tests and builds the Church History site (church-history/), then publishes it
+# to GitHub Pages on every push to master. Pull requests run the tests only.
+name: Church History site
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "church-history/**"
+      - ".github/workflows/church-history-pages.yml"
+  pull_request:
+    paths:
+      - "church-history/**"
+      - ".github/workflows/church-history-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: church-history-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: church-history
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run tests
+        run: python -m unittest discover tests -v
+      - name: Build site
+        run: python build.py
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: church-history/site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,43 @@
+{
+  "name": "John Wesley",
+  "slug": "john-wesley",
+  "era": "Modern",
+  "role": "Anglican priest, evangelist, founder of Methodism",
+  "born": {
+    "year": 1703,
+    "date": "17 June 1703 (Old Style; 28 June New Style)",
+    "place": "Epworth, Lincolnshire, England",
+    "sources": ["rack", "britannica"]
+  },
+  "died": {
+    "year": 1791,
+    "date": "2 March 1791",
+    "place": "London, England",
+    "sources": ["rack", "britannica"]
+  },
+  "summary": "Anglican priest whose itinerant preaching and network of societies launched the Methodist movement in Britain and America.",
+  "key_dates": [
+    {"year": 1728, "label": "Ordained priest in the Church of England", "sources": ["rack", "britannica"]},
+    {"year": 1729, "label": "Leads the \"Holy Club\" at Oxford", "sources": ["rack", "britannica"]},
+    {"year": 1735, "label": "Sails as a missionary to Georgia (returns 1737–38)", "sources": ["journal", "rack"]},
+    {"year": 1738, "label": "Aldersgate Street experience: \"I felt my heart strangely warmed\" (24 May)", "sources": ["journal", "rack"]},
+    {"year": 1739, "label": "Begins open-air field preaching at Bristol", "sources": ["journal", "rack"]},
+    {"year": 1744, "label": "Holds the first Methodist Conference", "sources": ["rack", "britannica"]},
+    {"year": 1784, "label": "Ordains preachers for America and signs the Deed of Declaration", "sources": ["rack", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "With his brother Charles led a small Oxford group, mocked as the \"Holy Club\" and \"Methodists,\" devoted to prayer, study, and visiting prisoners.", "sources": ["rack", "britannica"]},
+    {"text": "Recorded in his Journal his experience at a meeting in Aldersgate Street on 24 May 1738, where he felt assured of salvation by faith in Christ.", "sources": ["journal", "rack"]},
+    {"text": "Took up open-air preaching in 1739 at George Whitefield's urging and traveled an estimated 250,000 miles on horseback over five decades.", "sources": ["journal", "britannica"]},
+    {"text": "Organized converts into societies, classes, and bands, with lay preachers and an annual Conference beginning in 1744.", "sources": ["rack", "britannica"]},
+    {"text": "Taught Christian perfection: that believers can be made perfect in love in this life.", "sources": ["rack"]},
+    {"text": "Published sermons, tracts, and a Christian Library for ordinary readers, and with Charles produced hymnbooks for the movement.", "sources": ["rack", "britannica"]},
+    {"text": "Ordained Thomas Coke as superintendent for American Methodists in 1784, opening the way for the Methodist Episcopal Church.", "sources": ["rack", "britannica"]},
+    {"text": "Spoke against the slave trade; his Thoughts upon Slavery (1774) and his final known letter (1791, to William Wilberforce) urged its abolition.", "sources": ["rack", "britannica"]}
+  ],
+  "sources": [
+    {"id": "journal", "type": "primary", "citation": "John Wesley, The Journal of the Rev. John Wesley, ed. Nehemiah Curnock, 8 vols. (London: Charles H. Kelly, 1909–1916).", "url": "https://ccel.org/ccel/wesley/journal"},
+    {"id": "rack", "type": "scholarly", "citation": "Henry D. Rack, Reasonable Enthusiast: John Wesley and the Rise of Methodism (London: Epworth Press, 1989)."},
+    {"id": "britannica", "type": "reference", "citation": "\"John Wesley,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/John-Wesley"}
+  ]
+}

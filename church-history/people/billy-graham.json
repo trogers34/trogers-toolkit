@@ -1,0 +1,206 @@
+{
+  "name": "Billy Graham",
+  "slug": "billy-graham",
+  "also_known_as": "William Franklin Graham Jr.",
+  "era": "Modern",
+  "role": "Southern Baptist evangelist, founder of the Billy Graham Evangelistic Association",
+  "born": {
+    "year": 1918,
+    "date": "7 November 1918",
+    "place": "Family dairy farm near Charlotte, North Carolina, United States",
+    "sources": [
+      "martin",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 2018,
+    "date": "21 February 2018, aged 99",
+    "place": "Montreat, North Carolina, United States",
+    "sources": [
+      "wacker",
+      "britannica"
+    ]
+  },
+  "summary": "American evangelist who preached in person to more people than anyone before him through large \"crusades\" around the world, advised U.S. presidents from Truman to Obama, and became the best-known figure of 20th-century evangelical Protestantism.",
+  "key_dates": [
+    {
+      "year": 1934,
+      "label": "Converted at a revival led by the evangelist Mordecai Ham in Charlotte",
+      "sources": [
+        "just-as-i-am",
+        "martin"
+      ]
+    },
+    {
+      "year": 1939,
+      "label": "Ordained a Southern Baptist minister in Florida",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1943,
+      "label": "Graduates from Wheaton College; marries Ruth Bell",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1949,
+      "label": "Los Angeles crusade makes him a national figure",
+      "sources": [
+        "martin",
+        "wacker"
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "Founds the Billy Graham Evangelistic Association; begins the Hour of Decision radio program",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "Twelve-week crusade at Harringay Arena, London",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1957,
+      "label": "Sixteen-week New York crusade; Martin Luther King Jr. leads a prayer at one service",
+      "sources": [
+        "martin",
+        "wacker"
+      ]
+    },
+    {
+      "year": 1974,
+      "label": "Convenes the International Congress on World Evangelization at Lausanne",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1982,
+      "label": "Preaches in Moscow, the first of several visits to communist countries",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1996,
+      "label": "Awarded the Congressional Gold Medal with his wife Ruth",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Preached in person to an estimated 215 million people in more than 185 countries and territories, according to his organization's count, through hundreds of evangelistic crusades from the late 1940s to 2005.",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Founded the Billy Graham Evangelistic Association (1950), which spread his preaching through the Hour of Decision radio program, televised crusades, films, and Decision magazine.",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Helped found the magazine Christianity Today (1956) as a voice for a broad, intellectually serious evangelicalism.",
+      "sources": [
+        "martin",
+        "wacker"
+      ]
+    },
+    {
+      "text": "Ended racial segregation at his crusades in the early 1950s, personally removing the ropes separating Black and white seating at Chattanooga in 1953, and invited Martin Luther King Jr. to pray at his 1957 New York crusade.",
+      "sources": [
+        "martin",
+        "wacker"
+      ]
+    },
+    {
+      "text": "Convened world gatherings of evangelical leaders at Berlin (1966) and Lausanne (1974); the Lausanne Congress produced the Lausanne Covenant, a widely adopted statement of evangelical belief and mission.",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Served as an informal spiritual adviser to every U.S. president from Harry Truman to Barack Obama, and was especially close to Dwight Eisenhower, Lyndon Johnson, and Richard Nixon.",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Preached in communist countries, including the Soviet Union (1982 and 1984), China (1988), and North Korea (1992 and 1994), drawing both praise and criticism for working within the limits set by those governments.",
+      "sources": [
+        "martin",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote some 30 books, including the bestseller Peace with God (1953) and his autobiography Just As I Am (1997).",
+      "sources": [
+        "peace-with-god",
+        "just-as-i-am",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In 2002, tapes from a 1972 Oval Office conversation were released in which Graham agreed with President Nixon's disparaging remarks about Jews' influence in the media. Graham said he did not remember the conversation and apologized publicly.",
+      "sources": [
+        "wacker",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Graham was never arrested, imprisoned, tried, or physically attacked for his faith. The main opposition he faced came from within American Protestantism: from 1957, leading fundamentalists such as Bob Jones Sr., John R. Rice, and Carl McIntire publicly broke with him for cooperating with liberal and mainline Protestant churches (and, later, Roman Catholics) in his crusades. That was a public denunciation and split, not a legal or church penalty. He also received hostility from segregationists for integrating his meetings, and his visits to communist countries took place under the control of their governments.",
+  "persecution": [],
+  "excommunication_note": "Graham was never excommunicated or disciplined by any church. He remained an ordained Southern Baptist minister all his life. The fundamentalists who broke with him in the 1950s declared that they would not cooperate with him, but no church issued any sentence against him.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "just-as-i-am",
+      "type": "primary",
+      "citation": "Billy Graham, Just As I Am: The Autobiography of Billy Graham (San Francisco: HarperSanFrancisco; Grand Rapids: Zondervan, 1997)."
+    },
+    {
+      "id": "peace-with-god",
+      "type": "primary",
+      "citation": "Billy Graham, Peace with God (Garden City, NY: Doubleday, 1953)."
+    },
+    {
+      "id": "martin",
+      "type": "scholarly",
+      "citation": "William Martin, A Prophet with Honor: The Billy Graham Story (New York: William Morrow, 1991)."
+    },
+    {
+      "id": "wacker",
+      "type": "scholarly",
+      "citation": "Grant Wacker, America's Pastor: Billy Graham and the Shaping of a Nation (Cambridge, MA: Belknap Press of Harvard University Press, 2014)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Billy Graham,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Billy-Graham"
+    }
+  ]
+}

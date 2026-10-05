@@ -1,0 +1,421 @@
+{
+  "name": "Jan Hus",
+  "slug": "jan-hus",
+  "also_known_as": "John Hus; John Huss",
+  "era": "Medieval",
+  "role": "Priest, preacher at Bethlehem Chapel, rector of the University of Prague, reformer",
+  "born": {
+    "year": 1372,
+    "circa": true,
+    "date": "c. 1372 (exact date unknown)",
+    "place": "Husinec, southern Bohemia (modern Czech Republic)",
+    "sources": [
+      "spinka-bio",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1415,
+    "date": "6 July 1415",
+    "place": "Constance (Konstanz), burned at the stake by order of the Council of Constance",
+    "sources": [
+      "mladonovice",
+      "fudge"
+    ]
+  },
+  "summary": "Czech priest and university master who preached church reform in Prague, drawing on Wycliffe's ideas. Despite a promise of safe conduct, he was arrested at the Council of Constance and burned as a heretic, and his death set off the Hussite movement.",
+  "key_dates": [
+    {
+      "year": 1396,
+      "label": "Master of arts at the University of Prague",
+      "sources": [
+        "spinka-bio"
+      ]
+    },
+    {
+      "year": 1400,
+      "label": "Ordained priest",
+      "sources": [
+        "spinka-bio",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1402,
+      "label": "Becomes preacher at the Bethlehem Chapel, Prague",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1409,
+      "label": "Elected rector of the University of Prague",
+      "sources": [
+        "spinka-bio",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1410,
+      "label": "Wycliffe's books burned in Prague; Hus excommunicated by the archbishop",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1412,
+      "label": "Opposes the papal indulgence; leaves Prague for the countryside",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1413,
+      "label": "Writes The Church (De ecclesia)",
+      "sources": [
+        "de-ecclesia",
+        "spinka-bio"
+      ]
+    },
+    {
+      "year": 1414,
+      "label": "Travels to the Council of Constance under safe-conduct; arrested",
+      "sources": [
+        "mladonovice",
+        "fudge"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Preached in Czech, not Latin, at the Bethlehem Chapel in Prague from 1402, drawing large crowds of ordinary people and calling for reform of clergy morals.",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "text": "Served as rector of the University of Prague (1409–1410) after King Wenceslas IV gave the Czech masters control of the university.",
+      "sources": [
+        "spinka-bio",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Defended Wycliffe's writings in Prague when the church authorities ordered them surrendered and burned.",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "text": "Publicly opposed the sale of indulgences to fund Pope John XXIII's war against King Ladislaus of Naples (1412).",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "text": "Wrote The Church (De ecclesia, 1413), arguing that Christ, not the pope, is the head of the church, and that a pope or prelate who lives against Christ's law need not be obeyed.",
+      "sources": [
+        "de-ecclesia",
+        "spinka-bio"
+      ]
+    },
+    {
+      "text": "Wrote extensively in Czech, including sermons and instruction for lay people, and is traditionally credited with reforming Czech spelling with diacritical marks (his authorship of that treatise is debated).",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "At the Council of Constance refused to recant unless shown from Scripture that he was wrong, and denied holding several of the views he was charged with.",
+      "sources": [
+        "mladonovice",
+        "fudge"
+      ]
+    },
+    {
+      "text": "Wrote letters from prison to friends in Bohemia that were preserved and widely read.",
+      "sources": [
+        "letters",
+        "spinka-bio"
+      ]
+    },
+    {
+      "text": "His execution sparked the Hussite movement and the Hussite Wars (1419–1434). The Unity of the Brethren, ancestor of the Moravian Church, grew out of his followers, and Luther wrote in 1520 that \"we are all Hussites\" without knowing it.",
+      "sources": [
+        "fudge",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Hus was excommunicated several times, driven out of Prague, arrested at the Council of Constance in spite of the emperor-elect's safe-conduct, tried for heresy, and burned on 6 July 1415. There was no reigning pope when he was condemned. Pope John XXIII, under whom he was arrested, had fled Constance and been deposed, so the council itself passed judgment. In 1999 Pope John Paul II expressed \"deep regret\" for his cruel death.",
+  "persecution": [
+    {
+      "year": 1410,
+      "date": "1408–1410",
+      "title": "Wycliffe's books burned; Hus excommunicated by the Archbishop of Prague",
+      "summary": "The Archbishop of Prague ordered Wycliffe's writings surrendered. Using a bull of Pope Alexander V (December 1409) that banned preaching in private chapels such as the Bethlehem Chapel, he had about 200 Wycliffite manuscripts burned in July 1410 and excommunicated Hus for continuing to preach.",
+      "responsible": [
+        {
+          "name": "Zbyněk Zajíc of Hazmburk",
+          "role": "Archbishop of Prague; burned the books and excommunicated Hus",
+          "jurisdiction": "Archdiocese of Prague",
+          "type": "church"
+        },
+        {
+          "name": "Pope Alexander V",
+          "role": "Issued the bull banning preaching in private chapels (Pisan line of popes during the Great Schism)",
+          "jurisdiction": "Papacy (Pisan obedience)",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "King Wenceslas IV of Bohemia",
+          "role": "Supported Hus in these early years and opposed the archbishop"
+        },
+        {
+          "name": "Queen Sophia of Bavaria",
+          "role": "Queen of Bohemia; a patron of Hus"
+        }
+      ],
+      "outcome": "Hus kept preaching. The book burning caused riots in Prague.",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1411,
+      "date": "February 1411",
+      "title": "Excommunicated by the papal court",
+      "summary": "Hus was summoned to the papal court, but he sent representatives instead of going in person. Cardinal Odo Colonna, the judge in the case, excommunicated him for failing to appear.",
+      "responsible": [
+        {
+          "name": "Cardinal Odo Colonna",
+          "role": "Judge in the curial case (later Pope Martin V)",
+          "jurisdiction": "Papal curia of John XXIII",
+          "type": "church"
+        },
+        {
+          "name": "Pope John XXIII",
+          "role": "Pope (Pisan line) under whose authority the case was heard",
+          "jurisdiction": "Papacy (Pisan obedience)",
+          "type": "church"
+        }
+      ],
+      "outcome": "He was excommunicated, but continued to preach with royal support.",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1412,
+      "title": "Indulgence protest; protesters beheaded; interdict on Prague",
+      "summary": "Pope John XXIII proclaimed indulgences to fund a crusade against King Ladislaus of Naples. Hus denounced them. Three young men who interrupted indulgence preachers were beheaded by the Prague city authorities. At the urging of Hus's opponents, including Michael de Causis, the curia renewed his excommunication and placed Prague under interdict, halting church services, for as long as he stayed in the city. King Wenceslas, wanting good relations with the pope, withdrew much of his support.",
+      "responsible": [
+        {
+          "name": "Pope John XXIII",
+          "role": "Issued the indulgence; his curia aggravated the excommunication",
+          "jurisdiction": "Papacy (Pisan obedience)",
+          "type": "church"
+        },
+        {
+          "name": "Cardinal Peter degli Stefaneschi",
+          "role": "Curial judge who pronounced the aggravated excommunication and interdict",
+          "jurisdiction": "Papal curia",
+          "type": "church"
+        },
+        {
+          "name": "Michael de Causis",
+          "role": "Czech priest; pressed the case against Hus at the curia",
+          "jurisdiction": "Papal curia",
+          "type": "individual"
+        },
+        {
+          "name": "Prague Old Town council",
+          "role": "Executed the three young protesters",
+          "jurisdiction": "Old Town of Prague, Kingdom of Bohemia",
+          "type": "state"
+        }
+      ],
+      "outcome": "Hus left Prague in October 1412 and lived under noble protection in southern Bohemia until 1414.",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1414,
+      "date": "28 November 1414",
+      "title": "Arrested at the Council of Constance despite a safe-conduct",
+      "summary": "Hus went to the Council of Constance to defend himself under a safe-conduct from Sigismund, King of the Romans and later emperor. About three weeks after he arrived, he was summoned before the cardinals and arrested. He was held first in a Dominican friary on an island in the lake, then in the Bishop of Constance's castle at Gottlieben. Sigismund protested at first, but then accepted the council's position that its authority over heresy came before his promise.",
+      "responsible": [
+        {
+          "name": "Cardinals at the Council of Constance",
+          "role": "Ordered the arrest",
+          "jurisdiction": "Council of Constance, under Pope John XXIII",
+          "type": "church"
+        },
+        {
+          "name": "Pope John XXIII",
+          "role": "Pope presiding over the council at the time of the arrest",
+          "jurisdiction": "Papacy (Pisan obedience)",
+          "type": "church"
+        },
+        {
+          "name": "Otto III of Hachberg",
+          "role": "Bishop of Constance; held Hus in his castle at Gottlieben",
+          "jurisdiction": "Diocese of Constance",
+          "type": "church"
+        },
+        {
+          "name": "Sigismund",
+          "role": "King of the Romans; issued the safe-conduct, then let it be set aside",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "John of Chlum",
+          "role": "Bohemian knight sent to protect Hus; publicly protested the arrest"
+        },
+        {
+          "name": "Wenceslas of Dubá",
+          "role": "Bohemian nobleman who accompanied and defended him"
+        },
+        {
+          "name": "Bohemian and Moravian nobles",
+          "role": "Sent formal protests to the council"
+        }
+      ],
+      "outcome": "He was imprisoned for over seven months, much of it in poor health.",
+      "sources": [
+        "mladonovice",
+        "fudge",
+        "spinka-bio"
+      ]
+    },
+    {
+      "year": 1415,
+      "date": "5 June – 6 July 1415",
+      "title": "Heresy trial and execution at Constance",
+      "summary": "Hus was given public hearings on 5, 7, and 8 June 1415 before the council, with Cardinal Pierre d'Ailly prominent in the questioning. His accusers included Michael de Causis and his former friend Stephen Páleč, and the Paris theologian Jean Gerson pressed for his condemnation. He refused to recant articles he said he had never held, or to abjure others unless shown wrong from Scripture. On 6 July 1415 the council condemned him as a heretic in Constance Cathedral, and bishops ritually stripped him of his priesthood. He was handed to the secular power: Sigismund gave him to Louis III, Elector Palatine, who had him burned outside the city, and his ashes were thrown into the Rhine. There was no reigning pope at the time, since John XXIII had been deposed in May and Gregory XII had resigned on 4 July.",
+      "responsible": [
+        {
+          "name": "Council of Constance",
+          "role": "Tried and condemned him",
+          "jurisdiction": "General council of the Western Church",
+          "type": "church"
+        },
+        {
+          "name": "Cardinal Pierre d'Ailly",
+          "role": "Leading questioner at the hearings",
+          "jurisdiction": "Council of Constance",
+          "type": "church"
+        },
+        {
+          "name": "Jean Gerson",
+          "role": "Chancellor of the University of Paris; pressed for condemnation",
+          "jurisdiction": "University of Paris; Council of Constance",
+          "type": "church"
+        },
+        {
+          "name": "Stephen Páleč",
+          "role": "Prague theologian, former friend; a principal accuser",
+          "jurisdiction": "University of Prague",
+          "type": "church"
+        },
+        {
+          "name": "Michael de Causis",
+          "role": "A principal accuser",
+          "jurisdiction": "Council of Constance",
+          "type": "individual"
+        },
+        {
+          "name": "Sigismund",
+          "role": "King of the Romans; handed him over for execution",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Louis III, Elector Palatine",
+          "role": "Carried out the sentence on Sigismund's order",
+          "jurisdiction": "Electoral Palatinate, Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "City authorities of Constance",
+          "role": "Executed him",
+          "jurisdiction": "Imperial City of Constance",
+          "type": "state"
+        }
+      ],
+      "outcome": "Burned at the stake on 6 July 1415.",
+      "sources": [
+        "mladonovice",
+        "fudge",
+        "spinka-bio"
+      ]
+    },
+    {
+      "year": 1416,
+      "date": "30 May 1416",
+      "title": "His companion Jerome of Prague burned",
+      "summary": "Jerome of Prague, a scholar and Hus's ally who had come to Constance to support him, was arrested and pressured into a recantation, which he later withdrew. He was then condemned and burned at the same place as Hus.",
+      "responsible": [
+        {
+          "name": "Council of Constance",
+          "role": "Condemned him as a relapsed heretic",
+          "jurisdiction": "General council of the Western Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Executed. News of both deaths turned Bohemia against the council and led to the Hussite revolt.",
+      "sources": [
+        "fudge",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "mladonovice",
+      "type": "primary",
+      "citation": "Peter of Mladoňovice, Account of the Trial and Condemnation of Master John Hus, in Matthew Spinka, trans., John Hus at the Council of Constance (New York: Columbia University Press, 1965). An eyewitness account by a member of Hus's party."
+    },
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "The Letters of John Hus, trans. Matthew Spinka (Manchester: Manchester University Press, 1972)."
+    },
+    {
+      "id": "de-ecclesia",
+      "type": "primary",
+      "citation": "John Huss, The Church (De ecclesia), trans. David S. Schaff (New York: Charles Scribner's Sons, 1915)."
+    },
+    {
+      "id": "spinka-bio",
+      "type": "scholarly",
+      "citation": "Matthew Spinka, John Hus: A Biography (Princeton: Princeton University Press, 1968)."
+    },
+    {
+      "id": "fudge",
+      "type": "scholarly",
+      "citation": "Thomas A. Fudge, The Trial of Jan Hus: Medieval Heresy and Criminal Procedure (New York: Oxford University Press, 2013)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Jan Hus,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Jan-Hus"
+    }
+  ]
+}

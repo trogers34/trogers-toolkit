@@ -65,6 +65,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 
 **Reformation**
 - Desiderius Erasmus (`desiderius-erasmus`)
+- Thomas More (`thomas-more`): includes the list of people executed for heresy linked to him, with verification ratings
 - Martin Luther (`martin-luther`): starter example
 - Thomas Cranmer (`thomas-cranmer`)
 - Martin Bucer (`martin-bucer`)
@@ -133,6 +134,17 @@ table at the top of the persecution section.
   say whether they formally revoked anything.
 - If the person was never excommunicated, say so explicitly in `excommunication_note`,
   so readers know it was checked.
+
+## People executed and linked to a person (victims list)
+
+When the user asks for the people someone is accused of having had executed (first
+requested for Thomas More), add `victims_title`, `victims_intro`, and `victims`. List each
+person who was actually executed, with the date, place, and manner; who condemned them;
+and what the subject is accused of. Give two ratings: `execution` and `link` (the
+subject's part), each `verified` (100%: records or the subject's own writings),
+`partial`, `disputed`, or `unverified`, with a note explaining the rating. Include
+links: a Wikipedia search link for the exact name and any source edition online.
+Never invent page URLs.
 
 ## Words and sayings
 

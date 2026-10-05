@@ -62,4 +62,5 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `excommunications` | required list (may be empty). Each item: `date`, `by`, `authority`, `reason`, `status` (e.g. "Never lifted"), `sources`. Shown as a table at the top of the persecution section |
 | `excommunication_note` | overview of the person's excommunications; required if `excommunications` is empty (e.g. "Never excommunicated") |
 | `ai_generated` | optional: `full` (default) or `partial`. Controls the AI notice at the top of the page; set `partial` once a person has reviewed and edited the page |
+| `victims` | optional, with `victims_title` and `victims_intro`. People executed whose deaths are linked to this person. Each item: `name`, `executed`, `condemned_by`, `allegation`, `verification` (`execution` and `link`: `verified` / `partial` / `disputed` / `unverified`), `verification_note`, `links` (`label`, `url`), `sources` |
 | `sources` | `id`, `type` (`primary` / `scholarly` / `reference`), `citation`, optional `url` |

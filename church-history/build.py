@@ -24,6 +24,12 @@ REQUIRED_FIELDS = ["name", "slug", "era", "summary", "born", "died",
                    "key_dates", "accomplishments", "persecution", "excommunications", "sources"]
 PARTY_TYPES = {"church": "Church", "state": "State", "individual": "Individual", "group": "Group"}
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
+VERIFICATION_LEVELS = {
+    "verified": ("100% verified", "Documented in official records or the person's own writings."),
+    "partial": ("Partially verified", "Part of the claim is documented; the rest rests on hostile, later, or indirect sources."),
+    "disputed": ("Disputed", "Alleged by some sources, denied or contradicted by others, and not independently confirmed."),
+    "unverified": ("Unverified", "No reliable source confirms it."),
+}
 SAYING_CATEGORIES = {
     "original": ("Original",
                  "First recorded in their writing, or first worded this way by them."),
@@ -148,6 +154,22 @@ def validate_person(person, file_stem):
             if party.get("type") not in PARTY_TYPES:
                 errors.append(f"{where}.responsible[{j}] type must be one of {list(PARTY_TYPES)}")
         check_refs(where, ev)
+
+    for i, v in enumerate(person.get("victims", [])):
+        where = f"victims[{i}]"
+        for field in ("name", "executed", "condemned_by", "allegation"):
+            if not v.get(field):
+                errors.append(f"{where} needs '{field}'")
+        ver = v.get("verification", {})
+        for key in ("execution", "link"):
+            if ver.get(key) not in VERIFICATION_LEVELS:
+                errors.append(f"{where}.verification.{key} must be one of {list(VERIFICATION_LEVELS)}")
+        for link in v.get("links", []):
+            if not link.get("label") or not str(link.get("url", "")).startswith("https://"):
+                errors.append(f"{where} links need a label and an https url")
+        check_refs(where, v)
+    if person.get("victims") and not person.get("victims_title"):
+        errors.append("'victims' needs a 'victims_title'")
 
     sayings = person.get("sayings", {})
     for category in sayings:
@@ -308,6 +330,40 @@ def render_person(person):
   </section>
 '''
 
+    victims_html = ""
+    if person.get("victims"):
+        def badge(level, prefix):
+            label = VERIFICATION_LEVELS[level][0]
+            return f'<span class="verify {esc(level)}">{esc(prefix)}: {esc(label)}</span>'
+        legend = "".join(
+            f'<li><span class="verify {k}">{esc(v[0])}</span> {esc(v[1])}</li>' for k, v in VERIFICATION_LEVELS.items()
+        )
+        cards = []
+        for v in person["victims"]:
+            links = " · ".join(
+                f'<a href="{esc(l["url"])}" rel="noopener">{esc(l["label"])}</a>' for l in v.get("links", [])
+            )
+            note = f'<p class="note">{esc(v["verification_note"])}</p>' if v.get("verification_note") else ""
+            cards.append(f'''
+    <div class="incident victim">
+      <h3>{esc(v["name"])}</h3>
+      <p class="when">{esc(v["executed"])}</p>
+      <p><strong>Condemned by:</strong> {esc(v["condemned_by"])}</p>
+      <p><strong>What {esc(person["name"].split()[-1])} is accused of:</strong> {esc(v["allegation"])}{cite(v["sources"], numbers)}</p>
+      <p class="badges">{badge(v["verification"]["execution"], "Execution")} {badge(v["verification"]["link"], "Link to " + person["name"].split()[-1])}</p>
+      {note}
+      {f'<p class="links"><strong>Links:</strong> {links}</p>' if links else ""}
+    </div>''')
+        intro = f'<p class="intro">{esc(person["victims_intro"])}</p>' if person.get("victims_intro") else ""
+        victims_html = f'''
+  <section>
+    <h2>{esc(person["victims_title"])}</h2>
+    {intro}
+    <details class="legend"><summary>How the verification ratings work</summary><ul>{legend}</ul></details>
+    {"".join(cards)}
+  </section>
+'''
+
     sayings_html = ""
     if person.get("sayings"):
         groups = []
@@ -366,7 +422,7 @@ def render_person(person):
 {accomplishments}
     </ul>
   </section>
-{sayings_html}{persecution_html}
+{sayings_html}{victims_html}{persecution_html}
   <section>
     <h2>Key dates</h2>
     <ol class="key-dates">

@@ -37,17 +37,51 @@
     {"text": "Wrote The Obedience of a Christian Man (1528), arguing for the authority of Scripture and for the obedience of subjects to their king rather than to the pope.", "sources": ["obedience", "daniell"]},
     {"text": "Opposed Henry VIII's plan to annul his marriage to Catherine of Aragon in The Practice of Prelates (1530), costing himself the king's favor.", "sources": ["daniell", "britannica"]},
     {"text": "Defended his translation choices and Reformation teaching in a printed debate with Sir Thomas More, including An Answer unto Sir Thomas More's Dialogue (1531).", "sources": ["daniell", "britannica"]},
-    {"text": "Introduced English words such as \"Passover\" and \"scapegoat,\" along with many phrases still in common use.", "sources": ["daniell", "britannica"]},
+    {"text": "Introduced English words such as \"Passover\" and \"scapegoat,\" along with many phrases still in common use (see Words and sayings below).", "sources": ["daniell", "britannica"]},
     {"text": "Laid the foundation of later English Bibles: his work was the basis of Matthew's Bible (1537) and the Great Bible (1539). One study estimates that about 83% of the King James New Testament (1611) keeps his wording.", "sources": ["nielson-skousen", "daniell"]},
     {"text": "Was condemned as a heretic and executed at Vilvoorde in 1536. Foxe records his last words as a prayer: \"Lord, open the King of England's eyes.\"", "sources": ["foxe", "daniell"]}
   ],
+  "sayings_intro": "A selection of well-attested examples, not a complete list. Most reached modern English through the King James Bible (1611), which kept much of Tyndale's wording. \"Original\" is based on the earliest recorded use in the Oxford English Dictionary, or on comparison with the earlier Wycliffite Bible (translated from Latin in the late 1300s), which worded the same verse differently. New Testament verses are from his 1526/1534 translation; Old Testament verses are from his 1530 Pentateuch.",
+  "sayings": {
+    "original": [
+      {"phrase": "Passover", "reference": "Exodus 12:11 (1530)", "note": "Coined from \"pass over\" to render the Hebrew pesach; earlier English writers mostly used the borrowed word \"pasch.\"", "sources": ["tyndale-ot", "oed", "daniell"]},
+      {"phrase": "scapegoat", "reference": "Leviticus 16:8 (1530)", "note": "His rendering of the goat sent away into the wilderness on the Day of Atonement (\"the goat that escapes\").", "sources": ["tyndale-ot", "oed", "daniell"]},
+      {"phrase": "mercy seat", "reference": "Exodus 25:17 (1530)", "note": "The cover of the ark of the covenant; modeled on Luther's German Gnadenstuhl.", "sources": ["tyndale-ot", "oed"]},
+      {"phrase": "Jehovah", "reference": "Exodus 6:3 (1530)", "note": "First use of this form of God's name in English, adapted from a Latin form of the Hebrew name.", "sources": ["tyndale-ot", "oed"]},
+      {"phrase": "long-suffering", "reference": "Galatians 5:22 (1526)", "sources": ["tyndale-nt", "oed"]},
+      {"phrase": "busybody", "reference": "1 Peter 4:15 (1526)", "sources": ["tyndale-nt", "oed"]},
+      {"phrase": "\"Let there be light\"", "reference": "Genesis 1:3 (1530)", "note": "The Wycliffite Bible reads roughly \"Light be made.\"", "sources": ["tyndale-ot", "wycliffe", "crystal"]},
+      {"phrase": "\"Am I my brother's keeper?\"", "reference": "Genesis 4:9 (1530)", "sources": ["tyndale-ot", "crystal"]},
+      {"phrase": "\"Blessed are the peacemakers\"", "reference": "Matthew 5:9", "note": "The Wycliffite Bible reads \"Blessed be peaceable men.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"Judge not, that ye be not judged\"", "reference": "Matthew 7:1", "note": "The Wycliffite Bible uses \"deem\" rather than \"judge.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"The signs of the times\"", "reference": "Matthew 16:3", "note": "The Wycliffite Bible reads \"tokens of times.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"The spirit is willing, but the flesh is weak\"", "reference": "Matthew 26:41", "note": "The Wycliffite Bible reads roughly \"the spirit is ready, but the flesh is sick.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"Eat, drink, and be merry\"", "reference": "Luke 12:19", "note": "The Wycliffite Bible reads roughly \"eat, drink, and make feast.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"The powers that be\"", "reference": "Romans 13:1", "sources": ["tyndale-nt", "crystal"]},
+      {"phrase": "\"Fight the good fight\"", "reference": "1 Timothy 6:12", "note": "The Wycliffite Bible reads roughly \"strive thou a good strife of faith.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"Filthy lucre\"", "reference": "1 Timothy 3:3", "sources": ["tyndale-nt", "oed"]},
+      {"phrase": "\"The patience of Job\"", "reference": "James 5:11", "note": "The Wycliffite Bible reads \"the sufferance of Job.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]}
+    ],
+    "popularized": [
+      {"phrase": "atonement", "reference": "Romans 5:11; 2 Corinthians 5:18 (1526/1534)", "note": "Already in English (recorded in Thomas More's writing about 1513), but Tyndale's use made it a central term of English theology. He used it in its literal sense of \"at-one-ment,\" meaning reconciliation.", "sources": ["tyndale-nt", "oed", "daniell"]},
+      {"phrase": "\"Our Father which art in heaven, hallowed be thy name\"", "reference": "Matthew 6:9", "note": "The Lord's Prayer was said in English long before Tyndale; the Wycliffite Bible reads \"Our father that art in heavens, hallowed be thy name.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"The salt of the earth\"", "reference": "Matthew 5:13", "note": "The Wycliffite Bible already reads \"Ye be salt of the earth.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"Ask, and it shall be given you; seek, and ye shall find\"", "reference": "Matthew 7:7", "note": "The Wycliffite Bible has nearly the same wording.", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"In the beginning was the Word\"", "reference": "John 1:1", "note": "The Wycliffite Bible has the same wording.", "sources": ["tyndale-nt", "wycliffe", "crystal"]},
+      {"phrase": "\"In the twinkling of an eye\"", "reference": "1 Corinthians 15:52", "note": "The Wycliffite Bible already reads \"in the twinkling of an eye.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]}
+    ]
+  },
   "sources": [
     {"id": "tyndale-nt", "type": "primary", "citation": "William Tyndale, Tyndale's New Testament: Translated from the Greek by William Tyndale in 1534, ed. David Daniell (New Haven: Yale University Press, 1989)."},
+    {"id": "tyndale-ot", "type": "primary", "citation": "William Tyndale, Tyndale's Old Testament: Being the Pentateuch of 1530, Joshua to 2 Chronicles of 1537, and Jonah, ed. David Daniell (New Haven: Yale University Press, 1992)."},
+    {"id": "wycliffe", "type": "primary", "citation": "The Holy Bible ... Made from the Latin Vulgate by John Wycliffe and His Followers, ed. Josiah Forshall and Frederic Madden, 4 vols. (Oxford: Oxford University Press, 1850). Used here for comparison with the pre-Tyndale English wording."},
     {"id": "obedience", "type": "primary", "citation": "William Tyndale, The Obedience of a Christian Man (1528), ed. David Daniell (London: Penguin Classics, 2000)."},
     {"id": "foxe", "type": "primary", "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Account of the life and death of William Tyndale."},
     {"id": "daniell", "type": "scholarly", "citation": "David Daniell, William Tyndale: A Biography (New Haven: Yale University Press, 1994)."},
     {"id": "moynahan", "type": "scholarly", "citation": "Brian Moynahan, God's Bestseller: William Tyndale, Thomas More, and the Writing of the English Bible (New York: St. Martin's Press, 2003)."},
     {"id": "nielson-skousen", "type": "scholarly", "citation": "Jon Nielson and Royal Skousen, \"How Much of the King James Bible Is William Tyndale's? An Estimation Based on Sampling,\" Reformation 3 (1998): 49–74."},
-    {"id": "britannica", "type": "reference", "citation": "\"William Tyndale,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/William-Tyndale"}
+    {"id": "crystal", "type": "scholarly", "citation": "David Crystal, Begat: The King James Bible and the English Language (Oxford: Oxford University Press, 2010). Compares the wording of each King James idiom with Tyndale and the Wycliffite Bible."},
+    {"id": "britannica", "type": "reference", "citation": "\"William Tyndale,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/William-Tyndale"},
+    {"id": "oed", "type": "reference", "citation": "Oxford English Dictionary, online ed. (Oxford University Press). Entries for each word, for the earliest recorded uses.", "url": "https://www.oed.com"}
   ]
 }

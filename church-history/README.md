@@ -43,4 +43,5 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources`, optional `circa: true` |
 | `key_dates` | `year`, `label`, `sources`, optional `circa: true`. Shown on the home-page timeline |
 | `accomplishments` | `text`, `sources`. The bullet points on the person's page |
+| `sayings` | optional. `{"original": [...], "popularized": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |
 | `sources` | `id`, `type` (`primary` / `scholarly` / `reference`), `citation`, optional `url` |

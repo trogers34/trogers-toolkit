@@ -46,6 +46,14 @@ class ValidatePersonTest(unittest.TestCase):
         errors = self.errors_for(lambda p: p.update(slug="other"))
         self.assertTrue(any("must match file name" in e for e in errors))
 
+    def test_sayings_need_sources_and_known_category(self):
+        errors = self.errors_for(lambda p: p.update(sayings={
+            "original": [{"phrase": "x", "sources": []}],
+            "invented": [],
+        }))
+        self.assertIn("sayings.original[0] has no sources", errors)
+        self.assertTrue(any("sayings category 'invented'" in e for e in errors))
+
     def test_missing_field(self):
         errors = self.errors_for(lambda p: p.pop("summary"))
         self.assertEqual(errors, ["missing required field 'summary'"])
@@ -85,6 +93,15 @@ class BuildTest(unittest.TestCase):
         self.assertIn("Did a thing", index)
         self.assertIn('id="src-s1"', person)
         self.assertIn('href="#src-s1"', person)
+        self.assertNotIn("Words and sayings", person)
+
+    def test_sayings_render_by_category(self):
+        person = copy.deepcopy(VALID)
+        person["sayings"] = {"popularized": [{"phrase": "Old phrase", "reference": "John 1:1", "sources": ["s1"]}]}
+        page = build.render_person(person)
+        self.assertIn("Words and sayings", page)
+        self.assertIn("Popularized", page)
+        self.assertNotIn("<h3>Original", page)
 
 
 if __name__ == "__main__":

@@ -23,6 +23,12 @@ STATIC_DIR = ROOT / "static"
 REQUIRED_FIELDS = ["name", "slug", "era", "summary", "born", "died",
                    "key_dates", "accomplishments", "sources"]
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
+SAYING_CATEGORIES = {
+    "original": ("Original",
+                 "First recorded in English in their writing, or first worded this way by them."),
+    "popularized": ("Popularized",
+                    "Already in English before them, but their use made it widely known."),
+}
 
 
 class ValidationError(Exception):
@@ -110,6 +116,17 @@ def validate_person(person, file_stem):
             errors.append(f"accomplishments[{i}] needs text")
         check_refs(f"accomplishments[{i}]", acc)
 
+    sayings = person.get("sayings", {})
+    for category in sayings:
+        if category not in SAYING_CATEGORIES:
+            errors.append(f"sayings category '{category}' must be one of {list(SAYING_CATEGORIES)}")
+            continue
+        for i, item in enumerate(sayings[category]):
+            where = f"sayings.{category}[{i}]"
+            if not item.get("phrase"):
+                errors.append(f"{where} needs a phrase")
+            check_refs(where, item)
+
     return errors
 
 
@@ -184,6 +201,37 @@ def render_person(person):
         f'<li>{esc(a["text"])}{cite(a["sources"], numbers)}</li>' for a in person["accomplishments"]
     )
 
+    sayings_html = ""
+    if person.get("sayings"):
+        groups = []
+        for category, (title, description) in SAYING_CATEGORIES.items():
+            items = person["sayings"].get(category, [])
+            if not items:
+                continue
+            lis = "\n".join(
+                f'<li><span class="phrase">{esc(s["phrase"])}</span>'
+                + (f' <span class="ref">{esc(s["reference"])}</span>' if s.get("reference") else "")
+                + cite(s["sources"], numbers)
+                + (f'<p class="note">{esc(s["note"])}</p>' if s.get("note") else "")
+                + "</li>"
+                for s in items
+            )
+            groups.append(f'''
+    <div class="saying-group {category}">
+      <h3>{title} <span class="count">{len(items)}</span></h3>
+      <p class="saying-desc">{esc(description)}</p>
+      <ul class="sayings">
+{lis}
+      </ul>
+    </div>''')
+        intro = f'<p class="intro">{esc(person["sayings_intro"])}</p>' if person.get("sayings_intro") else ""
+        sayings_html = f'''
+  <section>
+    <h2>Words and sayings</h2>
+    {intro}{"".join(groups)}
+  </section>
+'''
+
     def source_item(s):
         text = esc(s["citation"])
         if s.get("url"):
@@ -211,7 +259,7 @@ def render_person(person):
 {accomplishments}
     </ul>
   </section>
-
+{sayings_html}
   <section>
     <h2>Key dates</h2>
     <ol class="key-dates">

@@ -104,6 +104,22 @@ table.events { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
 .cards span { color: var(--muted); font-size: 0.85rem; }
 .cards p { margin: 0.5rem 0 0; font-size: 0.92rem; }
 
+/* ---- words and sayings ---- */
+h3 { font-family: var(--serif); font-size: 1.15rem; margin: 1.5rem 0 0.2rem; }
+h3 .count {
+  font-family: var(--sans); font-size: 0.75rem; font-weight: 600; vertical-align: middle;
+  background: var(--life); color: var(--muted); border-radius: 999px; padding: 0.1rem 0.5rem;
+}
+.saying-desc { margin: 0 0 0.6rem; color: var(--muted); font-size: 0.92rem; }
+.saying-group { border-left: 3px solid var(--bar); padding-left: 1rem; }
+.saying-group.original { border-color: var(--accent); }
+.sayings { list-style: none; padding: 0; margin: 0; }
+.sayings li { padding: 0.45rem 0; border-bottom: 1px solid var(--border); }
+.sayings li:last-child { border-bottom: 0; }
+.sayings .phrase { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; }
+.sayings .ref { color: var(--muted); font-size: 0.85rem; margin-left: 0.3rem; }
+.sayings .note { margin: 0.15rem 0 0; font-size: 0.9rem; color: var(--muted); max-width: 70ch; }
+
 /* ---- person page ---- */
 .crumb { margin: 0; font-size: 0.9rem; }
 .lifespan { color: var(--muted); margin: 0; font-size: 1.05rem; }

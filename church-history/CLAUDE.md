@@ -6,6 +6,10 @@ When the user names a person from church history, add them to the site:
    existing files; the field reference is in `README.md`.
 2. Run `python3 build.py`, then `python3 -m unittest discover tests`. Both must pass.
 3. Commit the JSON file and the regenerated `site/` together.
+4. Publish without asking first (the user's standing instruction): push the branch, open a
+   pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
+   "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
+   If a check fails, fix it before merging. Report the live page URL when done.
 
 ## Sourcing rules
 
@@ -43,6 +47,13 @@ record, whoever was responsible and whatever tradition they belonged to.
 - If the person was never arrested or persecuted, say so in `persecution_note` and leave
   the list empty, or include only incidents that genuinely threatened them.
 - Stay neutral: describe who did what under which authority, without editorializing.
+
+## Words and sayings (optional)
+
+When a person is known for famous words or phrases, add a `sayings` section. Use
+`original` (first recorded in their writing), `popularized` (in use before them, made
+famous by them), and `misattributed` (commonly credited to them but not in their
+writings, such as legends or later paraphrases). Say where each one is found.
 
 ## Content guidelines
 

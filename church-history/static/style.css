@@ -113,6 +113,7 @@ h3 .count {
 .saying-desc { margin: 0 0 0.6rem; color: var(--muted); font-size: 0.92rem; }
 .saying-group { border-left: 3px solid var(--bar); padding-left: 1rem; }
 .saying-group.original { border-color: var(--accent); }
+.saying-group.misattributed { border-left-style: dashed; }
 .sayings { list-style: none; padding: 0; margin: 0; }
 .sayings li { padding: 0.45rem 0; border-bottom: 1px solid var(--border); }
 .sayings li:last-child { border-bottom: 0; }

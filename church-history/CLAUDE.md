@@ -6,6 +6,10 @@ When the user names a person from church history, add them to the site:
    existing files; the field reference is in `README.md`.
 2. Run `python3 build.py`, then `python3 -m unittest discover tests`. Both must pass.
 3. Commit the JSON file and the regenerated `site/` together.
+4. Publish without asking first (the user's standing instruction): push the branch, open a
+   pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
+   "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
+   If a check fails, fix it before merging. Report the live page URL when done.
 
 ## Sourcing rules
 

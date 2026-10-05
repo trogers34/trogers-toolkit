@@ -24,6 +24,10 @@ the user has set and the list of everyone on the site.
 7. An AI-generated notice at the top of every page.
 8. Publish every addition: commit, merge, and build each time, without asking.
 9. When the user gives a list, skip anyone already on the site ("some duplicates so ignore").
+10. Keep this project memory up to date after every commit: the people list, every new
+    rule or preference the user states, and the change log at the bottom. A hook in
+    `.claude/settings.json` checks each `git commit` and flags commits to `church-history/`
+    that did not also update this file.
 
 ## Adding a person
 
@@ -38,7 +42,10 @@ When the user names a person from church history, add them to the site:
    pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
    "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
    If a check fails, fix it before merging. Report the live page URL when done.
-6. If a name is ambiguous, pick the most likely church-history figure, say which one you
+6. If the user asks for a group (e.g. "the first generation of church fathers"), list the
+   people for approval first, then add the ones approved. For anonymous writings, cover them
+   on related people's pages rather than giving them their own page, unless asked.
+7. If a name is ambiguous, pick the most likely church-history figure, say which one you
    chose, and offer to swap (e.g. "Nicolas" was taken as Nicholas of Myra; "Knox" as John
    Knox).
 
@@ -49,6 +56,13 @@ Live site: https://trogers34.github.io/trogers-toolkit/
 Keep this list in sync with `people/` (the tests check it). Grouped by era, oldest first.
 
 **Early Church**
+- Clement of Rome (`clement-of-rome`): Apostolic Father; most dates and his martyrdom are tradition
+- Ignatius of Antioch (`ignatius-of-antioch`): Apostolic Father
+- Papias of Hierapolis (`papias-of-hierapolis`): Apostolic Father
+- Polycarp of Smyrna (`polycarp-of-smyrna`): Apostolic Father
+- Hermas (`hermas`): Apostolic Father; author of the Shepherd
+- Quadratus of Athens (`quadratus-of-athens`): Apostolic Father / earliest apologist
+- Pseudo-Barnabas (`pseudo-barnabas`): anonymous author of the Epistle of Barnabas; lifespan placeholders
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
@@ -169,3 +183,29 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 - Whether to add a separate section on persecution these people supported or carried out
   against others (e.g. Augustine and the Donatists, Luther and the Anabaptists and Jews).
   Offered; no answer yet.
+
+## Change log
+
+Update this after every commit that changes the site. Newest first. PR numbers refer to
+trogers34/trogers-toolkit.
+
+- **Memory upkeep**: rule to update this file after every commit; a PostToolUse hook
+  (`.claude/hooks/check-memory-updated.sh`) flags commits to `church-history/` that skip it;
+  this change log started.
+- **PR #61**: the Apostolic Fathers (Clement of Rome, Ignatius, Papias, Polycarp, Hermas,
+  Quadratus, Pseudo-Barnabas); rule to list group requests for approval first. 31 people.
+- **PR #60**: Thomas More, with the reusable `victims` section (executed people linked to a
+  person, with execution and link verification ratings and links). 24 people.
+- **PR #59**: Thomas Aquinas, John Oldcastle, R. C. Sproul; this file rewritten as the
+  project memory with the full rules and people list; roster test added. 23 people.
+- **PR #58**: Nicholas of Myra (assumed for "Nicolas"), Athanasius, Chrysostom, Leo the Great,
+  Gregory the Great, Cranmer, Bucer, Chemnitz, Erasmus, Chuck Smith; AI-generated notice on
+  every page (`ai_generated`). 20 people.
+- **PR #57**: John Knox. **PR #56**: C. S. Lewis. **PR #55**: Billy Graham.
+- **PR #54**: William of Ockham; `misattributed` sayings category; standing instruction to
+  commit, merge, and build each new person without asking.
+- **PR #53**: John Wycliffe and Jan Hus; required `excommunications` section for everyone.
+- **PR #52**: required persecution section (who was responsible, jurisdiction, church/state).
+- **PR #51**: initial site (Augustine, Luther, Wesley as starter examples; William Tyndale with
+  Words and sayings), timeline with era zoom, build checks, tests, and GitHub Pages publishing.
+

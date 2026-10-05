@@ -1,0 +1,113 @@
+{
+  "name": "Pseudo-Barnabas",
+  "slug": "pseudo-barnabas",
+  "also_known_as": "The anonymous author of the Epistle of Barnabas",
+  "era": "Early Church",
+  "role": "Anonymous early Christian teacher; author of the Epistle of Barnabas",
+  "born": {
+    "year": 70,
+    "circa": true,
+    "date": "Unknown; the author's identity is unknown",
+    "place": "Unknown; possibly Alexandria, Egypt",
+    "sources": [
+      "paget",
+      "odcc"
+    ]
+  },
+  "died": {
+    "year": 140,
+    "circa": true,
+    "date": "Unknown",
+    "place": "Unknown",
+    "sources": [
+      "paget",
+      "odcc"
+    ]
+  },
+  "summary": "The unknown author of the Epistle of Barnabas, a treatise traditionally credited to Paul's companion Barnabas but almost certainly written by someone else between about 96 and 135. The dates shown on the timeline are placeholders for an unknown life. The author is one of the \"Apostolic Fathers,\" the earliest Christian writers after the New Testament (c. 90–150).",
+  "key_dates": [
+    {
+      "year": 130,
+      "circa": true,
+      "label": "Writes the Epistle of Barnabas (after the Temple's destruction in 70 and probably before 135)",
+      "sources": [
+        "paget",
+        "holmes"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Epistle of Barnabas, which reads the Jewish Scriptures allegorically as pointing to Christ, for example interpreting the food laws and circumcision as spiritual rather than literal commands.",
+      "sources": [
+        "holmes",
+        "paget"
+      ]
+    },
+    {
+      "text": "Included a \"Two Ways\" teaching (the way of light and the way of darkness), a moral instruction also found in the Didache, an early church manual.",
+      "sources": [
+        "holmes",
+        "jefford"
+      ]
+    },
+    {
+      "text": "Argued that the covenant belonged to Christians and not to the Jews, who, he claimed, had misunderstood their own Law. This is one of the earliest strongly anti-Jewish Christian writings.",
+      "sources": [
+        "paget",
+        "jefford"
+      ]
+    },
+    {
+      "text": "Was highly regarded in the early church: Clement of Alexandria quoted it as the work of the apostle Barnabas, and it was copied in the 4th-century Codex Sinaiticus after the New Testament.",
+      "sources": [
+        "paget",
+        "metzger"
+      ]
+    }
+  ],
+  "sayings": {
+    "misattributed": [
+      {
+        "phrase": "The Epistle of Barnabas",
+        "reference": "Named after Barnabas, Paul's companion in Acts",
+        "note": "Ancient writers attributed it to the apostle Barnabas, but its date and content make his authorship very unlikely. The real author is unknown.",
+        "sources": [
+          "paget",
+          "holmes"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Nothing is known about the author's life, so no persecution is recorded.",
+  "persecution": [],
+  "excommunication_note": "Nothing is known about the author; no excommunication is recorded.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "paget",
+      "type": "scholarly",
+      "citation": "James Carleton Paget, The Epistle of Barnabas: Outlook and Background (Tübingen: Mohr Siebeck, 1994)."
+    },
+    {
+      "id": "metzger",
+      "type": "scholarly",
+      "citation": "Bruce M. Metzger, The Canon of the New Testament: Its Origin, Development, and Significance (Oxford: Clarendon Press, 1987)."
+    },
+    {
+      "id": "jefford",
+      "type": "scholarly",
+      "citation": "Clayton N. Jefford, Reading the Apostolic Fathers: A Student's Introduction, 2nd ed. (Grand Rapids: Baker Academic, 2012)."
+    },
+    {
+      "id": "odcc",
+      "type": "reference",
+      "citation": "F. L. Cross and E. A. Livingstone, eds., The Oxford Dictionary of the Christian Church, 3rd ed. (Oxford: Oxford University Press, 1997)."
+    }
+  ]
+}

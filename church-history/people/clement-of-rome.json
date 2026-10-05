@@ -1,0 +1,158 @@
+{
+  "name": "Clement of Rome",
+  "slug": "clement-of-rome",
+  "also_known_as": "Pope Clement I; Saint Clement",
+  "era": "Early Church",
+  "role": "Leader (traditionally bishop) of the church in Rome; author of 1 Clement",
+  "born": {
+    "year": 35,
+    "circa": true,
+    "date": "Unknown (1st century)",
+    "place": "Unknown; probably Rome",
+    "sources": [
+      "jefford",
+      "odcc"
+    ]
+  },
+  "died": {
+    "year": 99,
+    "circa": true,
+    "date": "c. 99–101 (Eusebius dates his death to the third year of Trajan)",
+    "place": "Unknown; legend places it in the Crimea",
+    "sources": [
+      "eusebius",
+      "jefford"
+    ]
+  },
+  "summary": "Leader of the church at Rome at the end of the 1st century and author of 1 Clement, a letter to the church at Corinth that is one of the earliest Christian writings outside the New Testament. He is one of the \"Apostolic Fathers,\" the earliest Christian writers after the New Testament (c. 90–150).",
+  "key_dates": [
+    {
+      "year": 88,
+      "circa": true,
+      "label": "Becomes bishop of Rome, third after Peter in the early lists (dates are later reconstructions)",
+      "sources": [
+        "eusebius",
+        "jefford"
+      ]
+    },
+    {
+      "year": 96,
+      "circa": true,
+      "label": "Writes 1 Clement to the church at Corinth",
+      "sources": [
+        "holmes",
+        "jefford"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote 1 Clement (c. 96) on behalf of the church of Rome, urging the church at Corinth to restore the presbyters (elders) it had removed and to end its divisions.",
+      "sources": [
+        "holmes",
+        "jefford"
+      ]
+    },
+    {
+      "text": "His letter is the earliest surviving witness outside the New Testament to the martyrdoms of the apostles Peter and Paul.",
+      "sources": [
+        "holmes",
+        "jefford"
+      ]
+    },
+    {
+      "text": "Is named by Irenaeus (c. 180) as the third bishop of Rome after Peter, following Linus and Anacletus. Many historians think Rome was then led by a group of presbyters, with Clement as a leading figure and secretary.",
+      "sources": [
+        "eusebius",
+        "jefford"
+      ]
+    },
+    {
+      "text": "His letter was so respected that it was still read publicly in the church at Corinth around 170, and it was copied into the 5th-century Codex Alexandrinus with the New Testament.",
+      "sources": [
+        "eusebius",
+        "holmes"
+      ]
+    },
+    {
+      "text": "Is venerated as a saint and early pope, with a feast day on 23 November in the West.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "misattributed": [
+      {
+        "phrase": "2 Clement",
+        "reference": "An anonymous early sermon",
+        "note": "Traditionally attributed to Clement and copied with 1 Clement, but written by a different, unknown author, probably in the mid-2nd century.",
+        "sources": [
+          "holmes",
+          "jefford"
+        ]
+      },
+      {
+        "phrase": "The Pseudo-Clementine Recognitions and Homilies",
+        "reference": "Religious novels about Clement",
+        "note": "Written in the 3rd–4th centuries and attributed to him, but not his work.",
+        "sources": [
+          "odcc"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Nothing reliable is known about how Clement died. The earliest writers, such as Irenaeus and Eusebius, do not say he was martyred. A legend first written down in the 4th century says he was exiled and martyred under Trajan. Some historians think the legend may confuse him with Titus Flavius Clemens, a Roman consul executed by Emperor Domitian in 95.",
+  "persecution": [
+    {
+      "year": 99,
+      "circa": true,
+      "date": "c. 99–101 (according to legend)",
+      "title": "Exile to the Crimea and martyrdom (legend)",
+      "summary": "According to the 4th-century Acts of Clement, Emperor Trajan exiled Clement to work in the stone quarries near Chersonesus in the Crimea. There, the legend says, he converted many prisoners, and he was then thrown into the Black Sea with an anchor tied to his neck. This story is not found in earlier sources and is regarded as legend.",
+      "responsible": [
+        {
+          "name": "Emperor Trajan",
+          "role": "Said by the legend to have exiled and condemned him",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Legend says he drowned. His historical death is unknown.",
+      "sources": [
+        "jefford",
+        "odcc"
+      ]
+    }
+  ],
+  "excommunication_note": "No excommunication or condemnation of him is recorded.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "eusebius",
+      "type": "primary",
+      "citation": "Eusebius, The History of the Church, trans. G. A. Williamson, rev. Andrew Louth (London: Penguin, 1989). Written c. 300–325."
+    },
+    {
+      "id": "jefford",
+      "type": "scholarly",
+      "citation": "Clayton N. Jefford, Reading the Apostolic Fathers: A Student's Introduction, 2nd ed. (Grand Rapids: Baker Academic, 2012)."
+    },
+    {
+      "id": "odcc",
+      "type": "reference",
+      "citation": "F. L. Cross and E. A. Livingstone, eds., The Oxford Dictionary of the Christian Church, 3rd ed. (Oxford: Oxford University Press, 1997)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Clement I,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Clement-I"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "name": "Ignatius of Antioch",
+  "slug": "ignatius-of-antioch",
+  "also_known_as": "Saint Ignatius; Ignatius Theophorus (\"God-bearer\")",
+  "era": "Early Church",
+  "role": "Bishop of Antioch; martyr",
+  "born": {
+    "year": 35,
+    "circa": true,
+    "date": "Unknown (c. 35 is traditional)",
+    "place": "Unknown; probably Syria",
+    "sources": [
+      "schoedel",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 110,
+    "circa": true,
+    "date": "c. 108–117, in the reign of Trajan (traditional date 107/108)",
+    "place": "Rome, according to tradition",
+    "sources": [
+      "eusebius",
+      "schoedel"
+    ]
+  },
+  "summary": "Bishop of Antioch who, while being taken under guard to Rome for execution, wrote seven letters that are the earliest evidence for the church being led by a single bishop with presbyters and deacons, and the first known use of the phrase \"the catholic church.\" He is one of the \"Apostolic Fathers,\" the earliest Christian writers after the New Testament (c. 90–150).",
+  "key_dates": [
+    {
+      "year": 70,
+      "circa": true,
+      "label": "Becomes bishop of Antioch, succeeding Evodius according to Eusebius",
+      "sources": [
+        "eusebius",
+        "britannica"
+      ]
+    },
+    {
+      "year": 110,
+      "circa": true,
+      "label": "Arrested and sent to Rome; writes seven letters on the way, at Smyrna and Troas",
+      "sources": [
+        "holmes",
+        "schoedel"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote seven letters, to the churches at Ephesus, Magnesia, Tralles, Rome, Philadelphia, and Smyrna, and to Polycarp, while being taken to Rome to die.",
+      "sources": [
+        "holmes",
+        "schoedel"
+      ]
+    },
+    {
+      "text": "Gives the earliest clear evidence of a single bishop leading each church, assisted by presbyters and deacons, and urged the churches to stay united around their bishop.",
+      "sources": [
+        "schoedel",
+        "jefford"
+      ]
+    },
+    {
+      "text": "Is the first known writer to use the phrase \"the catholic church\" (meaning the whole or universal church), in his Letter to the Smyrnaeans.",
+      "sources": [
+        "holmes",
+        "schoedel"
+      ]
+    },
+    {
+      "text": "Opposed docetism, the teaching that Christ only seemed to have a real body and only seemed to suffer, insisting on Christ's true humanity, death, and resurrection.",
+      "sources": [
+        "schoedel",
+        "jefford"
+      ]
+    },
+    {
+      "text": "In his Letter to the Romans, begged the Christians at Rome not to try to save him from martyrdom, a text that deeply shaped later Christian ideals of martyrdom.",
+      "sources": [
+        "holmes",
+        "schoedel"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I am the wheat of God, and I am ground by the teeth of wild beasts, that I may be found pure bread of Christ.\"",
+        "reference": "Letter to the Romans 4",
+        "sources": [
+          "holmes"
+        ]
+      },
+      {
+        "phrase": "\"Wherever the bishop appears, there let the congregation be; just as wherever Jesus Christ is, there is the catholic church.\"",
+        "reference": "Letter to the Smyrnaeans 8",
+        "sources": [
+          "holmes",
+          "schoedel"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "The \"long recension\" and six additional letters",
+        "reference": "Later expansions and forgeries",
+        "note": "In the 4th century his seven genuine letters were expanded, and six more letters were written under his name. Scholars generally accept only the seven letters of the \"middle recension\" as authentic, though a minority question even those.",
+        "sources": [
+          "schoedel",
+          "jefford"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Ignatius was arrested in Antioch during the reign of Trajan, condemned, and sent under military guard across Asia Minor to Rome to be executed. His letters show he expected to die by wild beasts in the arena. No contemporary account of his death survives; tradition says he was killed by beasts in Rome.",
+  "persecution": [
+    {
+      "year": 110,
+      "circa": true,
+      "date": "c. 108–117",
+      "title": "Arrested, condemned, and taken to Rome for execution",
+      "summary": "Ignatius was arrested in Antioch and condemned, apparently as a Christian leader. He was sent to Rome under a guard of ten soldiers, whom he called \"ten leopards\" because they treated him worse the better they were treated. On the way, Christians from the churches of Asia visited him, and he wrote his letters. Polycarp's Letter to the Philippians, written shortly afterward, assumes he had been martyred.",
+      "responsible": [
+        {
+          "name": "Emperor Trajan",
+          "role": "Reigning emperor, under whose rule he was condemned",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Roman authorities in Syria",
+          "role": "Arrested and condemned him; the governor is not named in the sources",
+          "jurisdiction": "Province of Syria, Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Military escort (\"ten leopards\")",
+          "role": "Soldiers who took him to Rome",
+          "jurisdiction": "Roman army",
+          "type": "group"
+        }
+      ],
+      "outcome": "Executed in Rome, according to tradition by wild beasts in the arena.",
+      "sources": [
+        "holmes",
+        "schoedel",
+        "eusebius"
+      ]
+    }
+  ],
+  "excommunication_note": "No excommunication or condemnation of him is recorded.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "eusebius",
+      "type": "primary",
+      "citation": "Eusebius, The History of the Church, trans. G. A. Williamson, rev. Andrew Louth (London: Penguin, 1989). Written c. 300–325."
+    },
+    {
+      "id": "schoedel",
+      "type": "scholarly",
+      "citation": "William R. Schoedel, Ignatius of Antioch: A Commentary on the Letters of Ignatius of Antioch, Hermeneia (Philadelphia: Fortress Press, 1985)."
+    },
+    {
+      "id": "jefford",
+      "type": "scholarly",
+      "citation": "Clayton N. Jefford, Reading the Apostolic Fathers: A Student's Introduction, 2nd ed. (Grand Rapids: Baker Academic, 2012)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Ignatius of Antioch,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Ignatius-of-Antioch"
+    }
+  ]
+}

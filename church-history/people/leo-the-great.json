@@ -1,0 +1,179 @@
+{
+  "name": "Leo the Great",
+  "slug": "leo-the-great",
+  "also_known_as": "Pope Leo I; Saint Leo the Great",
+  "era": "Early Church",
+  "role": "Bishop of Rome (pope), 440–461",
+  "born": {
+    "year": 400,
+    "circa": true,
+    "date": "c. 400",
+    "place": "Tuscany or Rome, Italy",
+    "sources": [
+      "neil",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 461,
+    "date": "10 November 461",
+    "place": "Rome",
+    "sources": [
+      "neil",
+      "britannica"
+    ]
+  },
+  "summary": "Pope whose letter on the two natures of Christ, the Tome, became the basis of the Council of Chalcedon's definition, who strongly asserted the authority of the bishop of Rome, and who met Attila the Hun to turn him away from Italy.",
+  "key_dates": [
+    {
+      "year": 440,
+      "label": "Elected bishop of Rome while on a diplomatic mission in Gaul",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    },
+    {
+      "year": 449,
+      "label": "Sends his Tome to Flavian of Constantinople; it is rejected at the \"Robber Synod\" of Ephesus",
+      "sources": [
+        "neil",
+        "wessel"
+      ]
+    },
+    {
+      "year": 451,
+      "label": "Council of Chalcedon accepts his Tome",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    },
+    {
+      "year": 452,
+      "label": "Meets Attila the Hun near Mantua; Attila withdraws from Italy",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    },
+    {
+      "year": 455,
+      "label": "Persuades the Vandal king Gaiseric to limit the sack of Rome",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Tome of Leo (449), explaining that Christ is one person in two natures, fully divine and fully human. The Council of Chalcedon (451) accepted it, with the bishops reportedly declaring that \"Peter has spoken through Leo.\"",
+      "sources": [
+        "neil",
+        "wessel",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Developed the idea that the bishop of Rome holds authority over the whole church as the successor of the apostle Peter.",
+      "sources": [
+        "wessel",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Led an embassy that met Attila the Hun in 452, after which Attila withdrew from Italy.",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    },
+    {
+      "text": "When the Vandals took Rome in 455, persuaded King Gaiseric to refrain from burning the city and from massacre, though the city was plundered for two weeks.",
+      "sources": [
+        "neil",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Left nearly 100 sermons and about 140 letters, among the most important sources for the church of his time.",
+      "sources": [
+        "sermons",
+        "neil"
+      ]
+    },
+    {
+      "text": "Was declared a Doctor of the Church in 1754, one of only two popes (with Gregory I) called \"the Great.\"",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Leo was never arrested or exiled. His principal clash was with Dioscorus, Patriarch of Alexandria: at the \"Robber Synod\" of Ephesus (449) Leo's Tome was suppressed and his envoys mistreated, and in 451 Dioscorus pronounced an excommunication against Leo himself. Both actions were reversed at the Council of Chalcedon.",
+  "persecution": [
+    {
+      "year": 449,
+      "date": "August 449",
+      "title": "The \"Robber Synod\" of Ephesus",
+      "summary": "At the Second Council of Ephesus, presided over by Dioscorus of Alexandria with the backing of Emperor Theodosius II, Leo's Tome was not allowed to be read, his legates were ignored and intimidated, and Flavian of Constantinople, who had appealed to Leo, was deposed and so badly treated that he died soon after. Leo's deacon Hilarus escaped with difficulty. Leo condemned the meeting as a \"robber synod\" (latrocinium).",
+      "responsible": [
+        {
+          "name": "Dioscorus of Alexandria",
+          "role": "Patriarch of Alexandria; presided",
+          "jurisdiction": "See of Alexandria",
+          "type": "church"
+        },
+        {
+          "name": "Emperor Theodosius II",
+          "role": "Convened the council and enforced its decisions",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "After Theodosius died in 450, the new emperor Marcian and Empress Pulcheria called the Council of Chalcedon (451), which reversed Ephesus II and deposed Dioscorus.",
+      "sources": [
+        "neil",
+        "wessel",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Leo was \"excommunicated\" once, by a rival patriarch. In 451 Dioscorus of Alexandria and a small group of bishops pronounced a sentence of excommunication against him. No other church recognized it, and the Council of Chalcedon later that year condemned Dioscorus.",
+  "excommunications": [
+    {
+      "date": "451 (before the Council of Chalcedon)",
+      "by": "Dioscorus of Alexandria",
+      "authority": "Patriarch of Alexandria, with a small group of bishops",
+      "reason": "Retaliation for Leo's opposition to the Robber Synod and his Tome",
+      "status": "Not recognized; Dioscorus was deposed at Chalcedon (451)",
+      "sources": [
+        "neil",
+        "wessel"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "sermons",
+      "type": "primary",
+      "citation": "Leo the Great, Sermons, trans. Jane Patricia Freeland and Agnes Josephine Conway, The Fathers of the Church 93 (Washington, DC: Catholic University of America Press, 1996)."
+    },
+    {
+      "id": "neil",
+      "type": "scholarly",
+      "citation": "Bronwen Neil, Leo the Great, The Early Church Fathers (London: Routledge, 2009)."
+    },
+    {
+      "id": "wessel",
+      "type": "scholarly",
+      "citation": "Susan Wessel, Leo the Great and the Spiritual Rebuilding of a Universal Rome (Leiden: Brill, 2008)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Leo I,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Leo-I"
+    }
+  ]
+}

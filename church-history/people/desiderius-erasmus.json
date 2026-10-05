@@ -1,0 +1,313 @@
+{
+  "name": "Desiderius Erasmus",
+  "slug": "desiderius-erasmus",
+  "also_known_as": "Erasmus of Rotterdam",
+  "era": "Reformation",
+  "role": "Catholic priest and humanist scholar, editor of the Greek New Testament",
+  "born": {
+    "year": 1466,
+    "circa": true,
+    "date": "28 October, c. 1466 (the year is uncertain; 1466–1469)",
+    "place": "Rotterdam, County of Holland",
+    "sources": [
+      "halkin",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1536,
+    "date": "12 July 1536",
+    "place": "Basel, Swiss Confederation",
+    "sources": [
+      "halkin",
+      "britannica"
+    ]
+  },
+  "summary": "The most famous scholar of the Renaissance, whose printed Greek New Testament became the basis for the Reformation's Bible translations. He criticized church abuses but stayed Catholic and broke publicly with Luther, so he was attacked from both sides.",
+  "key_dates": [
+    {
+      "year": 1487,
+      "label": "Enters the Augustinian canons at Steyn",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1492,
+      "label": "Ordained priest",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1499,
+      "label": "First visit to England; meets Thomas More and John Colet",
+      "sources": [
+        "huizinga",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1500,
+      "label": "Publishes the first edition of the Adages",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1511,
+      "label": "Publishes The Praise of Folly",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1516,
+      "label": "Publishes the first printed Greek New Testament with a new Latin translation",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1524,
+      "label": "Publishes On Free Will against Luther",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1529,
+      "label": "Leaves Protestant Basel for Catholic Freiburg im Breisgau",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Published the first printed edition of the Greek New Testament (1516), with a new Latin translation and notes. His later editions became the basis of the \"Received Text\" used by Luther, Tyndale, and the King James translators.",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In his third edition (1522) added the passage 1 John 5:7–8 known as the \"Johannine Comma,\" which he had left out of earlier editions because he did not find it in Greek manuscripts.",
+      "sources": [
+        "rummel"
+      ]
+    },
+    {
+      "text": "Wrote The Praise of Folly (1511), a satire of the corruption of clergy, monks, and theologians, and the Handbook of the Christian Soldier (Enchiridion, 1503), which called for inward, Bible-centered piety.",
+      "sources": [
+        "huizinga",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Edited the works of Church Fathers, including Jerome (1516), Augustine, and others, making them widely available in print.",
+      "sources": [
+        "rummel",
+        "halkin"
+      ]
+    },
+    {
+      "text": "Compiled the Adages, a growing collection of thousands of classical proverbs with commentary.",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On Free Will (1524), defending human free will against Luther, who replied with The Bondage of the Will (1525). The exchange marked his public break with the Reformation.",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Declined Pope Paul III's offer to make him a cardinal in 1535, citing his age and health.",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "popularized": [
+      {
+        "phrase": "\"In the land of the blind, the one-eyed man is king\" (In regione caecorum rex est luscus)",
+        "reference": "Adages",
+        "note": "An older proverb that became widely known through his Adages.",
+        "sources": [
+          "halkin",
+          "britannica"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"When I get a little money I buy books; and if any is left I buy food and clothes.\"",
+        "reference": "A paraphrase, not his wording",
+        "note": "A loose modern paraphrase of a 1500 letter to his friend Jacob Batt, in which he wrote that when money came he would first buy Greek authors and then clothes.",
+        "sources": [
+          "cwe"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Erasmus was never arrested or tried. He was attacked by conservative Catholic theologians, who accused him of preparing the way for Luther, and he lost Protestant friends after breaking with Luther. The Paris theology faculty formally censured his writings, the Spanish church investigated them, and after his death Pope Paul IV banned all his works. He also left Basel when it turned Protestant.",
+  "persecution": [
+    {
+      "year": 1526,
+      "date": "1526–1531",
+      "title": "Writings censured by the Paris theology faculty",
+      "summary": "The Faculty of Theology of the University of Paris (the Sorbonne), led by its syndic Noël Béda, condemned his Colloquies (1526) and later issued formal censures of many passages from his works, published in 1531.",
+      "responsible": [
+        {
+          "name": "Noël Béda",
+          "role": "Syndic (head) of the Paris theology faculty; his chief critic",
+          "jurisdiction": "University of Paris",
+          "type": "church"
+        },
+        {
+          "name": "Faculty of Theology, University of Paris",
+          "role": "Issued the censures",
+          "jurisdiction": "University of Paris",
+          "type": "church"
+        }
+      ],
+      "outcome": "His books were condemned in Paris, but no action was taken against him personally.",
+      "sources": [
+        "rummel",
+        "halkin"
+      ]
+    },
+    {
+      "year": 1527,
+      "title": "Investigated by Spanish theologians at Valladolid",
+      "summary": "Members of Spanish religious orders accused his writings of heresy, and a conference of theologians met at Valladolid under the Inquisitor General, Alonso Manrique, to examine them.",
+      "responsible": [
+        {
+          "name": "Spanish friars of the religious orders",
+          "role": "Brought the accusations",
+          "jurisdiction": "Church in Spain",
+          "type": "group"
+        },
+        {
+          "name": "Spanish Inquisition",
+          "role": "Convened the examination",
+          "jurisdiction": "Kingdom of Castile",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Alonso Manrique",
+          "role": "Inquisitor General, who sympathized with Erasmus"
+        },
+        {
+          "name": "Emperor Charles V",
+          "role": "Whose court protected him at this time"
+        }
+      ],
+      "outcome": "The conference was suspended without a verdict, partly because of an outbreak of plague.",
+      "sources": [
+        "rummel",
+        "halkin"
+      ]
+    },
+    {
+      "year": 1529,
+      "title": "Leaves Basel after the city turns Protestant",
+      "summary": "When Basel adopted the Reformation in 1529, its council abolished the Mass and images were destroyed in the churches. Erasmus, unwilling to be seen as approving, moved to Catholic Freiburg im Breisgau.",
+      "responsible": [
+        {
+          "name": "Basel city council",
+          "role": "Abolished the Mass and adopted the Reformation",
+          "jurisdiction": "City of Basel, Swiss Confederation",
+          "type": "state"
+        }
+      ],
+      "outcome": "He lived in Freiburg until 1535, then returned to Basel, where he died.",
+      "sources": [
+        "halkin",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1559,
+      "date": "1559 (after his death)",
+      "title": "All his works banned by the Index of Pope Paul IV",
+      "summary": "Pope Paul IV's Index of Forbidden Books placed Erasmus in its first class of authors, those whose entire works were prohibited.",
+      "responsible": [
+        {
+          "name": "Pope Paul IV",
+          "role": "Issued the Index",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Roman Inquisition",
+          "role": "Prepared the Index",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "The Index issued after the Council of Trent (1564) softened this, banning some works and allowing others in expurgated form.",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Erasmus was never excommunicated. He died a Catholic priest, and in 1535 the pope had offered to make him a cardinal. After his death, Pope Paul IV's Index (1559) treated him as a forbidden author and banned all his works, which is listed below.",
+  "excommunications": [
+    {
+      "date": "1559 (after his death)",
+      "by": "Pope Paul IV",
+      "authority": "Papacy (Index of Forbidden Books)",
+      "reason": "Placed among the first-class authors whose complete works were forbidden",
+      "status": "Softened by the Tridentine Index (1564); not a personal excommunication",
+      "sources": [
+        "rummel",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cwe",
+      "type": "primary",
+      "citation": "Collected Works of Erasmus, vol. 1: The Correspondence of Erasmus, Letters 1 to 141, trans. R. A. B. Mynors and D. F. S. Thomson (Toronto: University of Toronto Press, 1974)."
+    },
+    {
+      "id": "huizinga",
+      "type": "scholarly",
+      "citation": "Johan Huizinga, Erasmus and the Age of Reformation (1924; New York: Harper Torchbooks, 1957)."
+    },
+    {
+      "id": "halkin",
+      "type": "scholarly",
+      "citation": "Léon-E. Halkin, Erasmus: A Critical Biography, trans. John Tonkin (Oxford: Blackwell, 1993)."
+    },
+    {
+      "id": "rummel",
+      "type": "scholarly",
+      "citation": "Erika Rummel, Erasmus (London: Continuum, 2004)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Desiderius Erasmus,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Desiderius-Erasmus"
+    }
+  ]
+}

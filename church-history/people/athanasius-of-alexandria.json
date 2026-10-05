@@ -1,0 +1,385 @@
+{
+  "name": "Athanasius of Alexandria",
+  "slug": "athanasius-of-alexandria",
+  "also_known_as": "Saint Athanasius the Great",
+  "era": "Early Church",
+  "role": "Bishop (patriarch) of Alexandria, theologian",
+  "born": {
+    "year": 296,
+    "circa": true,
+    "date": "c. 296–298",
+    "place": "Alexandria, Egypt",
+    "sources": [
+      "anatolios",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 373,
+    "date": "2 May 373",
+    "place": "Alexandria, Egypt",
+    "sources": [
+      "barnes",
+      "britannica"
+    ]
+  },
+  "summary": "Bishop of Alexandria who spent nearly half a century defending the Nicene teaching that the Son is fully God against Arianism, enduring five exiles under four emperors.",
+  "key_dates": [
+    {
+      "year": 325,
+      "label": "Attends the Council of Nicaea as deacon and secretary to Bishop Alexander",
+      "sources": [
+        "anatolios",
+        "britannica"
+      ]
+    },
+    {
+      "year": 328,
+      "label": "Becomes bishop of Alexandria",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 335,
+      "label": "Deposed by the Council of Tyre; first exile, to Trier",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 339,
+      "label": "Second exile; flees to Rome",
+      "sources": [
+        "barnes"
+      ]
+    },
+    {
+      "year": 346,
+      "label": "Returns to Alexandria",
+      "sources": [
+        "barnes"
+      ]
+    },
+    {
+      "year": 356,
+      "label": "Third exile; hides among the monks of the Egyptian desert",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 362,
+      "label": "Fourth exile, ordered by Emperor Julian",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 365,
+      "label": "Fifth and last exile, under Emperor Valens",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 367,
+      "label": "39th Festal Letter lists the 27 books of the New Testament",
+      "sources": [
+        "anatolios",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Defended the Nicene Creed's teaching that the Son is \"of one substance\" (homoousios) with the Father against Arius and his successors for nearly fifty years, often almost alone among leading bishops.",
+      "sources": [
+        "anatolios",
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On the Incarnation, a classic explanation of why God became human, and the Orations against the Arians.",
+      "sources": [
+        "on-incarnation",
+        "anatolios"
+      ]
+    },
+    {
+      "text": "Wrote the Life of Antony (c. 360), a biography of the desert hermit that spread the ideal of monasticism across the Roman world.",
+      "sources": [
+        "anatolios",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In his 39th Festal Letter (367), gave the first known list of exactly the 27 books now in the New Testament.",
+      "sources": [
+        "anatolios",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Built close ties with the Egyptian monks, who sheltered him during his exiles.",
+      "sources": [
+        "barnes",
+        "anatolios"
+      ]
+    },
+    {
+      "text": "Is honored as a saint and Church Father in Orthodox, Catholic, Anglican, and Lutheran churches, and as a Doctor of the Church in the Catholic Church.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "misattributed": [
+      {
+        "phrase": "The Athanasian Creed (\"Whosoever will be saved…\")",
+        "reference": "Not written by Athanasius",
+        "note": "This creed bears his name but was written in Latin, probably in southern Gaul in the late 5th or 6th century, long after his death.",
+        "sources": [
+          "kelly",
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"Athanasius against the world\" (Athanasius contra mundum)",
+        "reference": "A later description of him, not his words",
+        "note": "A later Latin phrase summing up his lonely stand, not something he said.",
+        "sources": [
+          "britannica"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Athanasius was exiled five times by four emperors, spending about seventeen of his forty-five years as bishop away from his see. He was repeatedly condemned by councils of bishops on the Arian or compromise side, and on one occasion soldiers broke into his church to seize him. He was never executed and died as bishop in Alexandria.",
+  "persecution": [
+    {
+      "year": 335,
+      "date": "335–337",
+      "title": "Deposed at Tyre; first exile to Trier",
+      "summary": "His opponents accused him of violence against his clergy and even of murdering a bishop named Arsenius, who later turned up alive. The Council of Tyre, dominated by his opponents, deposed him. Emperor Constantine, after being told that Athanasius had threatened to stop Egypt's grain shipments to Constantinople, exiled him to Trier in Gaul.",
+      "responsible": [
+        {
+          "name": "Council of Tyre",
+          "role": "Deposed him",
+          "jurisdiction": "Synod of eastern bishops convened by Constantine",
+          "type": "church"
+        },
+        {
+          "name": "Eusebius of Nicomedia",
+          "role": "Leader of the pro-Arian party that pressed the charges",
+          "jurisdiction": "Eastern church (bishop of Nicomedia)",
+          "type": "church"
+        },
+        {
+          "name": "Emperor Constantine I",
+          "role": "Exiled him to Trier",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Allowed to return after Constantine's death in 337.",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 339,
+      "date": "339–346",
+      "title": "Second exile; replaced by Gregory of Cappadocia",
+      "summary": "Emperor Constantius II, who favored the anti-Nicene bishops, had Gregory of Cappadocia installed as bishop of Alexandria by force. Athanasius fled to Rome.",
+      "responsible": [
+        {
+          "name": "Emperor Constantius II",
+          "role": "Backed his removal and the installation of a rival bishop",
+          "jurisdiction": "Roman Empire (East)",
+          "type": "state"
+        },
+        {
+          "name": "Gregory of Cappadocia",
+          "role": "Installed in his place",
+          "jurisdiction": "See of Alexandria",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Pope Julius I",
+          "role": "Bishop of Rome; received him and declared him innocent at a council in Rome (341)"
+        },
+        {
+          "name": "Council of Serdica (western bishops)",
+          "role": "Vindicated him (343)"
+        },
+        {
+          "name": "Emperor Constans",
+          "role": "Western emperor who pressed his brother Constantius to restore him"
+        }
+      ],
+      "outcome": "Restored in 346 after Gregory's death, under pressure from the western emperor Constans.",
+      "sources": [
+        "barnes",
+        "anatolios"
+      ]
+    },
+    {
+      "year": 356,
+      "date": "February 356 – 362",
+      "title": "Soldiers storm his church; third exile",
+      "summary": "After the councils of Arles (353) and Milan (355) condemned him under imperial pressure, troops under the military commander Syrianus broke into the Church of Theonas during a night vigil to arrest him. He escaped and hid for six years among the desert monks, while George of Cappadocia was installed as bishop.",
+      "responsible": [
+        {
+          "name": "Emperor Constantius II",
+          "role": "Ordered his removal",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Syrianus",
+          "role": "Military commander (dux) of Egypt; led the raid on the church",
+          "jurisdiction": "Roman Egypt",
+          "type": "state"
+        },
+        {
+          "name": "Councils of Arles and Milan",
+          "role": "Condemned him under imperial pressure",
+          "jurisdiction": "Western church synods",
+          "type": "church"
+        },
+        {
+          "name": "George of Cappadocia",
+          "role": "Installed as bishop of Alexandria in his place",
+          "jurisdiction": "See of Alexandria",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Egyptian desert monks",
+          "role": "Hid and protected him"
+        },
+        {
+          "name": "Pope Liberius",
+          "role": "Refused to condemn him and was exiled for it (355), although he later wavered"
+        }
+      ],
+      "outcome": "He returned in 362 after Constantius's death.",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 362,
+      "date": "362–363",
+      "title": "Fourth exile, under Julian the Apostate",
+      "summary": "The pagan emperor Julian, who had allowed exiled bishops to return, banished Athanasius again after he converted prominent pagans in Alexandria, calling him an enemy of the gods.",
+      "responsible": [
+        {
+          "name": "Emperor Julian",
+          "role": "Pagan emperor; ordered his exile",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Returned after Julian's death in 363.",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "year": 365,
+      "date": "365–366",
+      "title": "Fifth exile, under Valens",
+      "summary": "Emperor Valens, who favored the anti-Nicene party, ordered bishops exiled under Constantius to be expelled again. Athanasius hid for about four months, reportedly in his family's tomb outside the city.",
+      "responsible": [
+        {
+          "name": "Emperor Valens",
+          "role": "Ordered the expulsion",
+          "jurisdiction": "Roman Empire (East)",
+          "type": "state"
+        }
+      ],
+      "outcome": "Recalled in 366, apparently to avoid unrest in Alexandria. He remained bishop until his death in 373.",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Athanasius was deposed and condemned several times by councils of bishops, mostly on the Arian or compromise side. All of these sentences were overturned or ignored, and he died in possession of his see. He is venerated as a saint in all major traditions.",
+  "excommunications": [
+    {
+      "date": "335",
+      "by": "Council of Tyre",
+      "authority": "Synod of eastern bishops convened by Emperor Constantine",
+      "reason": "Deposed on charges of violence and misconduct brought by his opponents",
+      "status": "Overturned; restored in 337 and later vindicated by Rome and the western bishops",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    },
+    {
+      "date": "343",
+      "by": "Eastern bishops meeting at Philippopolis (the eastern half of the Council of Serdica)",
+      "authority": "Eastern bishops",
+      "reason": "Condemned Athanasius and also excommunicated Pope Julius I for supporting him",
+      "status": "Rejected by the western bishops at Serdica",
+      "sources": [
+        "barnes"
+      ]
+    },
+    {
+      "date": "353–355",
+      "by": "Councils of Arles and Milan",
+      "authority": "Western synods acting under Emperor Constantius II",
+      "reason": "Bishops were required to sign his condemnation; those who refused were exiled",
+      "status": "Abandoned after Constantius's death (361)",
+      "sources": [
+        "barnes",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "on-incarnation",
+      "type": "primary",
+      "citation": "Athanasius, On the Incarnation, trans. John Behr, Popular Patristics 44 (Yonkers, NY: St Vladimir's Seminary Press, 2011)."
+    },
+    {
+      "id": "anatolios",
+      "type": "scholarly",
+      "citation": "Khaled Anatolios, Athanasius, The Early Church Fathers (London: Routledge, 2004)."
+    },
+    {
+      "id": "barnes",
+      "type": "scholarly",
+      "citation": "Timothy D. Barnes, Athanasius and Constantius: Theology and Politics in the Constantinian Empire (Cambridge, MA: Harvard University Press, 1993)."
+    },
+    {
+      "id": "kelly",
+      "type": "scholarly",
+      "citation": "J. N. D. Kelly, The Athanasian Creed (London: Adam & Charles Black, 1964)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Athanasius,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Athanasius"
+    }
+  ]
+}

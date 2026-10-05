@@ -49,6 +49,10 @@ main { max-width: 1000px; margin: 0 auto; padding: 1rem 16px 3rem; }
 .tagline { color: var(--muted); font-size: 0.9rem; }
 .site-footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 2rem 16px; border-top: 1px solid var(--border); }
 .intro { color: var(--muted); max-width: 65ch; }
+.ai-notice {
+  margin: 0.5rem 0 1rem; padding: 0.6rem 0.9rem; border: 1px solid var(--accent); border-radius: 6px;
+  background: var(--life); font-size: 0.9rem; max-width: 75ch;
+}
 
 /* ---- lifespan timeline ---- */
 .zoom { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 1.25rem; }

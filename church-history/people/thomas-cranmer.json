@@ -1,0 +1,315 @@
+{
+  "name": "Thomas Cranmer",
+  "slug": "thomas-cranmer",
+  "era": "Reformation",
+  "role": "Archbishop of Canterbury (1533–1556), architect of the English Book of Common Prayer",
+  "born": {
+    "year": 1489,
+    "date": "2 July 1489",
+    "place": "Aslockton, Nottinghamshire, England",
+    "sources": [
+      "macculloch",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1556,
+    "date": "21 March 1556",
+    "place": "Oxford, England; burned at the stake for heresy",
+    "sources": [
+      "foxe",
+      "macculloch"
+    ]
+  },
+  "summary": "Archbishop of Canterbury under Henry VIII and Edward VI who annulled Henry's first marriage, led the English Reformation's changes to worship, and wrote the Book of Common Prayer. Under Mary I he was tried for heresy, recanted, then withdrew his recantations and was burned.",
+  "key_dates": [
+    {
+      "year": 1529,
+      "label": "Proposes polling the universities on Henry VIII's annulment, entering royal service",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1532,
+      "label": "Secretly marries Margarete, niece of the Lutheran reformer Andreas Osiander",
+      "sources": [
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1533,
+      "label": "Becomes Archbishop of Canterbury; declares Henry's marriage to Catherine of Aragon void",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1540,
+      "label": "Writes the preface to the second edition of the Great Bible (\"Cranmer's Bible\")",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1544,
+      "label": "Issues the English Litany, the first official service in English",
+      "sources": [
+        "macculloch",
+        "bcp"
+      ]
+    },
+    {
+      "year": 1549,
+      "label": "First Book of Common Prayer",
+      "sources": [
+        "bcp",
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1552,
+      "label": "Revised, more Protestant Book of Common Prayer",
+      "sources": [
+        "bcp",
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Forty-two Articles; arrested after Mary I's accession",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1555,
+      "label": "Tried for heresy at Oxford",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote and compiled the Book of Common Prayer (1549, revised 1552), putting all public worship into English. Its language has shaped English-speaking Christianity and the English language ever since.",
+      "sources": [
+        "bcp",
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "text": "As Archbishop of Canterbury, declared Henry VIII's marriage to Catherine of Aragon void (1533) and later presided over the annulments of his marriages to Anne Boleyn (1536) and Anne of Cleves (1540).",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Promoted the English Bible: he wrote the preface to the Great Bible (1540) and supported placing an English Bible in every parish church.",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Drafted the Forty-two Articles (1553), the basis of the Church of England's Thirty-nine Articles, and contributed to the Book of Homilies (1547).",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Invited Continental reformers such as Martin Bucer and Peter Martyr Vermigli to England.",
+      "sources": [
+        "macculloch"
+      ]
+    },
+    {
+      "text": "Took part in heresy proceedings himself as archbishop, including the condemnation of John Frith (burned 1533) and of the Anabaptist Joan Bocher (burned 1550).",
+      "sources": [
+        "macculloch",
+        "foxe"
+      ]
+    },
+    {
+      "text": "At his execution, withdrew the recantations he had signed and held his right hand, which had signed them, in the fire first.",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"Read, mark, learn, and inwardly digest\"",
+        "reference": "Collect for the Second Sunday in Advent, Book of Common Prayer (1549)",
+        "note": "One of the collects (short prayers) that Cranmer composed new rather than translated.",
+        "sources": [
+          "bcp",
+          "macculloch"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Till death us do part\"",
+        "reference": "Marriage service, Book of Common Prayer (1549; originally \"till death us depart\")",
+        "note": "English wedding vows were already used in the medieval Sarum rite; Cranmer's prayer book fixed this wording in the language.",
+        "sources": [
+          "bcp",
+          "macculloch"
+        ]
+      },
+      {
+        "phrase": "\"Earth to earth, ashes to ashes, dust to dust\"",
+        "reference": "Burial service, Book of Common Prayer (1549)",
+        "note": "Adapted from the older Latin burial rite and Genesis 3:19, and made familiar through the prayer book.",
+        "sources": [
+          "bcp"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "When the Catholic Mary I became queen in 1553, Cranmer was imprisoned, convicted of treason, and then tried for heresy under papal authority. He signed a series of recantations, but was condemned to be burned anyway. At the stake he renounced the recantations.",
+  "persecution": [
+    {
+      "year": 1553,
+      "date": "September–November 1553",
+      "title": "Imprisoned in the Tower and convicted of treason",
+      "summary": "Cranmer had signed Edward VI's plan to pass the crown to Lady Jane Grey. After Mary I took the throne, he was sent to the Tower of London, partly after he publicly denounced the restoration of the Mass, and was tried and condemned for treason with Lady Jane Grey.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Queen of England; had him imprisoned and tried",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Convicted of treason, but kept alive so that he could be tried for heresy.",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1554,
+      "date": "March 1554 – March 1556",
+      "title": "Heresy disputation, trial, and degradation at Oxford",
+      "summary": "Cranmer was moved to Oxford with Nicholas Ridley and Hugh Latimer, held in the Bocardo prison, and made to defend his views on the Eucharist in a public disputation (April 1554). After England was reconciled to Rome, he was tried for heresy in September 1555 before James Brooks, Bishop of Gloucester, acting as papal commissioner. He was made to watch from his prison as Ridley and Latimer were burned (October 1555). Pope Paul IV condemned him in December 1555, and in February 1556 he was formally degraded from his orders by Bishops Edmund Bonner and Thomas Thirlby.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Queen of England; refused to spare him",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Cardinal Reginald Pole",
+          "role": "Papal legate in England; succeeded him as Archbishop of Canterbury",
+          "jurisdiction": "Papacy; Church in England",
+          "type": "church"
+        },
+        {
+          "name": "Pope Paul IV",
+          "role": "Pronounced sentence against him in Rome",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "James Brooks",
+          "role": "Bishop of Gloucester; presided at his heresy trial as papal commissioner",
+          "jurisdiction": "Diocese of Gloucester; papal commission",
+          "type": "church"
+        },
+        {
+          "name": "Edmund Bonner",
+          "role": "Bishop of London; carried out his degradation",
+          "jurisdiction": "Diocese of London",
+          "type": "church"
+        },
+        {
+          "name": "Thomas Thirlby",
+          "role": "Bishop of Ely; carried out his degradation",
+          "jurisdiction": "Diocese of Ely",
+          "type": "church"
+        }
+      ],
+      "outcome": "Condemned as a heretic and handed over to the secular authorities.",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1556,
+      "date": "21 March 1556",
+      "title": "Recantations, then burning",
+      "summary": "In prison Cranmer signed several recantations accepting papal authority and Catholic doctrine. Under the law, a repentant heretic might be spared, but Mary refused. Brought to the University Church to read a final recantation, he instead renounced all his recantations and rejected the pope. He was taken to the place outside Balliol College where Ridley and Latimer had died and burned, putting his right hand into the flames first.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Refused to pardon him despite his recantations",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "City and university authorities of Oxford",
+          "role": "Carried out the execution",
+          "jurisdiction": "Oxford, Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Burned on 21 March 1556. Cardinal Pole was consecrated Archbishop of Canterbury the next day.",
+      "sources": [
+        "foxe",
+        "macculloch",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Cranmer was condemned by Pope Paul IV in 1555, deprived of his archbishopric, and handed over for execution after being degraded from his orders. The sentence was never lifted by Rome. He is commemorated as a reformer and martyr in the Church of England and the Anglican Communion.",
+  "excommunications": [
+    {
+      "date": "4 December 1555",
+      "by": "Pope Paul IV",
+      "authority": "Papacy (consistory in Rome)",
+      "reason": "Heresy and schism; deprived of the archbishopric of Canterbury",
+      "status": "Carried out by his degradation (February 1556) and execution; never lifted",
+      "sources": [
+        "macculloch",
+        "foxe"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bcp",
+      "type": "primary",
+      "citation": "The Book of Common Prayer: The Texts of 1549, 1559, and 1662, ed. Brian Cummings (Oxford: Oxford University Press, 2011)."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Account of Cranmer's trial and death."
+    },
+    {
+      "id": "macculloch",
+      "type": "scholarly",
+      "citation": "Diarmaid MacCulloch, Thomas Cranmer: A Life (New Haven: Yale University Press, 1996)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Thomas Cranmer,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Thomas-Cranmer"
+    }
+  ]
+}

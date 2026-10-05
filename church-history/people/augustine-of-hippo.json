@@ -37,6 +37,45 @@
     {"text": "Wrote On the Trinity, a major work of Latin theology on the doctrine of God.", "sources": ["britannica"]},
     {"text": "Near the end of his life wrote the Retractations (c. 426–427), reviewing and correcting his own earlier works.", "sources": ["brown", "possidius"]}
   ],
+  "persecution_note": "Augustine was never arrested, tried, or executed. The one recorded attempt on his life came from Donatist militants during the Donatist controversy. He died of a fever during the Vandal siege of Hippo, not by violence.",
+  "persecution": [
+    {
+      "date": "Before 411 (exact year not recorded)",
+      "title": "Ambush by Donatist militants",
+      "summary": "Possidius records that armed bands of circumcellions, militant supporters of the Donatist church, lay in wait on a road to attack Augustine while he was traveling to visit his churches. Possidius blames the Donatist party for this and other attacks on Catholic clergy in this period. He names no individual for this ambush.",
+      "responsible": [
+        {
+          "name": "Circumcellions",
+          "role": "Armed Donatist militants; planned the ambush",
+          "jurisdiction": "Roman North Africa; associated with the Donatist church",
+          "type": "group"
+        }
+      ],
+      "outcome": "He escaped because his guide took the wrong road and missed the ambush.",
+      "sources": [
+        "possidius",
+        "brown"
+      ]
+    },
+    {
+      "year": 430,
+      "title": "Siege of Hippo by the Vandals (context)",
+      "summary": "Included for completeness; this was not persecution of Augustine himself. In 430 the Vandals besieged Hippo. Augustine fell ill with a fever during the third month of the siege and died. The Vandals were Arian Christians, and under Gaiseric they later persecuted Nicene (Catholic) clergy in North Africa.",
+      "responsible": [
+        {
+          "name": "Gaiseric (Genseric)",
+          "role": "King of the Vandals; led the invasion of Roman Africa",
+          "jurisdiction": "Vandal kingdom",
+          "type": "state"
+        }
+      ],
+      "outcome": "Augustine died of illness on 28 August 430. The Vandals took Hippo after his death.",
+      "sources": [
+        "possidius",
+        "brown"
+      ]
+    }
+  ],
   "sources": [
     {"id": "confessions", "type": "primary", "citation": "Augustine, Confessions, trans. Henry Chadwick (Oxford: Oxford University Press, 1991).", "url": "https://ccel.org/ccel/augustine/confessions"},
     {"id": "possidius", "type": "primary", "citation": "Possidius, The Life of Saint Augustine (Vita Augustini), c. 432. Written by Augustine's friend and fellow bishop."},

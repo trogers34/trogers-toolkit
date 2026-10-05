@@ -35,6 +35,88 @@
     {"text": "Ordained Thomas Coke as superintendent for American Methodists in 1784, opening the way for the Methodist Episcopal Church.", "sources": ["rack", "britannica"]},
     {"text": "Spoke against the slave trade; his Thoughts upon Slavery (1774) and his final known letter (1791, to William Wilberforce) urged its abolition.", "sources": ["rack", "britannica"]}
   ],
+  "persecution_note": "Wesley was never imprisoned or executed. He faced a lawsuit and a grand jury indictment in colonial Georgia, was shut out of many Church of England pulpits, and was attacked by mobs during the early years of Methodism.",
+  "persecution": [
+    {
+      "year": 1737,
+      "title": "Indicted in Savannah, Georgia",
+      "summary": "Wesley refused Holy Communion to Sophia Williamson (née Hopkey), whom he had courted before her marriage. Her husband, William Williamson, sued him for defaming her, and a warrant was issued for Wesley. A grand jury in Savannah, encouraged by her uncle Thomas Causton, the town's chief magistrate, indicted him on ten counts, most about how he ran the church. Wesley argued that a civil court had no authority over church matters.",
+      "responsible": [
+        {
+          "name": "Thomas Causton",
+          "role": "Chief magistrate of Savannah; Sophia's uncle; pressed the case",
+          "jurisdiction": "Province of Georgia (British colony governed by the Trustees)",
+          "type": "state"
+        },
+        {
+          "name": "William Williamson",
+          "role": "Sophia's husband; brought the suit",
+          "jurisdiction": "Savannah, Georgia",
+          "type": "individual"
+        },
+        {
+          "name": "Savannah grand jury",
+          "role": "Returned the indictment",
+          "jurisdiction": "Province of Georgia",
+          "type": "state"
+        }
+      ],
+      "outcome": "He was never tried. He left Georgia in December 1737 and returned to England.",
+      "sources": [
+        "journal",
+        "rack"
+      ]
+    },
+    {
+      "year": 1739,
+      "title": "Shut out of church pulpits; told to leave the Diocese of Bristol",
+      "summary": "As his preaching became controversial, many Church of England clergy refused to let him preach in their churches, which pushed him into preaching in the open air. In August 1739 Joseph Butler, Bishop of Bristol, told Wesley that he had no business preaching in the diocese and advised him to leave.",
+      "responsible": [
+        {
+          "name": "Joseph Butler",
+          "role": "Bishop of Bristol; told him to leave the diocese",
+          "jurisdiction": "Diocese of Bristol, Church of England",
+          "type": "church"
+        },
+        {
+          "name": "Parish clergy",
+          "role": "Closed their pulpits to him",
+          "jurisdiction": "Church of England",
+          "type": "group"
+        }
+      ],
+      "outcome": "Wesley replied that he had been ordained as a fellow of Lincoln College, Oxford, not to any one parish, so he could preach anywhere. He continued.",
+      "sources": [
+        "journal",
+        "rack"
+      ]
+    },
+    {
+      "year": 1743,
+      "date": "20 October 1743",
+      "title": "Seized by a mob at Wednesbury",
+      "summary": "Methodists around Wednesbury, Staffordshire, had been attacked by mobs for months. On the night of 20 October 1743, a mob seized Wesley and took him before two local justices of the peace, Justice Lane of Bentley and Justice Persehouse of Walsall, both of whom refused to deal with him. A Walsall mob then dragged him through the streets and struck him. Wesley, and later historians, accused some local clergy of encouraging the mobs.",
+      "responsible": [
+        {
+          "name": "Mobs from Wednesbury, Darlaston, and Walsall",
+          "role": "Seized and assaulted him",
+          "jurisdiction": "Staffordshire, England",
+          "type": "group"
+        },
+        {
+          "name": "Justices Lane and Persehouse",
+          "role": "Local magistrates; declined to act when he was brought before them",
+          "jurisdiction": "Staffordshire, Kingdom of Great Britain",
+          "type": "state"
+        }
+      ],
+      "outcome": "He escaped with minor injuries after some of the crowd turned to protect him.",
+      "sources": [
+        "journal",
+        "rack"
+      ]
+    }
+  ],
   "sources": [
     {"id": "journal", "type": "primary", "citation": "John Wesley, The Journal of the Rev. John Wesley, ed. Nehemiah Curnock, 8 vols. (London: Charles H. Kelly, 1909–1916).", "url": "https://ccel.org/ccel/wesley/journal"},
     {"id": "rack", "type": "scholarly", "citation": "Henry D. Rack, Reasonable Enthusiast: John Wesley and the Rise of Methodism (London: Epworth Press, 1989)."},

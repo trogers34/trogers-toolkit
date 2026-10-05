@@ -37,6 +37,182 @@
     {"text": "Wrote The Bondage of the Will (1525) in reply to Erasmus on free will and grace.", "sources": ["luthers-works", "oberman"]},
     {"text": "Wrote the Small and Large Catechisms (1529) for teaching families and pastors, and many hymns including \"A Mighty Fortress Is Our God.\"", "sources": ["luthers-works", "britannica"]}
   ],
+  "persecution_note": "Luther was condemned as a heretic by the pope and declared an outlaw by the emperor, but he was never arrested or executed. Princes who protected him kept him out of reach, and he died of natural causes in 1546. Some of his followers were executed.",
+  "persecution": [
+    {
+      "year": 1518,
+      "title": "Heresy proceedings in Rome; examined at Augsburg",
+      "summary": "Archbishop Albrecht of Mainz, whose indulgence campaign Luther had attacked, sent the Ninety-five Theses to Rome, and the papal court opened a heresy case. Luther was summoned to Rome. Instead, at the request of his prince, he was examined at Augsburg in October 1518 by the papal legate, Cardinal Cajetan, who demanded that he recant. Luther refused and left the city secretly at night.",
+      "responsible": [
+        {
+          "name": "Pope Leo X",
+          "role": "Pope; authorized the heresy proceedings",
+          "jurisdiction": "Papacy / Roman Curia",
+          "type": "church"
+        },
+        {
+          "name": "Albrecht of Brandenburg",
+          "role": "Archbishop of Mainz; reported the theses to Rome",
+          "jurisdiction": "Archdiocese of Mainz",
+          "type": "church"
+        },
+        {
+          "name": "Sylvester Prierias",
+          "role": "Master of the Sacred Palace (papal theologian); wrote the official reply calling his views heretical",
+          "jurisdiction": "Roman Curia",
+          "type": "church"
+        },
+        {
+          "name": "Cardinal Thomas Cajetan",
+          "role": "Papal legate; examined him at Augsburg and demanded recantation",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Frederick the Wise",
+          "role": "Elector of Saxony; refused to send him to Rome"
+        }
+      ],
+      "outcome": "Luther did not recant, and he stayed in Saxony under Frederick's protection.",
+      "sources": [
+        "bainton",
+        "oberman",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1520,
+      "title": "Condemned by the papal bull Exsurge Domine; books burned",
+      "summary": "In June 1520 Pope Leo X issued the bull Exsurge Domine. It condemned 41 statements from Luther's writings, ordered his books burned, and gave him 60 days to recant or face excommunication. Johann Eck, who had helped prepare it, and the papal nuncio Girolamo Aleander published it in Germany, and Luther's books were burned at Louvain, Cologne, and Mainz.",
+      "responsible": [
+        {
+          "name": "Pope Leo X",
+          "role": "Issued the bull",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Johann Eck",
+          "role": "Theologian; helped prepare the bull and published it in Germany",
+          "jurisdiction": "University of Ingolstadt; acting as papal agent",
+          "type": "church"
+        },
+        {
+          "name": "Girolamo Aleander",
+          "role": "Papal nuncio; organized the burning of Luther's books",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "Luther publicly burned the bull and the books of canon law at Wittenberg on 10 December 1520.",
+      "sources": [
+        "bainton",
+        "luthers-works",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1521,
+      "date": "3 January 1521",
+      "title": "Excommunicated",
+      "summary": "Pope Leo X formally excommunicated Luther in the bull Decet Romanum Pontificem.",
+      "responsible": [
+        {
+          "name": "Pope Leo X",
+          "role": "Issued the excommunication",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "The excommunication was never lifted.",
+      "sources": [
+        "bainton",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1521,
+      "date": "May 1521",
+      "title": "Declared an outlaw by the Edict of Worms",
+      "summary": "After Luther refused to recant at the Diet of Worms, Emperor Charles V issued the Edict of Worms, drafted by the papal nuncio Aleander. It placed Luther under the imperial ban, forbade anyone to shelter him, ordered his arrest, and banned his writings. Frederick the Wise had him taken to the Wartburg castle in a staged kidnapping, to hide him.",
+      "responsible": [
+        {
+          "name": "Emperor Charles V",
+          "role": "Issued the edict",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Girolamo Aleander",
+          "role": "Papal nuncio; drafted the edict",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Diet of Worms",
+          "role": "Imperial assembly before which he was tried; the estates accepted the edict",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Frederick the Wise",
+          "role": "Elector of Saxony; hid him at the Wartburg (1521–1522) and never enforced the edict"
+        }
+      ],
+      "outcome": "Luther lived under the imperial ban for the rest of his life, but it was never enforced in Saxony, and he was never arrested.",
+      "sources": [
+        "bainton",
+        "oberman",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1522,
+      "title": "His New Testament banned in Catholic territories",
+      "summary": "Catholic rulers banned Luther's German New Testament in their lands. In neighboring Ducal (Albertine) Saxony, Duke George ordered copies surrendered and punished people who kept them.",
+      "responsible": [
+        {
+          "name": "Duke George of Saxony",
+          "role": "Ruler of Ducal Saxony; banned the translation",
+          "jurisdiction": "Duchy of Saxony (Albertine)",
+          "type": "state"
+        }
+      ],
+      "outcome": "The translation spread anyway and went through many printings.",
+      "sources": [
+        "bainton"
+      ]
+    },
+    {
+      "year": 1523,
+      "date": "1 July 1523",
+      "title": "First of his followers burned: Voes and van den Esschen",
+      "summary": "Hendrik Voes and Johann van den Esschen, Augustinian friars from Antwerp who held Luther's teachings, were burned for heresy in Brussels. They were the first people executed as Lutherans. Luther wrote his first hymn, \"A New Song Here Shall Be Begun,\" about their deaths.",
+      "responsible": [
+        {
+          "name": "Inquisitors in the Habsburg Netherlands",
+          "role": "Tried and condemned them for heresy",
+          "jurisdiction": "Habsburg Netherlands, under Emperor Charles V",
+          "type": "church"
+        },
+        {
+          "name": "Government of the Habsburg Netherlands",
+          "role": "Carried out the execution",
+          "jurisdiction": "Habsburg Netherlands, under Emperor Charles V",
+          "type": "state"
+        }
+      ],
+      "outcome": "Both were burned at Brussels.",
+      "sources": [
+        "bainton",
+        "luthers-works"
+      ]
+    }
+  ],
   "sources": [
     {"id": "luthers-works", "type": "primary", "citation": "Luther's Works, American Edition, ed. Jaroslav Pelikan and Helmut T. Lehmann, 55 vols. (St. Louis: Concordia; Philadelphia: Fortress, 1955–1986)."},
     {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Here I Stand: A Life of Martin Luther (New York: Abingdon-Cokesbury, 1950)."},

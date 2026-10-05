@@ -71,6 +71,238 @@
       {"phrase": "\"In the twinkling of an eye\"", "reference": "1 Corinthians 15:52", "note": "The Wycliffite Bible already reads \"in the twinkling of an eye.\"", "sources": ["tyndale-nt", "wycliffe", "crystal"]}
     ]
   },
+  "persecution_note": "Tyndale spent his last eleven years as a fugitive. He was hunted by English church and royal authorities, betrayed in Antwerp, tried for heresy under the Holy Roman Emperor's laws, and executed in 1536. People who read or distributed his books in England were also arrested, and several were burned.",
+  "persecution": [
+    {
+      "year": 1522,
+      "circa": true,
+      "date": "c. 1522–1523",
+      "title": "Accused of heresy before the diocesan chancellor",
+      "summary": "While Tyndale was tutor at Little Sodbury, local clergy who objected to his views reported him. He was called before the chancellor of the Diocese of Worcester, who, by the account Foxe preserves, threatened and abused him. No formal charge followed.",
+      "responsible": [
+        {
+          "name": "John Bell",
+          "role": "Chancellor of the Diocese of Worcester (later Bishop of Worcester)",
+          "jurisdiction": "Diocese of Worcester, English Church (then under papal authority)",
+          "type": "church"
+        },
+        {
+          "name": "Local Gloucestershire clergy",
+          "role": "Reported him to the diocese",
+          "jurisdiction": "Diocese of Worcester",
+          "type": "group"
+        }
+      ],
+      "outcome": "Released with a warning. He left for London soon afterward.",
+      "sources": [
+        "foxe",
+        "daniell"
+      ]
+    },
+    {
+      "year": 1525,
+      "title": "Printing of his New Testament stopped at Cologne",
+      "summary": "The Catholic controversialist Johann Cochlaeus learned that an English New Testament was being printed in Cologne. He alerted the city authorities through the senator Hermann Rinck, and the city council banned the printing.",
+      "responsible": [
+        {
+          "name": "Johann Cochlaeus",
+          "role": "Catholic theologian and anti-Lutheran writer; informed the authorities",
+          "jurisdiction": "Cologne",
+          "type": "individual"
+        },
+        {
+          "name": "Hermann Rinck",
+          "role": "Cologne city senator; obtained the ban",
+          "jurisdiction": "Free Imperial City of Cologne, Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "City council of Cologne",
+          "role": "Prohibited the printing",
+          "jurisdiction": "Free Imperial City of Cologne, Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Tyndale and his assistant William Roye fled up the Rhine to Worms with the sheets already printed, and completed the New Testament there in 1526.",
+      "sources": [
+        "daniell",
+        "moynahan"
+      ]
+    },
+    {
+      "year": 1526,
+      "date": "1526–1530",
+      "title": "His New Testament banned and burned in England",
+      "summary": "When copies reached England, the Bishop of London banned the translation and preached against it at St Paul's Cross, where copies were burned in October 1526. The Archbishop of Canterbury arranged for copies to be bought up abroad so they could be destroyed. In 1530 a royal proclamation, issued after a meeting of bishops and scholars, banned Tyndale's New Testament and his other books.",
+      "responsible": [
+        {
+          "name": "Cuthbert Tunstall",
+          "role": "Bishop of London; banned the translation and had copies burned",
+          "jurisdiction": "Diocese of London, English Church (under papal authority)",
+          "type": "church"
+        },
+        {
+          "name": "William Warham",
+          "role": "Archbishop of Canterbury; organized buying up copies to destroy them",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "Cardinal Thomas Wolsey",
+          "role": "Lord Chancellor and papal legate; led the 1526 campaign against Lutheran books in England",
+          "jurisdiction": "Kingdom of England; papal legate",
+          "type": "church"
+        },
+        {
+          "name": "Henry VIII",
+          "role": "King of England; issued the 1530 proclamation banning the books",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Most copies of the 1526 edition were destroyed. Only three copies are known to survive.",
+      "sources": [
+        "daniell",
+        "moynahan",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1529,
+      "date": "1529–1532",
+      "title": "Arrest and burning of his readers and distributors in England",
+      "summary": "As Lord Chancellor, Sir Thomas More wrote at length against Tyndale and pursued people who owned or smuggled his books. Several were burned as heretics, among them Thomas Hitton (1530), Richard Bayfield (1531), and James Bainham (1532). Tyndale's brother John was fined in 1530 and paraded through London with the books he had distributed pinned to his clothing.",
+      "responsible": [
+        {
+          "name": "Sir Thomas More",
+          "role": "Lord Chancellor of England (1529–1532); interrogated suspects and wrote against Tyndale",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "John Stokesley",
+          "role": "Bishop of London from 1530; tried heresy suspects, including Bayfield and Bainham",
+          "jurisdiction": "Diocese of London",
+          "type": "church"
+        },
+        {
+          "name": "William Warham",
+          "role": "Archbishop of Canterbury; condemned Thomas Hitton",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        }
+      ],
+      "outcome": "Several of Tyndale's readers and smugglers were executed, and many more were made to recant. Tyndale himself was out of reach on the Continent.",
+      "sources": [
+        "daniell",
+        "moynahan",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1531,
+      "date": "1531–1532",
+      "title": "Henry VIII seeks his return",
+      "summary": "Henry VIII was angered by The Practice of Prelates, which opposed the annulment of his marriage. He had his agent Stephen Vaughan try to persuade Tyndale to come back to England. When Tyndale refused, the king sought to have him handed over from the emperor's lands, according to Daniell through his ambassador Sir Thomas Elyot.",
+      "responsible": [
+        {
+          "name": "Henry VIII",
+          "role": "King of England; wanted Tyndale returned",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Sir Thomas Elyot",
+          "role": "English ambassador to Charles V",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Tyndale stayed in Antwerp, protected by the English merchants' house there.",
+      "sources": [
+        "daniell"
+      ]
+    },
+    {
+      "year": 1535,
+      "date": "May 1535",
+      "title": "Betrayed and arrested in Antwerp",
+      "summary": "Henry Phillips, a young Englishman who had won Tyndale's trust, lured him out of the English House in Antwerp, where he was protected, and pointed him out to imperial officers waiting outside. Tyndale was taken to the state prison in the castle of Vilvoorde, near Brussels. Who paid Phillips is unknown. Historians have suspected English conservative clergy, including Bishop John Stokesley of London, but this has not been proven.",
+      "responsible": [
+        {
+          "name": "Henry Phillips",
+          "role": "Befriended and betrayed him",
+          "jurisdiction": "",
+          "type": "individual"
+        },
+        {
+          "name": "Pierre Dufief",
+          "role": "Procurator-general (chief prosecutor); led the arrest",
+          "jurisdiction": "Duchy of Brabant, Habsburg Netherlands",
+          "type": "state"
+        },
+        {
+          "name": "Government of the Habsburg Netherlands",
+          "role": "Ordered and held the arrest (regent: Mary of Hungary)",
+          "jurisdiction": "Habsburg Netherlands, under Emperor Charles V",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Thomas Poyntz",
+          "role": "English merchant who sheltered him; campaigned for his release and was himself arrested, later escaping"
+        },
+        {
+          "name": "Thomas Cromwell",
+          "role": "Henry VIII's chief minister; wrote letters seeking his release"
+        }
+      ],
+      "outcome": "Imprisoned at Vilvoorde for about sixteen months.",
+      "sources": [
+        "foxe",
+        "daniell",
+        "moynahan"
+      ]
+    },
+    {
+      "year": 1536,
+      "date": "August–October 1536",
+      "title": "Heresy trial and execution",
+      "summary": "Tyndale was tried for heresy under Charles V's edicts against Lutheranism. The commission included theologians from the University of Louvain, who examined him and wrote against his views. He was condemned in August 1536, formally degraded from the priesthood, and handed over to the secular authorities, who strangled him and burned his body at Vilvoorde. No direct part by the pope (Paul III) is recorded: the emperor's government ran the case, with Catholic theologians acting as heresy examiners.",
+      "responsible": [
+        {
+          "name": "Pierre Dufief",
+          "role": "Procurator-general; prosecuted the case",
+          "jurisdiction": "Habsburg Netherlands",
+          "type": "state"
+        },
+        {
+          "name": "Jacobus Latomus",
+          "role": "Louvain theologian; examined him and wrote against his teaching",
+          "jurisdiction": "Faculty of Theology, University of Louvain",
+          "type": "church"
+        },
+        {
+          "name": "Ruard Tapper",
+          "role": "Louvain theologian; member of the heresy commission",
+          "jurisdiction": "Faculty of Theology, University of Louvain",
+          "type": "church"
+        },
+        {
+          "name": "Emperor Charles V's government",
+          "role": "Its heresy laws were the basis of the charge; carried out the execution",
+          "jurisdiction": "Holy Roman Empire / Habsburg Netherlands",
+          "type": "state"
+        }
+      ],
+      "outcome": "Executed at Vilvoorde, traditionally on 6 October 1536.",
+      "sources": [
+        "foxe",
+        "daniell"
+      ]
+    }
+  ],
   "sources": [
     {"id": "tyndale-nt", "type": "primary", "citation": "William Tyndale, Tyndale's New Testament: Translated from the Greek by William Tyndale in 1534, ed. David Daniell (New Haven: Yale University Press, 1989)."},
     {"id": "tyndale-ot", "type": "primary", "citation": "William Tyndale, Tyndale's Old Testament: Being the Pentateuch of 1530, Joshua to 2 Chronicles of 1537, and Jonah, ed. David Daniell (New Haven: Yale University Press, 1992)."},

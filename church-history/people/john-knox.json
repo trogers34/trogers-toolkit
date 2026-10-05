@@ -1,0 +1,394 @@
+{
+  "name": "John Knox",
+  "slug": "john-knox",
+  "era": "Reformation",
+  "role": "Catholic priest turned Protestant preacher, minister of St Giles', Edinburgh, leader of the Scottish Reformation",
+  "born": {
+    "year": 1514,
+    "circa": true,
+    "date": "c. 1514 (older accounts give 1505)",
+    "place": "Haddington, East Lothian, Scotland",
+    "sources": [
+      "dawson",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1572,
+    "date": "24 November 1572",
+    "place": "Edinburgh, Scotland",
+    "sources": [
+      "dawson",
+      "britannica"
+    ]
+  },
+  "summary": "Scottish preacher who survived the French galleys and exile to lead the Scottish Reformation, helping bring about the 1560 break with Rome and shaping the Presbyterian Church of Scotland.",
+  "key_dates": [
+    {
+      "year": 1536,
+      "label": "Ordained a Catholic priest; works as a notary and tutor",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1547,
+      "label": "Called to preach by the Protestant garrison of St Andrews Castle; captured by the French and sent to the galleys",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1549,
+      "label": "Freed from the galleys; becomes a preacher in England",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Appointed a royal chaplain to Edward VI",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1554,
+      "label": "Flees England after Mary I becomes queen",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1556,
+      "label": "Becomes minister of the English congregation in Geneva",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1558,
+      "label": "Publishes The First Blast of the Trumpet Against the Monstrous Regiment of Women",
+      "sources": [
+        "on-rebellion",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1559,
+      "label": "Returns to Scotland; his sermon at Perth sparks the Protestant revolt",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1560,
+      "label": "Reformation Parliament rejects papal authority and adopts the Scots Confession",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1567,
+      "label": "Preaches at the coronation of the infant James VI",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Led the Scottish Reformation. In 1560 the Scottish Parliament rejected the pope's authority, forbade the Mass, and adopted a Protestant confession of faith.",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Co-wrote the Scots Confession (1560) with five other ministers, the confession of faith of the Church of Scotland until it was replaced by the Westminster Confession in 1647.",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Co-wrote the First Book of Discipline (1560), which set out a reformed church order with kirk sessions and called for a school in every parish and care for the poor.",
+      "sources": [
+        "dawson",
+        "marshall"
+      ]
+    },
+    {
+      "text": "Served as minister of St Giles' in Edinburgh from 1559/1560 until his death, the leading pulpit of the Scottish Reformation.",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "As a royal chaplain to Edward VI, influenced the 1552 English Book of Common Prayer, including the \"Black Rubric\" explaining that kneeling at communion did not imply adoration of the bread and wine. He declined the bishopric of Rochester.",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Led the English exile congregation in Geneva (1556–1559), the community that produced the Geneva Bible (1560), though he was not one of its main translators.",
+      "sources": [
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote The First Blast of the Trumpet Against the Monstrous Regiment of Women (1558), arguing that rule by women was contrary to nature and God's law. It was aimed at Catholic queens, but it permanently angered Elizabeth I.",
+      "sources": [
+        "on-rebellion",
+        "dawson"
+      ]
+    },
+    {
+      "text": "Argued in his Appellation (1558) and other works that subjects and nobles may resist rulers who suppress true religion.",
+      "sources": [
+        "on-rebellion",
+        "dawson"
+      ]
+    },
+    {
+      "text": "Confronted Mary, Queen of Scots, in a series of face-to-face interviews (1561–1563), which he recorded in his History.",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "text": "Wrote the History of the Reformation in Scotland, published after his death.",
+      "sources": [
+        "history",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Knox was a galley slave, an exile, a man burned in effigy, an outlaw, and a defendant in a treason trial. He was never executed, and he died of natural causes in Edinburgh in 1572. His mentor George Wishart was burned for heresy in 1546.",
+  "persecution": [
+    {
+      "year": 1546,
+      "date": "1 March 1546",
+      "title": "His mentor George Wishart burned for heresy",
+      "summary": "Knox had become a follower and bodyguard of the Protestant preacher George Wishart, famously carrying a two-handed sword before him. Wishart was arrested, tried for heresy at St Andrews, and burned there. Knox went into hiding. Protestant conspirators murdered Cardinal Beaton three months later, though Knox was not involved.",
+      "responsible": [
+        {
+          "name": "Cardinal David Beaton",
+          "role": "Archbishop of St Andrews and papal legate; had Wishart tried and burned",
+          "jurisdiction": "Archdiocese of St Andrews, Catholic Church in Scotland",
+          "type": "church"
+        }
+      ],
+      "outcome": "Wishart was executed. Knox hid as a tutor until he joined the Protestants holding St Andrews Castle in 1547.",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1547,
+      "date": "July 1547 – early 1549",
+      "title": "Captured at St Andrews and made a galley slave",
+      "summary": "The castle at St Andrews, held by the Protestants who had killed Beaton, surrendered to a French fleet sent to aid the Scottish government. Knox was taken to France and forced to row in the French galleys for about nineteen months, which damaged his health for life.",
+      "responsible": [
+        {
+          "name": "Leone Strozzi",
+          "role": "Commander of the French fleet that took the castle",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        },
+        {
+          "name": "Henry II of France",
+          "role": "King of France; sent the fleet and held the prisoners",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        },
+        {
+          "name": "James Hamilton, Earl of Arran",
+          "role": "Governor (regent) of Scotland; sought French help against the castle",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        }
+      ],
+      "outcome": "Released early in 1549, probably through the intervention of Edward VI's English government.",
+      "sources": [
+        "history",
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1555,
+      "date": "March 1555",
+      "title": "Expelled from Frankfurt",
+      "summary": "Among the English Protestant exiles at Frankfurt, Knox led those who wanted a simpler service than the English Prayer Book. The rival group, led by Richard Cox, gave the city magistrates passages from Knox's writings that called Emperor Charles V an enemy of Christ, which could be treated as treason in an imperial city. The magistrates told Knox to leave.",
+      "responsible": [
+        {
+          "name": "Richard Cox",
+          "role": "Leader of the Prayer Book party among the exiles (later Bishop of Ely)",
+          "jurisdiction": "English exile congregation at Frankfurt",
+          "type": "individual"
+        },
+        {
+          "name": "City magistrates of Frankfurt",
+          "role": "Ordered him to leave",
+          "jurisdiction": "Free Imperial City of Frankfurt, Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "He left for Geneva.",
+      "sources": [
+        "dawson",
+        "marshall"
+      ]
+    },
+    {
+      "year": 1556,
+      "title": "Condemned in his absence; burned in effigy in Edinburgh",
+      "summary": "During a visit to Scotland, Knox was summoned to appear before the bishops in Edinburgh, but the summons was dropped when his supporters gathered. After he returned to Geneva, the Scottish church authorities condemned him as a heretic in his absence and burned an effigy of him at the Market Cross in Edinburgh.",
+      "responsible": [
+        {
+          "name": "Scottish Catholic bishops",
+          "role": "Summoned and condemned him",
+          "jurisdiction": "Catholic Church in Scotland (primate: Archbishop John Hamilton of St Andrews)",
+          "type": "church"
+        }
+      ],
+      "outcome": "Sentenced to death in his absence. He stayed in Geneva until 1559.",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1559,
+      "title": "Declared an outlaw by the regent Mary of Guise",
+      "summary": "When Knox returned to Scotland in May 1559 and his preaching set off the Protestant revolt, the regent Mary of Guise declared him a rebel and outlaw. Elizabeth I, offended by The First Blast of the Trumpet, refused to let him travel through England on his way home.",
+      "responsible": [
+        {
+          "name": "Mary of Guise",
+          "role": "Queen regent of Scotland; outlawed him",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "The Lords of the Congregation",
+          "role": "Protestant nobles who took up arms against the regent and protected him"
+        }
+      ],
+      "outcome": "The Protestant lords won with English military help after Mary of Guise's death in 1560, and Knox became the leading minister in Edinburgh.",
+      "sources": [
+        "history",
+        "dawson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1563,
+      "date": "December 1563",
+      "title": "Tried for treason before the Privy Council",
+      "summary": "After two Protestants were arrested for disrupting a Mass at Holyrood Palace, Knox sent a letter calling Protestants to gather in Edinburgh for their trial. Mary, Queen of Scots, treated this as treason and had him tried before the Privy Council.",
+      "responsible": [
+        {
+          "name": "Mary, Queen of Scots",
+          "role": "Queen of Scotland; brought the charge",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        },
+        {
+          "name": "Privy Council of Scotland",
+          "role": "Heard the case",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        }
+      ],
+      "outcome": "The council acquitted him, to the queen's anger.",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1571,
+      "date": "1570–1572",
+      "title": "Threatened during the civil war; leaves Edinburgh",
+      "summary": "In the civil war between supporters of the deposed Mary, Queen of Scots, and those of the infant James VI, Mary's party held Edinburgh Castle and the city. Knox, weakened by a stroke and a target as the king's party's leading preacher, was threatened. According to his secretary Richard Bannatyne, a shot was fired into his house. In May 1571 he was persuaded to leave for St Andrews.",
+      "responsible": [
+        {
+          "name": "Queen's party (Marian faction)",
+          "role": "Held Edinburgh against the king's party; threatened him",
+          "jurisdiction": "Edinburgh, Kingdom of Scotland",
+          "type": "group"
+        },
+        {
+          "name": "William Kirkcaldy of Grange",
+          "role": "Captain of Edinburgh Castle and leader of the Marian forces there",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        }
+      ],
+      "outcome": "He returned to Edinburgh in August 1572 and died there in November.",
+      "sources": [
+        "dawson",
+        "marshall"
+      ]
+    }
+  ],
+  "excommunication_note": "Knox was a Catholic priest who became a Protestant. The Scottish Catholic bishops condemned him as a heretic in his absence in 1556 and burned his effigy. After the 1560 Reformation, the Catholic Church had no legal authority in Scotland, and the sentence was never lifted.",
+  "excommunications": [
+    {
+      "date": "1556",
+      "by": "Scottish Catholic bishops",
+      "authority": "Catholic Church in Scotland",
+      "reason": "Condemned in his absence as a heretic for his Protestant preaching; burned in effigy at the Market Cross, Edinburgh",
+      "status": "Never lifted; papal jurisdiction in Scotland was abolished in 1560",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "history",
+      "type": "primary",
+      "citation": "John Knox, History of the Reformation in Scotland, ed. William Croft Dickinson, 2 vols. (London: Thomas Nelson, 1949)."
+    },
+    {
+      "id": "on-rebellion",
+      "type": "primary",
+      "citation": "John Knox, On Rebellion, ed. Roger A. Mason (Cambridge: Cambridge University Press, 1994). Includes The First Blast of the Trumpet and the Appellation."
+    },
+    {
+      "id": "dawson",
+      "type": "scholarly",
+      "citation": "Jane E. A. Dawson, John Knox (New Haven: Yale University Press, 2015)."
+    },
+    {
+      "id": "marshall",
+      "type": "scholarly",
+      "citation": "Rosalind K. Marshall, John Knox (Edinburgh: Birlinn, 2000)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"John Knox,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/John-Knox"
+    }
+  ]
+}

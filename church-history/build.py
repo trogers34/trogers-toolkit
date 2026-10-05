@@ -120,6 +120,14 @@ def format_year(year, circa=False):
     return f"c. {text}" if circa else text
 
 
+def life_year(life):
+    return format_year(life["year"], life.get("circa", False))
+
+
+def lifespan(person):
+    return f'{life_year(person["born"])}&ndash;{life_year(person["died"])}'
+
+
 def page(title, body, root=""):
     return f"""<!doctype html>
 <html lang="en">
@@ -159,12 +167,12 @@ def render_person(person):
 
     def life_row(label, life):
         place = f' &middot; {esc(life["place"])}' if life.get("place") else ""
-        return (f'<div><dt>{label}</dt><dd>{esc(life.get("date") or format_year(life["year"]))}'
+        return (f'<div><dt>{label}</dt><dd>{esc(life.get("date") or life_year(life))}'
                 f'{place}{cite(life["sources"], numbers)}</dd></div>')
 
-    events = [{"year": born["year"], "label": "Born", "sources": born["sources"], "kind": "life"}]
+    events = [{"year": born["year"], "label": "Born", "sources": born["sources"], "kind": "life", "circa": born.get("circa")}]
     events += [dict(kd, kind="event") for kd in person["key_dates"]]
-    events.append({"year": died["year"], "label": "Died", "sources": died["sources"], "kind": "life"})
+    events.append({"year": died["year"], "label": "Died", "sources": died["sources"], "kind": "life", "circa": died.get("circa")})
     events.sort(key=lambda e: (e["year"], e["kind"] != "life" or e["label"] == "Died"))
 
     key_dates = "\n".join(
@@ -189,7 +197,7 @@ def render_person(person):
 <article class="person">
   <p class="crumb"><a href="../index.html">&larr; Timeline</a></p>
   <h1>{esc(person["name"])}</h1>
-  <p class="lifespan">{format_year(born["year"])}&ndash;{format_year(died["year"])} &middot; <span class="era">{esc(person["era"])}</span></p>
+  <p class="lifespan">{lifespan(person)} &middot; <span class="era">{esc(person["era"])}</span></p>
   {aka}{role}
   <p class="summary">{esc(person["summary"])}</p>
   <dl class="life">
@@ -315,10 +323,10 @@ def render_timeline(people):
         )
         rows.append(f"""
     <div class="row" data-born="{b}" data-died="{d}">
-      <a class="row-name" href="people/{esc(p["slug"])}.html">{esc(p["name"])}<small>{format_year(b)}&ndash;{format_year(d)}</small></a>
+      <a class="row-name" href="people/{esc(p["slug"])}.html">{esc(p["name"])}<small>{lifespan(p)}</small></a>
       <div class="track">{gridlines}
         <a class="bar" href="people/{esc(p["slug"])}.html" style="left:{pct(b)};width:{width}"
-           data-tip="{esc(p["name"])} ({format_year(b)}&ndash;{format_year(d)})" aria-label="{esc(p["name"])} lifespan"></a>{dots}
+           data-tip="{esc(p["name"])} ({lifespan(p)})" aria-label="{esc(p["name"])} lifespan"></a>{dots}
       </div>
     </div>""")
 
@@ -337,10 +345,10 @@ def render_index(people):
 
     events = []
     for p in people:
-        events.append((p["born"]["year"], 0, p, "Born", False, "life"))
+        events.append((p["born"]["year"], 0, p, "Born", p["born"].get("circa", False), "life"))
         for kd in p["key_dates"]:
             events.append((kd["year"], 1, p, kd["label"], kd.get("circa", False), "event"))
-        events.append((p["died"]["year"], 2, p, "Died", False, "life"))
+        events.append((p["died"]["year"], 2, p, "Died", p["died"].get("circa", False), "life"))
     events.sort(key=lambda e: (e[0], e[1], e[2]["name"]))
 
     event_rows = "\n".join(
@@ -352,7 +360,7 @@ def render_index(people):
 
     cards = "\n".join(
         f'<li><a href="people/{esc(p["slug"])}.html"><strong>{esc(p["name"])}</strong>'
-        f'<span>{format_year(p["born"]["year"])}&ndash;{format_year(p["died"]["year"])} &middot; {esc(p["era"])}</span>'
+        f'<span>{lifespan(p)} &middot; {esc(p["era"])}</span>'
         f'<p>{esc(p["summary"])}</p></a></li>'
         for p in people
     )

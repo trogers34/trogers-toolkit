@@ -1,0 +1,53 @@
+{
+  "name": "William Tyndale",
+  "slug": "william-tyndale",
+  "era": "Reformation",
+  "role": "Scholar, Bible translator, reformer",
+  "born": {
+    "year": 1494,
+    "circa": true,
+    "date": "c. 1494 (exact date unknown)",
+    "place": "Gloucestershire, England, probably near Dursley",
+    "sources": ["daniell", "britannica"]
+  },
+  "died": {
+    "year": 1536,
+    "date": "6 October 1536 (traditional date)",
+    "place": "Vilvoorde, near Brussels (Habsburg Netherlands); strangled and burned as a heretic",
+    "sources": ["foxe", "daniell"]
+  },
+  "summary": "English scholar who made the first printed New Testament in English, translated directly from the Greek, and whose wording carried through into the King James Bible; he was executed for heresy in 1536.",
+  "key_dates": [
+    {"year": 1512, "label": "Takes his BA at Oxford (MA 1515)", "sources": ["daniell"]},
+    {"year": 1522, "label": "Tutor in the Walsh household at Little Sodbury, Gloucestershire", "circa": true, "sources": ["foxe", "daniell"]},
+    {"year": 1523, "label": "Asks Bishop Cuthbert Tunstall of London to support a translation and is turned down", "sources": ["foxe", "daniell"]},
+    {"year": 1524, "label": "Leaves England for Germany to translate in exile", "sources": ["daniell", "britannica"]},
+    {"year": 1525, "label": "First printing at Cologne is raided; he escapes with part of the sheets", "sources": ["daniell"]},
+    {"year": 1526, "label": "Complete English New Testament printed at Worms", "sources": ["tyndale-nt", "daniell"]},
+    {"year": 1528, "label": "Publishes The Obedience of a Christian Man", "sources": ["obedience", "daniell"]},
+    {"year": 1530, "label": "Publishes the Pentateuch, translated from Hebrew", "sources": ["daniell", "britannica"]},
+    {"year": 1534, "label": "Publishes his revised New Testament at Antwerp", "sources": ["tyndale-nt", "daniell"]},
+    {"year": 1535, "label": "Betrayed by Henry Phillips; arrested in Antwerp and imprisoned at Vilvoorde", "sources": ["foxe", "daniell"]}
+  ],
+  "accomplishments": [
+    {"text": "Translated the New Testament into English directly from the Greek. It was the first New Testament printed in English (Worms, 1526); earlier Wycliffite versions were hand-copied translations from the Latin Vulgate.", "sources": ["tyndale-nt", "daniell", "britannica"]},
+    {"text": "Aimed to put Scripture in the hands of ordinary people. Foxe reports him telling a learned opponent that, if God spared his life, he would cause \"a boy that driveth the plough\" to know more of the Scripture than he did.", "sources": ["foxe", "daniell"]},
+    {"text": "Worked in exile after failing to get a bishop's backing in England. His New Testaments were smuggled into England, where church authorities bought up and burned copies, including a public burning at St Paul's in 1526.", "sources": ["daniell", "moynahan"]},
+    {"text": "Translated the first five books of the Old Testament (1530) and Jonah (1531) from Hebrew, the first English translations of those books made from the Hebrew.", "sources": ["daniell", "britannica"]},
+    {"text": "Wrote The Obedience of a Christian Man (1528), arguing for the authority of Scripture and for the obedience of subjects to their king rather than to the pope.", "sources": ["obedience", "daniell"]},
+    {"text": "Opposed Henry VIII's plan to annul his marriage to Catherine of Aragon in The Practice of Prelates (1530), costing himself the king's favor.", "sources": ["daniell", "britannica"]},
+    {"text": "Defended his translation choices and Reformation teaching in a printed debate with Sir Thomas More, including An Answer unto Sir Thomas More's Dialogue (1531).", "sources": ["daniell", "britannica"]},
+    {"text": "Introduced English words such as \"Passover\" and \"scapegoat,\" along with many phrases still in common use.", "sources": ["daniell", "britannica"]},
+    {"text": "Laid the foundation of later English Bibles: his work was the basis of Matthew's Bible (1537) and the Great Bible (1539). One study estimates that about 83% of the King James New Testament (1611) keeps his wording.", "sources": ["nielson-skousen", "daniell"]},
+    {"text": "Was condemned as a heretic and executed at Vilvoorde in 1536. Foxe records his last words as a prayer: \"Lord, open the King of England's eyes.\"", "sources": ["foxe", "daniell"]}
+  ],
+  "sources": [
+    {"id": "tyndale-nt", "type": "primary", "citation": "William Tyndale, Tyndale's New Testament: Translated from the Greek by William Tyndale in 1534, ed. David Daniell (New Haven: Yale University Press, 1989)."},
+    {"id": "obedience", "type": "primary", "citation": "William Tyndale, The Obedience of a Christian Man (1528), ed. David Daniell (London: Penguin Classics, 2000)."},
+    {"id": "foxe", "type": "primary", "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Account of the life and death of William Tyndale."},
+    {"id": "daniell", "type": "scholarly", "citation": "David Daniell, William Tyndale: A Biography (New Haven: Yale University Press, 1994)."},
+    {"id": "moynahan", "type": "scholarly", "citation": "Brian Moynahan, God's Bestseller: William Tyndale, Thomas More, and the Writing of the English Bible (New York: St. Martin's Press, 2003)."},
+    {"id": "nielson-skousen", "type": "scholarly", "citation": "Jon Nielson and Royal Skousen, \"How Much of the King James Bible Is William Tyndale's? An Estimation Based on Sampling,\" Reformation 3 (1998): 49–74."},
+    {"id": "britannica", "type": "reference", "citation": "\"William Tyndale,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/William-Tyndale"}
+  ]
+}

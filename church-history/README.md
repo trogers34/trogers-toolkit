@@ -40,7 +40,7 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `also_known_as`, `role` | optional |
 | `era` | groups people into the timeline zoom buttons: `Early Church`, `Medieval`, `Reformation`, `Modern` |
 | `summary` | one sentence |
-| `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources` |
+| `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources`, optional `circa: true` |
 | `key_dates` | `year`, `label`, `sources`, optional `circa: true`. Shown on the home-page timeline |
 | `accomplishments` | `text`, `sources`. The bullet points on the person's page |
 | `sources` | `id`, `type` (`primary` / `scholarly` / `reference`), `citation`, optional `url` |

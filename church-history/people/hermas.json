@@ -1,0 +1,109 @@
+{
+  "name": "Hermas",
+  "slug": "hermas",
+  "also_known_as": "Author of the Shepherd of Hermas",
+  "era": "Early Church",
+  "role": "Christian layman and prophet in Rome; author of the Shepherd",
+  "born": {
+    "year": 70,
+    "circa": true,
+    "date": "Unknown (active c. 90–150)",
+    "place": "Unknown; lived in Rome",
+    "sources": [
+      "osiek",
+      "odcc"
+    ]
+  },
+  "died": {
+    "year": 150,
+    "circa": true,
+    "date": "Unknown",
+    "place": "Probably Rome",
+    "sources": [
+      "osiek",
+      "odcc"
+    ]
+  },
+  "summary": "Roman Christian, by his own account a former slave, who wrote the Shepherd, a book of visions and moral instruction that many early churches read as Scripture. He is one of the \"Apostolic Fathers,\" the earliest Christian writers after the New Testament (c. 90–150).",
+  "key_dates": [
+    {
+      "year": 95,
+      "circa": true,
+      "label": "Earliest visions of the Shepherd, which mentions a Clement sending letters to other churches",
+      "sources": [
+        "holmes",
+        "osiek"
+      ]
+    },
+    {
+      "year": 140,
+      "circa": true,
+      "label": "The Shepherd reaches its final form, while his brother Pius is bishop of Rome (according to the Muratorian Fragment)",
+      "sources": [
+        "metzger",
+        "osiek"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Shepherd of Hermas, made up of five Visions, twelve Mandates (commandments), and ten Similitudes (parables), the longest of the Apostolic Fathers' writings.",
+      "sources": [
+        "holmes",
+        "osiek"
+      ]
+    },
+    {
+      "text": "Taught that Christians who sinned seriously after baptism could be given one further chance to repent, an important stage in the history of penance in the church.",
+      "sources": [
+        "osiek",
+        "jefford"
+      ]
+    },
+    {
+      "text": "Pictured the church as a tower being built from stones that are believers, some fit and some rejected.",
+      "sources": [
+        "holmes",
+        "osiek"
+      ]
+    },
+    {
+      "text": "His book was widely treated as Scripture: Irenaeus quoted it as such, and it was copied in the 4th-century Codex Sinaiticus after the New Testament. The Muratorian Fragment allowed it to be read privately but not in church as Scripture.",
+      "sources": [
+        "metzger",
+        "osiek"
+      ]
+    }
+  ],
+  "persecution_note": "No persecution of Hermas himself is recorded. The Shepherd refers to Christians suffering and denying the faith under persecution, but gives no account of Hermas being arrested. The later North African writer Tertullian, after he joined the strict Montanist movement, attacked the book as \"the shepherd of adulterers\" for offering repentance after baptism.",
+  "persecution": [],
+  "excommunication_note": "No excommunication or condemnation of him is recorded.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "metzger",
+      "type": "scholarly",
+      "citation": "Bruce M. Metzger, The Canon of the New Testament: Its Origin, Development, and Significance (Oxford: Clarendon Press, 1987). Includes a translation of the Muratorian Fragment."
+    },
+    {
+      "id": "osiek",
+      "type": "scholarly",
+      "citation": "Carolyn Osiek, Shepherd of Hermas: A Commentary, Hermeneia (Minneapolis: Fortress Press, 1999)."
+    },
+    {
+      "id": "jefford",
+      "type": "scholarly",
+      "citation": "Clayton N. Jefford, Reading the Apostolic Fathers: A Student's Introduction, 2nd ed. (Grand Rapids: Baker Academic, 2012)."
+    },
+    {
+      "id": "odcc",
+      "type": "reference",
+      "citation": "F. L. Cross and E. A. Livingstone, eds., The Oxford Dictionary of the Christian Church, 3rd ed. (Oxford: Oxford University Press, 1997)."
+    }
+  ]
+}

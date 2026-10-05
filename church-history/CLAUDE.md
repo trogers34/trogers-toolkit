@@ -38,7 +38,10 @@ When the user names a person from church history, add them to the site:
    pull request to `master`, wait for its "build" check to pass, merge it, then confirm the
    "Church History site" workflow run on `master` succeeded so the live site is rebuilt.
    If a check fails, fix it before merging. Report the live page URL when done.
-6. If a name is ambiguous, pick the most likely church-history figure, say which one you
+6. If the user asks for a group (e.g. "the first generation of church fathers"), list the
+   people for approval first, then add the ones approved. For anonymous writings, cover them
+   on related people's pages rather than giving them their own page, unless asked.
+7. If a name is ambiguous, pick the most likely church-history figure, say which one you
    chose, and offer to swap (e.g. "Nicolas" was taken as Nicholas of Myra; "Knox" as John
    Knox).
 
@@ -49,6 +52,13 @@ Live site: https://trogers34.github.io/trogers-toolkit/
 Keep this list in sync with `people/` (the tests check it). Grouped by era, oldest first.
 
 **Early Church**
+- Clement of Rome (`clement-of-rome`): Apostolic Father; most dates and his martyrdom are tradition
+- Ignatius of Antioch (`ignatius-of-antioch`): Apostolic Father
+- Papias of Hierapolis (`papias-of-hierapolis`): Apostolic Father
+- Polycarp of Smyrna (`polycarp-of-smyrna`): Apostolic Father
+- Hermas (`hermas`): Apostolic Father; author of the Shepherd
+- Quadratus of Athens (`quadratus-of-athens`): Apostolic Father / earliest apologist
+- Pseudo-Barnabas (`pseudo-barnabas`): anonymous author of the Epistle of Barnabas; lifespan placeholders
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)

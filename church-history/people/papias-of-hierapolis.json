@@ -1,0 +1,113 @@
+{
+  "name": "Papias of Hierapolis",
+  "slug": "papias-of-hierapolis",
+  "era": "Early Church",
+  "role": "Bishop of Hierapolis in Phrygia; collector of traditions about Jesus",
+  "born": {
+    "year": 60,
+    "circa": true,
+    "date": "Unknown (c. 60–70)",
+    "place": "Unknown; probably Asia Minor",
+    "sources": [
+      "bauckham",
+      "odcc"
+    ]
+  },
+  "died": {
+    "year": 130,
+    "circa": true,
+    "date": "Unknown (c. 130)",
+    "place": "Unknown",
+    "sources": [
+      "bauckham",
+      "odcc"
+    ]
+  },
+  "summary": "Early 2nd-century bishop of Hierapolis who gathered oral traditions from people who had known Jesus' followers. His lost work survives only in quotations, including the earliest statements about how the Gospels of Mark and Matthew were written. He is one of the \"Apostolic Fathers,\" the earliest Christian writers after the New Testament (c. 90–150).",
+  "key_dates": [
+    {
+      "year": 120,
+      "circa": true,
+      "label": "Writes the Exposition of the Sayings of the Lord (proposed dates range from c. 95 to c. 130)",
+      "sources": [
+        "bauckham",
+        "holmes"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Exposition of the Sayings of the Lord in five books, now lost except for quotations in later writers, especially Irenaeus and Eusebius.",
+      "sources": [
+        "holmes",
+        "eusebius"
+      ]
+    },
+    {
+      "text": "Preserved the earliest tradition about the Gospel of Mark: that Mark had been Peter's interpreter and wrote down accurately, though not in order, what he remembered of Peter's teaching.",
+      "sources": [
+        "eusebius",
+        "bauckham"
+      ]
+    },
+    {
+      "text": "Also said that Matthew collected the sayings of Jesus \"in the Hebrew language,\" a statement still debated by scholars.",
+      "sources": [
+        "eusebius",
+        "bauckham"
+      ]
+    },
+    {
+      "text": "Said he preferred to learn from people who had known the apostles and from \"the elder John\" rather than from books. Irenaeus said Papias had heard the apostle John; Eusebius argued he meant a different John, \"the Elder.\"",
+      "sources": [
+        "eusebius",
+        "bauckham"
+      ]
+    },
+    {
+      "text": "Taught a literal thousand-year reign of Christ on earth, for which Eusebius dismissed him as \"a man of very little intelligence.\"",
+      "sources": [
+        "eusebius",
+        "holmes"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I did not think that information from books would help me as much as the word of a living and surviving voice.\"",
+        "reference": "Preface to his Exposition, quoted by Eusebius, History of the Church 3.39",
+        "sources": [
+          "eusebius",
+          "holmes"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "No reliable record of persecution of Papias survives. A late tradition that he was martyred at Pergamum probably comes from confusing him with a different martyr, Papylus.",
+  "persecution": [],
+  "excommunication_note": "No excommunication or condemnation of him is recorded. Eusebius criticized his millennial teaching, but that was a later historian's judgment, not a church sentence.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "eusebius",
+      "type": "primary",
+      "citation": "Eusebius, The History of the Church, trans. G. A. Williamson, rev. Andrew Louth (London: Penguin, 1989). Written c. 300–325."
+    },
+    {
+      "id": "bauckham",
+      "type": "scholarly",
+      "citation": "Richard Bauckham, Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony, 2nd ed. (Grand Rapids: Eerdmans, 2017)."
+    },
+    {
+      "id": "odcc",
+      "type": "reference",
+      "citation": "F. L. Cross and E. A. Livingstone, eds., The Oxford Dictionary of the Christian Church, 3rd ed. (Oxford: Oxford University Press, 1997)."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Quadratus of Athens",
+  "slug": "quadratus-of-athens",
+  "also_known_as": "Quadratus the Apologist",
+  "era": "Early Church",
+  "role": "Christian apologist (defender of the faith); possibly a bishop of Athens",
+  "born": {
+    "year": 70,
+    "circa": true,
+    "date": "Unknown",
+    "place": "Unknown; probably Asia Minor or Athens",
+    "sources": [
+      "grant",
+      "odcc"
+    ]
+  },
+  "died": {
+    "year": 130,
+    "circa": true,
+    "date": "Unknown",
+    "place": "Unknown",
+    "sources": [
+      "grant",
+      "odcc"
+    ]
+  },
+  "summary": "Author of the earliest known Christian apology, a written defense of the faith presented to Emperor Hadrian around 125. Only a single sentence survives. He is counted with both the Apostolic Fathers and the later Apologists.",
+  "key_dates": [
+    {
+      "year": 125,
+      "circa": true,
+      "label": "Presents his apology to Emperor Hadrian (c. 124–125)",
+      "sources": [
+        "eusebius",
+        "grant"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the first known Christian apology, a defense of Christianity addressed to Emperor Hadrian, beginning the tradition of 2nd-century apologetic writing.",
+      "sources": [
+        "eusebius",
+        "grant"
+      ]
+    },
+    {
+      "text": "His one surviving fragment, preserved by Eusebius, says that some of those Jesus healed or raised from the dead had lived on \"even to our own times.\"",
+      "sources": [
+        "eusebius",
+        "holmes"
+      ]
+    },
+    {
+      "text": "Eusebius reports that his apology was still in circulation in Eusebius's own day, about two centuries later.",
+      "sources": [
+        "eusebius"
+      ]
+    },
+    {
+      "text": "Some scholars have suggested that the anonymous Epistle to Diognetus may be his lost apology, but this is unproven.",
+      "sources": [
+        "holmes",
+        "grant"
+      ]
+    }
+  ],
+  "persecution_note": "No reliable record of persecution of Quadratus survives. Later traditions about him combine several different men named Quadratus (an apologist, a prophet, and a bishop of Athens), and they cannot be confirmed. His apology may have been written in response to hostility toward Christians.",
+  "persecution": [],
+  "excommunication_note": "No excommunication or condemnation of him is recorded.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "holmes",
+      "type": "primary",
+      "citation": "Michael W. Holmes, ed. and trans., The Apostolic Fathers: Greek Texts and English Translations, 3rd ed. (Grand Rapids: Baker Academic, 2007)."
+    },
+    {
+      "id": "eusebius",
+      "type": "primary",
+      "citation": "Eusebius, The History of the Church, trans. G. A. Williamson, rev. Andrew Louth (London: Penguin, 1989). Written c. 300–325."
+    },
+    {
+      "id": "grant",
+      "type": "scholarly",
+      "citation": "Robert M. Grant, Greek Apologists of the Second Century (Philadelphia: Westminster Press, 1988)."
+    },
+    {
+      "id": "odcc",
+      "type": "reference",
+      "citation": "F. L. Cross and E. A. Livingstone, eds., The Oxford Dictionary of the Christian Church, 3rd ed. (Oxford: Oxford University Press, 1997)."
+    }
+  ]
+}

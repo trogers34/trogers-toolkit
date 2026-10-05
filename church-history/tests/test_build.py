@@ -24,6 +24,21 @@ VALID = {
     "sources": [{"id": "s1", "type": "scholarly", "citation": "A Book."}],
 }
 
+VALID_EVENT = {
+    "name": "Test Council",
+    "slug": "test-council",
+    "era": "Early Church",
+    "event_type": "council",
+    "summary": "A test council.",
+    "start": {"year": 325, "sources": ["s1"]},
+    "end": {"year": 326, "sources": ["s1"]},
+    "key_dates": [{"year": 325, "label": "Creed issued", "sources": ["s1"]}],
+    "happened": [{"text": "Bishops met.", "sources": ["s1"]}],
+    "outcomes": [{"text": "A creed.", "sources": ["s1"]}],
+    "participants": [{"name": "Test Person", "role": "Attended", "person": "test-person"}],
+    "sources": [{"id": "s1", "type": "primary", "citation": "Acts."}],
+}
+
 
 class ValidatePersonTest(unittest.TestCase):
     def errors_for(self, mutate):
@@ -106,21 +121,33 @@ class BuildTest(unittest.TestCase):
         # Fails if someone edited people/ without re-running build.py.
         people = build.load_people()
         index = (build.SITE_DIR / "index.html").read_text(encoding="utf-8")
-        self.assertEqual(index, build.render_index(people), "site/ is stale: run python3 build.py")
+        events = build.load_events({p["slug"] for p in people})
+        self.assertEqual(index, build.render_index(people, events), "site/ is stale: run python3 build.py")
+        for event in events:
+            self.assertIn(f'href="events/{event["slug"]}.html"', index)
+            page = build.SITE_DIR / "events" / f'{event["slug"]}.html'
+            self.assertTrue(page.exists(), f"missing {page.name}: run python3 build.py")
+            self.assertEqual(page.read_text(encoding="utf-8"), build.render_event(event, people),
+                             f"{page.name} is stale: run python3 build.py")
         for person in people:
             self.assertIn(f'href="people/{person["slug"]}.html"', index)
             page = build.SITE_DIR / "people" / f'{person["slug"]}.html'
             self.assertTrue(page.exists(), f"missing {page.name}: run python3 build.py")
-            self.assertEqual(page.read_text(encoding="utf-8"), build.render_person(person),
+            self.assertEqual(page.read_text(encoding="utf-8"), build.render_person(person, events),
                              f"{page.name} is stale: run python3 build.py")
 
     def test_claude_md_lists_every_person(self):
         # CLAUDE.md is the project's memory; its roster must match people/.
         import re
-        listed = set(re.findall(r"\(`([a-z0-9-]+)`\)", (build.ROOT / "CLAUDE.md").read_text(encoding="utf-8")))
+        memory = (build.ROOT / "CLAUDE.md").read_text(encoding="utf-8")
+        listed = set(re.findall(r"\(`([a-z0-9-]+)`\)", memory))
         on_site = {p.stem for p in build.PEOPLE_DIR.glob("*.json")}
         self.assertEqual(on_site - listed, set(), "add these people to CLAUDE.md")
         self.assertEqual(listed - on_site, set(), "CLAUDE.md lists people with no data file")
+        listed_events = set(re.findall(r"\(event: `([a-z0-9-]+)`\)", memory))
+        events = {p.stem for p in build.EVENTS_DIR.glob("*.json")}
+        self.assertEqual(events - listed_events, set(), "add these events to CLAUDE.md")
+        self.assertEqual(listed_events - events, set(), "CLAUDE.md lists events with no data file")
 
     def test_build_writes_pages(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -194,6 +221,45 @@ class BuildTest(unittest.TestCase):
         self.assertIn("<h3>Excommunications</h3>", page)
         self.assertIn("Pope Leo X", page)
         self.assertIn("Never lifted", page)
+
+
+class EventTest(unittest.TestCase):
+    def errors_for(self, mutate):
+        event = copy.deepcopy(VALID_EVENT)
+        mutate(event)
+        return build.validate_event(event, "test-council", {"test-person"})
+
+    def test_valid_event_has_no_errors(self):
+        self.assertEqual(self.errors_for(lambda e: None), [])
+
+    def test_event_checks(self):
+        self.assertTrue(any("event_type" in e for e in self.errors_for(lambda e: e.update(event_type="party"))))
+        self.assertIn("happened[0] has no sources", self.errors_for(lambda e: e["happened"][0].update(sources=[])))
+        self.assertTrue(any("outside the event's dates" in e
+                            for e in self.errors_for(lambda e: e["key_dates"][0].update(year=400))))
+        self.assertTrue(any("unknown person 'nobody'" in e
+                            for e in self.errors_for(lambda e: e["participants"][0].update(person="nobody"))))
+        self.assertIn("'outcomes' needs at least one item", self.errors_for(lambda e: e.update(outcomes=[])))
+
+    def test_events_share_the_timeline_and_link_to_people(self):
+        person, event = copy.deepcopy(VALID), copy.deepcopy(VALID_EVENT)
+        index = build.render_index([person], [event])
+        self.assertIn('class="row event-row" data-born="325" data-died="326"', index)
+        self.assertIn('class="row person-row" data-born="300"', index)
+        self.assertLess(index.index("person-row"), index.index("event-row"))
+        self.assertIn("Creed issued", index)
+        self.assertIn('href="events/test-council.html"', index)
+        page = build.render_person(person, [event])
+        self.assertIn('<h2>Events</h2>', page)
+        self.assertIn('href="../events/test-council.html"', page)
+        event_page = build.render_event(event, [person])
+        self.assertIn('href="../people/test-person.html"', event_page)
+        self.assertIn("This page was fully generated by AI, using Claude", event_page)
+
+    def test_build_writes_event_pages(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            build.build([copy.deepcopy(VALID)], Path(tmp) / "site", [copy.deepcopy(VALID_EVENT)])
+            self.assertTrue((Path(tmp) / "site" / "events" / "test-council.html").exists())
 
 
 if __name__ == "__main__":

@@ -1,0 +1,218 @@
+{
+  "name": "Council of Trent",
+  "slug": "council-of-trent",
+  "era": "Reformation",
+  "event_type": "council",
+  "summary": "The Catholic Church's council in response to the Protestant Reformation, which defined Catholic teaching against Protestant doctrines and launched wide-ranging reforms.",
+  "place": "Trento, Prince-Bishopric of Trent (modern Italy); briefly Bologna (1547–1549)",
+  "start": {
+    "year": 1545,
+    "date": "13 December 1545",
+    "sources": [
+      "tanner",
+      "omalley"
+    ]
+  },
+  "end": {
+    "year": 1563,
+    "date": "4 December 1563",
+    "sources": [
+      "tanner",
+      "omalley"
+    ]
+  },
+  "key_dates": [
+    {
+      "year": 1546,
+      "label": "Decree on Scripture and tradition",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "year": 1547,
+      "label": "Decree on justification; council moved to Bologna",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Second period opens; decree on the Eucharist",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1562,
+      "label": "Third period opens; decree on the Mass",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "Luther and other reformers had called for a free general council since 1518; years of conflict between the papacy, Charles V, and France delayed it.",
+      "sources": [
+        "omalley",
+        "jedin"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "The council met in three periods: 1545–1547 (moved to Bologna in 1547) under Paul III, 1551–1552 under Julius III, and 1562–1563 under Pius IV; attendance was small at first, rising to over 200 bishops at the end, most of them Italian.",
+      "sources": [
+        "omalley",
+        "jedin"
+      ]
+    },
+    {
+      "text": "In April 1546 it declared Scripture and unwritten tradition both to be received with equal reverence, fixed the canon including the deuterocanonical books, and made the Latin Vulgate the authoritative text.",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    },
+    {
+      "text": "In January 1547 it issued its decree on justification, rejecting justification by faith alone with 33 canons pronouncing anathema on those who taught it.",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    },
+    {
+      "text": "It affirmed seven sacraments, transubstantiation (1551), and the Mass as a true sacrifice (1562), each with anathemas on opposing views.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "Protestant delegates from Württemberg, Strasbourg, and Saxony came to the second period in 1551–1552 under safe conduct, but no real debate took place.",
+      "sources": [
+        "omalley",
+        "jedin"
+      ]
+    },
+    {
+      "text": "In 1563 it required bishops to live in their dioceses, ordered a seminary in each diocese to train priests, and regulated marriage (the decree Tametsi).",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Paul III, Julius III, Pius IV",
+      "role": "Popes who convened and resumed it; none attended in person"
+    },
+    {
+      "name": "Giovanni Morone",
+      "role": "Papal legate who steered the final period to a close"
+    },
+    {
+      "name": "Reginald Pole",
+      "role": "One of the first papal legates"
+    },
+    {
+      "name": "Charles Borromeo",
+      "role": "Pius IV's nephew and secretary of state; later a leading enforcer of the decrees"
+    },
+    {
+      "name": "Martin Luther",
+      "role": "Not present; died in 1546, two months after the council opened, and its decrees on justification and Scripture answered his teaching",
+      "person": "martin-luther"
+    },
+    {
+      "name": "Martin Chemnitz",
+      "role": "Not present; wrote the four-volume Lutheran reply, Examination of the Council of Trent (1565–1573)",
+      "person": "martin-chemnitz"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Its decrees defined Catholic teaching for four centuries, until the Second Vatican Council (1962–1965), which did not revoke them.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "It led to the Roman Catechism (1566), a revised Missal (1570), and a revised Vulgate (1592), giving the Catholic Church a uniform liturgy.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "It confirmed the division between Catholics and Protestants; Protestants rejected it as neither free nor general.",
+      "sources": [
+        "chemnitz",
+        "omalley"
+      ]
+    }
+  ],
+  "condemnations_note": "Trent condemned doctrines, not named people. Its canons pronounce 'let him be anathema' on anyone holding the listed Protestant positions. In 1999 the Joint Declaration on the Doctrine of Justification between the Catholic Church and the Lutheran World Federation stated that the condemnations of the 16th century on justification do not apply to the teaching of the Lutheran churches as set out in that declaration.",
+  "condemnations": [
+    {
+      "date": "13 January 1547",
+      "by": "Council of Trent",
+      "authority": "General council of the Catholic Church",
+      "reason": "33 canons pronouncing anathema on teachings about justification, including justification by faith alone",
+      "status": "Remain in force; the 1999 Joint Declaration says they do not apply to the Lutheran teaching it describes",
+      "sources": [
+        "tanner",
+        "jddj"
+      ]
+    },
+    {
+      "date": "1547–1563",
+      "by": "Council of Trent",
+      "authority": "General council of the Catholic Church",
+      "reason": "Anathemas on Protestant teachings about the sacraments, the Eucharist, the Mass, and the priesthood",
+      "status": "Remain in force",
+      "sources": [
+        "tanner"
+      ]
+    }
+  ],
+  "persecution_note": "The council itself did not try or punish anyone. The Roman Inquisition and the Index of Prohibited Books, which enforced Catholic teaching in this period, were separate institutions run by the papacy.",
+  "persecution": [],
+  "sources": [
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 2: Trent to Vatican II. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "chemnitz",
+      "type": "primary",
+      "citation": "Martin Chemnitz, Examination of the Council of Trent, trans. Fred Kramer, 4 vols. St. Louis: Concordia Publishing House, 1971–1986."
+    },
+    {
+      "id": "jddj",
+      "type": "primary",
+      "citation": "Lutheran World Federation and Pontifical Council for Promoting Christian Unity, Joint Declaration on the Doctrine of Justification, 31 October 1999."
+    },
+    {
+      "id": "omalley",
+      "type": "scholarly",
+      "citation": "John W. O'Malley, Trent: What Happened at the Council. Cambridge, MA: Belknap Press of Harvard University Press, 2013."
+    },
+    {
+      "id": "jedin",
+      "type": "scholarly",
+      "citation": "Hubert Jedin, A History of the Council of Trent, trans. Ernest Graf, 2 vols. London: Thomas Nelson, 1957–1961."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Trent.\" Encyclopaedia Britannica."
+    }
+  ]
+}

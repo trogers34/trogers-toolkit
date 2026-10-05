@@ -1,0 +1,68 @@
+{
+  "name": "St. Bartholomew's Day Massacre",
+  "slug": "st-bartholomews-day-massacre",
+  "era": "Reformation",
+  "event_type": "massacre",
+  "summary": "The killing of Huguenot (French Protestant) leaders in Paris on royal orders, which turned into mass killings of Protestants by Catholic crowds in Paris and other French cities.",
+  "place": "Paris, then about a dozen other French cities",
+  "start": {"year": 1572, "date": "Night of 23–24 August 1572", "sources": ["diefendorf", "holt"]},
+  "end": {"year": 1572, "date": "Paris killings c. 24–29 August; provincial killings into October 1572", "sources": ["diefendorf", "holt"]},
+  "background": [
+    {"text": "France had fought three religious wars since 1562; the Peace of Saint-Germain (1570) gave Huguenots limited toleration and brought their leader, Admiral Gaspard de Coligny, into the royal council.", "sources": ["holt", "diefendorf"]},
+    {"text": "On 18 August 1572 the king's Catholic sister Margaret of Valois married the Protestant Henry of Navarre in Paris, drawing many Huguenot nobles to a city that was strongly Catholic and hostile to them.", "sources": ["holt", "diefendorf-bedford"]},
+    {"text": "On 22 August an assassin, probably acting for the Guise family, shot and wounded Coligny.", "sources": ["holt", "diefendorf-bedford"]}
+  ],
+  "happened": [
+    {"text": "After a council meeting on 23 August, Charles IX authorized the killing of Coligny and other Huguenot military leaders, apparently fearing a Huguenot revenge for the attack on Coligny.", "sources": ["holt", "diefendorf-bedford"]},
+    {"text": "Early on 24 August, St. Bartholomew's Day, the Duke of Guise's men killed Coligny in his lodging and threw his body from the window; Huguenot nobles lodged in the Louvre were killed in the courtyard.", "sources": ["holt", "diefendorf"]},
+    {"text": "Members of the Paris militia and Catholic crowds then killed Protestants of every rank across the city for several days, despite royal orders to stop.", "sources": ["diefendorf", "holt"]},
+    {"text": "From late August into October, killings followed in about a dozen cities, including Lyon, Orléans, Rouen, Meaux, Bourges, Toulouse, and Bordeaux.", "sources": ["holt", "diefendorf-bedford"]},
+    {"text": "Henry of Navarre and the Prince of Condé were spared by converting to Catholicism under pressure.", "sources": ["holt"]}
+  ],
+  "participants": [
+    {"name": "Charles IX", "role": "King of France; authorized the killing of the Huguenot leaders and took public responsibility"},
+    {"name": "Catherine de' Medici", "role": "Queen mother; most historians see her as central to the decision, though how far is debated"},
+    {"name": "Henry, Duke of Anjou", "role": "The king's brother (later Henry III); part of the decision"},
+    {"name": "Henry, Duke of Guise", "role": "Catholic leader; led the killing of Coligny"},
+    {"name": "Gaspard de Coligny", "role": "Admiral of France and Huguenot leader; killed"},
+    {"name": "Henry of Navarre", "role": "Protestant leader and the king's new brother-in-law; spared after converting (later Henry IV)"},
+    {"name": "Gregory XIII", "role": "Pope; did not order the massacre but celebrated it in Rome"}
+  ],
+  "outcomes": [
+    {"text": "Estimates are about 2,000–3,000 dead in Paris and roughly 5,000 to 10,000 across France in all; some older and contemporary estimates go much higher.", "sources": ["holt", "diefendorf-bedford"]},
+    {"text": "The killings started a fourth religious war and led Huguenot writers to develop theories of resistance to tyrannical kings, such as the Vindiciae contra tyrannos (1579).", "sources": ["holt", "kingdon"]},
+    {"text": "Many Huguenots converted or emigrated, and Protestantism in northern France never recovered its earlier strength.", "sources": ["holt", "diefendorf"]}
+  ],
+  "persecution_note": "Responsibility is still debated, especially how far the massacre was planned in advance (most historians now say it was not) and Catherine de' Medici's personal role. All parties named below are recorded in contemporary sources.",
+  "persecution": [
+    {"year": 1572, "date": "24 August 1572", "title": "Killing of Coligny and the Huguenot leaders", "summary": "The royal council's decision was carried out by the Duke of Guise's men and the king's guards. Charles IX told the Parlement of Paris on 26 August that he had ordered it to stop a Protestant conspiracy against the crown.", "responsible": [
+      {"name": "Charles IX", "role": "King of France; authorized the killings", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Catherine de' Medici", "role": "Queen mother and royal councillor", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Henry, Duke of Anjou", "role": "The king's brother and royal councillor", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Henry, Duke of Guise", "role": "Led the attack on Coligny", "jurisdiction": "House of Guise / Kingdom of France", "type": "individual"},
+      {"name": "Royal guards", "role": "Killed Huguenot nobles at the Louvre", "jurisdiction": "Royal household", "type": "state"}
+    ], "outcome": "Coligny and dozens of Huguenot noble leaders killed.", "sources": ["holt", "diefendorf-bedford", "kingdon"]},
+    {"year": 1572, "date": "24 August – October 1572", "title": "Mass killing of Protestants in Paris and the provinces", "summary": "Parish militias and crowds, encouraged by Catholic preachers who had denounced the Protestants for years, killed men, women, and children. In some provincial cities local governors or councils took part or allowed it; in others officials protected Protestants.", "responsible": [
+      {"name": "Paris militia and Catholic crowds", "role": "Carried out most of the killing", "jurisdiction": "City of Paris", "type": "group"},
+      {"name": "Catholic preachers of Paris", "role": "Had preached against Protestants and toleration", "jurisdiction": "Catholic Church in France", "type": "church"},
+      {"name": "Local officials in Lyon, Rouen, Toulouse, Bordeaux, and other cities", "role": "Took part or failed to protect Protestants", "jurisdiction": "Kingdom of France (local governments)", "type": "state"}
+    ], "outcome": "Thousands killed; about 2,000–3,000 in Paris.", "sources": ["diefendorf", "holt"]},
+    {"year": 1572, "date": "September 1572", "title": "Papal celebration of the massacre", "summary": "Gregory XIII did not order the massacre. On hearing the news he held a Te Deum of thanksgiving, struck a commemorative medal, and later had the event painted by Giorgio Vasari in the Vatican's Sala Regia, accepting the French court's account of a foiled Protestant plot.", "responsible": [
+      {"name": "Gregory XIII", "role": "Pope", "jurisdiction": "Papacy", "type": "church"}
+    ], "outcome": "Public approval only; no papal role in the killings is recorded.", "sources": ["holt", "diefendorf-bedford"]}
+  ],
+  "victims_title": "Notable people killed",
+  "victims_subject": "the massacre",
+  "victims_intro": "A short list of named victims. Most of the thousands killed are known only from parish and city records.",
+  "victims": [
+    {"name": "Gaspard de Coligny", "executed": "Killed in Paris, 24 August 1572", "condemned_by": "Charles IX's council; killed by the Duke of Guise's men", "allegation": "Killed as the leader of the Huguenots, the first target of the massacre.", "verification": {"execution": "verified", "link": "verified"}, "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Gaspard+de+Coligny"}], "sources": ["holt", "diefendorf-bedford"]},
+    {"name": "Petrus Ramus (Pierre de la Ramée)", "executed": "Killed in Paris, 26 August 1572", "condemned_by": "Killers in Paris; some contemporaries blamed his academic rival Jacques Charpentier", "allegation": "The Protestant philosopher was killed in the Collège de Presles during the massacre.", "verification": {"execution": "verified", "link": "verified"}, "verification_note": "His death in the massacre is well documented; Charpentier's role is an accusation of the time and is not proven.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Petrus+Ramus"}], "sources": ["holt", "britannica"]}
+  ],
+  "sources": [
+    {"id": "diefendorf", "type": "scholarly", "citation": "Barbara B. Diefendorf, Beneath the Cross: Catholics and Huguenots in Sixteenth-Century Paris. New York: Oxford University Press, 1991."},
+    {"id": "diefendorf-bedford", "type": "primary", "citation": "Barbara B. Diefendorf, The St. Bartholomew's Day Massacre: A Brief History with Documents. Boston: Bedford/St. Martin's, 2009."},
+    {"id": "kingdon", "type": "scholarly", "citation": "Robert M. Kingdon, Myths about the St. Bartholomew's Day Massacres, 1572–1576. Cambridge, MA: Harvard University Press, 1988."},
+    {"id": "holt", "type": "scholarly", "citation": "Mack P. Holt, The French Wars of Religion, 1562–1629, 2nd ed. Cambridge: Cambridge University Press, 2005."},
+    {"id": "britannica", "type": "reference", "citation": "\"Massacre of Saint Bartholomew's Day.\" Encyclopaedia Britannica."}
+  ]
+}

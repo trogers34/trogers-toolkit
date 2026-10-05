@@ -1,0 +1,49 @@
+{
+  "name": "Diet of Worms",
+  "slug": "diet-of-worms",
+  "era": "Reformation",
+  "event_type": "assembly",
+  "summary": "The imperial assembly at which Martin Luther refused before Emperor Charles V to recant his writings and was then declared an outlaw.",
+  "place": "Worms, Holy Roman Empire (modern Germany)",
+  "start": {"year": 1521, "date": "28 January 1521", "sources": ["brecht", "britannica"]},
+  "end": {"year": 1521, "date": "25 May 1521", "sources": ["brecht", "britannica"]},
+  "background": [
+    {"text": "Pope Leo X had condemned 41 of Luther's propositions in the bull Exsurge Domine (1520) and excommunicated him in Decet Romanum Pontificem on 3 January 1521.", "sources": ["brecht", "bainton"]},
+    {"text": "Under imperial law a person could not be outlawed without a hearing, and Elector Frederick III of Saxony insisted Luther be heard; Charles V summoned him with a safe conduct.", "sources": ["brecht", "oberman"]}
+  ],
+  "happened": [
+    {"text": "The diet, Charles V's first, met from late January and dealt mainly with imperial government; Luther's case was one item on its agenda.", "sources": ["brecht", "britannica"]},
+    {"text": "On 17 April 1521 Johann von der Ecken, the archbishop of Trier's official, showed Luther a pile of his books and asked whether he would recant them; Luther asked for time and was given a day.", "sources": ["lw32", "brecht"]},
+    {"text": "On 18 April Luther refused to recant unless convinced 'by the testimony of the Scriptures or by clear reason', saying his conscience was captive to the Word of God. The words 'Here I stand, I can do no other' appear in early printed versions but not in the transcripts, and may have been added.", "sources": ["lw32", "bainton", "brecht"]},
+    {"text": "On 19 April Charles V read a statement in his own hand declaring he would stake his kingdoms, friends, body, blood, and soul on defending the Catholic faith.", "sources": ["brecht", "oberman"]},
+    {"text": "Further talks led by the archbishop of Trier failed, and Luther left Worms on 26 April. On his way home Frederick's men staged a kidnapping and hid him in the Wartburg castle.", "sources": ["brecht", "bainton"]}
+  ],
+  "participants": [
+    {"name": "Charles V", "role": "Holy Roman Emperor; presided and issued the Edict of Worms"},
+    {"name": "Martin Luther", "role": "Summoned to recant his writings", "person": "martin-luther"},
+    {"name": "Frederick III (the Wise)", "role": "Elector of Saxony; Luther's protector"},
+    {"name": "Girolamo Aleandro", "role": "Papal nuncio; pressed for Luther's condemnation and drafted the edict"},
+    {"name": "Johann von der Ecken", "role": "Official of the archbishop of Trier; questioned Luther"}
+  ],
+  "outcomes": [
+    {"text": "The Edict of Worms, dated 8 May and signed 26 May 1521 after most princes had left, declared Luther an outlaw, banned his writings, and made it a crime to shelter him.", "sources": ["brecht", "britannica"]},
+    {"text": "The edict was never fully enforced; many princes and cities ignored it, and at the Diet of Speyer (1526) each ruler was left to act as he saw fit.", "sources": ["britannica", "oberman"]},
+    {"text": "Hidden in the Wartburg, Luther translated the New Testament into German (published September 1522).", "sources": ["brecht", "bainton"]}
+  ],
+  "condemnations": [
+    {"date": "8 May 1521 (signed 26 May)", "by": "Charles V", "authority": "Holy Roman Empire (Edict of Worms)", "reason": "Luther declared a heretic and outlaw (imperial ban); his books banned and ordered burned", "status": "Never formally revoked; enforcement lapsed and was overtaken by the Peace of Augsburg (1555)", "sources": ["brecht", "britannica"]}
+  ],
+  "persecution": [
+    {"year": 1521, "date": "1521 onward", "title": "Imperial ban on Luther and his supporters", "summary": "The edict ordered Luther to be seized and handed to the emperor, and forbade anyone to shelter, feed, or read him. Frederick the Wise protected him by hiding him in the Wartburg.", "responsible": [
+      {"name": "Charles V", "role": "Holy Roman Emperor; issued the edict", "jurisdiction": "Holy Roman Empire", "type": "state"},
+      {"name": "Girolamo Aleandro", "role": "Papal nuncio; drafted the edict", "jurisdiction": "Papacy (Pope Leo X)", "type": "church"}
+    ], "defended_by": [{"name": "Frederick III of Saxony", "role": "Elector; arranged Luther's hiding"}], "outcome": "Luther was never arrested; he lived under the ban until his death in 1546.", "sources": ["brecht", "oberman"]}
+  ],
+  "sources": [
+    {"id": "lw32", "type": "primary", "citation": "Luther at the Diet of Worms, 1521, in Luther's Works, American Edition, vol. 32: Career of the Reformer II, ed. George W. Forell. Philadelphia: Muhlenberg Press, 1958."},
+    {"id": "brecht", "type": "scholarly", "citation": "Martin Brecht, Martin Luther: His Road to Reformation, 1483–1521, trans. James L. Schaaf. Philadelphia: Fortress Press, 1985."},
+    {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Here I Stand: A Life of Martin Luther. Nashville: Abingdon Press, 1950."},
+    {"id": "oberman", "type": "scholarly", "citation": "Heiko A. Oberman, Luther: Man between God and the Devil, trans. Eileen Walliser-Schwarzbart. New Haven: Yale University Press, 1989."},
+    {"id": "britannica", "type": "reference", "citation": "\"Diet of Worms.\" Encyclopaedia Britannica."}
+  ]
+}

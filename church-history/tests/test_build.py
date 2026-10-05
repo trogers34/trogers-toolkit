@@ -168,6 +168,24 @@ class BuildTest(unittest.TestCase):
         person["ai_generated"] = "none"
         self.assertTrue(any("'ai_generated'" in e for e in build.validate_person(person, "test-person")))
 
+    def test_victims_section(self):
+        person = copy.deepcopy(VALID)
+        person["victims_title"] = "People executed"
+        person["victims"] = [{"name": "Victim A", "executed": "Burned, 1531", "condemned_by": "A bishop",
+                              "allegation": "Pursued him.", "verification": {"execution": "verified", "link": "disputed"},
+                              "links": [{"label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/X"}],
+                              "sources": ["s1"]}]
+        self.assertEqual(build.validate_person(person, "test-person"), [])
+        page = build.render_person(person)
+        self.assertIn("Victim A", page)
+        self.assertIn("100% verified", page)
+        self.assertIn("Disputed", page)
+        person["victims"][0]["verification"]["link"] = "probably"
+        person["victims"][0]["links"][0]["url"] = "not-a-url"
+        errors = build.validate_person(person, "test-person")
+        self.assertTrue(any("verification.link" in e for e in errors))
+        self.assertTrue(any("https url" in e for e in errors))
+
     def test_excommunications_render(self):
         person = copy.deepcopy(VALID)
         person["excommunications"] = [{"date": "3 January 1521", "by": "Pope Leo X", "authority": "Papacy",

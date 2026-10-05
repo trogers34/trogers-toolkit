@@ -1,0 +1,522 @@
+{
+  "name": "Thomas More",
+  "slug": "thomas-more",
+  "also_known_as": "Sir Thomas More; Saint Thomas More",
+  "era": "Reformation",
+  "role": "Lawyer, humanist author, Speaker of the House of Commons, Lord Chancellor of England (1529–1532)",
+  "born": {
+    "year": 1478,
+    "date": "7 February 1478 (some sources give 1477)",
+    "place": "Milk Street, London, England",
+    "sources": [
+      "guy",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1535,
+    "date": "6 July 1535",
+    "place": "Tower Hill, London; beheaded for treason",
+    "sources": [
+      "roper",
+      "guy"
+    ]
+  },
+  "summary": "English lawyer, humanist, and author of Utopia who, as Lord Chancellor, vigorously pursued Protestant \"heretics\" and their books. He was himself executed by Henry VIII for refusing to accept the king as head of the Church of England, and was canonized by the Catholic Church in 1935.",
+  "key_dates": [
+    {
+      "year": 1504,
+      "label": "Elected to Parliament",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1516,
+      "label": "Publishes Utopia",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1518,
+      "label": "Joins Henry VIII's council",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1523,
+      "label": "Speaker of the House of Commons; writes against Luther",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1529,
+      "label": "Becomes Lord Chancellor; publishes A Dialogue Concerning Heresies",
+      "sources": [
+        "guy",
+        "marius"
+      ]
+    },
+    {
+      "year": 1532,
+      "label": "Resigns as Lord Chancellor after the clergy submit to the king",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1534,
+      "label": "Refuses the Oath of Succession; imprisoned in the Tower of London",
+      "sources": [
+        "roper",
+        "guy"
+      ]
+    },
+    {
+      "year": 1535,
+      "label": "Tried for treason at Westminster Hall (1 July) and executed",
+      "sources": [
+        "roper",
+        "guy"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote Utopia (1516), a satire describing an ideal island society; the word \"utopia\" comes from this book.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Was a leading English humanist and friend of Erasmus, who wrote The Praise of Folly at More's house. He gave his daughters, especially Margaret Roper, an education as full as any man's.",
+      "sources": [
+        "guy",
+        "ackroyd"
+      ]
+    },
+    {
+      "text": "Wrote The History of King Richard III, a main source for Shakespeare's portrait of Richard.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Served as Speaker of the House of Commons (1523) and Lord Chancellor (1529–1532), the highest legal office in England, the first layman in that office for generations.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote extensive polemics against the Reformers: against Luther (1523), A Dialogue Concerning Heresies (1529), the Confutation of Tyndale's Answer (1532–1533), and the Apology (1533).",
+      "sources": [
+        "more-works",
+        "marius"
+      ]
+    },
+    {
+      "text": "As Lord Chancellor, led a campaign against Protestant books and the people who smuggled, owned, or spread them. Six people were burned for heresy during his chancellorship, and he defended these burnings in print (see the list of people below).",
+      "sources": [
+        "marius",
+        "guy",
+        "foxe"
+      ]
+    },
+    {
+      "text": "Refused to swear the oath that rejected papal authority in the Act of Succession, and was executed for denying the king's supremacy over the church. His reported last words were that he died \"the king's good servant, but God's first.\"",
+      "sources": [
+        "roper",
+        "guy"
+      ]
+    },
+    {
+      "text": "Was canonized by Pope Pius XI in 1935 and named patron saint of statesmen and politicians by Pope John Paul II in 2000. He is also commemorated in the Church of England's calendar.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"Utopia\"",
+        "reference": "Title of his 1516 book",
+        "note": "Coined by More from Greek, meaning \"no place\" (with a pun on \"good place\").",
+        "sources": [
+          "guy",
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"The king's good servant, but God's first\"",
+        "reference": "Reported last words on the scaffold (1535)",
+        "note": "Recorded in a contemporary account of his execution, not written by More himself.",
+        "sources": [
+          "guy"
+        ]
+      }
+    ]
+  },
+  "victims_title": "People executed for heresy whose deaths are linked to Thomas More",
+  "victims_intro": "These are the people executed for heresy whom More's critics, beginning with John Foxe, count as victims of his campaign against heresy. In every case a bishop condemned them and the secular authorities burned them; the executions themselves are fully documented. What is debated is More's own part. As Lord Chancellor (October 1529 – May 1532) he headed the Chancery, which issued the writs for burning heretics, and he publicly approved of these burnings in his writings. Foxe also accused him of having suspects whipped and racked; More denied using violence against heretics in his Apology (1533), and historians disagree. No surviving record shows More personally sentencing anyone to death. People he is accused of imprisoning or mistreating who were not executed, such as the London merchant John Petit, are not listed here. The Wikipedia links are searches for each name, and the Foxe link opens the online edition, where each person's account can be searched.",
+  "victims": [
+    {
+      "name": "Thomas Hitton",
+      "executed": "Burned at Maidstone, Kent, 23 February 1530",
+      "condemned_by": "William Warham, Archbishop of Canterbury, and John Fisher, Bishop of Rochester",
+      "allegation": "A priest caught bringing Tyndale's books into England, he was burned early in More's chancellorship. More called him \"the devil's stinking martyr\" in his Confutation of Tyndale's Answer.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "More's approval is verified in his own words. No record shows that he took part in Hitton's arrest or trial, which were handled by the bishops.",
+      "links": [
+        {
+          "label": "Wikipedia: Thomas Hitton",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thomas+Hitton"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "more-works",
+        "foxe",
+        "marius"
+      ]
+    },
+    {
+      "name": "Thomas Bilney",
+      "executed": "Burned at the Lollards' Pit, Norwich, 19 August 1531",
+      "condemned_by": "Richard Nix, Bishop of Norwich, as a relapsed heretic",
+      "allegation": "A Cambridge scholar who had earlier recanted, he was burned while More was Lord Chancellor, under a writ from More's Chancery. More later wrote that Bilney had recanted again before he died, which Foxe denied.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "More's official responsibility as head of the Chancery, and his public defense of the burning, are documented. His personal involvement in the case is not.",
+      "links": [
+        {
+          "label": "Wikipedia: Thomas Bilney",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thomas+Bilney"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "more-works",
+        "foxe",
+        "marius",
+        "guy"
+      ]
+    },
+    {
+      "name": "Richard Bayfield",
+      "executed": "Burned at Smithfield, London, 4 December 1531",
+      "condemned_by": "John Stokesley, Bishop of London",
+      "allegation": "A former Benedictine monk who smuggled Protestant books into England. Foxe says More's searches tracked him down. More wrote about Bayfield's case at length and described his burning as deserved.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "More's close attention to the case and his approval are documented in his own writings. His direct role in the arrest rests mainly on Foxe, though many historians accept that More pursued book smugglers personally.",
+      "links": [
+        {
+          "label": "Wikipedia: Richard Bayfield",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Richard+Bayfield"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "more-works",
+        "foxe",
+        "marius",
+        "guy"
+      ]
+    },
+    {
+      "name": "John Tewkesbury",
+      "executed": "Burned at Smithfield, London, 20 December 1531",
+      "condemned_by": "John Stokesley, Bishop of London, as a relapsed heretic",
+      "allegation": "A London leather-seller. Foxe says More examined him at his house in Chelsea, had him tied to a tree in his garden (\"the tree of truth\") and whipped, and bound his head with cords until his eyes nearly burst.",
+      "verification": {
+        "execution": "verified",
+        "link": "disputed"
+      },
+      "verification_note": "The burning took place under More's chancellorship. The torture allegations come from Foxe; More denied in his Apology that he ever had heretics beaten, except for two cases unrelated to heresy trials. Historians are divided.",
+      "links": [
+        {
+          "label": "Wikipedia: John Tewkesbury",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Tewkesbury"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "more-works",
+        "marius",
+        "ackroyd"
+      ]
+    },
+    {
+      "name": "Thomas Benet (also called Thomas Dusgate)",
+      "executed": "Burned at Livery Dole, Exeter, January 1532",
+      "condemned_by": "John Veysey, Bishop of Exeter",
+      "allegation": "A schoolmaster who posted notices on Exeter Cathedral calling the pope Antichrist. He is counted among the burnings of More's chancellorship.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Only More's official responsibility as head of the Chancery is documented. No source connects him personally to this case in Devon.",
+      "links": [
+        {
+          "label": "Wikipedia: Thomas Benet",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thomas+Benet"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "marius"
+      ]
+    },
+    {
+      "name": "James Bainham",
+      "executed": "Burned at Smithfield, London, 30 April 1532",
+      "condemned_by": "Officials of John Stokesley, Bishop of London, as a relapsed heretic",
+      "allegation": "A lawyer of the Middle Temple. Foxe says More had him arrested, whipped at the tree in his Chelsea garden, and racked in the Tower in More's presence to make him name others. He abjured, then publicly withdrew his abjuration and was burned two weeks before More resigned.",
+      "verification": {
+        "execution": "verified",
+        "link": "disputed"
+      },
+      "verification_note": "More's office and approval are documented. The whipping and racking allegations come from Foxe and were denied in general terms by More; they are not independently confirmed.",
+      "links": [
+        {
+          "label": "Wikipedia: James Bainham",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=James+Bainham"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "more-works",
+        "marius",
+        "ackroyd"
+      ]
+    },
+    {
+      "name": "John Frith",
+      "executed": "Burned at Smithfield, London, 4 July 1533",
+      "condemned_by": "John Stokesley, Bishop of London, after examination by Thomas Cranmer, Stephen Gardiner, and others",
+      "allegation": "Tyndale's friend and fellow translator. More wrote a published letter against Frith's teaching on the Eucharist and urged action against him, but Frith was arrested and burned after More had left office.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "More's writing against Frith is verified. He held no office when Frith was tried and condemned, so his responsibility is indirect.",
+      "links": [
+        {
+          "label": "Wikipedia: John Frith",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Frith"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "more-works",
+        "foxe",
+        "marius"
+      ]
+    }
+  ],
+  "persecution_note": "More was imprisoned for over a year and executed by Henry VIII's government for refusing to accept the king's supremacy over the church. The evidence that convicted him was testimony that he himself called perjured.",
+  "persecution": [
+    {
+      "year": 1534,
+      "date": "February–March 1534",
+      "title": "Named in the attainder of the \"Holy Maid of Kent\"",
+      "summary": "More was included in a bill of attainder against Elizabeth Barton, the nun who had prophesied against Henry VIII's marriage to Anne Boleyn, and those said to have encouraged her. He defended himself before a committee of the king's council, and his name was removed.",
+      "responsible": [
+        {
+          "name": "Thomas Cromwell",
+          "role": "The king's chief minister; drove the case",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Henry VIII",
+          "role": "King of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "His name was struck from the bill.",
+      "sources": [
+        "roper",
+        "guy"
+      ]
+    },
+    {
+      "year": 1534,
+      "date": "13–17 April 1534",
+      "title": "Refuses the Oath of Succession; sent to the Tower",
+      "summary": "Summoned to Lambeth Palace, More said he would accept Anne Boleyn's children as heirs but would not swear the oath as written, because it rejected papal authority. He was committed to the Tower of London. In November, Parliament attainted him of misprision (concealment) of treason, taking his property.",
+      "responsible": [
+        {
+          "name": "Thomas Cranmer",
+          "role": "Archbishop of Canterbury; one of the commissioners who administered the oath",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "Thomas Audley",
+          "role": "Lord Chancellor; commissioner",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Cromwell",
+          "role": "The king's secretary; commissioner",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Henry VIII",
+          "role": "King of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Parliament of England",
+          "role": "Passed the act of attainder (November 1534)",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Imprisoned in the Tower for fifteen months.",
+      "sources": [
+        "roper",
+        "guy"
+      ]
+    },
+    {
+      "year": 1535,
+      "date": "1–6 July 1535",
+      "title": "Treason trial and execution",
+      "summary": "More was tried at Westminster Hall under the new Treasons Act for denying the king's supremacy. The decisive evidence was the Solicitor General Richard Rich's account of a conversation with More in the Tower, which More said was perjured. The jury convicted him in about a quarter of an hour. The sentence of hanging, drawing, and quartering was changed by the king to beheading, carried out on Tower Hill on 6 July.",
+      "responsible": [
+        {
+          "name": "Henry VIII",
+          "role": "King of England; whose supremacy More refused to accept",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Cromwell",
+          "role": "The king's chief minister; organized the prosecution",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Richard Rich",
+          "role": "Solicitor General; gave the testimony that convicted him",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Audley",
+          "role": "Lord Chancellor; presided over the court",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Howard, Duke of Norfolk",
+          "role": "Member of the special commission that tried him",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Trial jury",
+          "role": "Returned the guilty verdict",
+          "jurisdiction": "Court at Westminster Hall",
+          "type": "group"
+        }
+      ],
+      "outcome": "Beheaded on 6 July 1535. His head was displayed on London Bridge until his daughter Margaret Roper recovered it.",
+      "sources": [
+        "roper",
+        "guy",
+        "ackroyd"
+      ]
+    }
+  ],
+  "excommunication_note": "More was never excommunicated. He died in communion with the Roman Catholic Church, which beatified him in 1886 and canonized him in 1935.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "more-works",
+      "type": "primary",
+      "citation": "The Complete Works of St. Thomas More, 15 vols. (New Haven: Yale University Press, 1963–1997). Includes A Dialogue Concerning Heresies, The Confutation of Tyndale's Answer, The Apology, and the Letter against Frith."
+    },
+    {
+      "id": "roper",
+      "type": "primary",
+      "citation": "William Roper, The Life of Sir Thomas More (written c. 1557), by More's son-in-law."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Accounts of the people burned for heresy under More. Online: The Unabridged Acts and Monuments Online (Digital Humanities Institute, University of Sheffield).",
+      "url": "https://www.dhi.ac.uk/foxe/"
+    },
+    {
+      "id": "guy",
+      "type": "scholarly",
+      "citation": "John Guy, Thomas More (London: Arnold, 2000)."
+    },
+    {
+      "id": "marius",
+      "type": "scholarly",
+      "citation": "Richard Marius, Thomas More: A Biography (New York: Alfred A. Knopf, 1984)."
+    },
+    {
+      "id": "ackroyd",
+      "type": "scholarly",
+      "citation": "Peter Ackroyd, The Life of Thomas More (London: Chatto & Windus, 1998)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Sir Thomas More,\" Encyclopaedia Britannica."
+    }
+  ]
+}

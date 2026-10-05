@@ -26,9 +26,11 @@ PARTY_TYPES = {"church": "Church", "state": "State", "individual": "Individual",
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
 SAYING_CATEGORIES = {
     "original": ("Original",
-                 "First recorded in English in their writing, or first worded this way by them."),
+                 "First recorded in their writing, or first worded this way by them."),
     "popularized": ("Popularized",
-                    "Already in English before them, but their use made it widely known."),
+                    "Already in use before them, but their use made it widely known."),
+    "misattributed": ("Misattributed",
+                      "Commonly credited to them, but not found in their writings."),
 }
 
 

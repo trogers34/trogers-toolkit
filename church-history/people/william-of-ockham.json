@@ -1,0 +1,353 @@
+{
+  "name": "William of Ockham",
+  "slug": "william-of-ockham",
+  "also_known_as": "William of Occam; the \"Venerable Inceptor\" (Venerabilis Inceptor)",
+  "era": "Medieval",
+  "role": "Franciscan friar, philosopher, theologian, and political writer",
+  "born": {
+    "year": 1287,
+    "circa": true,
+    "date": "c. 1287 (exact date unknown)",
+    "place": "Ockham, Surrey, England",
+    "sources": [
+      "sep",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1347,
+    "date": "10 April 1347 (the generally accepted date; some older accounts give 1349)",
+    "place": "Franciscan friary, Munich, Duchy of Bavaria",
+    "sources": [
+      "sep",
+      "britannica"
+    ]
+  },
+  "summary": "English Franciscan friar and one of the most influential philosophers of the Middle Ages, known for nominalism and the principle of parsimony later called \"Ockham's razor.\" After he accused Pope John XXII of heresy, he lived his last twenty years as an excommunicated exile under the emperor's protection.",
+  "key_dates": [
+    {
+      "year": 1306,
+      "label": "Ordained subdeacon in Southwark",
+      "sources": [
+        "sep",
+        "keele"
+      ]
+    },
+    {
+      "year": 1317,
+      "circa": true,
+      "label": "Lectures on Peter Lombard's Sentences at Oxford (c. 1317–1319)",
+      "sources": [
+        "sep",
+        "adams"
+      ]
+    },
+    {
+      "year": 1323,
+      "circa": true,
+      "label": "Writes the Summa of Logic (Summa logicae) in London",
+      "sources": [
+        "sep",
+        "philosophical-writings"
+      ]
+    },
+    {
+      "year": 1324,
+      "label": "Summoned to the papal court at Avignon to answer charges of heresy",
+      "sources": [
+        "sep",
+        "keele"
+      ]
+    },
+    {
+      "year": 1328,
+      "label": "Flees Avignon with the Franciscan minister general; excommunicated",
+      "sources": [
+        "sep",
+        "shogimen",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1330,
+      "label": "Settles in Munich under the protection of Emperor Louis IV",
+      "sources": [
+        "sep",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1332,
+      "circa": true,
+      "label": "Writes The Work of Ninety Days against Pope John XXII",
+      "sources": [
+        "ninety-days",
+        "sep"
+      ]
+    },
+    {
+      "year": 1334,
+      "circa": true,
+      "label": "Begins the Dialogue (Dialogus), his largest political work",
+      "sources": [
+        "sep",
+        "shogimen"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Became the leading figure of nominalism, holding that universals (such as \"humanity\") are not real things existing outside the mind, only concepts and words that signify individual things.",
+      "sources": [
+        "sep",
+        "adams"
+      ]
+    },
+    {
+      "text": "Applied the principle of parsimony so consistently, refusing to assume more entities than necessary to explain something, that it later became known as \"Ockham's razor.\"",
+      "sources": [
+        "sep",
+        "keele"
+      ]
+    },
+    {
+      "text": "Wrote the Summa of Logic (c. 1323), one of the most important works of medieval logic and theory of meaning.",
+      "sources": [
+        "sep",
+        "philosophical-writings"
+      ]
+    },
+    {
+      "text": "Emphasized God's absolute power and freedom, and argued that many truths of theology can be known only by faith, not proved by natural reason.",
+      "sources": [
+        "adams",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Defended the Franciscan ideal of absolute poverty, that Christ and the apostles owned nothing, against Pope John XXII, whom he concluded had fallen into heresy (The Work of Ninety Days, c. 1332).",
+      "sources": [
+        "ninety-days",
+        "shogimen"
+      ]
+    },
+    {
+      "text": "Wrote extensively on the limits of papal power, arguing that the pope's authority is not unlimited, that secular rulers hold power independently of the pope, and that even a pope can be judged a heretic.",
+      "sources": [
+        "breviloquium",
+        "shogimen"
+      ]
+    },
+    {
+      "text": "Never completed his doctorate after his Oxford lectures, which earned him the title \"Venerable Inceptor\" (a beginner who had not yet become a master).",
+      "sources": [
+        "sep",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Shaped the \"modern way\" (via moderna) of late medieval theology, taught through Gabriel Biel at universities such as Erfurt, where Martin Luther was trained in it.",
+      "sources": [
+        "oberman-harvest",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings_intro": "Ockham wrote in Latin. The principle of parsimony that bears his name was already common among earlier scholastic thinkers, and the most famous wording of it is not his. The name \"Ockham's razor\" itself came centuries after his death.",
+  "sayings": {
+    "popularized": [
+      {
+        "phrase": "\"Plurality should not be posited without necessity\" (Pluralitas non est ponenda sine necessitate)",
+        "reference": "Commentary on the Sentences, and elsewhere",
+        "note": "This is Ockham's own wording of the principle of parsimony, which he used constantly. The idea and similar wording appear in earlier writers, including Aristotle and Duns Scotus, but Ockham's heavy use of it made it his.",
+        "sources": [
+          "sep",
+          "keele"
+        ]
+      },
+      {
+        "phrase": "\"It is futile to do with more what can be done with fewer\" (Frustra fit per plura quod potest fieri per pauciora)",
+        "reference": "Summa of Logic and other works",
+        "note": "Another form of the same principle, used by Ockham and by other scholastic writers before him.",
+        "sources": [
+          "sep",
+          "keele"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"Entities must not be multiplied beyond necessity\" (Entia non sunt multiplicanda praeter necessitatem)",
+        "reference": "Not found in his works",
+        "note": "The best-known statement of \"Ockham's razor\" does not appear in his writings. It was formulated in the 17th century, usually traced to the Irish Franciscan John Punch (1639).",
+        "sources": [
+          "sep",
+          "keele"
+        ]
+      },
+      {
+        "phrase": "\"Defend me with the sword, and I will defend you with the pen\"",
+        "reference": "Said to Emperor Louis IV, according to later legend",
+        "note": "This famous line is first reported long after his death and is probably legendary, though it fits his relationship with the emperor.",
+        "sources": [
+          "keele",
+          "sep"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Ockham was investigated for heresy at the papal court, but his philosophy was never formally condemned. His real break with the church came over Franciscan poverty. After he declared Pope John XXII a heretic and fled Avignon, he was excommunicated and expelled from his order, and lived the rest of his life in exile in Munich under the protection of an excommunicated emperor. He was never arrested or physically punished.",
+  "persecution": [
+    {
+      "year": 1324,
+      "date": "1323–1328",
+      "title": "Accused of heresy and examined at Avignon",
+      "summary": "John Lutterell, the former chancellor of Oxford, drew up a list of suspect propositions from Ockham's lectures on the Sentences and took them to the papal court at Avignon. Ockham was summoned in 1324 and had to stay at Avignon while a commission of theologians examined his writings. By 1326 the commission had judged 51 articles open to censure, but the pope never issued a formal condemnation.",
+      "responsible": [
+        {
+          "name": "John Lutterell",
+          "role": "Former Chancellor of the University of Oxford; brought the accusation",
+          "jurisdiction": "University of Oxford; papal court",
+          "type": "church"
+        },
+        {
+          "name": "Pope John XXII",
+          "role": "Summoned him to Avignon and appointed the commission",
+          "jurisdiction": "Papacy at Avignon",
+          "type": "church"
+        },
+        {
+          "name": "Papal commission of theologians",
+          "role": "Examined his writings, including Lutterell and Durand of Saint-Pourçain",
+          "jurisdiction": "Papal curia at Avignon",
+          "type": "church"
+        }
+      ],
+      "outcome": "No formal condemnation was issued, but he was kept at Avignon for about four years.",
+      "sources": [
+        "sep",
+        "keele",
+        "adams"
+      ]
+    },
+    {
+      "year": 1328,
+      "date": "26 May 1328 and after",
+      "title": "Flight from Avignon and excommunication",
+      "summary": "Pope John XXII had declared it heretical to say that Christ and the apostles owned nothing, directly contradicting the Franciscans. Michael of Cesena, the Franciscan minister general, asked Ockham to study the pope's rulings, and Ockham concluded that the pope himself was a heretic. On the night of 26 May 1328, Ockham fled Avignon with Michael of Cesena and other Franciscans, and joined Emperor Louis IV, whom the pope had already excommunicated. The pope excommunicated the fugitives for leaving without permission.",
+      "responsible": [
+        {
+          "name": "Pope John XXII",
+          "role": "Excommunicated him",
+          "jurisdiction": "Papacy at Avignon",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Emperor Louis IV (Ludwig the Bavarian)",
+          "role": "Holy Roman Emperor, himself excommunicated by John XXII; sheltered the fugitives at Pisa and then Munich"
+        },
+        {
+          "name": "Michael of Cesena",
+          "role": "Franciscan minister general; fled with him and led the dissident friars"
+        }
+      ],
+      "outcome": "He lived in exile at Munich, writing against John XXII and his successors, until his death.",
+      "sources": [
+        "sep",
+        "shogimen",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1331,
+      "circa": true,
+      "date": "c. 1331",
+      "title": "Expelled from the Franciscan order",
+      "summary": "After the pope deposed Michael of Cesena and installed Gerard Odonis as minister general, the Franciscan leadership expelled the dissident friars, Ockham among them, from the order.",
+      "responsible": [
+        {
+          "name": "Gerard Odonis",
+          "role": "Franciscan minister general appointed in place of Michael of Cesena",
+          "jurisdiction": "Order of Friars Minor (Franciscans)",
+          "type": "church"
+        },
+        {
+          "name": "Franciscan leadership loyal to the pope",
+          "role": "Expelled the Michaelist friars",
+          "jurisdiction": "Order of Friars Minor",
+          "type": "group"
+        }
+      ],
+      "outcome": "He remained with the small group of dissident friars in Munich.",
+      "sources": [
+        "sep",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Ockham was excommunicated by Pope John XXII in 1328 and stayed excommunicated under Benedict XII and Clement VI. Late in his life, Clement VI's court prepared a form of submission for him, but there is no evidence that he ever signed it or was reconciled before his death.",
+  "excommunications": [
+    {
+      "date": "1328",
+      "by": "Pope John XXII",
+      "authority": "Papacy at Avignon",
+      "reason": "Fled Avignon without permission while under investigation, and joined the excommunicated Emperor Louis IV",
+      "status": "Never lifted in his lifetime; no evidence of reconciliation",
+      "sources": [
+        "sep",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "philosophical-writings",
+      "type": "primary",
+      "citation": "William of Ockham, Philosophical Writings: A Selection, trans. Philotheus Boehner, rev. Stephen F. Brown (Indianapolis: Hackett, 1990)."
+    },
+    {
+      "id": "ninety-days",
+      "type": "primary",
+      "citation": "William of Ockham, Work of Ninety Days, trans. John Kilcullen and John Scott, 2 vols. (Lewiston, NY: Edwin Mellen Press, 2001)."
+    },
+    {
+      "id": "breviloquium",
+      "type": "primary",
+      "citation": "William of Ockham, A Short Discourse on Tyrannical Government, ed. Arthur Stephen McGrade, trans. John Kilcullen (Cambridge: Cambridge University Press, 1992)."
+    },
+    {
+      "id": "adams",
+      "type": "scholarly",
+      "citation": "Marilyn McCord Adams, William Ockham, 2 vols. (Notre Dame, IN: University of Notre Dame Press, 1987)."
+    },
+    {
+      "id": "keele",
+      "type": "scholarly",
+      "citation": "Rondo Keele, Ockham Explained: From Razor to Rebellion (Chicago: Open Court, 2010)."
+    },
+    {
+      "id": "shogimen",
+      "type": "scholarly",
+      "citation": "Takashi Shogimen, Ockham and Political Discourse in the Late Middle Ages (Cambridge: Cambridge University Press, 2007)."
+    },
+    {
+      "id": "oberman-harvest",
+      "type": "scholarly",
+      "citation": "Heiko A. Oberman, The Harvest of Medieval Theology: Gabriel Biel and Late Medieval Nominalism (Cambridge, MA: Harvard University Press, 1963)."
+    },
+    {
+      "id": "sep",
+      "type": "reference",
+      "citation": "\"William of Ockham,\" Stanford Encyclopedia of Philosophy.",
+      "url": "https://plato.stanford.edu/entries/ockham/"
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"William of Ockham,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/William-of-Ockham"
+    }
+  ]
+}

@@ -44,6 +44,13 @@ record, whoever was responsible and whatever tradition they belonged to.
   the list empty, or include only incidents that genuinely threatened them.
 - Stay neutral: describe who did what under which authority, without editorializing.
 
+## Words and sayings (optional)
+
+When a person is known for famous words or phrases, add a `sayings` section. Use
+`original` (first recorded in their writing), `popularized` (in use before them, made
+famous by them), and `misattributed` (commonly credited to them but not in their
+writings, such as legends or later paraphrases). Say where each one is found.
+
 ## Content guidelines
 
 - 6–10 accomplishments, each one or two sentences, most significant first.

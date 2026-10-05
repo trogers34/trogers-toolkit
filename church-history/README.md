@@ -56,7 +56,7 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources`, optional `circa: true` |
 | `key_dates` | `year`, `label`, `sources`, optional `circa: true`. Shown on the home-page timeline |
 | `accomplishments` | `text`, `sources`. The bullet points on the person's page |
-| `sayings` | optional. `{"original": [...], "popularized": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |
+| `sayings` | optional. `{"original": [...], "popularized": [...], "misattributed": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |
 | `persecution` | required list (may be empty). Each item: `year` and/or `date`, `title`, `summary`, `responsible` (each `name`, `role`, `jurisdiction`, `type`: `church` / `state` / `individual` / `group`), optional `defended_by` (`name`, `role`), `outcome`, `sources` |
 | `persecution_note` | short overview of the person's arrests, trials, and persecution; required if `persecution` is empty (e.g. "None recorded") |
 | `excommunications` | required list (may be empty). Each item: `date`, `by`, `authority`, `reason`, `status` (e.g. "Never lifted"), `sources`. Shown as a table at the top of the persecution section |

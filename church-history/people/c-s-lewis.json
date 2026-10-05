@@ -1,0 +1,311 @@
+{
+  "name": "C. S. Lewis",
+  "slug": "c-s-lewis",
+  "also_known_as": "Clive Staples Lewis; \"Jack\" to his friends",
+  "era": "Modern",
+  "role": "Oxford and Cambridge literary scholar, Christian apologist, novelist (Church of England layman)",
+  "born": {
+    "year": 1898,
+    "date": "29 November 1898",
+    "place": "Belfast, Ireland (now Northern Ireland)",
+    "sources": [
+      "mcgrath",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1963,
+    "date": "22 November 1963 (the same day as President John F. Kennedy's assassination)",
+    "place": "The Kilns, Headington, Oxford, England",
+    "sources": [
+      "mcgrath",
+      "britannica"
+    ]
+  },
+  "summary": "Oxford and Cambridge scholar of medieval and Renaissance literature who returned from atheism to Christianity and became the 20th century's most widely read Christian apologist, through works such as Mere Christianity and The Screwtape Letters, and the author of The Chronicles of Narnia.",
+  "key_dates": [
+    {
+      "year": 1918,
+      "label": "Wounded in battle near Arras while serving as a British Army officer in the First World War",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1925,
+      "label": "Elected fellow and tutor in English at Magdalen College, Oxford",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1930,
+      "circa": true,
+      "label": "Comes to believe in God (he dated it 1929; McGrath argues for 1930)",
+      "sources": [
+        "surprised-by-joy",
+        "mcgrath"
+      ]
+    },
+    {
+      "year": 1931,
+      "label": "Becomes a Christian after a night-long talk with J. R. R. Tolkien and Hugo Dyson",
+      "sources": [
+        "letters",
+        "mcgrath"
+      ]
+    },
+    {
+      "year": 1941,
+      "label": "Begins BBC wartime radio talks (1941–1944), later published as Mere Christianity",
+      "sources": [
+        "mere-christianity",
+        "mcgrath"
+      ]
+    },
+    {
+      "year": 1942,
+      "label": "Publishes The Screwtape Letters",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1950,
+      "label": "Publishes The Lion, the Witch and the Wardrobe, the first Narnia book",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1954,
+      "label": "Becomes Professor of Medieval and Renaissance Literature at Cambridge",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1956,
+      "label": "Marries the American writer Joy Davidman",
+      "sources": [
+        "green-hooper",
+        "mcgrath"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Gave wartime BBC radio talks on Christian belief (1941–1944), published together as Mere Christianity (1952), one of the most influential defenses of Christianity written in the 20th century.",
+      "sources": [
+        "mere-christianity",
+        "mcgrath"
+      ]
+    },
+    {
+      "text": "Wrote The Screwtape Letters (1942), satirical letters from a senior devil advising a junior one on how to tempt a human; it made him famous.",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote the seven Chronicles of Narnia (1950–1956), children's fantasies with Christian themes that have sold more than 100 million copies.",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote other apologetic works, including The Problem of Pain (1940), Miracles (1947), and The Four Loves (1960), and was president of the Oxford Socratic Club, a debating forum on Christianity, from 1942 to 1954.",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Was a leading literary scholar: The Allegory of Love (1936) transformed the study of medieval love poetry, and he wrote the Oxford History volume on 16th-century English literature (1954).",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote science fiction and myth for adults, including the Space Trilogy (1938–1945) and Till We Have Faces (1956).",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Was a central member of the Inklings, the Oxford literary circle that included J. R. R. Tolkien, and encouraged Tolkien to finish The Lord of the Rings.",
+      "sources": [
+        "mcgrath",
+        "green-hooper"
+      ]
+    },
+    {
+      "text": "Described his journey from atheism to faith in Surprised by Joy (1955), calling himself \"the most dejected and reluctant convert in all England.\"",
+      "sources": [
+        "surprised-by-joy",
+        "mcgrath"
+      ]
+    },
+    {
+      "text": "After his wife Joy's death in 1960, wrote A Grief Observed (1961), first published under the pseudonym N. W. Clerk.",
+      "sources": [
+        "mcgrath",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Declined appointment as a Commander of the Order of the British Empire (CBE) in 1951 to avoid being linked to party politics. He is commemorated in Poets' Corner, Westminster Abbey (2013).",
+      "sources": [
+        "letters",
+        "mcgrath"
+      ]
+    }
+  ],
+  "sayings_intro": "Lewis is one of the most quoted Christian writers, and one of the most misquoted. The misattributed lines below circulate widely under his name but do not appear in his writings.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.\"",
+        "reference": "\"Is Theology Poetry?\" (address to the Oxford Socratic Club, 1944)",
+        "sources": [
+          "mcgrath",
+          "o-flaherty"
+        ]
+      },
+      {
+        "phrase": "\"He's not a tame lion.\"",
+        "reference": "The Lion, the Witch and the Wardrobe (1950), said of Aslan",
+        "sources": [
+          "mcgrath"
+        ]
+      },
+      {
+        "phrase": "\"Further up and further in!\"",
+        "reference": "The Last Battle (1956)",
+        "sources": [
+          "mcgrath"
+        ]
+      },
+      {
+        "phrase": "\"The doors of hell are locked on the inside.\"",
+        "reference": "The Problem of Pain (1940), chapter 8",
+        "sources": [
+          "mcgrath",
+          "o-flaherty"
+        ]
+      },
+      {
+        "phrase": "\"The most dejected and reluctant convert in all England\"",
+        "reference": "Surprised by Joy (1955), describing himself",
+        "sources": [
+          "surprised-by-joy"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Mere Christianity\"",
+        "reference": "Title of his 1952 book",
+        "note": "Lewis took the phrase from the 17th-century Puritan writer Richard Baxter, and it became famous through Lewis's book.",
+        "sources": [
+          "mere-christianity",
+          "mcgrath"
+        ]
+      },
+      {
+        "phrase": "The \"trilemma\": Jesus was either a lunatic, the Devil, or the Son of God",
+        "reference": "Mere Christianity, Book II, chapter 3",
+        "note": "Lewis's version is the best known, but similar arguments were made by earlier Christian writers.",
+        "sources": [
+          "mere-christianity",
+          "o-flaherty"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"Lord, liar, or lunatic\"",
+        "reference": "Not Lewis's wording",
+        "note": "This alliterative summary of his argument comes from later writers. Lewis's own words were \"lunatic\" and \"the Devil of Hell.\"",
+        "sources": [
+          "o-flaherty"
+        ]
+      },
+      {
+        "phrase": "\"You don't have a soul. You are a soul. You have a body.\"",
+        "reference": "Not found in his writings",
+        "note": "Widely attributed to Lewis, but it does not appear in his works and predates his fame in other forms.",
+        "sources": [
+          "o-flaherty"
+        ]
+      },
+      {
+        "phrase": "\"You are never too old to set another goal or to dream a new dream.\"",
+        "reference": "Not found in his writings",
+        "note": "A motivational saying attached to Lewis's name, with no source in his works.",
+        "sources": [
+          "o-flaherty"
+        ]
+      },
+      {
+        "phrase": "\"Integrity is doing the right thing, even when no one is watching.\"",
+        "reference": "Not found in his writings",
+        "note": "Commonly credited to Lewis, but not found in his writings.",
+        "sources": [
+          "o-flaherty"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Lewis was never arrested, tried, imprisoned, or attacked for his faith. He did face hostility within Oxford: many colleagues disliked his popular Christian writing, and biographers link this to his being passed over for Oxford professorships. He received a professorship only when Cambridge created a chair for him in 1954. Because Joy Davidman was divorced, Church of England rules on remarriage prevented a church wedding. They married in a civil ceremony in 1956, and a priest, Peter Bide, married them at her hospital bedside in 1957 without the bishop's permission.",
+  "persecution": [],
+  "excommunication_note": "Lewis was never excommunicated or disciplined by any church. He was a communicant member of the Church of England from his return to faith in 1931 until his death.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "surprised-by-joy",
+      "type": "primary",
+      "citation": "C. S. Lewis, Surprised by Joy: The Shape of My Early Life (London: Geoffrey Bles, 1955)."
+    },
+    {
+      "id": "mere-christianity",
+      "type": "primary",
+      "citation": "C. S. Lewis, Mere Christianity (London: Geoffrey Bles, 1952)."
+    },
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "C. S. Lewis, The Collected Letters of C. S. Lewis, ed. Walter Hooper, 3 vols. (London: HarperCollins, 2000–2006)."
+    },
+    {
+      "id": "mcgrath",
+      "type": "scholarly",
+      "citation": "Alister McGrath, C. S. Lewis — A Life: Eccentric Genius, Reluctant Prophet (London: Hodder & Stoughton, 2013)."
+    },
+    {
+      "id": "green-hooper",
+      "type": "scholarly",
+      "citation": "Roger Lancelyn Green and Walter Hooper, C. S. Lewis: A Biography (London: Collins, 1974)."
+    },
+    {
+      "id": "o-flaherty",
+      "type": "scholarly",
+      "citation": "William O'Flaherty, The Misquotable C. S. Lewis: What He Didn't Say, What He Actually Said, and Why It Matters (Eugene, OR: Wipf and Stock, 2018)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"C. S. Lewis,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/C-S-Lewis"
+    }
+  ]
+}

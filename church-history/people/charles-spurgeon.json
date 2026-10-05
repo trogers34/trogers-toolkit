@@ -1,0 +1,270 @@
+{
+  "name": "Charles Haddon Spurgeon",
+  "slug": "charles-spurgeon",
+  "also_known_as": "C. H. Spurgeon; \"the Prince of Preachers\"",
+  "era": "Modern",
+  "role": "Baptist preacher, pastor of the Metropolitan Tabernacle, London",
+  "born": {
+    "year": 1834,
+    "date": "19 June 1834",
+    "place": "Kelvedon, Essex, England",
+    "sources": [
+      "autobiography",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1892,
+    "date": "31 January 1892",
+    "place": "Menton (Mentone), France",
+    "sources": [
+      "autobiography",
+      "drummond"
+    ]
+  },
+  "summary": "English Baptist preacher who drew vast crowds in Victorian London, published a sermon every week for nearly forty years, and founded a college, an orphanage, and other ministries, while defending Calvinist evangelical doctrine to the end of his life.",
+  "key_dates": [
+    {
+      "year": 1850,
+      "label": "Converted in a Primitive Methodist chapel in Colchester during a snowstorm (6 January); baptized as a believer (3 May)",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "year": 1852,
+      "label": "Becomes pastor of the Baptist chapel at Waterbeach, aged 17",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "year": 1854,
+      "label": "Called to New Park Street Chapel, Southwark, London, aged 19",
+      "sources": [
+        "autobiography",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1856,
+      "label": "Marries Susannah Thompson; founds the Pastors' College; Surrey Gardens disaster",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "year": 1861,
+      "label": "Opens the Metropolitan Tabernacle, seating about 5,000",
+      "sources": [
+        "autobiography",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1867,
+      "label": "Founds the Stockwell Orphanage",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "year": 1869,
+      "label": "Publishes the first volume of The Treasury of David (completed 1885)",
+      "sources": [
+        "drummond",
+        "nettles"
+      ]
+    },
+    {
+      "year": 1887,
+      "label": "The \"Down-Grade Controversy\"; leaves the Baptist Union",
+      "sources": [
+        "sword-trowel",
+        "murray"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Preached to crowds of thousands from the age of 19, first at New Park Street Chapel and the Surrey Gardens Music Hall, then for three decades at the Metropolitan Tabernacle, one of the largest churches of its day.",
+      "sources": [
+        "autobiography",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Published a sermon every week from 1855 until his death and beyond. The New Park Street and Metropolitan Tabernacle Pulpit series fill 63 volumes, sold widely, and were translated into many languages.",
+      "sources": [
+        "tabernacle-pulpit",
+        "drummond"
+      ]
+    },
+    {
+      "text": "Founded the Pastors' College (1856, now Spurgeon's College) to train ministers, many of them without formal education.",
+      "sources": [
+        "autobiography",
+        "nettles"
+      ]
+    },
+    {
+      "text": "Founded the Stockwell Orphanage (1867, with a girls' wing from 1879), along with almshouses and a society of colporteurs who sold Christian literature door to door.",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "text": "Wrote The Treasury of David, a seven-volume commentary on the Psalms, Lectures to My Students, the devotional Morning and Evening, and the popular John Ploughman's Talk.",
+      "sources": [
+        "drummond",
+        "nettles"
+      ]
+    },
+    {
+      "text": "Edited the monthly magazine The Sword and the Trowel from 1865.",
+      "sources": [
+        "sword-trowel",
+        "nettles"
+      ]
+    },
+    {
+      "text": "Spoke and wrote strongly against slavery, which cost him readers and sales in the American South.",
+      "sources": [
+        "drummond",
+        "nettles"
+      ]
+    },
+    {
+      "text": "In the Down-Grade Controversy (1887), warned that Baptist and other Nonconformist ministers were abandoning core evangelical doctrines, and withdrew from the Baptist Union when it would not adopt a firm doctrinal statement.",
+      "sources": [
+        "sword-trowel",
+        "murray"
+      ]
+    },
+    {
+      "text": "Suffered for decades from gout, kidney disease, and periods of deep depression, which he spoke about openly in his preaching.",
+      "sources": [
+        "drummond",
+        "nettles"
+      ]
+    }
+  ],
+  "persecution_note": "Spurgeon was never arrested or imprisoned. Early in his ministry he was mocked in the press and in cartoons as a vulgar showman. The incidents below are the more serious ones: the deadly false alarm at the Surrey Gardens Music Hall, the burning of his sermons in the American South over his opposition to slavery, and the Baptist Union's formal censure during the Down-Grade Controversy.",
+  "persecution": [
+    {
+      "year": 1856,
+      "date": "19 October 1856",
+      "title": "False \"Fire!\" alarm at the Surrey Gardens Music Hall",
+      "summary": "During his first service at the Surrey Gardens Music Hall, before a crowd of about 10,000 or more, people in the audience shouted \"Fire!\" and that the galleries were collapsing. Neither was true, but the panic caused a crush in which seven people died and many were injured. Spurgeon and his supporters believed the alarm was raised deliberately to disrupt the service. Parts of the press blamed Spurgeon himself.",
+      "responsible": [
+        {
+          "name": "Unidentified people in the audience",
+          "role": "Raised the false alarm; never identified",
+          "jurisdiction": "London",
+          "type": "group"
+        }
+      ],
+      "outcome": "Seven people died. Spurgeon was so shaken that he withdrew from preaching for some days, and the event haunted him for years.",
+      "sources": [
+        "autobiography",
+        "drummond"
+      ]
+    },
+    {
+      "year": 1860,
+      "date": "c. 1860",
+      "title": "Sermons burned in the American South over his opposition to slavery",
+      "summary": "After Spurgeon's denunciations of slavery became known in the United States, his sermons and books were publicly burned in parts of the slaveholding South, and booksellers there stopped selling them. He also received threats.",
+      "responsible": [
+        {
+          "name": "Supporters of slavery in the American South",
+          "role": "Burned his books and sermons",
+          "jurisdiction": "Southern United States",
+          "type": "group"
+        },
+        {
+          "name": "Southern booksellers",
+          "role": "Stopped selling his works",
+          "jurisdiction": "Southern United States",
+          "type": "group"
+        }
+      ],
+      "outcome": "He lost a large readership and income in the South but did not change his position.",
+      "sources": [
+        "drummond",
+        "nettles"
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "October 1887 – April 1888",
+      "title": "Censured by the Baptist Union in the Down-Grade Controversy",
+      "summary": "Spurgeon accused some Baptist ministers of abandoning core doctrines and resigned from the Baptist Union in October 1887. In January 1888 the Union's Council formally censured him for making these charges without naming the ministers concerned. The Union then adopted a doctrinal statement that Spurgeon considered too vague.",
+      "responsible": [
+        {
+          "name": "Council of the Baptist Union of Great Britain and Ireland",
+          "role": "Passed the vote of censure",
+          "jurisdiction": "Baptist Union",
+          "type": "church"
+        },
+        {
+          "name": "John Clifford",
+          "role": "Leading Baptist minister on the more liberal side; president of the Union in 1888",
+          "jurisdiction": "Baptist Union",
+          "type": "church"
+        }
+      ],
+      "outcome": "Spurgeon never returned to the Baptist Union. Many historians think the strain worsened his health in his final years.",
+      "sources": [
+        "murray",
+        "sword-trowel",
+        "drummond"
+      ]
+    }
+  ],
+  "excommunication_note": "Spurgeon was never excommunicated. The Baptist Union's Council passed a formal vote of censure against him in January 1888, after he had already resigned from the Union, but that was a rebuke, not an expulsion. He remained pastor of the Metropolitan Tabernacle until his death.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "autobiography",
+      "type": "primary",
+      "citation": "C. H. Spurgeon's Autobiography, compiled from his diary, letters, and records by his wife and his private secretary, 4 vols. (London: Passmore & Alabaster, 1897–1900)."
+    },
+    {
+      "id": "tabernacle-pulpit",
+      "type": "primary",
+      "citation": "C. H. Spurgeon, The New Park Street Pulpit and The Metropolitan Tabernacle Pulpit, 63 vols. (London: Passmore & Alabaster, 1855–1917)."
+    },
+    {
+      "id": "sword-trowel",
+      "type": "primary",
+      "citation": "C. H. Spurgeon, ed., The Sword and the Trowel (London, 1865– ), including the \"Down-Grade\" articles of 1887."
+    },
+    {
+      "id": "drummond",
+      "type": "scholarly",
+      "citation": "Lewis A. Drummond, Spurgeon: Prince of Preachers (Grand Rapids: Kregel, 1992)."
+    },
+    {
+      "id": "murray",
+      "type": "scholarly",
+      "citation": "Iain H. Murray, The Forgotten Spurgeon (Edinburgh: Banner of Truth Trust, 1966)."
+    },
+    {
+      "id": "nettles",
+      "type": "scholarly",
+      "citation": "Tom Nettles, Living by Revealed Truth: The Life and Pastoral Theology of Charles Haddon Spurgeon (Fearn, Ross-shire: Mentor, 2013)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Charles Haddon Spurgeon,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Charles-Haddon-Spurgeon"
+    }
+  ]
+}

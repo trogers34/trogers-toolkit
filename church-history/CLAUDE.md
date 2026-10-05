@@ -24,6 +24,10 @@ the user has set and the list of everyone on the site.
 7. An AI-generated notice at the top of every page.
 8. Publish every addition: commit, merge, and build each time, without asking.
 9. When the user gives a list, skip anyone already on the site ("some duplicates so ignore").
+10. Keep this project memory up to date after every commit: the people list, every new
+    rule or preference the user states, and the change log at the bottom. A hook in
+    `.claude/settings.json` checks each `git commit` and flags commits to `church-history/`
+    that did not also update this file.
 
 ## Adding a person
 
@@ -179,3 +183,29 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 - Whether to add a separate section on persecution these people supported or carried out
   against others (e.g. Augustine and the Donatists, Luther and the Anabaptists and Jews).
   Offered; no answer yet.
+
+## Change log
+
+Update this after every commit that changes the site. Newest first. PR numbers refer to
+trogers34/trogers-toolkit.
+
+- **Memory upkeep**: rule to update this file after every commit; a PostToolUse hook
+  (`.claude/hooks/check-memory-updated.sh`) flags commits to `church-history/` that skip it;
+  this change log started.
+- **PR #61**: the Apostolic Fathers (Clement of Rome, Ignatius, Papias, Polycarp, Hermas,
+  Quadratus, Pseudo-Barnabas); rule to list group requests for approval first. 31 people.
+- **PR #60**: Thomas More, with the reusable `victims` section (executed people linked to a
+  person, with execution and link verification ratings and links). 24 people.
+- **PR #59**: Thomas Aquinas, John Oldcastle, R. C. Sproul; this file rewritten as the
+  project memory with the full rules and people list; roster test added. 23 people.
+- **PR #58**: Nicholas of Myra (assumed for "Nicolas"), Athanasius, Chrysostom, Leo the Great,
+  Gregory the Great, Cranmer, Bucer, Chemnitz, Erasmus, Chuck Smith; AI-generated notice on
+  every page (`ai_generated`). 20 people.
+- **PR #57**: John Knox. **PR #56**: C. S. Lewis. **PR #55**: Billy Graham.
+- **PR #54**: William of Ockham; `misattributed` sayings category; standing instruction to
+  commit, merge, and build each new person without asking.
+- **PR #53**: John Wycliffe and Jan Hus; required `excommunications` section for everyone.
+- **PR #52**: required persecution section (who was responsible, jurisdiction, church/state).
+- **PR #51**: initial site (Augustine, Luther, Wesley as starter examples; William Tyndale with
+  Words and sayings), timeline with era zoom, build checks, tests, and GitHub Pages publishing.
+

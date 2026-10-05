@@ -9,6 +9,9 @@
   --bar-hover: #a8774a;
   --dot: #6b2a0b;
   --life: #f3ece2;
+  --event: #3d6a8a;
+  --event-hover: #2a4f6b;
+  --event-bg: #e9f0f5;
   --serif: Georgia, "Times New Roman", serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
@@ -24,6 +27,9 @@
     --bar-hover: #a0784f;
     --dot: #f0c8a0;
     --life: #2c2823;
+    --event: #6f9fc2;
+    --event-hover: #93bcdb;
+    --event-bg: #1f2a33;
   }
 }
 
@@ -76,6 +82,14 @@ main { max-width: 1000px; margin: 0 auto; padding: 1rem 16px 3rem; }
   background: var(--bar); border-radius: 0.45rem; min-width: 4px;
 }
 .bar:hover, .bar:focus { background: var(--bar-hover); }
+.event-row .bar { background: var(--event); border-radius: 2px; }
+.event-row .bar:hover, .event-row .bar:focus { background: var(--event-hover); }
+.event-row .dot { background: var(--event-hover); border-radius: 2px; }
+.event-tag {
+  display: inline-block; margin-right: 0.35rem; padding: 0 0.35rem; border-radius: 3px; vertical-align: 1px;
+  background: var(--event); color: var(--bg); font-size: 0.68rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;
+}
+.event-row .row-name { color: var(--event-hover); }
 .dot {
   position: absolute; top: 50%; width: 9px; height: 9px; margin-left: -4.5px; transform: translateY(-50%);
   border-radius: 50%; background: var(--dot); border: 1.5px solid var(--surface); z-index: 1;
@@ -96,6 +110,12 @@ table.events { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
 .events th { color: var(--muted); font-weight: 600; font-size: 0.85rem; }
 .events td.year { white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600; }
 .events tr.life td { background: var(--life); }
+.events tr.evt td { background: var(--event-bg); }
+.event-kind { color: var(--event); font-weight: 700; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; margin: 0; }
+.cards.event-cards a { border-left: 4px solid var(--event); }
+ul.participants { padding-left: 1.2rem; }
+ul.participants li { margin: 0.3rem 0; }
+ul.participants .note { color: var(--muted); }
 
 /* ---- people cards ---- */
 .cards { list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }

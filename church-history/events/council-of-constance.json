@@ -1,0 +1,321 @@
+{
+  "name": "Council of Constance",
+  "slug": "council-of-constance",
+  "era": "Medieval",
+  "event_type": "council",
+  "summary": "The council that ended the Western Schism of three rival popes, condemned John Wycliffe, and burned Jan Hus and Jerome of Prague.",
+  "place": "Konstanz, Holy Roman Empire (modern Germany)",
+  "start": {
+    "year": 1414,
+    "date": "5 November 1414",
+    "sources": [
+      "tanner",
+      "stump"
+    ]
+  },
+  "end": {
+    "year": 1418,
+    "date": "22 April 1418",
+    "sources": [
+      "tanner",
+      "stump"
+    ]
+  },
+  "key_dates": [
+    {
+      "year": 1415,
+      "label": "Haec Sancta; Wycliffe condemned; Hus burned (6 July)",
+      "sources": [
+        "tanner",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1416,
+      "label": "Jerome of Prague burned (30 May)",
+      "sources": [
+        "fudge"
+      ]
+    },
+    {
+      "year": 1417,
+      "label": "Frequens decree; Martin V elected, ending the Western Schism",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "Since 1378 rival lines of popes in Rome and Avignon had divided Western Christendom; the Council of Pisa (1409) elected a third pope without removing the other two.",
+      "sources": [
+        "stump",
+        "britannica"
+      ]
+    },
+    {
+      "text": "King Sigismund of the Romans pressed the Pisan pope John XXIII to call a council, and promised Jan Hus safe conduct to attend it.",
+      "sources": [
+        "stump",
+        "fudge"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "John XXIII fled the city in March 1415 hoping to dissolve the council; it continued without him, and on 6 April 1415 issued the decree Haec Sancta, claiming authority directly from Christ that even a pope must obey in matters of faith, the schism, and reform.",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    },
+    {
+      "text": "The council deposed John XXIII (29 May 1415), accepted the resignation of the Roman pope Gregory XII (4 July 1415), and deposed the Avignon pope Benedict XIII (26 July 1417).",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    },
+    {
+      "text": "On 4 May 1415 it condemned 45 articles of John Wycliffe and ordered his remains exhumed and burned.",
+      "sources": [
+        "tanner",
+        "fudge"
+      ]
+    },
+    {
+      "text": "It tried Jan Hus, condemned him as a heretic, and handed him to the secular power; he was burned on 6 July 1415.",
+      "sources": [
+        "mladonovice",
+        "fudge",
+        "tanner"
+      ]
+    },
+    {
+      "text": "It forbade giving the cup to the laity in communion (15 June 1415), which the Hussites had begun to do.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "On 9 October 1417 it issued Frequens, requiring councils to meet regularly, and on 11 November 1417 the cardinals and representatives of the nations elected Martin V, ending the schism.",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Sigismund",
+      "role": "King of the Romans and of Hungary; protector of the council"
+    },
+    {
+      "name": "John XXIII (Baldassare Cossa)",
+      "role": "Pisan pope who convened the council; deposed"
+    },
+    {
+      "name": "Gregory XII",
+      "role": "Roman pope; resigned"
+    },
+    {
+      "name": "Benedict XIII (Pedro de Luna)",
+      "role": "Avignon pope; deposed but never submitted"
+    },
+    {
+      "name": "Martin V (Oddone Colonna)",
+      "role": "Elected pope in 1417"
+    },
+    {
+      "name": "Jean Gerson and Pierre d'Ailly",
+      "role": "Leading theologians of the council; both took part in the proceedings against Hus"
+    },
+    {
+      "name": "Jan Hus",
+      "role": "Bohemian reformer tried and burned by the council",
+      "person": "jan-hus"
+    },
+    {
+      "name": "John Wycliffe",
+      "role": "Dead since 1384; his teaching was condemned and his remains ordered burned",
+      "person": "john-wycliffe"
+    },
+    {
+      "name": "Jerome of Prague",
+      "role": "Hus's associate; recanted, withdrew the recantation, and was burned"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "The Western Schism ended, and Martin V was accepted across Western Christendom.",
+      "sources": [
+        "stump",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Haec Sancta became the founding text of conciliarism, the view that a general council is above the pope; later popes rejected that reading, and the Fifth Lateran Council and Vatican I affirmed papal authority.",
+      "sources": [
+        "stump",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The burning of Hus, despite Sigismund's safe conduct, led Bohemian nobles to protest and helped start the Hussite revolution and wars (1419–1434).",
+      "sources": [
+        "fudge",
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "4 May 1415",
+      "by": "Council of Constance",
+      "authority": "General council",
+      "reason": "John Wycliffe condemned as a heretic posthumously; 45 articles condemned and his remains ordered exhumed and burned (carried out at Lutterworth in 1428)",
+      "status": "Never lifted",
+      "sources": [
+        "tanner",
+        "fudge"
+      ]
+    },
+    {
+      "date": "29 May 1415",
+      "by": "Council of Constance",
+      "authority": "General council",
+      "reason": "John XXIII deposed for simony, scandal, and fleeing the council",
+      "status": "Accepted; the Catholic Church now counts him as an antipope",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    },
+    {
+      "date": "6 July 1415",
+      "by": "Council of Constance",
+      "authority": "General council",
+      "reason": "Jan Hus condemned as a heretic, degraded from the priesthood, and handed to the secular power",
+      "status": "Never formally reversed; in 1999 Pope John Paul II expressed 'deep regret' for his cruel death",
+      "sources": [
+        "mladonovice",
+        "fudge"
+      ]
+    },
+    {
+      "date": "30 May 1416",
+      "by": "Council of Constance",
+      "authority": "General council",
+      "reason": "Jerome of Prague condemned as a relapsed heretic after withdrawing his recantation",
+      "status": "Never reversed",
+      "sources": [
+        "fudge",
+        "tanner"
+      ]
+    },
+    {
+      "date": "26 July 1417",
+      "by": "Council of Constance",
+      "authority": "General council",
+      "reason": "Benedict XIII deposed as a schismatic and heretic",
+      "status": "Benedict refused to submit and kept a small following until his death in 1423; the Catholic Church counts him as an antipope",
+      "sources": [
+        "tanner",
+        "stump"
+      ]
+    }
+  ],
+  "persecution_note": "The council's condemnations were carried out by the secular authorities under Sigismund, the usual practice for heresy executions.",
+  "persecution": [
+    {
+      "year": 1415,
+      "date": "28 November 1414 – 6 July 1415",
+      "title": "Arrest, trial, and burning of Jan Hus",
+      "summary": "Hus came to Constance under Sigismund's safe conduct. He was arrested on 28 November 1414 on the cardinals' orders, held in the Dominican friary and then Gottlieben castle, tried in public hearings in June 1415, and burned outside the city after refusing to recant. Sigismund accepted the council's argument that a safe conduct did not protect a heretic.",
+      "responsible": [
+        {
+          "name": "Council of Constance",
+          "role": "Tried and condemned him",
+          "jurisdiction": "General council of the Western church",
+          "type": "church"
+        },
+        {
+          "name": "Pope John XXIII and the cardinals",
+          "role": "Ordered the arrest",
+          "jurisdiction": "Papal curia",
+          "type": "church"
+        },
+        {
+          "name": "Sigismund",
+          "role": "King of the Romans; withdrew the protection of his safe conduct",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Ludwig III, Elector Palatine",
+          "role": "Carried out the execution on Sigismund's behalf",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Burned at the stake; his ashes were thrown into the Rhine.",
+      "sources": [
+        "mladonovice",
+        "fudge"
+      ]
+    },
+    {
+      "year": 1416,
+      "date": "April 1415 – 30 May 1416",
+      "title": "Arrest and burning of Jerome of Prague",
+      "summary": "Jerome came to Constance to support Hus, fled, was arrested at Hirsau and brought back in chains. Imprisoned for a year, he recanted in September 1415, withdrew the recantation in May 1416, and was burned as a relapsed heretic.",
+      "responsible": [
+        {
+          "name": "Council of Constance",
+          "role": "Tried and condemned him",
+          "jurisdiction": "General council of the Western church",
+          "type": "church"
+        },
+        {
+          "name": "Secular authorities of Constance",
+          "role": "Carried out the execution",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Burned at the stake on the same site as Hus.",
+      "sources": [
+        "fudge",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "mladonovice",
+      "type": "primary",
+      "citation": "Peter of Mladoňovice, Account of the Trial and Condemnation of Master John Hus, in Matthew Spinka (trans.), John Hus at the Council of Constance. New York: Columbia University Press, 1965."
+    },
+    {
+      "id": "stump",
+      "type": "scholarly",
+      "citation": "Phillip H. Stump, The Reforms of the Council of Constance (1414–1418). Leiden: Brill, 1994."
+    },
+    {
+      "id": "fudge",
+      "type": "scholarly",
+      "citation": "Thomas A. Fudge, The Trial of Jan Hus: Medieval Heresy and Criminal Procedure. Oxford: Oxford University Press, 2013."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Constance.\" Encyclopaedia Britannica."
+    }
+  ]
+}

@@ -28,6 +28,10 @@ the user has set and the list of everyone on the site.
     rule or preference the user states, and the change log at the bottom. A hook in
     `.claude/settings.json` checks each `git commit` and flags commits to `church-history/`
     that did not also update this file.
+11. Events as well as people (councils, schisms, massacres, trials, assemblies), shown on
+    the **same timeline as the people**, in date order, marked as events. Events follow the
+    same rules as people: full history, everyone responsible for violence, condemnations,
+    sources, and the AI notice.
 
 ## Adding a person
 
@@ -48,6 +52,20 @@ When the user names a person from church history, add them to the site:
 7. If a name is ambiguous, pick the most likely church-history figure, say which one you
    chose, and offer to swap (e.g. "Nicolas" was taken as Nicholas of Myra; "Knox" as John
    Knox).
+
+## Adding an event
+
+When the user names an event, add `events/<slug>.json` (field reference in `README.md`) and
+list it under "Events on the site" below in the same format as the entries there (a test checks it).
+Then build, test, and publish exactly as for a person.
+
+- Events appear automatically on the home-page timeline among the people (blue bars with an
+  "Event" tag), in the era zoom views, the "All key dates" table, and the Events cards.
+- Link people who took part with `participants[].person`; their pages then list the event
+  under "Events" automatically. The build fails on a link to someone not on the site.
+- Include `condemnations` (who was condemned, deposed, or excommunicated at or by the event,
+  with status) and `persecution` incidents naming everyone responsible, as for people. Use
+  `victims` for named people killed. Label tradition and disputed numbers as such.
 
 Live site: https://trogers34.github.io/trogers-toolkit/
 
@@ -94,6 +112,18 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
 - R. C. Sproul (`r-c-sproul`)
+
+## Events on the site
+
+Keep this list in sync with `events/` (the tests check it). Oldest first.
+
+- Council of Nicaea, 325 (event: `council-of-nicaea`)
+- Council of Chalcedon, 451 (event: `council-of-chalcedon`)
+- Great Schism of 1054 (event: `great-schism`)
+- Council of Constance, 1414–1418 (event: `council-of-constance`)
+- Diet of Worms, 1521 (event: `diet-of-worms`)
+- Council of Trent, 1545–1563 (event: `council-of-trent`)
+- St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
 
 ## AI disclosure
 
@@ -190,6 +220,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
+- **Events** added, on the same timeline as people (user: "I would want these on the same
+  timeline as the people"): event pages, Events section on linked people's pages, Events
+  cards, events in the key-dates table. First 7: Nicaea, Chalcedon, the 1054 schism,
+  Constance, Worms, Trent, St. Bartholomew's Day. 32 people, 7 events.
 - Charles Haddon Spurgeon added (Surrey Gardens false alarm, sermons burned in the American South,
   Baptist Union censure in the Down-Grade Controversy). 32 people.
 - **Memory upkeep**: rule to update this file after every commit; a PostToolUse hook

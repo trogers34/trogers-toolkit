@@ -1,13 +1,15 @@
 # Church History
 
-A small static website of people from church history. Each person gets a page with
-bullet points of what they did, every point tied to a cited source. The home page
-is a timeline of everyone: lifespans, key dates, and a chronological table.
+A small static website of people and events from church history. Each person gets a page
+with bullet points of what they did, and each event a page on what happened, every point
+tied to a cited source. The home page is one timeline of everyone and every event:
+lifespans, event dates, key dates, and a chronological table.
 
 ## How it works
 
 ```
-people/<slug>.json   one data file per person (the only thing you edit)
+people/<slug>.json   one data file per person
+events/<slug>.json   one data file per event
 static/style.css     site styles
 build.py             validates the data and generates the site
 site/                generated HTML (committed so it can be opened or hosted directly)
@@ -64,3 +66,21 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `ai_generated` | optional: `full` (default) or `partial`. Controls the AI notice at the top of the page; set `partial` once a person has reviewed and edited the page |
 | `victims` | optional, with `victims_title` and `victims_intro`. People executed whose deaths are linked to this person. Each item: `name`, `executed`, `condemned_by`, `allegation`, `verification` (`execution` and `link`: `verified` / `partial` / `disputed` / `unverified`), `verification_note`, `links` (`label`, `url`), `sources` |
 | `sources` | `id`, `type` (`primary` / `scholarly` / `reference`), `citation`, optional `url` |
+
+## Adding an event
+
+Copy an existing file in `events/`. Fields shared with people (`sources`, `key_dates`,
+`persecution`, `victims`, `ai_generated`) work the same way. Event key dates must fall
+between `start` and `end`.
+
+| Field | Notes |
+|---|---|
+| `name`, `slug`, `also_known_as`, `era`, `summary` | as for people |
+| `event_type` | `council`, `schism`, `persecution`, `massacre`, `trial`, `war`, `revival`, `document`, `assembly`, `other` |
+| `start` / `end` | `year`, `date`, `sources`, optional `circa`. `end` is optional for one-day events |
+| `place` | optional |
+| `background`, `happened`, `outcomes` | bullet lists of `text` and `sources`; `happened` and `outcomes` are required |
+| `participants` | optional. `name`, `role`, and `person` (a person's slug) to link both pages |
+| `condemnations` | optional, same fields as `excommunications`, with `condemnations_note` |
+| `persecution`, `persecution_note` | optional, same format as for people |
+| `victims`, `victims_title`, `victims_intro`, `victims_subject` | optional; `victims_subject` replaces the person's name in "What … is accused of" |

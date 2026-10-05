@@ -19,6 +19,8 @@ VALID = {
     "accomplishments": [{"text": "Accomplished something.", "sources": ["s1"]}],
     "persecution": [],
     "persecution_note": "None recorded.",
+    "excommunications": [],
+    "excommunication_note": "Never excommunicated.",
     "sources": [{"id": "s1", "type": "scholarly", "citation": "A Book."}],
 }
 
@@ -68,6 +70,12 @@ class ValidatePersonTest(unittest.TestCase):
         event["responsible"] = []
         errors = self.errors_for(lambda p: p.update(persecution=[event]))
         self.assertIn("persecution[0] must list who was responsible", errors)
+
+    def test_excommunications_required(self):
+        errors = self.errors_for(lambda p: p.pop("excommunication_note"))
+        self.assertTrue(any("add 'excommunication_note'" in e for e in errors))
+        errors = self.errors_for(lambda p: p.update(excommunications=[{"date": "1410", "sources": ["s1"]}]))
+        self.assertIn("excommunications[0] needs 'by'", errors)
 
     def test_missing_field(self):
         errors = self.errors_for(lambda p: p.pop("summary"))
@@ -142,6 +150,15 @@ class BuildTest(unittest.TestCase):
         self.assertIn("Governor X", page)
         self.assertIn("Province Y", page)
         self.assertIn("Friend Z", page)
+
+    def test_excommunications_render(self):
+        person = copy.deepcopy(VALID)
+        person["excommunications"] = [{"date": "3 January 1521", "by": "Pope Leo X", "authority": "Papacy",
+                                       "reason": "Refused to recant", "status": "Never lifted", "sources": ["s1"]}]
+        page = build.render_person(person)
+        self.assertIn("<h3>Excommunications</h3>", page)
+        self.assertIn("Pope Leo X", page)
+        self.assertIn("Never lifted", page)
 
 
 if __name__ == "__main__":

@@ -213,6 +213,10 @@
       ]
     }
   ],
+  "excommunication_note": "Luther was excommunicated once, by Pope Leo X in 1521, after he refused to recant within the 60 days the pope had given him in 1520. The sentence was never lifted.",
+  "excommunications": [
+    {"date": "3 January 1521", "by": "Pope Leo X", "authority": "Papacy (bull Decet Romanum Pontificem)", "reason": "Refused to recant the 41 statements condemned in Exsurge Domine (June 1520), and publicly burned that bull", "status": "Never lifted", "sources": ["bainton", "britannica"]}
+  ],
   "sources": [
     {"id": "luthers-works", "type": "primary", "citation": "Luther's Works, American Edition, ed. Jaroslav Pelikan and Helmut T. Lehmann, 55 vols. (St. Louis: Concordia; Philadelphia: Fortress, 1955–1986)."},
     {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Here I Stand: A Life of Martin Luther (New York: Abingdon-Cokesbury, 1950)."},

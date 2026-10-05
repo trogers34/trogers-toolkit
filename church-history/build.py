@@ -21,7 +21,7 @@ SITE_DIR = ROOT / "site"
 STATIC_DIR = ROOT / "static"
 
 REQUIRED_FIELDS = ["name", "slug", "era", "summary", "born", "died",
-                   "key_dates", "accomplishments", "persecution", "sources"]
+                   "key_dates", "accomplishments", "persecution", "excommunications", "sources"]
 PARTY_TYPES = {"church": "Church", "state": "State", "individual": "Individual", "group": "Group"}
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
 SAYING_CATEGORIES = {
@@ -116,6 +116,15 @@ def validate_person(person, file_stem):
         if not acc.get("text"):
             errors.append(f"accomplishments[{i}] needs text")
         check_refs(f"accomplishments[{i}]", acc)
+
+    if not person["excommunications"] and not person.get("excommunication_note"):
+        errors.append("'excommunications' is empty: add 'excommunication_note' saying none is recorded")
+    for i, ex in enumerate(person["excommunications"]):
+        where = f"excommunications[{i}]"
+        for field in ("date", "by", "authority", "reason", "status"):
+            if not ex.get(field):
+                errors.append(f"{where} needs '{field}'")
+        check_refs(where, ex)
 
     if not person["persecution"] and not person.get("persecution_note"):
         errors.append("'persecution' is empty: add 'persecution_note' saying none is recorded")
@@ -251,11 +260,33 @@ def render_person(person):
       <p class="outcome"><strong>Outcome:</strong> {esc(ev["outcome"])}</p>
     </div>'''
 
+    ex_rows = "\n".join(
+        f'<tr><td class="nowrap">{esc(ex["date"])}</td><td><strong>{esc(ex["by"])}</strong></td>'
+        f'<td>{esc(ex["authority"])}</td><td>{esc(ex["reason"])}{cite(ex["sources"], numbers)}</td>'
+        f'<td>{esc(ex["status"])}</td></tr>'
+        for ex in person["excommunications"]
+    )
+    ex_note = person.get("excommunication_note")
+    ex_table = f'''
+      <div class="table-wrap">
+      <table class="responsible excomm">
+        <thead><tr><th>Date</th><th>By</th><th>Authority</th><th>Reason</th><th>Status</th></tr></thead>
+        <tbody>
+{ex_rows}
+        </tbody>
+      </table>
+      </div>''' if ex_rows else ""
+    excommunications_html = f'''
+    <div class="excommunications">
+      <h3>Excommunications</h3>
+      {f'<p>{esc(ex_note)}</p>' if ex_note else ""}{ex_table}
+    </div>'''
+
     note = person.get("persecution_note")
     persecution_html = f'''
   <section>
     <h2>Persecution, arrests, and executions</h2>
-    {f'<p class="intro">{esc(note)}</p>' if note else ""}{"".join(persecution_event(ev) for ev in person["persecution"])}
+    {f'<p class="intro">{esc(note)}</p>' if note else ""}{excommunications_html}{"".join(persecution_event(ev) for ev in person["persecution"])}
   </section>
 '''
 

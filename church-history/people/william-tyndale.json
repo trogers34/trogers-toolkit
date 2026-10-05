@@ -303,6 +303,10 @@
       ]
     }
   ],
+  "excommunication_note": "No separate sentence of excommunication against Tyndale by name is recorded before his trial. His condemnation as a heretic in August 1536 cut him off from the Church under canon law, and he was formally degraded from the priesthood before being handed to the secular authorities.",
+  "excommunications": [
+    {"date": "August 1536", "by": "Heresy commission under Emperor Charles V (with theologians of the University of Louvain)", "authority": "Imperial heresy law in the Habsburg Netherlands; church degradation ceremony at Vilvoorde", "reason": "Condemned as a heretic for his teaching on justification by faith and other Reformation doctrines", "status": "Degraded from the priesthood and executed; never reversed", "sources": ["foxe", "daniell"]}
+  ],
   "sources": [
     {"id": "tyndale-nt", "type": "primary", "citation": "William Tyndale, Tyndale's New Testament: Translated from the Greek by William Tyndale in 1534, ed. David Daniell (New Haven: Yale University Press, 1989)."},
     {"id": "tyndale-ot", "type": "primary", "citation": "William Tyndale, Tyndale's Old Testament: Being the Pentateuch of 1530, Joshua to 2 Chronicles of 1537, and Jonah, ed. David Daniell (New Haven: Yale University Press, 1992)."},

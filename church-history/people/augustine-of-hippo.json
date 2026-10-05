@@ -76,6 +76,8 @@
       ]
     }
   ],
+  "excommunication_note": "Augustine was never excommunicated. He remained a bishop in full communion with the Catholic Church in North Africa and with Rome until his death. (The Donatist and Catholic churches each rejected the other's clergy, but no sentence against Augustine personally is recorded.)",
+  "excommunications": [],
   "sources": [
     {"id": "confessions", "type": "primary", "citation": "Augustine, Confessions, trans. Henry Chadwick (Oxford: Oxford University Press, 1991).", "url": "https://ccel.org/ccel/augustine/confessions"},
     {"id": "possidius", "type": "primary", "citation": "Possidius, The Life of Saint Augustine (Vita Augustini), c. 432. Written by Augustine's friend and fellow bishop."},

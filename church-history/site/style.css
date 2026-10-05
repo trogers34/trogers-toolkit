@@ -120,6 +120,20 @@ h3 .count {
 .sayings .ref { color: var(--muted); font-size: 0.85rem; margin-left: 0.3rem; }
 .sayings .note { margin: 0.15rem 0 0; font-size: 0.9rem; color: var(--muted); max-width: 70ch; }
 
+/* ---- persecution ---- */
+.incident { border: 1px solid var(--border); border-radius: 8px; background: var(--surface); padding: 0.9rem 1rem; margin: 1rem 0; }
+.incident h3 { margin-top: 0; }
+.incident .when { margin: 0; color: var(--muted); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+.incident p { max-width: 75ch; }
+table.responsible { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+.responsible caption { text-align: left; font-weight: 700; padding-bottom: 0.3rem; }
+.responsible th, .responsible td { text-align: left; padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+.responsible th { color: var(--muted); font-size: 0.8rem; font-weight: 600; }
+.party { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; padding: 0.05rem 0.4rem; border-radius: 3px; border: 1px solid var(--border); white-space: nowrap; }
+.party.church { color: var(--accent); border-color: var(--accent); }
+.party.state { color: var(--text); }
+.defended, .outcome { font-size: 0.92rem; }
+
 /* ---- person page ---- */
 .crumb { margin: 0; font-size: 0.9rem; }
 .lifespan { color: var(--muted); margin: 0; font-size: 1.05rem; }
@@ -154,4 +168,7 @@ dl.life dd { margin: 0; }
   .row-name { font-size: 0.85rem; }
   .tick:nth-child(even) { display: none; }
   .key-dates li { flex-direction: column; gap: 0; }
+  .responsible thead { display: none; }
+  .responsible tr { display: block; padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
+  .responsible td { display: block; border: 0; padding: 0.05rem 0; }
 }

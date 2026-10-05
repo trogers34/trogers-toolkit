@@ -17,6 +17,8 @@ VALID = {
     "died": {"year": 360, "sources": ["s1"]},
     "key_dates": [{"year": 330, "label": "Did a thing", "sources": ["s1"]}],
     "accomplishments": [{"text": "Accomplished something.", "sources": ["s1"]}],
+    "persecution": [],
+    "persecution_note": "None recorded.",
     "sources": [{"id": "s1", "type": "scholarly", "citation": "A Book."}],
 }
 
@@ -53,6 +55,19 @@ class ValidatePersonTest(unittest.TestCase):
         }))
         self.assertIn("sayings.original[0] has no sources", errors)
         self.assertTrue(any("sayings category 'invented'" in e for e in errors))
+
+    def test_empty_persecution_needs_a_note(self):
+        errors = self.errors_for(lambda p: p.pop("persecution_note"))
+        self.assertTrue(any("add 'persecution_note'" in e for e in errors))
+
+    def test_persecution_event_must_name_responsible_parties(self):
+        event = {"year": 330, "title": "Arrested", "summary": "s", "outcome": "o", "sources": ["s1"],
+                 "responsible": [{"name": "A Bishop", "role": "Bishop", "type": "pope-ish"}]}
+        errors = self.errors_for(lambda p: p.update(persecution=[event]))
+        self.assertTrue(any("responsible[0] type" in e for e in errors))
+        event["responsible"] = []
+        errors = self.errors_for(lambda p: p.update(persecution=[event]))
+        self.assertIn("persecution[0] must list who was responsible", errors)
 
     def test_missing_field(self):
         errors = self.errors_for(lambda p: p.pop("summary"))
@@ -114,6 +129,19 @@ class BuildTest(unittest.TestCase):
         self.assertIn("Words and sayings", page)
         self.assertIn("Popularized", page)
         self.assertNotIn("<h3>Original", page)
+
+    def test_persecution_renders_responsible_table(self):
+        person = copy.deepcopy(VALID)
+        person["persecution"] = [{
+            "year": 330, "title": "Arrested", "summary": "Taken.", "outcome": "Released.", "sources": ["s1"],
+            "responsible": [{"name": "Governor X", "role": "Governor", "jurisdiction": "Province Y", "type": "state"}],
+            "defended_by": [{"name": "Friend Z", "role": "Bishop"}],
+        }]
+        page = build.render_person(person)
+        self.assertIn("Persecution, arrests, and executions", page)
+        self.assertIn("Governor X", page)
+        self.assertIn("Province Y", page)
+        self.assertIn("Friend Z", page)
 
 
 if __name__ == "__main__":

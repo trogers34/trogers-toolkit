@@ -21,7 +21,8 @@ SITE_DIR = ROOT / "site"
 STATIC_DIR = ROOT / "static"
 
 REQUIRED_FIELDS = ["name", "slug", "era", "summary", "born", "died",
-                   "key_dates", "accomplishments", "sources"]
+                   "key_dates", "accomplishments", "persecution", "sources"]
+PARTY_TYPES = {"church": "Church", "state": "State", "individual": "Individual", "group": "Group"}
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
 SAYING_CATEGORIES = {
     "original": ("Original",
@@ -116,6 +117,25 @@ def validate_person(person, file_stem):
             errors.append(f"accomplishments[{i}] needs text")
         check_refs(f"accomplishments[{i}]", acc)
 
+    if not person["persecution"] and not person.get("persecution_note"):
+        errors.append("'persecution' is empty: add 'persecution_note' saying none is recorded")
+    for i, ev in enumerate(person["persecution"]):
+        where = f"persecution[{i}]"
+        for field in ("title", "summary", "outcome"):
+            if not ev.get(field):
+                errors.append(f"{where} needs '{field}'")
+        if not ev.get("date") and not isinstance(ev.get("year"), int):
+            errors.append(f"{where} needs a 'year' or 'date'")
+        if not ev.get("responsible"):
+            errors.append(f"{where} must list who was responsible")
+        for j, party in enumerate(ev.get("responsible", []) + ev.get("defended_by", [])):
+            if not party.get("name") or not party.get("role"):
+                errors.append(f"{where} party {j} needs 'name' and 'role'")
+        for j, party in enumerate(ev.get("responsible", [])):
+            if party.get("type") not in PARTY_TYPES:
+                errors.append(f"{where}.responsible[{j}] type must be one of {list(PARTY_TYPES)}")
+        check_refs(where, ev)
+
     sayings = person.get("sayings", {})
     for category in sayings:
         if category not in SAYING_CATEGORIES:
@@ -201,6 +221,44 @@ def render_person(person):
         f'<li>{esc(a["text"])}{cite(a["sources"], numbers)}</li>' for a in person["accomplishments"]
     )
 
+    def persecution_event(ev):
+        when = ev.get("date") or format_year(ev["year"], ev.get("circa", False))
+        rows = "\n".join(
+            f'<tr><td><strong>{esc(r["name"])}</strong></td><td>{esc(r["role"])}</td>'
+            f'<td>{esc(r.get("jurisdiction", ""))}</td>'
+            f'<td><span class="party {esc(r["type"])}">{PARTY_TYPES[r["type"]]}</span></td></tr>'
+            for r in ev["responsible"]
+        )
+        defended = ""
+        if ev.get("defended_by"):
+            names = "; ".join(f'{esc(d["name"])} ({esc(d["role"])})' for d in ev["defended_by"])
+            defended = f'<p class="defended"><strong>Protected or defended by:</strong> {names}</p>'
+        return f'''
+    <div class="incident">
+      <p class="when">{esc(when)}</p>
+      <h3>{esc(ev["title"])}</h3>
+      <p>{esc(ev["summary"])}{cite(ev["sources"], numbers)}</p>
+      <div class="table-wrap">
+      <table class="responsible">
+        <caption>Who was responsible</caption>
+        <thead><tr><th>Who</th><th>Role</th><th>Jurisdiction / institution</th><th>Type</th></tr></thead>
+        <tbody>
+{rows}
+        </tbody>
+      </table>
+      </div>
+      {defended}
+      <p class="outcome"><strong>Outcome:</strong> {esc(ev["outcome"])}</p>
+    </div>'''
+
+    note = person.get("persecution_note")
+    persecution_html = f'''
+  <section>
+    <h2>Persecution, arrests, and executions</h2>
+    {f'<p class="intro">{esc(note)}</p>' if note else ""}{"".join(persecution_event(ev) for ev in person["persecution"])}
+  </section>
+'''
+
     sayings_html = ""
     if person.get("sayings"):
         groups = []
@@ -259,7 +317,7 @@ def render_person(person):
 {accomplishments}
     </ul>
   </section>
-{sayings_html}
+{sayings_html}{persecution_html}
   <section>
     <h2>Key dates</h2>
     <ol class="key-dates">

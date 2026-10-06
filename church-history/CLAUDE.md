@@ -138,6 +138,7 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Third Council of Constantinople, 680–681, 6th ecumenical (event: `third-council-of-constantinople`)
 - Second Council of Nicaea, 787, 7th ecumenical (event: `second-council-of-nicaea`)
 - Great Schism of 1054 (event: `great-schism`)
+- Marian Dogmas of the Catholic Church, 431–1950 (event: `marian-dogmas`): the user chose one combined event for all four dogmas
 - The Crusades, 1095–1291 (event: `the-crusades`): one event with each major crusade as a key date
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
@@ -240,7 +241,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- John Henry Newman (Tract 90 censure, the Achilli libel conviction, suspicion in Rome).
+- Marian Dogmas (431–1950) as one combined event, at the user's choice, after listing the four
+  dogmas for approval; linked to Augustine, Anselm, Aquinas, Luther, and Newman. 42 people, 15 events.
+- **PR #72**: John Henry Newman (Tract 90 censure, the Achilli libel conviction, suspicion in Rome).
   42 people, 14 events.
 - **PR #71**: Anselm of Canterbury (ontological argument, Cur Deus Homo, two exiles under William II and
   Henry I) and Richard Hooker (Laws of Ecclesiastical Polity, the Travers dispute). 41 people, 14 events.

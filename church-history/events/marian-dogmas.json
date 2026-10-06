@@ -1,0 +1,76 @@
+{
+  "name": "Marian Dogmas of the Catholic Church",
+  "slug": "marian-dogmas",
+  "also_known_as": "Mother of God (431), Perpetual Virginity (649), Immaculate Conception (1854), Assumption (1950)",
+  "era": "Medieval",
+  "event_type": "document",
+  "summary": "The four teachings about Mary that the Catholic Church has defined as dogma, binding on all Catholics: that she is the Mother of God, that she remained a virgin, that she was conceived without original sin, and that she was taken body and soul into heaven.",
+  "place": "Ephesus (431), Rome (649, 1854, 1950)",
+  "start": {"year": 431, "date": "22 June 431 (Council of Ephesus)", "sources": ["tanner", "pelikan"]},
+  "end": {"year": 1950, "date": "1 November 1950 (Munificentissimus Deus)", "sources": ["munificentissimus", "britannica"]},
+  "key_dates": [
+    {"year": 431, "label": "Mother of God (Theotokos) affirmed at the Council of Ephesus", "sources": ["tanner", "pelikan"]},
+    {"year": 553, "label": "Second Council of Constantinople calls Mary 'ever-virgin' in its anathemas", "sources": ["tanner"]},
+    {"year": 649, "label": "Lateran Synod under Martin I anathematizes denial of Mary's perpetual virginity", "sources": ["denzinger", "graef"]},
+    {"year": 1387, "label": "Paris condemns the Dominican Juan de Monzón for denying the Immaculate Conception", "sources": ["graef"]},
+    {"year": 1476, "label": "Sixtus IV approves a feast of the Immaculate Conception; in 1483 he forbids each side to call the other heretics", "sources": ["graef", "britannica"]},
+    {"year": 1546, "label": "Council of Trent says its decree on original sin does not include Mary", "sources": ["tanner"]},
+    {"year": 1854, "label": "Pius IX defines the Immaculate Conception (Ineffabilis Deus, 8 December)", "sources": ["denzinger", "britannica"]},
+    {"year": 1870, "label": "First Vatican Council defines papal infallibility, the authority later used for the Assumption", "sources": ["tanner", "britannica"]},
+    {"year": 1950, "label": "Pius XII defines the Assumption (Munificentissimus Deus, 1 November)", "sources": ["munificentissimus", "britannica"]}
+  ],
+  "background": [
+    {"text": "The New Testament says Jesus was conceived by the Holy Spirit and born of the virgin Mary; later teachings about her developed over centuries from the creeds, the church fathers, liturgy, and popular devotion.", "sources": ["pelikan", "graef"]},
+    {"text": "The title 'ever-virgin' and the belief that Mary had no other children were widely held by the fourth century; Jerome defended them against Helvidius (c. 383), who argued that the 'brothers of Jesus' were Mary's children.", "sources": ["graef", "pelikan"]},
+    {"text": "Augustine wrote that, out of honor to the Lord, he would raise no question about Mary when it came to sin, a passage later cited in the debate over the Immaculate Conception.", "sources": ["graef"]},
+    {"text": "Stories of Mary's death and bodily assumption circulated from about the fifth century, and the feast of her Dormition or Assumption was kept in both East and West by the seventh century, though the New Testament does not describe her death.", "sources": ["pelikan", "munificentissimus"]}
+  ],
+  "happened": [
+    {"text": "Mother of God (431): the Council of Ephesus, led by Cyril of Alexandria, upheld the title Theotokos ('God-bearer') against Nestorius; the point was mainly about Christ being one person, divine and human.", "sources": ["tanner", "pelikan"]},
+    {"text": "Perpetual Virginity (649): the Lateran Synod under Pope Martin I declared anathema anyone who did not confess that Mary conceived without seed, gave birth without corruption, and remained a virgin after the birth.", "sources": ["denzinger", "graef"]},
+    {"text": "Immaculate Conception (1854): after centuries of dispute, mainly between Dominicans, who followed Thomas Aquinas in denying it, and Franciscans, who followed John Duns Scotus in affirming it, Pius IX declared that Mary was preserved from original sin from the first moment of her conception, by a singular grace in view of Christ's merits. He had consulted the world's bishops in 1849.", "sources": ["denzinger", "graef", "britannica"]},
+    {"text": "Assumption (1950): after consulting the bishops in 1946, Pius XII declared that Mary, 'having completed the course of her earthly life, was assumed body and soul into heavenly glory', leaving open whether she died first. It is the only definition made explicitly under the papal infallibility defined in 1870.", "sources": ["munificentissimus", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Augustine of Hippo", "role": "Held that Mary should not be discussed in connection with sin, a passage cited in later debates", "person": "augustine-of-hippo"},
+    {"name": "Cyril of Alexandria", "role": "Led the defense of 'Theotokos' at Ephesus (431)"},
+    {"name": "Martin I", "role": "Pope who presided over the Lateran Synod of 649"},
+    {"name": "Anselm of Canterbury", "role": "Wrote in Cur Deus Homo that Mary was conceived in sin; his biographer Eadmer defended the Immaculate Conception", "person": "anselm-of-canterbury"},
+    {"name": "Bernard of Clairvaux", "role": "Opposed the new feast of Mary's Conception at Lyon (c. 1140)"},
+    {"name": "Thomas Aquinas", "role": "Taught that Mary was sanctified in the womb after conception, not preserved from original sin; the Dominicans followed him", "person": "thomas-aquinas"},
+    {"name": "John Duns Scotus", "role": "Franciscan theologian who argued that Christ's redemption could preserve Mary from sin (c. 1300)"},
+    {"name": "Martin Luther", "role": "Kept the title Mother of God and belief in Mary's perpetual virginity, while rejecting prayer to the saints", "person": "martin-luther"},
+    {"name": "John Henry Newman", "role": "Defended the Immaculate Conception and Marian devotion in his Letter to Pusey (1865–66)", "person": "john-henry-newman"},
+    {"name": "Pius IX", "role": "Defined the Immaculate Conception (1854)"},
+    {"name": "Pius XII", "role": "Defined the Assumption (1950)"}
+  ],
+  "outcomes": [
+    {"text": "The Eastern Orthodox churches hold Mary as Mother of God and ever-virgin and celebrate her Dormition, but do not accept the Immaculate Conception, which assumes a Western view of original sin, and object to the pope defining dogma alone.", "sources": ["pelikan", "britannica"]},
+    {"text": "The Protestant Reformers kept 'Mother of God' and most held to her perpetual virginity, but Protestant churches reject the Immaculate Conception and the Assumption as dogmas without biblical basis, and most modern Protestants do not hold to her perpetual virginity.", "sources": ["pelikan", "arcic"]},
+    {"text": "The 1950 definition was criticized by Protestant and Orthodox churches as a new obstacle to unity. The Anglican–Roman Catholic International Commission's statement Mary: Grace and Hope in Christ (2005) sought common ground on the two papal dogmas.", "sources": ["arcic", "britannica"]},
+    {"text": "The Second Vatican Council placed its teaching on Mary within its document on the church (Lumen Gentium, 1964) rather than issue a separate document, and no further Marian dogma has been defined; proposals to define Mary as 'Co-Redemptrix' have not been adopted.", "sources": ["tanner", "britannica"]}
+  ],
+  "condemnations_note": "Each definition carries a condemnation of those who deny it.",
+  "condemnations": [
+    {"date": "431", "by": "Council of Ephesus", "authority": "Ecumenical council", "reason": "Nestorius deposed; rejecting the title Theotokos condemned", "status": "Not reversed (see the Council of Ephesus page)", "sources": ["tanner"]},
+    {"date": "October 649", "by": "Lateran Synod under Pope Martin I", "authority": "Roman synod", "reason": "Anathema on anyone who denies Mary's virginity before, during, and after Christ's birth", "status": "Not reversed", "sources": ["denzinger"]},
+    {"date": "8 December 1854", "by": "Pope Pius IX", "authority": "Papacy (bull Ineffabilis Deus)", "reason": "Anyone who dares to think otherwise is 'condemned by his own judgment', has 'suffered shipwreck in the faith', and has separated from the unity of the Church", "status": "In force in the Catholic Church", "sources": ["denzinger"]},
+    {"date": "1 November 1950", "by": "Pope Pius XII", "authority": "Papacy (apostolic constitution Munificentissimus Deus)", "reason": "Anyone who wilfully denies or doubts the Assumption 'has fallen away completely from the divine and Catholic faith'", "status": "In force in the Catholic Church", "sources": ["munificentissimus"]}
+  ],
+  "persecution_note": "The Marian dogmas were not enforced by executions. The main coercive episode was the medieval fight over the Immaculate Conception, in which universities expelled or disciplined theologians who denied it.",
+  "persecution": [
+    {"year": 1387, "date": "1387–1403", "title": "Paris against the Dominicans over the Immaculate Conception", "summary": "The theology faculty of the University of Paris condemned propositions of the Dominican Juan de Monzón, including his denial of the Immaculate Conception. When the Dominicans backed him, the university excluded the order from its faculty; the Avignon pope Clement VII upheld the condemnation, and the Dominicans were not readmitted until 1403. In 1483 Pope Sixtus IV forbade either side, on pain of excommunication, to call the other heretics.", "responsible": [
+      {"name": "Faculty of Theology, University of Paris", "role": "Condemned Monzón and excluded the Dominicans", "jurisdiction": "University of Paris", "type": "church"},
+      {"name": "Clement VII (Avignon)", "role": "Avignon pope who upheld the condemnation", "jurisdiction": "Avignon papacy", "type": "church"}
+    ], "outcome": "Monzón left the Roman obedience; the Dominicans returned to the university in 1403.", "sources": ["graef"]}
+  ],
+  "sources": [
+    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, 2 vols. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
+    {"id": "denzinger", "type": "primary", "citation": "Heinrich Denzinger and Peter Hünermann (eds.), Compendium of Creeds, Definitions, and Declarations on Matters of Faith and Morals, 43rd ed. San Francisco: Ignatius Press, 2012. (Lateran Synod of 649; Ineffabilis Deus.)"},
+    {"id": "munificentissimus", "type": "primary", "citation": "Pope Pius XII, Munificentissimus Deus, apostolic constitution defining the Assumption, 1 November 1950."},
+    {"id": "arcic", "type": "primary", "citation": "Anglican–Roman Catholic International Commission, Mary: Grace and Hope in Christ (the Seattle Statement), 2005."},
+    {"id": "graef", "type": "scholarly", "citation": "Hilda Graef, Mary: A History of Doctrine and Devotion, 2 vols. London: Sheed & Ward, 1963–65."},
+    {"id": "pelikan", "type": "scholarly", "citation": "Jaroslav Pelikan, Mary Through the Centuries: Her Place in the History of Culture. New Haven: Yale University Press, 1996."},
+    {"id": "britannica", "type": "reference", "citation": "\"Immaculate Conception\" and \"Assumption.\" Encyclopaedia Britannica."}
+  ]
+}

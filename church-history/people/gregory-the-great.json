@@ -178,6 +178,34 @@
   "persecution": [],
   "excommunication_note": "Gregory was never excommunicated. He was pope, and he protested, without any formal break, against the Patriarch of Constantinople's use of the title \"ecumenical patriarch.\"",
   "excommunications": [],
+  "persecuted_others_note": "Gregory urged coercion to convert the pagan peasants of Sardinia and called on officials in Africa to suppress the Donatists. Toward the Jews he took a protective line: he forbade forced baptism, ordered seized synagogues restored, and in a letter of 598 set out the principle later known as Sicut Judaeis, that Jews should keep their legal rights. He did support laws barring Jews from owning Christian slaves and offered converts reduced rents.",
+  "persecuted_others": [
+    {
+      "year": 591,
+      "date": "591–596",
+      "title": "Pressure for suppression of the Donatists",
+      "targets": "Donatist clergy and congregations in North Africa",
+      "involvement": "advocated",
+      "summary": "Gregory repeatedly wrote to African bishops and the exarch Gennadius asking that the imperial laws against the Donatists be enforced and that Donatists not be allowed to hold church office; he complained that some officials accepted bribes to leave them alone.",
+      "sources": [
+        "register",
+        "markus"
+      ]
+    },
+    {
+      "year": 594,
+      "date": "c. 594–599",
+      "circa": true,
+      "title": "Coercion of Sardinian pagans",
+      "targets": "Pagan peasants and the Barbaricini of Sardinia",
+      "involvement": "advocated",
+      "summary": "In letters to Bishop Januarius of Cagliari, landowners, and imperial officials, Gregory urged that pagan peasants who refused conversion be burdened with heavier rents or taxes, that pagan slaves be punished with beatings and free men with imprisonment, and he encouraged the Byzantine commander to press the Barbaricini to convert.",
+      "sources": [
+        "register",
+        "markus"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "pastoral-rule",
@@ -204,6 +232,11 @@
       "type": "reference",
       "citation": "\"Saint Gregory the Great,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Saint-Gregory-the-Great"
+    },
+    {
+      "id": "register",
+      "type": "primary",
+      "citation": "The Letters of Gregory the Great, trans. John R. C. Martyn. 3 vols. Toronto: Pontifical Institute of Mediaeval Studies, 2004."
     }
   ]
 }

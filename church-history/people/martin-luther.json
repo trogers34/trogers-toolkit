@@ -344,6 +344,47 @@
       ]
     }
   ],
+  "persecuted_others_note": "Luther at first argued that heresy should be fought with the word, not with fire (1523), and in 1528 lamented the burning of Anabaptists. Later he urged the princes to kill the rebelling peasants (1525), endorsed memoranda supporting the death penalty for Anabaptists (1531, 1536), and in 1543 called on rulers to burn synagogues and expel or subjugate the Jews, reversing his conciliatory tract of 1523.",
+  "persecuted_others": [
+    {
+      "year": 1525,
+      "title": "Against the Robbing and Murdering Hordes of Peasants",
+      "targets": "Rebelling peasants in the German Peasants' War",
+      "involvement": "advocated",
+      "summary": "In May 1525 Luther urged the princes to \"smite, slay, and stab\" the rebels, whom he regarded as rebels against God-given authority. The killing was carried out by the princes' armies, including those of Philip of Hesse and Duke George of Saxony at Frankenhausen; Luther defended his tract later that year in An Open Letter on the Harsh Book.",
+      "outcome": "The revolt was crushed; tens of thousands of peasants were killed (the often-quoted estimate is about 100,000).",
+      "sources": [
+        "luthers-works",
+        "bainton",
+        "britannica"
+      ]
+    },
+    {
+      "date": "1531, 1536",
+      "title": "Endorsed the death penalty for Anabaptists",
+      "targets": "Anabaptists",
+      "involvement": "advocated",
+      "summary": "Luther added his approval to a 1531 memorandum by Philip Melanchthon holding that Anabaptists who refused to recant could be put to death, and in 1536 he signed a Wittenberg memorandum (written by Melanchthon for Philip of Hesse) supporting the death penalty for Anabaptist leaders and for those who defied banishment, treating their teaching as sedition and blasphemy. Philip of Hesse himself avoided executing Anabaptists.",
+      "outcome": "Anabaptists were executed in Electoral Saxony in this period.",
+      "sources": [
+        "oyer",
+        "bainton"
+      ]
+    },
+    {
+      "year": 1543,
+      "title": "On the Jews and Their Lies",
+      "targets": "Jews",
+      "involvement": "advocated",
+      "summary": "Luther urged rulers to set fire to synagogues and Jewish schools, destroy Jewish homes, take away prayer books and Talmudic writings, forbid rabbis to teach, deny Jews safe conduct, ban usury, and put them to manual labor, or else expel them. He repeated these themes in other 1543 tracts and in an admonition against the Jews appended to his last sermon in 1546. Earlier, in 1537, he had declined to intercede for Jews expelled from Electoral Saxony.",
+      "outcome": "Few rulers adopted his program at the time, but the tract was later republished and cited by Nazi propagandists; Lutheran church bodies have since repudiated it.",
+      "sources": [
+        "luthers-works",
+        "oberman",
+        "bainton"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "luthers-works",
@@ -365,6 +406,11 @@
       "type": "reference",
       "citation": "\"Martin Luther,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Martin-Luther"
+    },
+    {
+      "id": "oyer",
+      "type": "scholarly",
+      "citation": "John S. Oyer, Lutheran Reformers against Anabaptists: Luther, Melanchthon and Menius and the Anabaptists of Central Germany (The Hague: Martinus Nijhoff, 1964)."
     }
   ]
 }

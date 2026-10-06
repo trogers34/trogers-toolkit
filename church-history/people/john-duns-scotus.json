@@ -4,49 +4,225 @@
   "also_known_as": "Blessed John Duns Scotus; the Subtle Doctor (Doctor Subtilis)",
   "era": "Medieval",
   "role": "Scottish Franciscan philosopher and theologian",
-  "born": {"year": 1266, "circa": true, "date": "c. 1265–1266", "place": "Duns, Berwickshire, Scotland", "sources": ["cross", "britannica"]},
-  "died": {"year": 1308, "date": "8 November 1308", "place": "Cologne, Holy Roman Empire", "cause": "Unknown; he died suddenly, aged about 42 (a later legend that he was buried alive is unfounded)", "sources": ["cross", "williams"]},
+  "born": {
+    "year": 1266,
+    "circa": true,
+    "date": "c. 1265–1266",
+    "place": "Duns, Berwickshire, Scotland",
+    "sources": [
+      "cross",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1308,
+    "date": "8 November 1308",
+    "place": "Cologne, Holy Roman Empire",
+    "cause": "Unknown; he died suddenly, aged about 42 (a later legend that he was buried alive is unfounded)",
+    "sources": [
+      "cross",
+      "williams"
+    ]
+  },
   "summary": "Franciscan theologian at Oxford and Paris, known as the 'Subtle Doctor', whose defense of the Immaculate Conception and original ideas on being, individuality, and the will made him one of the most influential medieval thinkers.",
   "key_dates": [
-    {"year": 1291, "label": "Ordained priest at Northampton (17 March)", "sources": ["cross", "britannica"]},
-    {"year": 1298, "circa": true, "label": "Lectures on Peter Lombard's Sentences at Oxford (Lectura)", "sources": ["cross", "williams"]},
-    {"year": 1302, "label": "Lectures on the Sentences at the University of Paris", "sources": ["cross"]},
-    {"year": 1303, "label": "Expelled from France for siding with Pope Boniface VIII against Philip IV", "sources": ["cross", "britannica"]},
-    {"year": 1305, "label": "Becomes regent master in theology at Paris", "sources": ["cross"]},
-    {"year": 1307, "label": "Sent to teach at the Franciscan school in Cologne", "sources": ["cross", "britannica"]}
+    {
+      "year": 1291,
+      "label": "Ordained priest at Northampton (17 March)",
+      "sources": [
+        "cross",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1298,
+      "circa": true,
+      "label": "Lectures on Peter Lombard's Sentences at Oxford (Lectura)",
+      "sources": [
+        "cross",
+        "williams"
+      ]
+    },
+    {
+      "year": 1302,
+      "label": "Lectures on the Sentences at the University of Paris",
+      "sources": [
+        "cross"
+      ]
+    },
+    {
+      "year": 1303,
+      "label": "Expelled from France for siding with Pope Boniface VIII against Philip IV",
+      "sources": [
+        "cross",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1305,
+      "label": "Becomes regent master in theology at Paris",
+      "sources": [
+        "cross"
+      ]
+    },
+    {
+      "year": 1307,
+      "label": "Sent to teach at the Franciscan school in Cologne",
+      "sources": [
+        "cross",
+        "britannica"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Argued that Christ's redemption could preserve Mary from original sin in advance, the argument that made the Immaculate Conception defensible against Thomas Aquinas's objections; it was defined as Catholic dogma in 1854.", "sources": ["cross", "britannica"]},
-    {"text": "Taught the 'univocity of being', that 'being' means the same when said of God and creatures, against Aquinas's doctrine of analogy.", "sources": ["cross", "williams"]},
-    {"text": "Developed the idea of 'haecceity' ('thisness'), the principle that makes each individual the unique thing it is.", "sources": ["cross", "williams"]},
-    {"text": "Introduced the 'formal distinction', a way of distinguishing aspects of one thing that are neither merely mental nor separate realities.", "sources": ["cross", "williams"]},
-    {"text": "Stressed the freedom of the will, in God and humans, over the intellect, an emphasis that shaped later Franciscan theology.", "sources": ["williams", "britannica"]},
-    {"text": "Taught that the Son would have become incarnate even if humanity had never sinned (the 'absolute primacy of Christ').", "sources": ["cross"]},
-    {"text": "Founded 'Scotism', a school that rivaled Thomism for centuries; Renaissance humanists mocked his followers as 'Duns men', the origin of the English word 'dunce'.", "sources": ["britannica", "williams"]},
-    {"text": "Was beatified by Pope John Paul II in 1993.", "sources": ["britannica"]}
+    {
+      "text": "Argued that Christ's redemption could preserve Mary from original sin in advance, the argument that made the Immaculate Conception defensible against Thomas Aquinas's objections; it was defined as Catholic dogma in 1854.",
+      "sources": [
+        "cross",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Taught the 'univocity of being', that 'being' means the same when said of God and creatures, against Aquinas's doctrine of analogy.",
+      "sources": [
+        "cross",
+        "williams"
+      ]
+    },
+    {
+      "text": "Developed the idea of 'haecceity' ('thisness'), the principle that makes each individual the unique thing it is.",
+      "sources": [
+        "cross",
+        "williams"
+      ]
+    },
+    {
+      "text": "Introduced the 'formal distinction', a way of distinguishing aspects of one thing that are neither merely mental nor separate realities.",
+      "sources": [
+        "cross",
+        "williams"
+      ]
+    },
+    {
+      "text": "Stressed the freedom of the will, in God and humans, over the intellect, an emphasis that shaped later Franciscan theology.",
+      "sources": [
+        "williams",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Taught that the Son would have become incarnate even if humanity had never sinned (the 'absolute primacy of Christ').",
+      "sources": [
+        "cross"
+      ]
+    },
+    {
+      "text": "Founded 'Scotism', a school that rivaled Thomism for centuries; Renaissance humanists mocked his followers as 'Duns men', the origin of the English word 'dunce'.",
+      "sources": [
+        "britannica",
+        "williams"
+      ]
+    },
+    {
+      "text": "Was beatified by Pope John Paul II in 1993.",
+      "sources": [
+        "britannica"
+      ]
+    }
   ],
   "sayings_intro": "His Latin works are technical; the best-known phrase linked to him is not his.",
   "sayings": {
     "original": [
-      {"phrase": "Haecceitas ('thisness'): the principle of individuation that makes a thing this individual", "reference": "Ordinatio II, d. 3 (and the Reportatio)", "sources": ["cross"]}
+      {
+        "phrase": "Haecceitas ('thisness'): the principle of individuation that makes a thing this individual",
+        "reference": "Ordinatio II, d. 3 (and the Reportatio)",
+        "sources": [
+          "cross"
+        ]
+      }
     ],
     "misattributed": [
-      {"phrase": "Potuit, decuit, ergo fecit ('God could do it, it was fitting, therefore he did it')", "reference": "Argument for the Immaculate Conception", "note": "Often credited to Scotus, but the argument goes back to Eadmer of Canterbury (12th century); the slogan is a later summary.", "sources": ["williams"]}
+      {
+        "phrase": "Potuit, decuit, ergo fecit ('God could do it, it was fitting, therefore he did it')",
+        "reference": "Argument for the Immaculate Conception",
+        "note": "Often credited to Scotus, but the argument goes back to Eadmer of Canterbury (12th century); the slogan is a later summary.",
+        "sources": [
+          "williams"
+        ]
+      }
     ]
   },
   "persecution_note": "Scotus was never arrested, but he was expelled from France for supporting the pope against the king.",
   "persecution": [
-    {"year": 1303, "date": "June 1303 – 1304", "title": "Expulsion from France", "summary": "During Philip IV's conflict with Pope Boniface VIII, royal commissioners required the Paris Franciscans to support the king's appeal for a general council against the pope. Scotus was among some 80 friars who refused, and they were given days to leave France.", "responsible": [
-      {"name": "Philip IV of France", "role": "King", "jurisdiction": "Kingdom of France", "type": "state"},
-      {"name": "Royal commissioners at Paris", "role": "Polled the friars and expelled those who refused", "jurisdiction": "Kingdom of France", "type": "state"}
-    ], "outcome": "He returned to Paris in 1304 after Boniface's death and the reconciliation of king and papacy.", "sources": ["cross", "britannica"]}
+    {
+      "year": 1303,
+      "date": "June 1303 – 1304",
+      "title": "Expulsion from France",
+      "summary": "During Philip IV's conflict with Pope Boniface VIII, royal commissioners required the Paris Franciscans to support the king's appeal for a general council against the pope. Scotus was among some 80 friars who refused, and they were given days to leave France.",
+      "responsible": [
+        {
+          "name": "Philip IV of France",
+          "role": "King",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        },
+        {
+          "name": "Royal commissioners at Paris",
+          "role": "Polled the friars and expelled those who refused",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        }
+      ],
+      "outcome": "He returned to Paris in 1304 after Boniface's death and the reconciliation of king and papacy.",
+      "sources": [
+        "cross",
+        "britannica"
+      ]
+    }
   ],
   "excommunication_note": "Scotus was never excommunicated or condemned; his views were challenged by Dominican and other theologians but never censured by the church.",
   "excommunications": [],
+  "persecuted_others_note": "Duns Scotus argued that a Christian prince could lawfully take Jewish children from their parents to be baptized, and could compel Jewish adults to accept baptism by threats, keeping only a small remnant of Jews. This went beyond the common view of his time, held by Aquinas, that such force was wrong. No record shows him taking part in any act of persecution.",
+  "persecuted_others": [
+    {
+      "date": "c. 1300–1304",
+      "circa": true,
+      "title": "Argued for the forced baptism of Jewish children",
+      "targets": "Jews, especially Jewish children",
+      "involvement": "advocated",
+      "summary": "In his commentary on the Sentences (Ordinatio IV, d. 4, q. 9) Scotus argued that a ruler may take young Jewish children from their parents and have them baptized, and may compel adult Jews to be baptized by threats and fear, reasoning that God's claim outranks the parents'. He proposed keeping a small number of Jews, for example on an island, to fulfill the prophecy of their conversion at the end of time.",
+      "outcome": "The view was rejected by most theologians and by papal practice, which forbade baptizing Jewish children against their parents' will, though it was cited by later advocates of forced baptism.",
+      "sources": [
+        "scotus-ordinatio",
+        "britannica"
+      ]
+    }
+  ],
   "sources": [
-    {"id": "wolter", "type": "primary", "citation": "John Duns Scotus, Philosophical Writings: A Selection, trans. Allan B. Wolter. Indianapolis: Hackett, 1987."},
-    {"id": "cross", "type": "scholarly", "citation": "Richard Cross, Duns Scotus. Great Medieval Thinkers. New York: Oxford University Press, 1999."},
-    {"id": "williams", "type": "scholarly", "citation": "Thomas Williams (ed.), The Cambridge Companion to Duns Scotus. Cambridge: Cambridge University Press, 2003."},
-    {"id": "britannica", "type": "reference", "citation": "\"Blessed John Duns Scotus.\" Encyclopaedia Britannica."}
+    {
+      "id": "wolter",
+      "type": "primary",
+      "citation": "John Duns Scotus, Philosophical Writings: A Selection, trans. Allan B. Wolter. Indianapolis: Hackett, 1987."
+    },
+    {
+      "id": "cross",
+      "type": "scholarly",
+      "citation": "Richard Cross, Duns Scotus. Great Medieval Thinkers. New York: Oxford University Press, 1999."
+    },
+    {
+      "id": "williams",
+      "type": "scholarly",
+      "citation": "Thomas Williams (ed.), The Cambridge Companion to Duns Scotus. Cambridge: Cambridge University Press, 2003."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Blessed John Duns Scotus.\" Encyclopaedia Britannica."
+    },
+    {
+      "id": "scotus-ordinatio",
+      "type": "primary",
+      "citation": "John Duns Scotus, Ordinatio IV, dist. 4, q. 9, in Opera omnia (Vatican City: Typis Polyglottis Vaticanis, Scotistic Commission edition)."
+    }
   ]
 }

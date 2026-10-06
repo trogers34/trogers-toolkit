@@ -186,6 +186,49 @@
   ],
   "excommunication_note": "Augustine was never excommunicated. He remained a bishop in full communion with the Catholic Church in North Africa and with Rome until his death. (The Donatist and Catholic churches each rejected the other's clergy, but no sentence against Augustine personally is recorded.)",
   "excommunications": [],
+  "persecuted_others_note": "Augustine at first opposed forcing the Donatists back into the Catholic church, then from about 405 defended imperial coercion of them, citing Luke 14:23 (\"compel them to come in\") in Letters 93 and 185, a defense later invoked to justify persecuting heretics. He also helped secure the condemnation of the Pelagians. He repeatedly pleaded with officials not to execute or torture Donatists, even those convicted of killing Catholic clergy, and argued that Jews should not be killed but allowed to live as witnesses (City of God 18.46).",
+  "persecuted_others": [
+    {
+      "year": 405,
+      "date": "c. 405–420",
+      "circa": true,
+      "title": "Defense of coercion against the Donatists",
+      "targets": "Donatist clergy and laity in North Africa",
+      "involvement": "advocated",
+      "summary": "Having earlier held that no one should be forced into unity, Augustine came to support the Emperor Honorius's Edict of Unity (405) and later laws imposing fines, confiscation of churches, and exile on Donatists. In Letter 93 (c. 408) and Letter 185, On the Correction of the Donatists (c. 417), he argued that the church could rightly use imperial force to compel heretics and schismatics to return, citing \"compel them to come in.\" The laws were issued by the emperor and enforced by imperial officials at the request of the African Catholic bishops; Augustine asked that punishments stop short of death and torture.",
+      "outcome": "Many Donatist congregations were absorbed into the Catholic church; Augustine's arguments were cited by later defenders of persecuting heretics.",
+      "sources": [
+        "letters",
+        "brown",
+        "britannica"
+      ]
+    },
+    {
+      "year": 411,
+      "title": "Conference of Carthage and the edict of 412",
+      "targets": "Donatist bishops and congregations",
+      "involvement": "took_part",
+      "summary": "Augustine was a leading Catholic speaker at the conference of 411 called by Honorius and chaired by the imperial tribune Marcellinus, who ruled against the Donatists. An imperial edict of 412 then outlawed the Donatist church, with fines, confiscations, and exile for its clergy; Augustine wrote to Marcellinus asking that Donatists convicted of violence not be executed.",
+      "sources": [
+        "letters",
+        "possidius",
+        "brown"
+      ]
+    },
+    {
+      "year": 418,
+      "date": "416–418",
+      "title": "Condemnation of the Pelagians",
+      "targets": "Pelagius, Caelestius, and later Julian of Eclanum and other Pelagian bishops",
+      "involvement": "took_part",
+      "summary": "With other African bishops, Augustine pressed Pope Innocent I through the councils of Carthage and Milevis (416), and then Pope Zosimus, to condemn Pelagius and Caelestius. In 418 a council at Carthage condemned Pelagianism, Honorius issued a rescript expelling Pelagians from Rome, and Zosimus's Tractoria followed; Julian of Eclanum and about eighteen Italian bishops who refused to sign were deposed and exiled. How far the African bishops lobbied the imperial court directly is debated.",
+      "sources": [
+        "letters",
+        "brown",
+        "britannica"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "confessions",
@@ -208,6 +251,16 @@
       "type": "reference",
       "citation": "\"Saint Augustine,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Saint-Augustine"
+    },
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "Augustine, Letters, trans. Roland Teske. The Works of Saint Augustine II/1–4. Hyde Park, NY: New City Press, 2001–2005."
+    },
+    {
+      "id": "city-of-god",
+      "type": "primary",
+      "citation": "Augustine, The City of God against the Pagans, trans. R. W. Dyson. Cambridge: Cambridge University Press, 1998."
     }
   ]
 }

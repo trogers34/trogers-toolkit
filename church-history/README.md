@@ -60,6 +60,8 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `accomplishments` | `text`, `sources`. The bullet points on the person's page |
 | `sayings` | optional. `{"original": [...], "popularized": [...], "misattributed": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |
 | `persecution` | required list (may be empty). Each item: `year` and/or `date`, `title`, `summary`, `responsible` (each `name`, `role`, `jurisdiction`, `type`: `church` / `state` / `individual` / `group`), optional `defended_by` (`name`, `role`), `outcome`, `sources` |
+| `persecuted_others` | required list (may be empty): persecution the person supported or carried out against others. Each item: `year` and/or `date`, `title`, `targets` (who was persecuted), `involvement` (`ordered`, `carried_out`, `took_part`, `approved`, `advocated`), `summary`, optional `outcome`, `sources` |
+| `persecuted_others_note` | required: short overview of persecution they supported, opposed, or none recorded |
 | `persecution_note` | short overview of the person's arrests, trials, and persecution; required if `persecution` is empty (e.g. "None recorded") |
 | `excommunications` | required list (may be empty). Each item: `date`, `by`, `authority`, `reason`, `status` (e.g. "Never lifted"), `sources`. Shown as a table at the top of the persecution section |
 | `excommunication_note` | overview of the person's excommunications; required if `excommunications` is empty (e.g. "Never excommunicated") |

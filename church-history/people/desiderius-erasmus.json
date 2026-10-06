@@ -283,6 +283,21 @@
       ]
     }
   ],
+  "persecuted_others_note": "Erasmus generally urged persuasion and peace rather than force against heretics, and criticized the executions of his day. In replies to his Catholic critics in the late 1520s he conceded that the magistrate might execute heretics who were seditious, which historians read as a hardening or ambivalence. His letters also contain hostile remarks about Jews, such as \"if it is Christian to hate Jews, here we are all Christians in abundance\", but he did not call for action against them.",
+  "persecuted_others": [
+    {
+      "date": "1527–1532",
+      "circa": true,
+      "title": "Conceded the death penalty for seditious heretics",
+      "targets": "Heretics judged seditious, including Anabaptists",
+      "involvement": "advocated",
+      "summary": "Answering censures by Noël Béda and the Paris theology faculty, Erasmus wrote that heretics should first be corrected by teaching, but that the magistrate could put to death those who disturbed public order, much as thieves are punished. He kept insisting that error alone was not grounds for execution, so scholars disagree on how far this changed his earlier stance.",
+      "sources": [
+        "rummel",
+        "halkin"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "cwe",

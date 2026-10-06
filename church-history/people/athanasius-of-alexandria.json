@@ -355,6 +355,24 @@
       ]
     }
   ],
+  "persecuted_others_note": "Athanasius's Melitian opponents accused him of using violence against their clergy in Egypt in the early 330s, charges heard at the Council of Tyre in 335; whether he ordered it is disputed. He wrote fiercely against the Arians but, in his History of the Arians, argued that truth should be spread by persuasion rather than by soldiers and force, and no record shows him calling for the state to punish his opponents.",
+  "persecuted_others": [
+    {
+      "year": 335,
+      "date": "c. 331–335",
+      "circa": true,
+      "title": "Alleged violence against the Melitians",
+      "targets": "Melitian clergy and monks in Egypt, including the priest Ischyras",
+      "involvement": "ordered",
+      "summary": "Melitian bishops charged that Athanasius's agents beat and imprisoned Melitian clergy, and that his presbyter Macarius broke a chalice belonging to Ischyras; a papyrus letter of c. 335 (P. Lond. 1914) describes Athanasius's supporters attacking Melitians in Alexandria. Athanasius denied the charges, and the separate accusation that he had murdered the Melitian bishop Arsenius collapsed when Arsenius was produced alive. The claims are disputed: Barnes and other historians judge some violence by his partisans likely, while Athanasius's own Defence presents them as fabrications.",
+      "outcome": "The Council of Tyre (335) deposed Athanasius, partly on these charges, and Constantine exiled him to Trier.",
+      "sources": [
+        "npnf-athanasius",
+        "bell-papyri",
+        "barnes"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "on-incarnation",
@@ -381,6 +399,16 @@
       "type": "reference",
       "citation": "\"Saint Athanasius,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Saint-Athanasius"
+    },
+    {
+      "id": "npnf-athanasius",
+      "type": "primary",
+      "citation": "Select Writings and Letters of Athanasius, Bishop of Alexandria, ed. Archibald Robertson. Nicene and Post-Nicene Fathers, Second Series, vol. 4. New York: Christian Literature Co., 1892. (Includes the Defence against the Arians and the History of the Arians.)"
+    },
+    {
+      "id": "bell-papyri",
+      "type": "primary",
+      "citation": "H. Idris Bell, Jews and Christians in Egypt: The Jewish Troubles in Alexandria and the Athanasian Controversy. London: British Museum, 1924. (Edition of Melitian papyri including P. Lond. 1914.)"
     }
   ]
 }

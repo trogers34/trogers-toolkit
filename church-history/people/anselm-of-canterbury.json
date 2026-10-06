@@ -265,6 +265,8 @@
   ],
   "excommunication_note": "Anselm was never excommunicated. He himself threatened Henry I with excommunication in 1105 but did not pronounce it.",
   "excommunications": [],
+  "persecuted_others_note": "No record of Anselm supporting or carrying out persecution of others. He wrote against the teaching of Roscelin of Compiègne after Roscelin had been made to recant at Soissons in 1092, and as archbishop he presided over the Council of Westminster (1102), whose decrees removed married priests from office; both were matters of church discipline rather than physical persecution.",
+  "persecuted_others": [],
   "sources": [
     {
       "id": "eadmer-vita",

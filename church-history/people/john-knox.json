@@ -364,6 +364,46 @@
       ]
     }
   ],
+  "persecuted_others_note": "Knox did not hold civil power, but he approved the killing of Cardinal Beaton in 1546 and argued in 1558 that idolaters, by which he meant those who kept the Mass, deserved death under the law of Moses. After 1560 he pressed for Scotland's laws against saying or hearing Mass to be enforced. His sermon at Perth in 1559 was followed by a crowd sacking the town's friaries, which he blamed on the \"rascal multitude\" while approving the removal of \"monuments of idolatry.\"",
+  "persecuted_others": [
+    {
+      "year": 1546,
+      "date": "May 1546 (approval written later)",
+      "title": "Approved the murder of Cardinal Beaton",
+      "targets": "Cardinal David Beaton, archbishop of St Andrews",
+      "involvement": "approved",
+      "summary": "Protestant lairds led by Norman Leslie and William Kirkcaldy of Grange killed Beaton in St Andrews Castle in revenge for the burning of George Wishart. Knox took no part in the killing, but in 1547 he joined the garrison that held the castle and later, in his History of the Reformation, described the murder as the godly deed of men moved by God, recounting it in a mocking tone.",
+      "sources": [
+        "history",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1558,
+      "title": "Appellation: idolaters should be put to death",
+      "targets": "Catholic clergy and others who kept the Mass",
+      "involvement": "advocated",
+      "summary": "In his Appellation to the nobility and estates of Scotland, and the Letter to the Commonalty published with it, Knox applied Old Testament laws (especially Deuteronomy 13) to his own day, arguing that idolatry, including the Mass, was a capital crime and that nobles and people, not only princes, were bound to punish it. He did not call for any named person to be killed.",
+      "sources": [
+        "on-rebellion",
+        "dawson"
+      ]
+    },
+    {
+      "year": 1563,
+      "date": "1561–1565",
+      "title": "Pressed for the penalties against the Mass to be enforced",
+      "targets": "Catholic priests who said Mass and those who heard it",
+      "involvement": "advocated",
+      "summary": "The 1560 Reformation Parliament made saying or hearing Mass punishable by confiscation, then banishment, and death for a third offence. Knox preached against Queen Mary's private Mass and, at Lochleven in 1563, told the queen that if she did not enforce the law against Mass-sayers, her subjects might punish them themselves; Protestant gentry in the west had already seized priests. Later in 1563 Archbishop John Hamilton and other priests were tried and imprisoned for saying Mass. No one is known to have been executed under the act.",
+      "outcome": "Imprisonment of Archbishop Hamilton and several priests in 1563; the death penalty is not known to have been carried out.",
+      "sources": [
+        "history",
+        "dawson",
+        "marshall"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "history",

@@ -256,6 +256,34 @@
   ],
   "excommunication_note": "Aquinas was never excommunicated. Some of his teachings were caught up in the 1277 condemnations of propositions at Paris and Oxford, after his death. Those condemnations targeted propositions, not him by name, and Paris revoked its condemnation as it applied to him in 1325.",
   "excommunications": [],
+  "persecuted_others_note": "Aquinas taught that obstinate heretics may be excommunicated and handed to the secular power to be put to death, and advised a ruler on restrictions on Jews. He also held that Jews and other non-Christians must not be forced to believe and that Jewish children must not be baptized against their parents' will.",
+  "persecuted_others": [
+    {
+      "year": 1271,
+      "circa": true,
+      "title": "Argued that heretics may be put to death",
+      "targets": "Heretics (baptized Christians who obstinately reject church teaching)",
+      "involvement": "advocated",
+      "summary": "In the Summa Theologiae (II-II, q. 11, a. 3) Aquinas argued that heretics who do not recant after warnings deserve to be excommunicated and handed over to the secular court to be put to death, comparing heresy to forging money; relapsed heretics could be executed even if they repented (q. 11, a. 4). He wrote while the papal Inquisition and secular rulers were already applying such penalties; he did not take part in any trial.",
+      "outcome": "His arguments were widely cited in later Catholic defenses of executing heretics.",
+      "sources": [
+        "summa",
+        "torrell"
+      ]
+    },
+    {
+      "year": 1271,
+      "circa": true,
+      "title": "Letter on the government of the Jews",
+      "targets": "Jews",
+      "involvement": "advocated",
+      "summary": "In a letter to a duchess of Brabant (De regimine Iudaeorum; the recipient's identity is debated), Aquinas wrote that Jews were in perpetual servitude, that rulers might take from them money gained by usury, and that they should be required to wear distinctive dress, as the Fourth Lateran Council (1215) had decreed. He also advised that Jews not be burdened with exactions they had not been accustomed to pay, and in the Summa (II-II, q. 10, aa. 8 and 12) he opposed forced conversion and the forced baptism of Jewish children.",
+      "sources": [
+        "torrell",
+        "summa"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "summa",

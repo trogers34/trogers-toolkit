@@ -57,6 +57,9 @@ the user has set and the list of everyone on the site.
     (Anglican) worship, with dates, what changed in parish worship, and who was punished
     (the user: "cover all the back and forth between being Anglican or Roman Catholic").
     Henry VIII, Edward VI, Mary I, and Elizabeth I each name the monarch before and after.
+19. Every person has a "Persecution they supported or carried out" section (the user: "Yea,
+    add the section"), covering persecution of others they ordered, carried out, took part in,
+    approved, or called for. Required by the build; see the section rules below.
 
 ## Adding a person
 
@@ -291,6 +294,19 @@ subject's part), each `verified` (100%: records or the subject's own writings),
 links: a Wikipedia search link for the exact name and any source edition online.
 Never invent page URLs.
 
+## Persecution they supported or carried out (required for every person)
+
+Every person needs `persecuted_others_note` and `persecuted_others` (may be empty). The page
+shows them as their own section, above the persecution they suffered.
+
+- The note is a short neutral overview: what they supported or did, and any record of opposing
+  persecution or arguing for toleration. If nothing is recorded, say so plainly.
+- Each item gives the date, `targets`, `involvement` (`ordered`, `carried_out`, `took_part`,
+  `approved`, or `advocated`), a summary naming others who shared responsibility, and sources.
+- Only include what the person actually did or supported, not everything their church or era
+  did. Hostile rhetoric that called for action against people counts as `advocated`.
+- Where a person has a victims list, add one summary item pointing to it instead of repeating it.
+
 ## Words and sayings
 
 When a person is known for famous words or phrases, add a `sayings` section. Use
@@ -311,16 +327,16 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 
 ## Open questions for the user
 
-- Whether to add a separate section on persecution these people supported or carried out
-  against others (e.g. Augustine and the Donatists, Luther and the Anabaptists and Jews).
-  Offered; no answer yet.
+- Whether to add Lady Jane Grey, Mary Queen of Scots, and James VI/I. Offered; no answer yet.
 
 ## Change log
 
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Henry VIII, Edward VI, Mary I ("Bloody Mary"), Elizabeth I (with the Catholic–Protestant swings and
+- New "Persecution they supported or carried out" section for all 58 people (`persecuted_others`,
+  required by the build), at the user's request. Drafted by helper agents and reviewed.
+- **PR #85**: Henry VIII, Edward VI, Mary I ("Bloody Mary"), Elizabeth I (with the Catholic–Protestant swings and
   victims lists; linked from the Anglican history), Ignatius of Loyola, Jerome, Heinrich Bullinger,
   and a Religion in Stuart England event (1603–1714). Drafted partly by helper agents and reviewed.
   58 people, 56 events.

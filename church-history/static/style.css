@@ -185,6 +185,9 @@ table.responsible { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
 .legend ul { list-style: none; padding: 0.4rem 0 0; margin: 0; }
 .legend li { margin-bottom: 0.3rem; }
 .victim .links { font-size: 0.9rem; overflow-wrap: anywhere; }
+.inflicted { border-left: 4px solid #b4462e; }
+.involvement { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; padding: 0.1rem 0.45rem; border-radius: 3px; border: 1px solid #b4462e; color: #b4462e; white-space: nowrap; }
+@media (prefers-color-scheme: dark) { .inflicted { border-left-color: #e0806a; } .involvement { color: #e0806a; border-color: #e0806a; } }
 .victim .note { color: var(--muted); font-size: 0.9rem; }
 
 /* ---- person page ---- */

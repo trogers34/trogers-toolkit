@@ -4,47 +4,284 @@
   "also_known_as": "Saint Bernard; the Mellifluous Doctor",
   "era": "Medieval",
   "role": "Cistercian abbot, preacher, mystical writer, and the most influential churchman of his age",
-  "born": {"year": 1090, "date": "1090", "place": "Fontaine-lès-Dijon, Burgundy", "sources": ["evans", "britannica"]},
-  "died": {"year": 1153, "date": "20 August 1153", "place": "Clairvaux Abbey, Champagne, France", "cause": "Illness (a long stomach ailment), in old age", "sources": ["evans", "britannica"]},
+  "born": {
+    "year": 1090,
+    "date": "1090",
+    "place": "Fontaine-lès-Dijon, Burgundy",
+    "sources": [
+      "evans",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1153,
+    "date": "20 August 1153",
+    "place": "Clairvaux Abbey, Champagne, France",
+    "cause": "Illness (a long stomach ailment), in old age",
+    "sources": [
+      "evans",
+      "britannica"
+    ]
+  },
   "summary": "Founding abbot of Clairvaux who made the Cistercians the most dynamic order in Europe, preached the Second Crusade, prosecuted Peter Abelard, and wrote sermons on the love of God that made him a Doctor of the Church.",
   "key_dates": [
-    {"year": 1113, "label": "Enters the new monastery of Cîteaux with about 30 relatives and friends", "sources": ["evans", "britannica"]},
-    {"year": 1115, "label": "Founds Clairvaux and becomes its abbot", "sources": ["evans", "britannica"]},
-    {"year": 1129, "label": "Helps win approval of the Knights Templar's rule at the Council of Troyes", "sources": ["evans"]},
-    {"year": 1130, "label": "Backs Innocent II in the papal schism against Anacletus II (1130–38)", "sources": ["evans", "britannica"]},
-    {"year": 1135, "label": "Begins his Sermons on the Song of Songs", "sources": ["works", "evans"]},
-    {"year": 1141, "label": "Prosecutes Peter Abelard at the Council of Sens", "sources": ["evans", "britannica"]},
-    {"year": 1145, "label": "His former monk becomes Pope Eugene III", "sources": ["evans", "britannica"]},
-    {"year": 1146, "label": "Preaches the Second Crusade at Vézelay (31 March); stops anti-Jewish preaching in the Rhineland", "sources": ["evans", "britannica"]}
+    {
+      "year": 1113,
+      "label": "Enters the new monastery of Cîteaux with about 30 relatives and friends",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1115,
+      "label": "Founds Clairvaux and becomes its abbot",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1129,
+      "label": "Helps win approval of the Knights Templar's rule at the Council of Troyes",
+      "sources": [
+        "evans"
+      ]
+    },
+    {
+      "year": 1130,
+      "label": "Backs Innocent II in the papal schism against Anacletus II (1130–38)",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1135,
+      "label": "Begins his Sermons on the Song of Songs",
+      "sources": [
+        "works",
+        "evans"
+      ]
+    },
+    {
+      "year": 1141,
+      "label": "Prosecutes Peter Abelard at the Council of Sens",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1145,
+      "label": "His former monk becomes Pope Eugene III",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1146,
+      "label": "Preaches the Second Crusade at Vézelay (31 March); stops anti-Jewish preaching in the Rhineland",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Made Clairvaux the center of the Cistercian expansion; by his death the order had over 300 houses, about 70 founded from Clairvaux.", "sources": ["evans", "britannica"]},
-    {"text": "Wrote On Loving God, the Sermons on the Song of Songs, and other works on the soul's love for God that made him one of the most influential spiritual writers of the Middle Ages; he was declared a Doctor of the Church in 1830.", "sources": ["works", "britannica"]},
-    {"text": "Criticized the wealth of Cluniac monasteries and church art in his Apologia (c. 1125).", "sources": ["works", "evans"]},
-    {"text": "Promoted the Knights Templar and wrote In Praise of the New Knighthood, defending monks who fought.", "sources": ["evans"]},
-    {"text": "Ended the papal schism of 1130 in Innocent II's favor by persuading kings and bishops to recognize him.", "sources": ["evans", "britannica"]},
-    {"text": "Preached the Second Crusade (1146–47) across France and Germany; when it failed in 1148 he was widely blamed and defended himself in On Consideration.", "sources": ["evans", "britannica"]},
-    {"text": "Intervened in 1146 to stop the monk Radulf from inciting massacres of Jews in the Rhineland, arguing that Jews must not be killed.", "sources": ["evans", "britannica"]},
-    {"text": "Pursued teachers and preachers he judged heretical, including Peter Abelard (1141), Henry of Lausanne (1145), and Gilbert de la Porrée (1148).", "sources": ["evans", "britannica"]},
-    {"text": "Opposed the new feast of Mary's Conception at Lyon (c. 1140), while being known for deep devotion to Mary.", "sources": ["evans"]}
+    {
+      "text": "Made Clairvaux the center of the Cistercian expansion; by his death the order had over 300 houses, about 70 founded from Clairvaux.",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On Loving God, the Sermons on the Song of Songs, and other works on the soul's love for God that made him one of the most influential spiritual writers of the Middle Ages; he was declared a Doctor of the Church in 1830.",
+      "sources": [
+        "works",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Criticized the wealth of Cluniac monasteries and church art in his Apologia (c. 1125).",
+      "sources": [
+        "works",
+        "evans"
+      ]
+    },
+    {
+      "text": "Promoted the Knights Templar and wrote In Praise of the New Knighthood, defending monks who fought.",
+      "sources": [
+        "evans"
+      ]
+    },
+    {
+      "text": "Ended the papal schism of 1130 in Innocent II's favor by persuading kings and bishops to recognize him.",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Preached the Second Crusade (1146–47) across France and Germany; when it failed in 1148 he was widely blamed and defended himself in On Consideration.",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Intervened in 1146 to stop the monk Radulf from inciting massacres of Jews in the Rhineland, arguing that Jews must not be killed.",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Pursued teachers and preachers he judged heretical, including Peter Abelard (1141), Henry of Lausanne (1145), and Gilbert de la Porrée (1148).",
+      "sources": [
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Opposed the new feast of Mary's Conception at Lyon (c. 1140), while being known for deep devotion to Mary.",
+      "sources": [
+        "evans"
+      ]
+    }
   ],
   "sayings_intro": "A short selection.",
   "sayings": {
     "original": [
-      {"phrase": "You will find more in woods than in books. Trees and stones will teach you what you cannot learn from masters.", "reference": "Letter 106, to Henry Murdac", "sources": ["works"]},
-      {"phrase": "The reason for loving God is God himself; the measure is to love him without measure.", "reference": "On Loving God, chapter 1", "sources": ["works"]}
+      {
+        "phrase": "You will find more in woods than in books. Trees and stones will teach you what you cannot learn from masters.",
+        "reference": "Letter 106, to Henry Murdac",
+        "sources": [
+          "works"
+        ]
+      },
+      {
+        "phrase": "The reason for loving God is God himself; the measure is to love him without measure.",
+        "reference": "On Loving God, chapter 1",
+        "sources": [
+          "works"
+        ]
+      }
     ],
     "misattributed": [
-      {"phrase": "The road to hell is paved with good intentions.", "reference": "Proverb", "note": "Often credited to Bernard, but no such line is found in his works; it developed from a later proverb ('hell is full of good intentions').", "sources": ["evans"]}
+      {
+        "phrase": "The road to hell is paved with good intentions.",
+        "reference": "Proverb",
+        "note": "Often credited to Bernard, but no such line is found in his works; it developed from a later proverb ('hell is full of good intentions').",
+        "sources": [
+          "evans"
+        ]
+      }
     ]
   },
   "persecution_note": "Bernard was never persecuted; he was among the most powerful figures of his time. He used that power against those he judged heretics, notably Abelard.",
   "persecution": [],
   "excommunication_note": "Bernard was never excommunicated. He was canonized by Pope Alexander III in 1174.",
   "excommunications": [],
+  "persecuted_others_note": "Bernard led the prosecution of Peter Abelard and pressed charges against Gilbert of Poitiers, preached the Second Crusade, and urged the crusade against the pagan Wends to go on until their rites or their nation was destroyed. He held that heretics should be won by argument but could be restrained by the secular sword. He firmly opposed killing Jews, writing that they must not be persecuted, killed, or driven out, and in 1146 went to the Rhineland to stop the monk Radulf's preaching of massacres.",
+  "persecuted_others": [
+    {
+      "year": 1141,
+      "date": "1140–1141",
+      "title": "Prosecution of Peter Abelard",
+      "targets": "Peter Abelard and his student Arnold of Brescia",
+      "involvement": "took_part",
+      "summary": "Bernard compiled charges against Abelard, wrote to Pope Innocent II and the cardinals urging his condemnation, and led the case at the Council of Sens (1141), where the bishops condemned propositions from Abelard's works. Innocent II then condemned Abelard to silence, ordered his books burned, and ordered Abelard and Arnold confined.",
+      "outcome": "Abelard was reconciled with Bernard through Peter the Venerable and died at Cluny in 1142.",
+      "sources": [
+        "letters-james",
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1144,
+      "circa": true,
+      "title": "Sermons on the heretics of Cologne",
+      "targets": "Dualist heretics in the Rhineland",
+      "involvement": "advocated",
+      "summary": "Responding to Eberwin of Steinfeld's report that a Cologne crowd had burned heretics, Bernard said in Sermons 65–66 on the Song of Songs that he approved the people's zeal but not their act, since faith should be persuaded rather than imposed; yet he added that it was better for heretics to be restrained by the sword of the ruler than for them to lead others astray.",
+      "sources": [
+        "song-iii",
+        "evans"
+      ]
+    },
+    {
+      "year": 1146,
+      "date": "1146–1147",
+      "title": "Preaching the Second Crusade",
+      "targets": "Muslims of the Near East",
+      "involvement": "advocated",
+      "summary": "Commissioned by Pope Eugenius III, Bernard preached the crusade at Vézelay (31 March 1146) and across France and Germany, persuading Louis VII and Conrad III to take the cross. When the Cistercian monk Radulf stirred up massacres of Jews in the Rhineland, Bernard wrote against it and travelled to Germany to silence him; Jewish chronicler Ephraim of Bonn credited him with saving Jews.",
+      "outcome": "The crusade failed before Damascus in 1148, and Bernard was widely blamed.",
+      "sources": [
+        "letters-james",
+        "evans",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1147,
+      "title": "Call for the Wendish Crusade",
+      "targets": "Pagan Wends (Slavs) east of the Elbe",
+      "involvement": "advocated",
+      "summary": "In a letter of 1147 to Christians of Germany, Bernard announced that the crusade indulgence applied to war against the Wends and urged that no truce be made until, with God's help, either their rites or the nation itself was destroyed. The campaign was led by Saxon, Danish, and Polish princes with the pope's approval.",
+      "outcome": "The 1147 campaign achieved little beyond nominal baptisms.",
+      "sources": [
+        "letters-james",
+        "evans"
+      ]
+    },
+    {
+      "year": 1148,
+      "title": "Charges against Gilbert of Poitiers",
+      "targets": "Gilbert de la Porrée, bishop of Poitiers",
+      "involvement": "took_part",
+      "summary": "Bernard pressed charges against Gilbert's teaching on the Trinity at Paris (1147) and at the consistory held by Pope Eugenius III at Reims (1148); John of Salisbury describes Bernard trying to win the bishops' support before the hearing.",
+      "outcome": "Gilbert agreed to correct the disputed propositions and kept his see; he was not condemned personally.",
+      "sources": [
+        "historia-pontificalis",
+        "evans"
+      ]
+    }
+  ],
   "sources": [
-    {"id": "works", "type": "primary", "citation": "Bernard of Clairvaux, Selected Works, trans. G. R. Evans. Classics of Western Spirituality. New York: Paulist Press, 1987."},
-    {"id": "evans", "type": "scholarly", "citation": "G. R. Evans, Bernard of Clairvaux. Great Medieval Thinkers. New York: Oxford University Press, 2000."},
-    {"id": "britannica", "type": "reference", "citation": "\"Saint Bernard de Clairvaux.\" Encyclopaedia Britannica."}
+    {
+      "id": "works",
+      "type": "primary",
+      "citation": "Bernard of Clairvaux, Selected Works, trans. G. R. Evans. Classics of Western Spirituality. New York: Paulist Press, 1987."
+    },
+    {
+      "id": "evans",
+      "type": "scholarly",
+      "citation": "G. R. Evans, Bernard of Clairvaux. Great Medieval Thinkers. New York: Oxford University Press, 2000."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Bernard de Clairvaux.\" Encyclopaedia Britannica."
+    },
+    {
+      "id": "letters-james",
+      "type": "primary",
+      "citation": "The Letters of St Bernard of Clairvaux, trans. Bruno Scott James. London: Burns Oates, 1953."
+    },
+    {
+      "id": "song-iii",
+      "type": "primary",
+      "citation": "Bernard of Clairvaux, On the Song of Songs III, trans. Kilian Walsh and Irene M. Edmonds. Cistercian Fathers Series 31. Kalamazoo, MI: Cistercian Publications, 1979."
+    },
+    {
+      "id": "historia-pontificalis",
+      "type": "primary",
+      "citation": "John of Salisbury, Historia Pontificalis: Memoirs of the Papal Court, ed. and trans. Marjorie Chibnall. London: Nelson, 1956."
+    }
   ]
 }

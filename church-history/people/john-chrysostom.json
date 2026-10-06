@@ -237,6 +237,47 @@
       ]
     }
   ],
+  "persecuted_others_note": "Chrysostom preached eight sermons at Antioch in 386–387 (Adversus Judaeos) with harsh rhetoric against Jews and Judaism, urging his congregation to restrain fellow Christians who attended the synagogue; they called for no violence against Jews but were later used in Christian anti-Jewish polemic. As bishop of Constantinople he sent monks to destroy pagan temples in Phoenicia and, according to Socrates, took churches from the Novatians and Quartodecimans; he also opposed letting the Arian Gothic general Gainas have a church in the capital. He taught that heretics should not be put to death, though their assemblies could be stopped.",
+  "persecuted_others": [
+    {
+      "year": 386,
+      "date": "386–387",
+      "title": "Sermons against the Jews and Judaizing Christians",
+      "targets": "Jews of Antioch (rhetoric) and Christians who kept Jewish feasts or attended the synagogue",
+      "involvement": "advocated",
+      "summary": "In eight sermons at Antioch, Chrysostom called the synagogue a theatre, a brothel, and a dwelling of demons, and urged his hearers to seize and bring to him Christians who joined Jewish fasts and feasts. He did not call for attacks on Jews; Wilken reads the sermons as rhetoric against Judaizing Christians in a competitive religious setting, but their language was widely quoted in later anti-Jewish writing.",
+      "sources": [
+        "adv-jud",
+        "wilken",
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 399,
+      "date": "c. 399–400",
+      "circa": true,
+      "title": "Destruction of pagan temples in Phoenicia",
+      "targets": "Pagan shrines and worshippers in Phoenicia",
+      "involvement": "ordered",
+      "summary": "Theodoret reports that Chrysostom, hearing that Phoenicians still kept pagan rites, gathered monks full of zeal and sent them to destroy the temples, paying the cost with gifts from wealthy Christian women rather than imperial funds. Imperial laws of the period already permitted the closing of temples; the monks carried out the demolitions.",
+      "sources": [
+        "theodoret",
+        "kelly-gm"
+      ]
+    },
+    {
+      "year": 401,
+      "circa": true,
+      "title": "Churches taken from the Novatians and Quartodecimans",
+      "targets": "Novatian and Quartodeciman congregations in Constantinople and Asia",
+      "involvement": "ordered",
+      "summary": "The church historian Socrates, who was sympathetic to the Novatians, reports that Chrysostom took many churches away from the Novatians and Quartodecimans during his episcopate, notably during his visit to Asia in 401. Other sources say little, so the scale is uncertain.",
+      "sources": [
+        "socrates",
+        "kelly-gm"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "palladius",
@@ -253,6 +294,26 @@
       "type": "reference",
       "citation": "\"Saint John Chrysostom,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Saint-John-Chrysostom"
+    },
+    {
+      "id": "adv-jud",
+      "type": "primary",
+      "citation": "John Chrysostom, Discourses against Judaizing Christians, trans. Paul W. Harkins. The Fathers of the Church 68. Washington, DC: Catholic University of America Press, 1979."
+    },
+    {
+      "id": "wilken",
+      "type": "scholarly",
+      "citation": "Robert L. Wilken, John Chrysostom and the Jews: Rhetoric and Reality in the Late Fourth Century. Berkeley: University of California Press, 1983."
+    },
+    {
+      "id": "theodoret",
+      "type": "primary",
+      "citation": "Theodoret, Ecclesiastical History, in Theodoret, Jerome, Gennadius, Rufinus: Historical Writings, Nicene and Post-Nicene Fathers, Second Series, vol. 3. New York: Christian Literature Co., 1892."
+    },
+    {
+      "id": "socrates",
+      "type": "primary",
+      "citation": "Socrates Scholasticus, Ecclesiastical History, in Socrates, Sozomenus: Church Histories, Nicene and Post-Nicene Fathers, Second Series, vol. 2. New York: Christian Literature Co., 1890."
     }
   ]
 }

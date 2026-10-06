@@ -21,6 +21,8 @@ VALID = {
     "persecution_note": "None recorded.",
     "excommunications": [],
     "excommunication_note": "Never excommunicated.",
+    "persecuted_others": [],
+    "persecuted_others_note": "None recorded.",
     "sources": [{"id": "s1", "type": "scholarly", "citation": "A Book."}],
 }
 
@@ -194,6 +196,21 @@ class BuildTest(unittest.TestCase):
         self.assertIn("Governor X", page)
         self.assertIn("Province Y", page)
         self.assertIn("Friend Z", page)
+
+    def test_persecuted_others_section(self):
+        person = copy.deepcopy(VALID)
+        person["persecuted_others_note"] = "Called for force against a rival group."
+        person["persecuted_others"] = [{"year": 340, "title": "Exile of rivals", "targets": "Group Q",
+                                        "involvement": "advocated", "summary": "Urged exile.", "sources": ["s1"]}]
+        self.assertEqual(build.validate_person(person, "test-person"), [])
+        page = build.render_person(person)
+        self.assertIn("Persecution they supported or carried out", page)
+        self.assertIn("Called for it", page)
+        self.assertIn("Group Q", page)
+        person["persecuted_others"][0]["involvement"] = "maybe"
+        self.assertTrue(any("involvement must be one of" in e for e in build.validate_person(person, "test-person")))
+        person.pop("persecuted_others_note")
+        self.assertIn("missing required field 'persecuted_others_note'", build.validate_person(person, "test-person"))
 
     def test_ai_notice_on_every_page(self):
         person = copy.deepcopy(VALID)

@@ -113,6 +113,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 **Medieval**
 - Anselm of Canterbury (`anselm-of-canterbury`)
 - Thomas Aquinas (`thomas-aquinas`)
+- John Duns Scotus (`john-duns-scotus`): the user wrote "Dun Scotus"
 - William of Ockham (`william-of-ockham`)
 - John Wycliffe (`john-wycliffe`)
 - Jan Hus (`jan-hus`)
@@ -303,7 +304,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Dutch Reformed churches: overview plus Synod of Dort, Afscheiding, Doleantie, Vrijmaking, Christian
+- John Duns Scotus (Immaculate Conception, univocity, haecceity; expelled from France in 1303);
+  linked from the Marian dogmas event. 47 people, 55 events.
+- **PR #82**: Dutch Reformed churches: overview plus Synod of Dort, Afscheiding, Doleantie, Vrijmaking, Christian
   Reformed secession, and the South African church, race, and apartheid. 46 people, 55 events.
 - **PR #81**: D. James Kennedy (Evangelism Explosion, Coral Ridge, Christian Right activism and its critics);
   linked from the Presbyterian history. 46 people, 48 events.

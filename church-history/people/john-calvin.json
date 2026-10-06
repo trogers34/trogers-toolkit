@@ -1,0 +1,71 @@
+{
+  "name": "John Calvin",
+  "slug": "john-calvin",
+  "also_known_as": "Jean Calvin (Jehan Cauvin)",
+  "era": "Reformation",
+  "role": "French Reformer, theologian, and pastor of Geneva",
+  "born": {"year": 1509, "date": "10 July 1509", "place": "Noyon, Picardy, France", "sources": ["gordon", "britannica"]},
+  "died": {"year": 1564, "date": "27 May 1564", "place": "Geneva", "sources": ["gordon", "britannica"]},
+  "summary": "French theologian whose Institutes of the Christian Religion and work in Geneva shaped the Reformed and Presbyterian churches.",
+  "key_dates": [
+    {"year": 1533, "label": "Flees Paris after Nicolas Cop's reforming address of 1 November; his conversion is usually dated c. 1533", "sources": ["gordon", "commentary-psalms"]},
+    {"year": 1536, "label": "First edition of the Institutes (Basel, March); settles in Geneva at William Farel's urging", "sources": ["institutes", "gordon"]},
+    {"year": 1538, "label": "Expelled from Geneva with Farel (April); goes to Strasbourg", "sources": ["gordon", "britannica"]},
+    {"year": 1540, "label": "Marries Idelette de Bure in Strasbourg", "sources": ["gordon"]},
+    {"year": 1541, "label": "Returns to Geneva (September); the Ecclesiastical Ordinances set up the Consistory", "sources": ["gordon", "britannica"]},
+    {"year": 1553, "label": "Michael Servetus burned in Geneva (27 October)", "sources": ["bainton", "gordon"]},
+    {"year": 1555, "label": "Opponents in the city council defeated; Calvin's supporters take control of Geneva", "sources": ["gordon", "monter"]},
+    {"year": 1559, "label": "Final Latin edition of the Institutes; founds the Genevan Academy", "sources": ["institutes", "gordon"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the Institutes of the Christian Religion, expanded from a short handbook (1536) to a full system of theology (1559), the most influential work of Reformed Protestant theology.", "sources": ["institutes", "gordon"]},
+    {"text": "Organized the Genevan church under the Ecclesiastical Ordinances (1541), with pastors, teachers, elders, and deacons, and a Consistory that disciplined moral conduct; the model spread to France, Scotland, the Netherlands, and beyond.", "sources": ["gordon", "monter"]},
+    {"text": "Taught God's sovereignty in salvation, including double predestination, which became a defining doctrine of Reformed theology.", "sources": ["institutes", "britannica"]},
+    {"text": "Wrote commentaries on most of the Bible and preached several times a week in Geneva for over two decades.", "sources": ["gordon", "britannica"]},
+    {"text": "Served as pastor to French refugees in Strasbourg (1538–41), where he worked with Martin Bucer and took part in religious colloquies with Catholic and Lutheran theologians.", "sources": ["gordon"]},
+    {"text": "Founded the Genevan Academy (1559), which trained pastors sent into France; Geneva sent over 100 ministers to France by 1562.", "sources": ["gordon", "britannica"]},
+    {"text": "Wrote against the Council of Trent in Acts of the Council of Trent with the Antidote (1547).", "sources": ["gordon"]},
+    {"text": "Pressed the heresy prosecution of Michael Servetus, who was burned in Geneva in 1553, and defended the execution in print; he had earlier supplied evidence that helped the Catholic Inquisition at Vienne prosecute Servetus.", "sources": ["bainton", "gordon"]},
+    {"text": "Supported the Geneva Consistory's strict enforcement of morals and the punishment of opponents, including the execution of Jacques Gruet (1547) and the banishment of Jerome Bolsec (1551) for attacking his teaching on predestination.", "sources": ["monter", "gordon"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "Man's nature, so to speak, is a perpetual factory of idols.", "reference": "Institutes 1.11.8", "sources": ["institutes"]},
+      {"phrase": "God by a sudden conversion subdued and brought my mind to a teachable frame.", "reference": "Preface to the Commentary on the Psalms (1557)", "sources": ["commentary-psalms"]}
+    ],
+    "misattributed": [
+      {"phrase": "TULIP (Total depravity, Unconditional election, Limited atonement, Irresistible grace, Perseverance of the saints)", "reference": "Twentieth-century summary", "note": "Not Calvin's. The five points come from the Synod of Dort (1618–19), after his death, and the TULIP acrostic dates from the early 20th century.", "sources": ["britannica"]}
+    ]
+  },
+  "victims_title": "People executed in Geneva linked to Calvin",
+  "victims_intro": "The Geneva city councils, not Calvin, held the power to try and execute; Calvin was a pastor and, until 1559, not even a citizen. These are the cases most often laid at his door, with how far his part is documented.",
+  "victims": [
+    {"name": "Michael Servetus", "executed": "Burned at Champel, Geneva, 27 October 1553", "condemned_by": "Small Council of Geneva, after consulting the churches of Zurich, Bern, Basel, and Schaffhausen", "allegation": "Calvin had his secretary file the charges, led the theological case against Servetus at trial, and defended the execution in his Defence of the Orthodox Faith (1554). He asked for a less cruel death than burning, which the council refused.", "verification": {"execution": "verified", "link": "verified"}, "verification_note": "The trial records and Calvin's own letters and writings document his role.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Michael+Servetus"}], "sources": ["bainton", "gordon"]},
+    {"name": "Jacques Gruet", "executed": "Beheaded in Geneva, 26 July 1547", "condemned_by": "Council of Geneva", "allegation": "Gruet was arrested after a threatening placard against the ministers was found on Calvin's pulpit, and tortured; Calvin supported the prosecution.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "The execution is documented; Calvin's influence on the verdict is argued from his letters and circumstances rather than any direct order.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Jacques+Gruet"}], "sources": ["monter", "gordon"]},
+    {"name": "People accused of spreading plague (1545)", "executed": "About two dozen executed in Geneva, 1545", "condemned_by": "Council of Geneva", "allegation": "During a plague outbreak, people accused of deliberately spreading it with ointments were tortured and executed; Calvin accepted that such a conspiracy existed and did not oppose the prosecutions.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "The trials are in the city records; Calvin's role was support rather than direction.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Geneva+1545+plague+spreaders"}], "sources": ["monter"]}
+  ],
+  "persecution_note": "Calvin was never imprisoned for his faith (an imprisonment at Noyon in 1534 is sometimes reported but may concern another man of the same name). He fled France during the crackdown on Protestants in 1533–34 and was expelled from Geneva in 1538.",
+  "persecution": [
+    {"year": 1533, "date": "November 1533 – 1535", "title": "Flight from France", "summary": "After the rector Nicolas Cop gave a reforming address at the University of Paris, which Calvin may have helped write, the Parlement of Paris moved against both men and Calvin fled the city. After the Affair of the Placards (October 1534), when anti-Mass posters appeared across France, Francis I's government burned Protestants and Calvin left France for Basel.", "responsible": [
+      {"name": "Parlement of Paris", "role": "Prosecuted those linked to Cop's address", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Francis I", "role": "King of France; ordered the crackdown after the Placards", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Faculty of Theology of Paris (Sorbonne)", "role": "Led the drive against evangelicals", "jurisdiction": "University of Paris", "type": "church"}
+    ], "outcome": "Exile; he dedicated the 1536 Institutes to Francis I in defense of the persecuted French Protestants.", "sources": ["gordon", "britannica"]},
+    {"year": 1538, "date": "23 April 1538", "title": "Expulsion from Geneva", "summary": "After Calvin and Farel refused to follow the city's orders on church practice and to give communion while the city was divided, the councils of Geneva gave them three days to leave.", "responsible": [
+      {"name": "Councils of Geneva (Small Council, Two Hundred, and General Council)", "role": "Ordered the expulsion", "jurisdiction": "City of Geneva", "type": "state"}
+    ], "outcome": "Went to Strasbourg; invited back in 1541.", "sources": ["gordon", "britannica"]}
+  ],
+  "excommunication_note": "No papal bull excommunicating Calvin by name is known, but as a Protestant he was outside the Catholic Church and all his works were banned.",
+  "excommunications": [
+    {"date": "1559", "by": "Pope Paul IV", "authority": "Papacy (Index of Prohibited Books)", "reason": "Calvin listed among authors all of whose works were forbidden to Catholics", "status": "The Index was abolished in 1966", "sources": ["britannica", "gordon"]}
+  ],
+  "sources": [
+    {"id": "institutes", "type": "primary", "citation": "John Calvin, Institutes of the Christian Religion, ed. John T. McNeill, trans. Ford Lewis Battles, 2 vols. Library of Christian Classics 20–21. Philadelphia: Westminster Press, 1960."},
+    {"id": "commentary-psalms", "type": "primary", "citation": "John Calvin, Commentary on the Book of Psalms, author's preface (1557), trans. James Anderson. Edinburgh: Calvin Translation Society, 1845."},
+    {"id": "gordon", "type": "scholarly", "citation": "Bruce Gordon, Calvin. New Haven: Yale University Press, 2009."},
+    {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Hunted Heretic: The Life and Death of Michael Servetus, 1511–1553. Boston: Beacon Press, 1953."},
+    {"id": "monter", "type": "scholarly", "citation": "E. William Monter, Calvin's Geneva. New York: John Wiley & Sons, 1967."},
+    {"id": "britannica", "type": "reference", "citation": "\"John Calvin.\" Encyclopaedia Britannica."}
+  ]
+}

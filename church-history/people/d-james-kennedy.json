@@ -1,0 +1,46 @@
+{
+  "name": "D. James Kennedy",
+  "slug": "d-james-kennedy",
+  "also_known_as": "Dennis James Kennedy",
+  "era": "Modern",
+  "role": "Presbyterian pastor, broadcaster, founder of Evangelism Explosion, and Christian Right leader",
+  "born": {"year": 1930, "date": "3 November 1930", "place": "Augusta, Georgia, United States", "sources": ["nyt", "williams"]},
+  "died": {"year": 2007, "date": "5 September 2007", "place": "Fort Lauderdale, Florida, United States", "cause": "Heart failure, months after a cardiac arrest in December 2006", "sources": ["nyt"]},
+  "summary": "Founding pastor of Coral Ridge Presbyterian Church in Fort Lauderdale, whose Evangelism Explosion method trained millions in personal evangelism and whose broadcasts and organizations made him a leading voice of the Christian Right.",
+  "key_dates": [
+    {"year": 1953, "label": "Converted after hearing a radio sermon by Donald Grey Barnhouse, while working as a dance instructor", "sources": ["ee", "nyt"]},
+    {"year": 1959, "label": "Founding pastor of Coral Ridge Presbyterian Church, Fort Lauderdale", "sources": ["nyt", "ee"]},
+    {"year": 1962, "label": "Begins the lay-training program that becomes Evangelism Explosion", "sources": ["ee"]},
+    {"year": 1970, "label": "Publishes Evangelism Explosion", "sources": ["ee", "nyt"]},
+    {"year": 1978, "label": "Launches The Coral Ridge Hour on television", "sources": ["nyt", "williams"]},
+    {"year": 1989, "label": "Founds Knox Theological Seminary", "sources": ["nyt"]},
+    {"year": 1994, "label": "Publishes What If Jesus Had Never Been Born? with Jerry Newcombe", "sources": ["wijhnbb"]},
+    {"year": 1996, "label": "Founds the Center for Reclaiming America", "sources": ["nyt", "williams"]}
+  ],
+  "accomplishments": [
+    {"text": "Built Coral Ridge Presbyterian Church from a handful of members in 1959 into one of the largest Presbyterian congregations in the United States; it later joined the Presbyterian Church in America.", "sources": ["nyt", "williams"]},
+    {"text": "Developed Evangelism Explosion, a method of training church members to share their faith using two diagnostic questions; it spread to churches in every country in the world.", "sources": ["ee", "nyt"]},
+    {"text": "Reached millions through The Coral Ridge Hour television program and Truths That Transform radio broadcast.", "sources": ["nyt"]},
+    {"text": "Founded Westminster Academy (1971), Knox Theological Seminary (1989), the Center for Christian Statesmanship in Washington (1995), and the Center for Reclaiming America (1996).", "sources": ["nyt", "williams"]},
+    {"text": "Served on the board of the Moral Majority and campaigned against abortion and homosexuality and for the view that America was founded as a Christian nation; critics, including Americans United for Separation of Church and State, opposed his political activism.", "sources": ["williams", "nyt"]},
+    {"text": "His Center for Reclaiming America sponsored the 1998 'Truth in Love' newspaper campaign promoting the claim that gay people could change their orientation, which was widely criticized.", "sources": ["nyt", "williams"]},
+    {"text": "His ministry's 2006 documentary Darwin's Deadly Legacy, linking Darwin's theory to Nazism, was condemned by the Anti-Defamation League as trivializing the Holocaust.", "sources": ["nyt"]}
+  ],
+  "sayings_intro": "The two questions at the heart of Evangelism Explosion.",
+  "sayings": {
+    "original": [
+      {"phrase": "Have you come to a place in your spiritual life where you know for certain that if you were to die today you would go to heaven?", "reference": "Evangelism Explosion (1970)", "sources": ["ee"]},
+      {"phrase": "Suppose you were to die today and stand before God and He were to say to you, 'Why should I let you into My heaven?' What would you say?", "reference": "Evangelism Explosion (1970)", "sources": ["ee"]}
+    ]
+  },
+  "persecution_note": "Kennedy was never arrested or persecuted. His political activism drew strong public criticism from civil-liberties, gay-rights, and Jewish organizations.",
+  "persecution": [],
+  "excommunication_note": "Kennedy was never excommunicated or disciplined by any church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "ee", "type": "primary", "citation": "D. James Kennedy, Evangelism Explosion. Wheaton, IL: Tyndale House, 1970 (4th ed., 1996)."},
+    {"id": "wijhnbb", "type": "primary", "citation": "D. James Kennedy and Jerry Newcombe, What If Jesus Had Never Been Born? Nashville: Thomas Nelson, 1994."},
+    {"id": "williams", "type": "scholarly", "citation": "Daniel K. Williams, God's Own Party: The Making of the Christian Right. New York: Oxford University Press, 2010."},
+    {"id": "nyt", "type": "reference", "citation": "Obituary of D. James Kennedy, The New York Times, 6 September 2007."}
+  ]
+}

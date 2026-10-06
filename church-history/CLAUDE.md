@@ -144,6 +144,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
+- D. James Kennedy (`d-james-kennedy`)
 - R. C. Sproul (`r-c-sproul`)
 
 ## Events on the site
@@ -294,7 +295,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Approximate age at death added to Died rows on the home page.
+- D. James Kennedy (Evangelism Explosion, Coral Ridge, Christian Right activism and its critics);
+  linked from the Presbyterian history. 46 people, 48 events. Dutch Reformed splits listed for
+  approval, awaiting the user's answer.
+- **PR #80**: Approximate age at death added to Died rows on the home page.
 - Dietrich Bonhoeffer (bans, Finkenwalde closure, imprisonment, and execution, naming those
   responsible; misattributed "silence in the face of evil"). 45 people, 48 events.
 - **PR #79**: Birth and death rows on the home page now show date, place, and (for deaths) cause; `died.cause`

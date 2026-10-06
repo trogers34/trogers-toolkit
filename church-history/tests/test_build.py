@@ -112,6 +112,10 @@ class TimelineTest(unittest.TestCase):
         people = [{"born": {"year": 1483}, "died": {"year": 1546}}]
         self.assertEqual(build.timeline_bounds(people), (1480, 1550, 10))
 
+    def test_age_at_death(self):
+        self.assertEqual(build.age_at_death({"born": {"year": 1483}, "died": {"year": 1546}}), "about 63")
+        self.assertEqual(build.age_at_death({"born": {"year": 35, "date": "Unknown"}, "died": {"year": 108}}), "unknown")
+
     def test_bc_years(self):
         self.assertEqual(build.format_year(-4), "4 BC")
         self.assertEqual(build.format_year(397, circa=True), "c. 397")
@@ -260,6 +264,7 @@ class EventTest(unittest.TestCase):
         self.assertNotIn(">Began<", index)
         self.assertIn("Agreed:</strong> Agreed a creed.", index)
         self.assertIn("How: Natural causes", index)
+        self.assertIn("Age: about 60", index)
         self.assertIn('href="events/test-council.html"', index)
         page = build.render_person(person, [event])
         self.assertIn('<h2>Events</h2>', page)

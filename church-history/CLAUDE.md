@@ -50,7 +50,8 @@ the user has set and the list of everyone on the site.
     agreed to, especially dogmas"). The build requires it for councils.
 17. On the home page's key-dates table, births show the date and place of birth, and deaths the
     date, place, and how they died (`died.cause`, required by the build; "Unknown" when it is).
-    Dates are exact where known and marked approximate (c.) where not.
+    Dates are exact where known and marked approximate (c.) where not. Deaths also show the
+    approximate age at death ("about N", or "unknown" when a birth or death date is unknown).
 
 ## Adding a person
 
@@ -293,6 +294,7 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
+- Approximate age at death added to Died rows on the home page.
 - Dietrich Bonhoeffer (bans, Finkenwalde closure, imprisonment, and execution, naming those
   responsible; misattributed "silence in the face of evil"). 45 people, 48 events.
 - **PR #79**: Birth and death rows on the home page now show date, place, and (for deaths) cause; `died.cause`

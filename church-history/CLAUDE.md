@@ -43,7 +43,8 @@ the user has set and the list of everyone on the site.
     the timeline table and on event pages instead of "Began"/"Ended". The build enforces it.
 15. Church splits and denominational histories are wanted: Orthodox splits are done; Baptist,
     Presbyterian, Anglican, Methodist, Lutheran, and Calvary Chapel histories are done (option C:
-    one overview event each plus separate events for the biggest splits).
+    one overview event each plus separate events for the biggest splits). Dutch Reformed splits
+    done the same way (the user: "do them all").
 16. Every council (and dogma document) has `decisions`: a short note of what it agreed,
     especially dogmas, shown as "Agreed:" in the home page's All key dates table and on the
     event page (the user: "put a small note on the second timeline about what the councils
@@ -177,17 +178,24 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Second Great Awakening, c. 1790–1844 (event: `second-great-awakening`)
 - Stone-Campbell Movement, 1804–1832 (event: `stone-campbell-movement`)
 - Prussian Union and the Old Lutherans, 1817–1845 (event: `prussian-union`)
+- The Afscheiding, 1834–1847 (event: `afscheiding`)
 - Disruption of 1843, 1834–1843 (event: `disruption-of-1843`)
 - Methodist Split of 1844, 1844–1845 (event: `methodist-split-1844`)
 - Southern Baptist Split, 1844–1845 (event: `southern-baptist-split`)
+- Christian Reformed Secession, 1850–1857 (event: `christian-reformed-secession`)
+- Dutch Reformed Church, Race, and Apartheid, 1857–1994 (event: `dutch-reformed-apartheid`)
+- The Doleantie, 1886–1892 (event: `doleantie`)
+- The Vrijmaking, 1942–1944 (event: `vrijmaking`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
 - Lutheran Churches: Beginnings and Splits, 1530–2010 (event: `lutheran-churches`)
 - Anglican Churches: Beginnings and Splits, 1534–2023 (event: `anglican-churches`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
 - Presbyterian Churches: Beginnings and Splits, 1560–2012 (event: `presbyterian-churches`)
+- Dutch Reformed Churches: Beginnings and Splits, 1561–2022 (event: `dutch-reformed-churches`)
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
 - Baptist Churches: Beginnings and Splits, 1609–1991 (event: `baptist-churches`)
+- Synod of Dort, 1618–1619 (event: `synod-of-dort`)
 - Great Ejection, 1662 (event: `great-ejection`)
 - Methodist Churches: Beginnings and Splits, 1729–2023 (event: `methodist-churches`)
 - First Vatican Council, 1869–1870 (event: `first-vatican-council`)
@@ -295,9 +303,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- D. James Kennedy (Evangelism Explosion, Coral Ridge, Christian Right activism and its critics);
-  linked from the Presbyterian history. 46 people, 48 events. Dutch Reformed splits listed for
-  approval, awaiting the user's answer.
+- Dutch Reformed churches: overview plus Synod of Dort, Afscheiding, Doleantie, Vrijmaking, Christian
+  Reformed secession, and the South African church, race, and apartheid. 46 people, 55 events.
+- **PR #81**: D. James Kennedy (Evangelism Explosion, Coral Ridge, Christian Right activism and its critics);
+  linked from the Presbyterian history. 46 people, 48 events.
 - **PR #80**: Approximate age at death added to Died rows on the home page.
 - Dietrich Bonhoeffer (bans, Finkenwalde closure, imprisonment, and execution, naming those
   responsible; misattributed "silence in the face of evil"). 45 people, 48 events.

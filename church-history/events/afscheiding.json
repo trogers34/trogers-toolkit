@@ -1,0 +1,44 @@
+{
+  "name": "The Afscheiding (Secession of 1834)",
+  "slug": "afscheiding",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The secession of orthodox Calvinists, led by Hendrik de Cock, from the state-controlled Dutch Reformed Church, whose members were fined, quartered with soldiers, and jailed, and many of whom emigrated to America.",
+  "place": "Ulrum, Groningen, and across the Netherlands",
+  "start": {"year": 1834, "date": "13–14 October 1834", "label": "Hendrik de Cock's congregation at Ulrum signs the Act of Secession or Return", "sources": ["blom", "bratt"]},
+  "end": {"year": 1847, "date": "1846–1847", "label": "Seceders led by Van Raalte and Scholte emigrate to Michigan and Iowa", "sources": ["bratt"]},
+  "background": [
+    {"text": "In 1816 King William I reorganized the national church under state-appointed boards; orthodox critics complained of tolerated liberal preaching and of new hymns replacing the Psalms.", "sources": ["blom", "britannica"]},
+    {"text": "Hendrik de Cock, minister at Ulrum, was suspended in 1833 for attacking liberal colleagues and baptizing children from other parishes, and deposed in 1834.", "sources": ["blom", "bratt"]}
+  ],
+  "happened": [
+    {"text": "De Cock's congregation declared its secession and 'return' to the Reformed confessions in October 1834; other ministers, including Hendrik Scholte, Simon van Velzen, Anthony Brummelkamp, and Albertus van Raalte, joined the movement.", "sources": ["blom", "bratt"]},
+    {"text": "The government treated the seceders' meetings as illegal under a law forbidding gatherings of more than 20 people without permission.", "sources": ["blom"]},
+    {"text": "The seceders were granted conditional toleration from 1839–40 under King William II, and formed what became the Christian Reformed Church in the Netherlands.", "sources": ["blom", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Hendrik de Cock", "role": "Minister at Ulrum who led the secession"},
+    {"name": "Hendrik Scholte", "role": "Seceder minister who founded Pella, Iowa"},
+    {"name": "Albertus van Raalte", "role": "Seceder minister who founded Holland, Michigan"},
+    {"name": "William I", "role": "King whose government suppressed the seceders"}
+  ],
+  "outcomes": [
+    {"text": "Thousands of seceders emigrated to the American Midwest, founding Dutch Reformed communities in Michigan and Iowa.", "sources": ["bratt"]},
+    {"text": "Most seceder churches united with Kuyper's Doleantie churches in 1892; a minority continued as the Christian Reformed Churches in the Netherlands.", "sources": ["blom", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1834", "by": "Classis and provincial church board of Groningen", "authority": "Nederlandse Hervormde Kerk", "reason": "Hendrik de Cock deposed from the ministry", "status": "Never reversed", "sources": ["blom", "bratt"]}
+  ],
+  "persecution": [
+    {"year": 1835, "date": "1834–1839", "title": "Fines, quartering, and imprisonment of the seceders", "summary": "Authorities broke up seceder services, fined leaders and hosts heavily, and quartered soldiers in their homes; De Cock was imprisoned for three months in 1835, and other ministers were jailed or fined repeatedly.", "responsible": [
+      {"name": "William I", "role": "King", "jurisdiction": "Kingdom of the Netherlands", "type": "state"},
+      {"name": "Dutch courts and local authorities", "role": "Prosecuted and fined the seceders", "jurisdiction": "Kingdom of the Netherlands", "type": "state"},
+      {"name": "Nederlandse Hervormde Kerk boards", "role": "Deposed the seceding ministers", "jurisdiction": "Nederlandse Hervormde Kerk", "type": "church"}
+    ], "outcome": "Toleration from 1839–40; emigration followed in the 1840s.", "sources": ["blom", "bratt"]}
+  ],
+  "sources": [
+    {"id": "blom", "type": "scholarly", "citation": "J. C. H. Blom and E. Lamberts (eds.), History of the Low Countries. New York: Berghahn Books, 1999."},
+    {"id": "bratt", "type": "scholarly", "citation": "James D. Bratt, Dutch Calvinism in Modern America: A History of a Conservative Subculture. Grand Rapids: Eerdmans, 1984."},
+    {"id": "britannica", "type": "reference", "citation": "\"Reformed Church\" (Netherlands). Encyclopaedia Britannica."}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "The Doleantie (1886)",
+  "slug": "doleantie",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The second major secession from the national Dutch Reformed Church, led by Abraham Kuyper in Amsterdam over the church's refusal to enforce its confessions, which led in 1892 to the Gereformeerde Kerken in Nederland.",
+  "place": "Amsterdam, the Netherlands",
+  "start": {"year": 1886, "date": "January 1886", "label": "Amsterdam consistory members are suspended; Kuyper's followers break into the church's records room", "sources": ["bratt-kuyper", "blom"]},
+  "end": {"year": 1892, "date": "17 June 1892", "label": "Doleantie and Seceder churches unite as the Gereformeerde Kerken in Nederland", "sources": ["bratt-kuyper", "britannica"]},
+  "background": [
+    {"text": "Abraham Kuyper, minister, journalist, founder of the Free University (1880), and leader of the Anti-Revolutionary Party, campaigned to restore the authority of the Reformed confessions in the national church.", "sources": ["bratt-kuyper"]}
+  ],
+  "happened": [
+    {"text": "Kuyper's supporters on the Amsterdam consistory refused to admit to communion young people taught by liberal ministers, and arranged for church property to stay with the congregation if it left the national church.", "sources": ["bratt-kuyper", "blom"]},
+    {"text": "The higher church boards suspended 80 consistory members in December 1885–January 1886; Kuyper's group had a panel of the locked consistory room sawn through to take control of the records (the 'panel affair').", "sources": ["bratt-kuyper"]},
+    {"text": "Kuyper and others were deposed; some 200 congregations and about 180,000 people followed into the 'grieving' (doleerende) churches.", "sources": ["bratt-kuyper", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie; later prime minister (1901–05)"},
+    {"name": "Herman Bavinck", "role": "Seceder theologian who helped unite the churches in 1892"}
+  ],
+  "outcomes": [
+    {"text": "The 1892 union created the Gereformeerde Kerken in Nederland, a major force in Dutch society and politics through Kuyper's Christian Democratic 'pillar' of schools, newspapers, and parties.", "sources": ["bratt-kuyper", "blom"]},
+    {"text": "Kuyper's theology, including 'sphere sovereignty' and 'common grace', became influential among Reformed Christians in North America and South Africa.", "sources": ["bratt-kuyper", "bratt"]}
+  ],
+  "condemnations": [
+    {"date": "1886", "by": "Provincial and synodical church boards", "authority": "Nederlandse Hervormde Kerk", "reason": "Abraham Kuyper and the Amsterdam consistory members deposed for defying the boards", "status": "Never reversed", "sources": ["bratt-kuyper"]}
+  ],
+  "persecution_note": "The Doleantie led to lawsuits over church property but no imprisonment; the courts mostly awarded the buildings to the national church.",
+  "persecution": [],
+  "sources": [
+    {"id": "bratt-kuyper", "type": "scholarly", "citation": "James D. Bratt, Abraham Kuyper: Modern Calvinist, Christian Democrat. Grand Rapids: Eerdmans, 2013."},
+    {"id": "bratt", "type": "scholarly", "citation": "James D. Bratt, Dutch Calvinism in Modern America: A History of a Conservative Subculture. Grand Rapids: Eerdmans, 1984."},
+    {"id": "blom", "type": "scholarly", "citation": "J. C. H. Blom and E. Lamberts (eds.), History of the Low Countries. New York: Berghahn Books, 1999."},
+    {"id": "britannica", "type": "reference", "citation": "\"Abraham Kuyper.\" Encyclopaedia Britannica."}
+  ]
+}

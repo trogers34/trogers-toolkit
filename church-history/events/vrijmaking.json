@@ -1,0 +1,40 @@
+{
+  "name": "The Vrijmaking (Liberation of 1944)",
+  "slug": "vrijmaking",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The split in the Gereformeerde Kerken in Nederland during the German occupation, when the synod deposed the theologian Klaas Schilder over binding doctrinal statements on baptism and covenant, and his supporters formed the 'Liberated' churches.",
+  "place": "The Netherlands (under German occupation)",
+  "start": {"year": 1942, "date": "1942", "label": "Synod binds the churches to doctrinal statements on covenant and baptism", "sources": ["vanreest", "britannica"]},
+  "end": {"year": 1944, "date": "11 August 1944", "label": "Act of Liberation or Return signed in The Hague; the Liberated churches form", "sources": ["vanreest", "britannica"]},
+  "background": [
+    {"text": "The Gereformeerde Kerken were divided over Abraham Kuyper's teaching of 'presumptive regeneration', that baptized children of believers may be presumed to be born again; Klaas Schilder, professor at Kampen, rejected binding it on the churches.", "sources": ["vanreest", "britannica"]},
+    {"text": "Schilder had been arrested by the Germans in 1940 for articles against Nazism and was in hiding during much of the dispute.", "sources": ["vanreest"]}
+  ],
+  "happened": [
+    {"text": "A long-running synod (1939–46) adopted doctrinal declarations in 1942 and required office-bearers to submit to them.", "sources": ["vanreest", "britannica"]},
+    {"text": "In March 1944 the synod suspended and then deposed Schilder; in August his supporters signed an 'Act of Liberation or Return', freeing themselves from the synod's decisions.", "sources": ["vanreest", "britannica"]},
+    {"text": "About a tenth of the membership left to form the Gereformeerde Kerken (vrijgemaakt).", "sources": ["britannica"]}
+  ],
+  "participants": [
+    {"name": "Klaas Schilder", "role": "Kampen theologian deposed by the synod; leader of the Liberated churches"},
+    {"name": "Synod of the Gereformeerde Kerken (1939–1946)", "role": "Imposed the doctrinal declarations and deposed Schilder"}
+  ],
+  "outcomes": [
+    {"text": "The synod withdrew the binding force of its declarations in 1946, but the split was not healed. Emigrants formed the Canadian and American Reformed Churches (from 1950).", "sources": ["britannica"]},
+    {"text": "The Liberated churches themselves later split; most merged with the Netherlands Reformed Churches (NGK) in 2023.", "sources": ["britannica"]}
+  ],
+  "condemnations": [
+    {"date": "March–August 1944", "by": "Synod of the Gereformeerde Kerken in Nederland", "authority": "Gereformeerde Kerken in Nederland", "reason": "Klaas Schilder suspended and deposed as minister and professor for refusing the synod's doctrinal declarations", "status": "Never formally reversed", "sources": ["vanreest", "britannica"]}
+  ],
+  "persecution_note": "The split itself involved no state persecution, but it took place under the Nazi occupation, which had imprisoned Schilder.",
+  "persecution": [
+    {"year": 1940, "date": "August–December 1940", "title": "Imprisonment of Klaas Schilder by the Germans", "summary": "The German occupation authorities arrested Schilder for anti-Nazi articles in his journal De Reformatie and held him for four months; afterwards he lived largely in hiding.", "responsible": [
+      {"name": "German occupation authorities (Sicherheitsdienst)", "role": "Arrested and held him", "jurisdiction": "German-occupied Netherlands", "type": "state"}
+    ], "outcome": "Released in December 1940.", "sources": ["vanreest"]}
+  ],
+  "sources": [
+    {"id": "vanreest", "type": "scholarly", "citation": "Rudolf van Reest, Schilder's Struggle for the Unity of the Church, trans. Theodore Plantinga. Neerlandia, AB: Inheritance Publications, 1990."},
+    {"id": "britannica", "type": "reference", "citation": "\"Reformed Church\" (Netherlands) and \"Klaas Schilder.\" Encyclopaedia Britannica."}
+  ]
+}

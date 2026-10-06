@@ -1,0 +1,46 @@
+{
+  "name": "Monica",
+  "slug": "monica-of-hippo",
+  "also_known_as": "Saint Monica; Monnica",
+  "era": "Early Church",
+  "role": "Christian mother of Augustine of Hippo; venerated as a saint and patron of mothers",
+  "born": {"year": 331, "circa": true, "date": "c. 331–332", "place": "Thagaste, Numidia (modern Souk Ahras, Algeria)", "sources": ["confessions", "brown"]},
+  "died": {"year": 387, "date": "Autumn 387, aged 56", "place": "Ostia, near Rome", "sources": ["confessions", "brown"]},
+  "summary": "North African Christian whose years of prayers and tears for her son Augustine, recorded in his Confessions, made her the model of the praying Christian mother.",
+  "key_dates": [
+    {"year": 354, "label": "Her son Augustine is born at Thagaste (13 November)", "sources": ["confessions", "brown"]},
+    {"year": 371, "circa": true, "label": "Her husband Patricius dies, after being baptized at her urging", "sources": ["confessions", "brown"]},
+    {"year": 383, "label": "Augustine slips away to Rome, deceiving her at the harbor of Carthage", "sources": ["confessions"]},
+    {"year": 385, "label": "Follows Augustine to Milan, where she comes to revere Bishop Ambrose", "sources": ["confessions", "brown"]},
+    {"year": 387, "label": "Sees Augustine baptized by Ambrose at Easter; shares the 'vision at Ostia' with him and dies there", "sources": ["confessions", "brown"]}
+  ],
+  "accomplishments": [
+    {"text": "Raised her children as Christians in a household where her husband Patricius was a pagan with a violent temper; Augustine records that she won him over by patience and that he was baptized before his death.", "sources": ["confessions", "brown"]},
+    {"text": "Prayed and wept for years for Augustine while he followed the Manichees and lived with a concubine; a bishop she begged to talk to him told her, 'It is not possible that the son of these tears should perish.'", "sources": ["confessions", "brown"]},
+    {"text": "Followed Augustine across the sea to Italy (385) and attached herself to Ambrose's church in Milan, giving up her African custom of bringing food and wine to the martyrs' tombs when Ambrose forbade it.", "sources": ["confessions", "brown"]},
+    {"text": "Arranged a respectable marriage for Augustine in Milan, which led to his sending away the woman who had been his partner for about 15 years and the mother of his son Adeodatus; Augustine wrote that his heart 'was torn and wounded'.", "sources": ["confessions", "brown"]},
+    {"text": "Took part in the philosophical conversations at Cassiciacum (386), where Augustine records her contributions in his dialogues.", "sources": ["brown"]},
+    {"text": "Shared with Augustine the 'vision at Ostia' while they waited to sail home to Africa, one of the most famous passages in the Confessions.", "sources": ["confessions"]},
+    {"text": "Became, through the Confessions, the model of the persevering Christian mother. Her relics were moved to Rome in 1430 and the city of Santa Monica, California, is named after her.", "sources": ["atkinson", "britannica"]},
+    {"text": "As a girl she secretly drank wine from the cellar until a servant called her a 'little drunkard' (meribibula), an episode Augustine includes to show her growth in virtue.", "sources": ["confessions"]}
+  ],
+  "sayings_intro": "Her words are known only through Augustine's Confessions.",
+  "sayings": {
+    "original": [
+      {"phrase": "Lay this body anywhere; do not let care for it trouble you. This only I ask, that you remember me at the altar of the Lord, wherever you may be.", "reference": "Augustine, Confessions 9.11.27", "sources": ["confessions"]}
+    ],
+    "misattributed": [
+      {"phrase": "It is not possible that the son of these tears should perish.", "reference": "Confessions 3.12.21", "note": "Spoken to Monica by an unnamed African bishop, not by her; it is often wrongly credited to Ambrose.", "sources": ["confessions"]}
+    ]
+  },
+  "persecution_note": "Monica lived after the end of the Roman persecutions and was never arrested or persecuted. She did witness Ambrose's congregation occupying its basilica in Milan in 386 to resist Empress Justina's demand that it be handed to the Arians; Augustine says she was among those keeping watch.",
+  "persecution": [],
+  "excommunication_note": "Monica was never excommunicated or censured by any church authority.",
+  "excommunications": [],
+  "sources": [
+    {"id": "confessions", "type": "primary", "citation": "Augustine, Confessions, trans. Henry Chadwick. Oxford: Oxford University Press, 1991."},
+    {"id": "brown", "type": "scholarly", "citation": "Peter Brown, Augustine of Hippo: A Biography, new ed. Berkeley: University of California Press, 2000."},
+    {"id": "atkinson", "type": "scholarly", "citation": "Clarissa W. Atkinson, \"'Your Servant, My Mother': The Figure of Saint Monica in the Ideology of Christian Motherhood,\" in Immaculate and Powerful: The Female in Sacred Image and Social Reality, ed. C. W. Atkinson, C. H. Buchanan, and M. R. Miles. Boston: Beacon Press, 1985."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Monica.\" Encyclopaedia Britannica."}
+  ]
+}

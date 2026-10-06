@@ -1,0 +1,49 @@
+{
+  "name": "Jonathan Edwards",
+  "slug": "jonathan-edwards",
+  "era": "Modern",
+  "role": "Congregationalist pastor, theologian, and leader of the Great Awakening in New England",
+  "born": {"year": 1703, "date": "5 October 1703", "place": "East Windsor, Connecticut Colony", "sources": ["marsden", "britannica"]},
+  "died": {"year": 1758, "date": "22 March 1758", "place": "Princeton, New Jersey", "sources": ["marsden", "britannica"]},
+  "summary": "New England pastor and theologian whose preaching helped spark the Great Awakening and whose writings made him the most influential theologian of colonial America.",
+  "key_dates": [
+    {"year": 1720, "label": "Graduates from Yale College", "sources": ["marsden", "britannica"]},
+    {"year": 1727, "label": "Ordained at Northampton, Massachusetts, as assistant to his grandfather Solomon Stoddard; marries Sarah Pierpont", "sources": ["marsden"]},
+    {"year": 1734, "label": "Revival begins in Northampton (1734–35), described in A Faithful Narrative (1737)", "sources": ["works-4", "marsden"]},
+    {"year": 1741, "label": "Preaches \"Sinners in the Hands of an Angry God\" at Enfield (8 July)", "sources": ["works-22", "marsden"]},
+    {"year": 1746, "label": "Publishes A Treatise Concerning Religious Affections", "sources": ["marsden", "britannica"]},
+    {"year": 1750, "label": "Dismissed by the Northampton church (22 June)", "sources": ["marsden", "britannica"]},
+    {"year": 1751, "label": "Becomes pastor and missionary to the Mohican and Mohawk people at Stockbridge", "sources": ["marsden"]},
+    {"year": 1754, "label": "Publishes Freedom of the Will", "sources": ["marsden", "britannica"]},
+    {"year": 1758, "label": "Becomes president of the College of New Jersey (Princeton); dies weeks later after a smallpox inoculation", "sources": ["marsden", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Led the 1734–35 revival in Northampton, and his account of it, A Faithful Narrative of the Surprising Work of God (1737), was read widely in Britain and America and became a model for later revivals.", "sources": ["works-4", "marsden"]},
+    {"text": "Became a leading preacher and defender of the Great Awakening (1740–42), hosting George Whitefield in Northampton in October 1740.", "sources": ["works-4", "marsden"]},
+    {"text": "Preached \"Sinners in the Hands of an Angry God\" at Enfield, Connecticut, on 8 July 1741, now the best-known sermon in American history.", "sources": ["works-22", "britannica"]},
+    {"text": "Wrote Religious Affections (1746), an attempt to tell genuine religious experience from emotional excitement, answering both critics and excesses of the revival.", "sources": ["marsden", "britannica"]},
+    {"text": "Published The Life of David Brainerd (1749), a missionary's diary that inspired generations of Protestant missionaries.", "sources": ["marsden"]},
+    {"text": "Argued in Freedom of the Will (1754) that human choices are free yet determined by the strongest motive, a classic defense of Calvinism.", "sources": ["marsden", "britannica"]},
+    {"text": "Served for seven years as pastor and missionary to Native Americans at Stockbridge, where he also wrote most of his major treatises, including Original Sin (1758) and The Nature of True Virtue (published 1765).", "sources": ["marsden"]},
+    {"text": "Owned enslaved people throughout his adult life, beginning with a girl named Venus, bought in Newport in 1731. He criticized the overseas slave trade but defended slaveholding by Christians, including ministers.", "sources": ["minkema", "marsden"]},
+    {"text": "In the 1744 'bad book' case, publicly read the names of young people connected with passing around a midwives' manual without distinguishing witnesses from accused, which angered leading Northampton families.", "sources": ["marsden"]}
+  ],
+  "sayings_intro": "A selection of lines from his own writings.",
+  "sayings": {
+    "original": [
+      {"phrase": "The God that holds you over the pit of hell, much as one holds a spider, or some loathsome insect over the fire, abhors you.", "reference": "Sinners in the Hands of an Angry God (1741)", "sources": ["works-22"]},
+      {"phrase": "Resolved, never to lose one moment of time; but improve it the most profitable way I possibly can.", "reference": "Resolutions, no. 5 (1722–23)", "sources": ["marsden"]}
+    ]
+  },
+  "persecution_note": "Edwards was never arrested, tried, or persecuted. The most serious action against him was his dismissal by his own congregation in 1750, after he refused to admit people to communion without a profession of genuine faith (reversing his grandfather Stoddard's practice) and after the 'bad book' case. A council of ministers and delegates voted 10 to 9 to separate him from the church, and the congregation voted more than 200 to 23 for his removal. Critics such as Charles Chauncy of Boston also attacked the revivals he defended.",
+  "persecution": [],
+  "excommunication_note": "Edwards was never excommunicated or condemned by any church body. His dismissal from Northampton in 1750 ended his pastorate there but was not a censure of his doctrine or standing as a minister.",
+  "excommunications": [],
+  "sources": [
+    {"id": "works-4", "type": "primary", "citation": "Jonathan Edwards, The Great Awakening, ed. C. C. Goen. The Works of Jonathan Edwards, vol. 4. New Haven: Yale University Press, 1972."},
+    {"id": "works-22", "type": "primary", "citation": "Jonathan Edwards, Sermons and Discourses, 1739–1742, ed. Harry S. Stout and Nathan O. Hatch. The Works of Jonathan Edwards, vol. 22. New Haven: Yale University Press, 2003."},
+    {"id": "marsden", "type": "scholarly", "citation": "George M. Marsden, Jonathan Edwards: A Life. New Haven: Yale University Press, 2003."},
+    {"id": "minkema", "type": "scholarly", "citation": "Kenneth P. Minkema, \"Jonathan Edwards on Slavery and the Slave Trade,\" William and Mary Quarterly 54, no. 4 (1997)."},
+    {"id": "britannica", "type": "reference", "citation": "\"Jonathan Edwards.\" Encyclopaedia Britannica."}
+  ]
+}

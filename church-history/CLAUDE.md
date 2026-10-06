@@ -109,7 +109,9 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Martin Chemnitz (`martin-chemnitz`)
 
 **Modern**
+- Jonathan Edwards (`jonathan-edwards`)
 - John Wesley (`john-wesley`): starter example
+- Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
@@ -229,7 +231,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Ninety-five Theses ("Wittenberg Door"), with the debate over whether they were actually
+- Jonathan Edwards (including his slaveholding and the 1750 dismissal) and Charles Wesley
+  (hymns, the Grace Murray episode, mob attacks). 34 people, 13 events.
+- **PR #65**: Ninety-five Theses ("Wittenberg Door"), with the debate over whether they were actually
   posted on the door. 32 people, 13 events.
 - **PR #64**: all seven ecumenical councils: added Constantinople I, Ephesus, Constantinople II,
   Constantinople III, Nicaea II; Nicaea renamed "First Council of Nicaea". 32 people, 12 events.

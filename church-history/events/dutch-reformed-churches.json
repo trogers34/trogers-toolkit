@@ -1,0 +1,63 @@
+{
+  "name": "Dutch Reformed Churches: Beginnings and Splits",
+  "slug": "dutch-reformed-churches",
+  "era": "Reformation",
+  "event_type": "denomination",
+  "summary": "How Calvinist churches took root in the Netherlands under Spanish persecution, became the public church of the Dutch Republic, spread to North America and South Africa, and divided repeatedly over doctrine, church order, race, and sexuality.",
+  "place": "The Netherlands, North America, and South Africa",
+  "start": {"year": 1561, "date": "1561", "label": "Guido de Brès writes the Belgic Confession", "sources": ["israel", "britannica"]},
+  "end": {"year": 2022, "date": "2021–2022", "label": "Reformed Church in America splits over sexuality; many congregations leave", "sources": ["britannica"]},
+  "key_dates": [
+    {"year": 1567, "label": "Guido de Brès hanged at Valenciennes; Alba's Council of Troubles begins", "sources": ["israel"]},
+    {"year": 1571, "label": "Synod of Emden organizes the Dutch Reformed churches", "sources": ["israel", "britannica"]},
+    {"year": 1618, "label": "Synod of Dort condemns the Remonstrants (1618–19)", "sources": ["israel", "britannica"]},
+    {"year": 1628, "label": "Jonas Michaëlius, first Dutch Reformed minister in New Amsterdam", "sources": ["bratt", "britannica"]},
+    {"year": 1652, "label": "Dutch Reformed Church begins at the Cape of Good Hope", "sources": ["degruchy", "britannica"]},
+    {"year": 1816, "label": "King William I reorganizes the national church as the Nederlandse Hervormde Kerk", "sources": ["blom", "britannica"]},
+    {"year": 1834, "label": "The Afscheiding (Secession)", "sources": ["blom", "bratt"]},
+    {"year": 1857, "label": "Christian Reformed Church secedes in Michigan", "sources": ["bratt"]},
+    {"year": 1886, "label": "The Doleantie under Abraham Kuyper", "sources": ["bratt-kuyper", "blom"]},
+    {"year": 1892, "label": "Seceders and Doleantie churches unite as the Gereformeerde Kerken in Nederland", "sources": ["bratt-kuyper", "britannica"]},
+    {"year": 1924, "label": "Herman Hoeksema deposed over 'common grace'; Protestant Reformed Churches form", "sources": ["bratt"]},
+    {"year": 1944, "label": "The Vrijmaking (Liberation) under Klaas Schilder", "sources": ["britannica"]},
+    {"year": 1982, "label": "World Alliance of Reformed Churches declares apartheid a heresy and suspends the white South African churches", "sources": ["degruchy", "britannica"]},
+    {"year": 2004, "label": "Protestant Church in the Netherlands formed by merger; the Restored Reformed Church refuses to join", "sources": ["britannica"]}
+  ],
+  "background": [
+    {"text": "Calvinist teaching spread in the Low Countries from the 1540s, in congregations meeting secretly or in exile under the Habsburg rulers' heresy laws.", "sources": ["israel", "britannica"]}
+  ],
+  "happened": [
+    {"text": "The Belgic Confession (1561), the Heidelberg Catechism, and later the Canons of Dort became the 'Three Forms of Unity', the doctrinal standards of Dutch Reformed churches worldwide.", "sources": ["israel", "britannica"]},
+    {"text": "After the revolt against Spain, the Reformed church became the public church of the Dutch Republic, though Catholics, Mennonites, and others were tolerated in varying degrees.", "sources": ["israel"]},
+    {"text": "Dutch trade and settlement carried the church to New Netherland (later the Reformed Church in America) and the Cape (the Dutch Reformed Church in South Africa).", "sources": ["bratt", "degruchy"]},
+    {"text": "From the 19th century the Dutch churches divided again and again over orthodoxy against liberal theology, state control, and church order; in South Africa the church divided by race and supported apartheid.", "sources": ["blom", "bratt", "degruchy"]}
+  ],
+  "participants": [
+    {"name": "John Calvin", "role": "Reformer whose theology the churches follow", "person": "john-calvin"},
+    {"name": "Guido de Brès", "role": "Author of the Belgic Confession; executed 1567"},
+    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie and later prime minister"},
+    {"name": "Klaas Schilder", "role": "Leader of the 1944 Liberation"}
+  ],
+  "outcomes": [
+    {"text": "Dutch Reformed churches number many millions worldwide, but are divided into dozens of denominations in the Netherlands, North America, and southern Africa.", "sources": ["britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1618–1619", "by": "Synod of Dort", "authority": "National synod of the Dutch Reformed Church", "reason": "Remonstrant ministers condemned and deposed (see the Synod of Dort event)", "status": "The Remonstrant Brotherhood continues as a separate church", "sources": ["israel"]}
+  ],
+  "persecution_note": "Dutch Calvinists were persecuted under Habsburg rule, and later persecuted dissenters within their own tradition.",
+  "persecution": [
+    {"year": 1567, "date": "1550s–1570s", "title": "Habsburg persecution of the Reformed in the Netherlands", "summary": "Under Charles V's and Philip II's heresy edicts, Protestants were burned, beheaded, or drowned. Guido de Brès was hanged at Valenciennes in May 1567 after the town's surrender, and the Duke of Alba's Council of Troubles (1567–76) condemned some 9,000 people, executing over 1,000.", "responsible": [
+      {"name": "Philip II of Spain", "role": "King and ruler of the Netherlands", "jurisdiction": "Habsburg Netherlands", "type": "state"},
+      {"name": "Fernando Álvarez de Toledo, Duke of Alba", "role": "Governor-general; set up the Council of Troubles", "jurisdiction": "Habsburg Netherlands", "type": "state"},
+      {"name": "Inquisitors and church courts", "role": "Tried heretics", "jurisdiction": "Catholic Church in the Netherlands", "type": "church"}
+    ], "outcome": "Helped provoke the Dutch Revolt and the founding of the Dutch Republic.", "sources": ["israel", "britannica"]}
+  ],
+  "sources": [
+    {"id": "israel", "type": "scholarly", "citation": "Jonathan I. Israel, The Dutch Republic: Its Rise, Greatness, and Fall, 1477–1806. Oxford: Clarendon Press, 1995."},
+    {"id": "blom", "type": "scholarly", "citation": "J. C. H. Blom and E. Lamberts (eds.), History of the Low Countries. New York: Berghahn Books, 1999."},
+    {"id": "bratt", "type": "scholarly", "citation": "James D. Bratt, Dutch Calvinism in Modern America: A History of a Conservative Subculture. Grand Rapids: Eerdmans, 1984."},
+    {"id": "bratt-kuyper", "type": "scholarly", "citation": "James D. Bratt, Abraham Kuyper: Modern Calvinist, Christian Democrat. Grand Rapids: Eerdmans, 2013."},
+    {"id": "degruchy", "type": "scholarly", "citation": "John W. de Gruchy, The Church Struggle in South Africa, 25th anniversary ed. Minneapolis: Fortress Press, 2005."},
+    {"id": "britannica", "type": "reference", "citation": "\"Reformed Church\" and \"Dutch Reformed Church.\" Encyclopaedia Britannica."}
+  ]
+}

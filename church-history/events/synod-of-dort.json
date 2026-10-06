@@ -1,0 +1,47 @@
+{
+  "name": "Synod of Dort",
+  "slug": "synod-of-dort",
+  "also_known_as": "Synod of Dordrecht (Dordt)",
+  "era": "Reformation",
+  "event_type": "council",
+  "summary": "The national synod of the Dutch Reformed Church, with delegates from across Reformed Europe, which condemned the Arminian Remonstrants and issued the Canons of Dort, the basis of the 'five points of Calvinism'.",
+  "place": "Dordrecht, Dutch Republic",
+  "start": {"year": 1618, "date": "13 November 1618", "label": "Synod opens at Dordrecht, called by the States General", "sources": ["israel", "goudriaan"]},
+  "end": {"year": 1619, "date": "29 May 1619", "label": "Synod closes after adopting the Canons of Dort", "sources": ["israel", "goudriaan"]},
+  "decisions": "Canons of Dort: total depravity, unconditional election, particular (limited) atonement, irresistible grace, perseverance of the saints; Remonstrant teaching condemned and its ministers deposed; a new Dutch Bible translation ordered (Statenvertaling, 1637).",
+  "background": [
+    {"text": "Followers of the Leiden theologian Jacobus Arminius (d. 1609) set out their views in the Remonstrance of 1610, teaching conditional election and that grace can be resisted; strict Calvinists ('Counter-Remonstrants') opposed them.", "sources": ["israel", "britannica"]},
+    {"text": "The dispute merged with a political struggle between the Advocate of Holland, Johan van Oldenbarnevelt, who protected the Remonstrants, and Prince Maurice of Orange, who backed the Counter-Remonstrants and arrested Oldenbarnevelt in August 1618.", "sources": ["israel"]}
+  ],
+  "happened": [
+    {"text": "The States General called a national synod, with delegates from England, Scotland, the Palatinate, Switzerland, and other Reformed churches; French delegates were barred by their king.", "sources": ["goudriaan", "israel"]},
+    {"text": "The Remonstrants, led by Simon Episcopius, were summoned as defendants rather than members; after disputes over procedure they were expelled from the synod in January 1619.", "sources": ["goudriaan", "israel"]},
+    {"text": "The synod adopted the Canons of Dort, answering the five points of the Remonstrance, and confirmed the Belgic Confession and Heidelberg Catechism as the church's standards.", "sources": ["goudriaan", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Maurice of Orange", "role": "Stadtholder who backed the Counter-Remonstrants"},
+    {"name": "Johannes Bogerman", "role": "President of the synod"},
+    {"name": "Simon Episcopius", "role": "Leader of the Remonstrants"},
+    {"name": "Johan van Oldenbarnevelt", "role": "Statesman who had protected the Remonstrants; executed during the synod"}
+  ],
+  "outcomes": [
+    {"text": "The Canons of Dort became one of the 'Three Forms of Unity' of Reformed churches.", "sources": ["goudriaan", "britannica"]},
+    {"text": "The Remonstrant Brotherhood, founded in exile in 1619, was tolerated in the Dutch Republic from the 1630s and still exists.", "sources": ["israel", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1619", "by": "Synod of Dort", "authority": "National synod of the Dutch Reformed Church", "reason": "The Remonstrant teaching condemned; about 200 Remonstrant ministers deposed, and those who would not promise to stop preaching banished", "status": "Never reversed; the Remonstrants became a separate church", "sources": ["israel", "goudriaan"]}
+  ],
+  "persecution_note": "The synod was accompanied by political trials and the suppression of Remonstrant worship.",
+  "persecution": [
+    {"year": 1619, "date": "1618–1625", "title": "Execution of Oldenbarnevelt and suppression of the Remonstrants", "summary": "A special court appointed by the States General sentenced Johan van Oldenbarnevelt to death for treason; he was beheaded in The Hague on 13 May 1619, while the synod was still sitting. Hugo Grotius was sentenced to life imprisonment in Loevestein Castle and escaped in a book chest in 1621. Deposed Remonstrant ministers were exiled, and Remonstrant services were banned and broken up for years.", "responsible": [
+      {"name": "Maurice of Orange", "role": "Stadtholder who drove the prosecutions", "jurisdiction": "Dutch Republic", "type": "state"},
+      {"name": "States General and its special court", "role": "Tried and sentenced Oldenbarnevelt and Grotius", "jurisdiction": "Dutch Republic", "type": "state"},
+      {"name": "Synod of Dort", "role": "Condemned and deposed the Remonstrant ministers", "jurisdiction": "Dutch Reformed Church", "type": "church"}
+    ], "outcome": "Persecution eased after Maurice's death in 1625.", "sources": ["israel", "britannica"]}
+  ],
+  "sources": [
+    {"id": "goudriaan", "type": "scholarly", "citation": "Aza Goudriaan and Fred van Lieburg (eds.), Revisiting the Synod of Dordt (1618–1619). Leiden: Brill, 2011."},
+    {"id": "israel", "type": "scholarly", "citation": "Jonathan I. Israel, The Dutch Republic: Its Rise, Greatness, and Fall, 1477–1806. Oxford: Clarendon Press, 1995."},
+    {"id": "britannica", "type": "reference", "citation": "\"Synod of Dort\" and \"Remonstrants.\" Encyclopaedia Britannica."}
+  ]
+}

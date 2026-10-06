@@ -1,0 +1,52 @@
+{
+  "name": "Dutch Reformed Church, Race, and Apartheid",
+  "slug": "dutch-reformed-apartheid",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The division of the Dutch Reformed Church in South Africa into separate churches by race, its theological support for apartheid, its suspension by the world Reformed body in 1982, and the Belhar Confession and reunification efforts that followed.",
+  "place": "South Africa",
+  "start": {"year": 1857, "date": "1857", "label": "Synod allows separate worship for white and Black members 'because of the weakness of some'", "sources": ["degruchy", "elphick"]},
+  "end": {"year": 1994, "date": "1994", "label": "Mission and African churches unite as the Uniting Reformed Church in Southern Africa", "sources": ["degruchy", "britannica"]},
+  "key_dates": [
+    {"year": 1881, "label": "Separate Dutch Reformed Mission Church formed for 'Coloured' members", "sources": ["degruchy", "elphick"]},
+    {"year": 1948, "label": "National Party begins apartheid with strong support from the Dutch Reformed Church", "sources": ["degruchy", "britannica"]},
+    {"year": 1960, "label": "Cottesloe Consultation after Sharpeville; the church's synods reject its call to end racial exclusion", "sources": ["degruchy"]},
+    {"year": 1982, "label": "World Alliance of Reformed Churches declares apartheid a heresy and suspends the church; Belhar Confession drafted", "sources": ["degruchy", "belhar"]},
+    {"year": 1986, "label": "Mission Church adopts the Belhar Confession", "sources": ["belhar", "degruchy"]}
+  ],
+  "background": [
+    {"text": "The Dutch Reformed Church (NG Kerk) had served the Cape since 1652; in 1829 its synod held that communion should be given to all members regardless of color.", "sources": ["elphick", "degruchy"]}
+  ],
+  "happened": [
+    {"text": "In 1857 the synod allowed separate services by race as a concession to white members; this grew into separate churches for 'Coloured' (1881), Black African, and Indian members.", "sources": ["degruchy", "elphick"]},
+    {"text": "In the 20th century church leaders and theologians developed a biblical defense of racial separation, which supported the National Party's apartheid policy after 1948.", "sources": ["degruchy", "britannica"]},
+    {"text": "After the Sharpeville massacre (1960), the Cottesloe Consultation called for an end to racial exclusion in worship and other reforms; the church's synods rejected it and withdrew from the World Council of Churches.", "sources": ["degruchy"]},
+    {"text": "In 1982 the World Alliance of Reformed Churches declared apartheid a sin and its theological justification a heresy, and suspended the white Dutch Reformed churches; the Mission Church drafted the Belhar Confession, adopted in 1986.", "sources": ["degruchy", "belhar"]}
+  ],
+  "participants": [
+    {"name": "Beyers Naudé", "role": "Dutch Reformed minister who broke with apartheid and founded the Christian Institute"},
+    {"name": "Allan Boesak", "role": "Mission Church leader and president of the World Alliance of Reformed Churches (1982)"},
+    {"name": "Desmond Tutu", "role": "Anglican archbishop and critic of the church's support for apartheid"}
+  ],
+  "outcomes": [
+    {"text": "The Dutch Reformed Church began to reject apartheid from 1986 and confessed its guilt in the 1990 Rustenburg Declaration; it was readmitted to the world Reformed body in 1998.", "sources": ["degruchy", "britannica"]},
+    {"text": "The Mission Church and the Dutch Reformed Church in Africa united in 1994 as the Uniting Reformed Church; full reunion with the white Dutch Reformed Church has not been achieved.", "sources": ["degruchy", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "August 1982", "by": "World Alliance of Reformed Churches (Ottawa)", "authority": "World Alliance of Reformed Churches", "reason": "Apartheid declared a sin and its theological justification a heresy; the Dutch Reformed Church and the Nederduitsch Hervormde Kerk suspended", "status": "The Dutch Reformed Church was readmitted in 1998", "sources": ["degruchy", "britannica"]},
+    {"date": "1963", "by": "Dutch Reformed Church synod and Transvaal authorities", "authority": "Dutch Reformed Church", "reason": "Beyers Naudé required to choose between his church office and the Christian Institute; he lost his status as a minister when he refused to leave the Institute", "status": "Later honored by the church; he rejoined it in the 1980s through the Black Dutch Reformed Church in Africa", "sources": ["degruchy"]}
+  ],
+  "persecution_note": "The apartheid state persecuted church critics of apartheid, while the church itself supported the system for decades.",
+  "persecution": [
+    {"year": 1977, "date": "1963–1984", "title": "Persecution of Beyers Naudé and the Christian Institute", "summary": "Naudé was shunned and lost his ministry in the Dutch Reformed Church for founding the ecumenical, anti-apartheid Christian Institute (1963). In October 1977 the government banned the Institute and placed Naudé under a banning order restricting his movement, speech, and contacts for seven years.", "responsible": [
+      {"name": "South African government (B. J. Vorster)", "role": "Banned the Christian Institute and Naudé", "jurisdiction": "Republic of South Africa", "type": "state"},
+      {"name": "Dutch Reformed Church leadership", "role": "Forced Naudé out of the ministry", "jurisdiction": "Dutch Reformed Church in South Africa", "type": "church"}
+    ], "outcome": "Banning order lifted in 1984; Naudé succeeded Desmond Tutu as general secretary of the South African Council of Churches (1985).", "sources": ["degruchy", "britannica"]}
+  ],
+  "sources": [
+    {"id": "belhar", "type": "primary", "citation": "Confession of Belhar (draft 1982, adopted 1986), Dutch Reformed Mission Church in South Africa."},
+    {"id": "degruchy", "type": "scholarly", "citation": "John W. de Gruchy, The Church Struggle in South Africa, 25th anniversary ed. Minneapolis: Fortress Press, 2005."},
+    {"id": "elphick", "type": "scholarly", "citation": "Richard Elphick, The Equality of Believers: Protestant Missionaries and the Racial Politics of South Africa. Charlottesville: University of Virginia Press, 2012."},
+    {"id": "britannica", "type": "reference", "citation": "\"Dutch Reformed Church\" and \"Beyers Naudé.\" Encyclopaedia Britannica."}
+  ]
+}

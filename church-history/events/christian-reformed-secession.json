@@ -1,0 +1,108 @@
+{
+  "name": "Christian Reformed Secession of 1857",
+  "slug": "christian-reformed-secession",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The secession of Dutch immigrant congregations in Michigan from the Reformed Church in America, which founded the Christian Reformed Church in North America.",
+  "place": "West Michigan, United States",
+  "start": {
+    "year": 1850,
+    "date": "1850",
+    "label": "Van Raalte's Classis Holland joins the Reformed Protestant Dutch Church (now the RCA)",
+    "sources": [
+      "bratt",
+      "britannica"
+    ]
+  },
+  "end": {
+    "year": 1857,
+    "date": "April 1857",
+    "label": "Four congregations secede and form what becomes the Christian Reformed Church",
+    "sources": [
+      "bratt",
+      "britannica"
+    ]
+  },
+  "background": [
+    {
+      "text": "Seceders who emigrated from the Netherlands in 1846–47 under Albertus van Raalte joined the old Dutch Reformed church of the East in 1850, which had been in America since the 1620s.",
+      "sources": [
+        "bratt"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "Some immigrants objected that the eastern church sang hymns instead of only Psalms, practiced open communion, tolerated Freemasons, and had departed from the strict Reformed standards they had left the Netherlands to keep.",
+      "sources": [
+        "bratt",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In April 1857 congregations at Graafschap, Polkton, Noordeloos, and Grand Rapids seceded, forming the body later named the Christian Reformed Church.",
+      "sources": [
+        "bratt",
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Albertus van Raalte",
+      "role": "Leader who brought the Michigan churches into the RCA"
+    },
+    {
+      "name": "Gijsbert Haan",
+      "role": "Elder in Grand Rapids who led the secession"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "A second wave of congregations joined the CRC around 1882, after the RCA refused to bar Freemasons from membership.",
+      "sources": [
+        "bratt"
+      ]
+    },
+    {
+      "text": "The CRC grew through later Dutch immigration and founded Calvin College and Seminary (1876).",
+      "sources": [
+        "bratt",
+        "britannica"
+      ]
+    },
+    {
+      "text": "It split again in 1924, when Herman Hoeksema and others who rejected 'common grace' were deposed and formed the Protestant Reformed Churches, and in the 1990s, when conservatives opposed to women's ordination formed the United Reformed Churches (1996).",
+      "sources": [
+        "bratt",
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "1924–1925",
+      "by": "Christian Reformed Synod and Classis Grand Rapids East",
+      "authority": "Christian Reformed Church",
+      "reason": "Herman Hoeksema, Henry Danhof, and George Ophoff deposed for rejecting the synod's three points on common grace",
+      "status": "Never reversed; they founded the Protestant Reformed Churches",
+      "sources": [
+        "bratt"
+      ]
+    }
+  ],
+  "persecution_note": "No one was persecuted in the 1857 secession; it was a church division among immigrants.",
+  "persecution": [],
+  "sources": [
+    {
+      "id": "bratt",
+      "type": "scholarly",
+      "citation": "James D. Bratt, Dutch Calvinism in Modern America: A History of a Conservative Subculture. Grand Rapids: Eerdmans, 1984."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Christian Reformed Church in North America.\" Encyclopaedia Britannica."
+    }
+  ]
+}

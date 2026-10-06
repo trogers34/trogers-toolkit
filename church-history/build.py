@@ -28,7 +28,7 @@ EVENT_REQUIRED_FIELDS = ["name", "slug", "era", "event_type", "start", "summary"
 EVENT_TYPES = {
     "council": "Council", "schism": "Schism", "persecution": "Persecution", "massacre": "Massacre",
     "trial": "Trial", "war": "War", "revival": "Revival", "document": "Document",
-    "assembly": "Imperial assembly", "other": "Event",
+    "assembly": "Imperial assembly", "denomination": "Denomination", "other": "Event",
 }
 PARTY_TYPES = {"church": "Church", "state": "State", "individual": "Individual", "group": "Group"}
 SOURCE_TYPES = {"primary", "scholarly", "reference"}
@@ -268,6 +268,9 @@ def validate_event(event, file_stem, people_slugs=None):
             if not entry.get("text"):
                 errors.append(f"{key}[{i}] needs text")
             check_refs(f"{key}[{i}]", entry)
+
+    if event["event_type"] == "council" and not event.get("decisions"):
+        errors.append("a council needs 'decisions': a short note of what it agreed, especially dogmas")
 
     for i, part in enumerate(event.get("participants", [])):
         if not part.get("name") or not part.get("role"):
@@ -606,6 +609,8 @@ def render_event(event, people=()):
         rows += when_row("Ended", end)
     if event.get("place"):
         rows += f'<div><dt>Place</dt><dd>{esc(event["place"])}</dd></div>'
+    if event.get("decisions"):
+        rows += f'<div><dt>Agreed</dt><dd>{esc(event["decisions"])}</dd></div>'
 
     background = ""
     if event.get("background"):
@@ -832,22 +837,27 @@ def render_index(people, events=()):
         link = f'<a href="people/{esc(p["slug"])}.html">{esc(p["name"])}</a>'
         entries.append((p["born"]["year"], 0, p["name"], link, "Born", p["born"].get("circa", False), "life"))
         for kd in p["key_dates"]:
-            entries.append((kd["year"], 1, p["name"], link, kd["label"], kd.get("circa", False), "event"))
+            entries.append((kd["year"], 1, p["name"], link, esc(kd["label"]), kd.get("circa", False), "event"))
         entries.append((p["died"]["year"], 2, p["name"], link, "Died", p["died"].get("circa", False), "life"))
     for e in events:
         link = f'<span class="event-tag">Event</span><a href="events/{esc(e["slug"])}.html">{esc(e["name"])}</a>'
         end = e.get("end")
-        entries.append((e["start"]["year"], 1, e["name"], link, e["start"]["label"],
-                        e["start"].get("circa", False), "evt"))
-        for kd in e.get("key_dates", []):
-            entries.append((kd["year"], 1, e["name"], link, kd["label"], kd.get("circa", False), "evt"))
+        rows = [(e["start"]["year"], 1, e["name"], link, esc(e["start"]["label"]), e["start"].get("circa", False), "evt")]
         if end and end["year"] != e["start"]["year"]:
-            entries.append((end["year"], 1, e["name"], link, end["label"], end.get("circa", False), "evt"))
+            rows.append((end["year"], 1, e["name"], link, esc(end["label"]), end.get("circa", False), "evt"))
+        if e.get("decisions"):
+            # The council's (or document's) decisions go on its closing row.
+            year, order, name, link_html, label, circa, kind = rows[-1]
+            rows[-1] = (year, order, name, link_html,
+                        f'{label}<span class="agreed"><strong>Agreed:</strong> {esc(e["decisions"])}</span>', circa, kind)
+        entries.extend(rows)
+        for kd in e.get("key_dates", []):
+            entries.append((kd["year"], 1, e["name"], link, esc(kd["label"]), kd.get("circa", False), "evt"))
     entries.sort(key=lambda x: (x[0], x[1], x[2]))
 
     table_rows = "\n".join(
         f'<tr class="{kind}"><td class="year">{format_year(year, circa)}</td>'
-        f'<td>{link}</td><td>{esc(label)}</td></tr>'
+        f'<td>{link}</td><td>{label}</td></tr>'
         for year, _, _, link, label, circa, kind in entries
     )
 

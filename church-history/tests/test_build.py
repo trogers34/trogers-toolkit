@@ -35,6 +35,7 @@ VALID_EVENT = {
     "key_dates": [{"year": 325, "label": "Creed issued", "sources": ["s1"]}],
     "happened": [{"text": "Bishops met.", "sources": ["s1"]}],
     "outcomes": [{"text": "A creed.", "sources": ["s1"]}],
+    "decisions": "Agreed a creed.",
     "participants": [{"name": "Test Person", "role": "Attended", "person": "test-person"}],
     "sources": [{"id": "s1", "type": "primary", "citation": "Acts."}],
 }
@@ -240,6 +241,7 @@ class EventTest(unittest.TestCase):
         self.assertTrue(any("unknown person 'nobody'" in e
                             for e in self.errors_for(lambda e: e["participants"][0].update(person="nobody"))))
         self.assertIn("'outcomes' needs at least one item", self.errors_for(lambda e: e.update(outcomes=[])))
+        self.assertTrue(any("needs 'decisions'" in e for e in self.errors_for(lambda e: e.pop("decisions"))))
         self.assertTrue(any("'start' needs a 'label'" in e
                             for e in self.errors_for(lambda e: e["start"].pop("label"))))
 
@@ -252,6 +254,7 @@ class EventTest(unittest.TestCase):
         self.assertIn("Creed issued", index)
         self.assertIn("Council opens", index)
         self.assertNotIn(">Began<", index)
+        self.assertIn("Agreed:</strong> Agreed a creed.", index)
         self.assertIn('href="events/test-council.html"', index)
         page = build.render_person(person, [event])
         self.assertIn('<h2>Events</h2>', page)

@@ -1,0 +1,50 @@
+{
+  "name": "Prussian Union and the Old Lutherans",
+  "slug": "prussian-union",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "King Frederick William III's union of the Lutheran and Reformed churches of Prussia, and his government's persecution of the 'Old Lutherans' who refused it, many of whom emigrated to America and Australia.",
+  "place": "Kingdom of Prussia",
+  "start": {"year": 1817, "date": "27 September 1817", "label": "Frederick William III calls for a united Lutheran and Reformed church for the Reformation's 300th anniversary", "sources": ["clark", "gritsch"]},
+  "end": {"year": 1845, "date": "23 July 1845", "label": "Frederick William IV's 'General Concession' legally recognizes the Old Lutherans", "sources": ["clark", "gritsch"]},
+  "key_dates": [
+    {"year": 1830, "label": "King's new common liturgy (Agende) enforced at the 300th anniversary of the Augsburg Confession", "sources": ["clark"]},
+    {"year": 1834, "label": "Troops force open the church at Hönigern, Silesia, for the union liturgy (December)", "sources": ["clark"]},
+    {"year": 1838, "label": "Old Lutheran emigrations to Australia (1838) and the United States (1839) begin", "sources": ["gritsch", "granquist"]}
+  ],
+  "background": [
+    {"text": "The Hohenzollern kings were Reformed while most of their subjects were Lutheran; Frederick William III wanted one Protestant church and personally wrote much of its new liturgy.", "sources": ["clark", "gritsch"]}
+  ],
+  "happened": [
+    {"text": "The union began as voluntary in 1817, but the king's common liturgy (1822) was pressed on congregations, and from 1830 refusing it became a punishable offense.", "sources": ["clark"]},
+    {"text": "Led by Johann Gottfried Scheibel of Breslau, 'Old Lutherans' who insisted on the Lutheran confessions and liturgy refused; their pastors were suspended, fined, and jailed, and services were held in secret.", "sources": ["clark", "gritsch"]},
+    {"text": "Thousands emigrated: Pastor August Kavel led groups to South Australia from 1838, and Pastor J. A. A. Grabau led others to Buffalo, New York, in 1839.", "sources": ["gritsch", "granquist"]}
+  ],
+  "participants": [
+    {"name": "Frederick William III", "role": "King of Prussia who imposed the union"},
+    {"name": "Frederick William IV", "role": "King who ended the persecution (1840–45)"},
+    {"name": "Johann Gottfried Scheibel", "role": "Breslau theologian who led the resistance"},
+    {"name": "J. A. A. Grabau", "role": "Pastor imprisoned for resistance; founded the Buffalo Synod"},
+    {"name": "August Kavel", "role": "Pastor who led emigrants to South Australia"}
+  ],
+  "outcomes": [
+    {"text": "The emigrants helped found confessional Lutheran churches in America and Australia, and the controversy strengthened confessional Lutheranism, including the Missouri Synod.", "sources": ["granquist", "gritsch"]},
+    {"text": "The Evangelical Church of the Prussian Union lasted, in changing forms, until the 2000s; the Old Lutherans in Germany are part of today's Independent Evangelical-Lutheran Church (SELK).", "sources": ["gritsch", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1830s", "by": "Prussian consistories", "authority": "Evangelical Church in Prussia (under the king)", "reason": "Old Lutheran pastors, including Scheibel and Grabau, suspended or deposed for refusing the union liturgy", "status": "Ended by the 1845 General Concession", "sources": ["clark"]}
+  ],
+  "persecution": [
+    {"year": 1834, "date": "1830–1840", "title": "Suppression of the Old Lutherans", "summary": "Pastors who refused the union were removed, fined, and imprisoned; Grabau was jailed in 1837–38. In December 1834 soldiers forced open the church at Hönigern in Silesia and installed a union pastor; worshippers who resisted were beaten and soldiers quartered on them. Lay people who held secret services were fined and had property seized.", "responsible": [
+      {"name": "Frederick William III", "role": "King of Prussia", "jurisdiction": "Kingdom of Prussia", "type": "state"},
+      {"name": "Karl vom Stein zum Altenstein", "role": "Prussian minister of religious affairs", "jurisdiction": "Kingdom of Prussia", "type": "state"},
+      {"name": "Prussian consistories", "role": "Church authorities who enforced the union", "jurisdiction": "Evangelical Church in Prussia", "type": "church"}
+    ], "outcome": "Thousands emigrated; persecution ended after the king's death in 1840.", "sources": ["clark", "gritsch"]}
+  ],
+  "sources": [
+    {"id": "clark", "type": "scholarly", "citation": "Christopher Clark, \"Confessional Policy and the Limits of State Action: Frederick William III and the Prussian Church Union 1817–40,\" Historical Journal 39 (1996)."},
+    {"id": "gritsch", "type": "scholarly", "citation": "Eric W. Gritsch, A History of Lutheranism, 2nd ed. Minneapolis: Fortress Press, 2010."},
+    {"id": "granquist", "type": "scholarly", "citation": "Mark Granquist, Lutherans in America: A New History. Minneapolis: Fortress Press, 2015."},
+    {"id": "britannica", "type": "reference", "citation": "\"Old Lutherans\" and \"Prussian Union.\" Encyclopaedia Britannica."}
+  ]
+}

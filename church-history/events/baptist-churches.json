@@ -1,0 +1,67 @@
+{
+  "name": "Baptist Churches: Beginnings and Splits",
+  "slug": "baptist-churches",
+  "era": "Reformation",
+  "event_type": "denomination",
+  "summary": "How the Baptist churches began among English Separatists in exile in 1609 and divided over theology, missions, slavery, race, and the authority of Scripture.",
+  "place": "Amsterdam, England, and North America",
+  "start": {"year": 1609, "date": "1609", "label": "John Smyth baptizes himself and his English Separatist congregation in Amsterdam", "sources": ["mcbeth", "bebbington"]},
+  "end": {"year": 1991, "date": "1991", "label": "Moderates leave the Southern Baptist Convention to form the Cooperative Baptist Fellowship", "sources": ["bebbington", "britannica"]},
+  "key_dates": [
+    {"year": 1612, "label": "Thomas Helwys founds the first Baptist church in England and appeals for religious liberty", "sources": ["helwys", "mcbeth"]},
+    {"year": 1638, "label": "Roger Williams founds the first Baptist church in America at Providence", "sources": ["mcbeth", "britannica"]},
+    {"year": 1644, "label": "First London Confession of the Calvinistic (Particular) Baptists", "sources": ["mcbeth", "bebbington"]},
+    {"year": 1707, "label": "Philadelphia Baptist Association formed", "sources": ["mcbeth"]},
+    {"year": 1814, "label": "Triennial Convention organizes American Baptist foreign missions", "sources": ["mcbeth", "bebbington"]},
+    {"year": 1832, "label": "Black Rock Address: anti-mission (Primitive) Baptists separate", "sources": ["mcbeth"]},
+    {"year": 1845, "label": "Southern Baptist Convention formed over slavery", "sources": ["mcbeth", "britannica"]},
+    {"year": 1895, "label": "National Baptist Convention, U.S.A. unites Black Baptists", "sources": ["mcbeth", "britannica"]},
+    {"year": 1932, "label": "Fundamentalists leave the Northern Baptists to form the GARBC", "sources": ["mcbeth"]},
+    {"year": 1979, "label": "'Conservative Resurgence' begins in the Southern Baptist Convention", "sources": ["bebbington", "britannica"]}
+  ],
+  "background": [
+    {"text": "Baptists grew out of English Puritan Separatism. They are distinct in origin from the Continental Anabaptists of 1525, though Smyth's group had contact with Dutch Mennonites.", "sources": ["mcbeth", "bebbington"]}
+  ],
+  "happened": [
+    {"text": "John Smyth's congregation in Amsterdam adopted believers' baptism in 1609; Thomas Helwys led part of it back to London in 1612, forming the 'General Baptists', who held that Christ died for all.", "sources": ["mcbeth", "bebbington"]},
+    {"text": "Calvinistic 'Particular Baptists' arose in London in the 1630s, adopted immersion, and issued the London Confessions of 1644 and 1689.", "sources": ["mcbeth", "bebbington"]},
+    {"text": "In America Baptists were a persecuted minority until the Revolution, then grew rapidly in the Great Awakenings, especially in the South and among enslaved and free Black Americans.", "sources": ["mcbeth", "britannica"]},
+    {"text": "Disputes over mission societies, slavery, race, and liberal theology repeatedly divided Baptists, who have no central authority over local congregations.", "sources": ["bebbington", "britannica"]}
+  ],
+  "participants": [
+    {"name": "John Smyth", "role": "Founder of the first English Baptist congregation (Amsterdam)"},
+    {"name": "Thomas Helwys", "role": "Founder of the first Baptist church in England"},
+    {"name": "Roger Williams", "role": "Founder of Rhode Island and the first American Baptist church"},
+    {"name": "Charles Haddon Spurgeon", "role": "Leading 19th-century Particular Baptist preacher; left the Baptist Union in the Down-Grade Controversy (1887)", "person": "charles-spurgeon"},
+    {"name": "Billy Graham", "role": "Southern Baptist evangelist", "person": "billy-graham"}
+  ],
+  "outcomes": [
+    {"text": "Baptists became one of the largest Protestant families, with the Southern Baptist Convention the largest Protestant denomination in the United States.", "sources": ["bebbington", "britannica"]},
+    {"text": "Their early insistence on religious liberty and separation of church and state influenced the First Amendment and later democratic thought.", "sources": ["mcbeth", "bebbington"]}
+  ],
+  "condemnations_note": "Baptist congregations are independent, so divisions came by withdrawal and exclusion from associations rather than formal excommunication by a central body.",
+  "condemnations": [
+    {"date": "1887", "by": "Charles Haddon Spurgeon", "authority": "His own congregation (Metropolitan Tabernacle)", "reason": "Withdrew from the Baptist Union over its tolerance of liberal theology; the Union then censured him in 1888", "status": "Never reconciled", "sources": ["bebbington"]}
+  ],
+  "persecution_note": "Early Baptists were persecuted by both church and state in England and colonial America.",
+  "persecution": [
+    {"year": 1612, "date": "1612–c. 1616", "title": "Imprisonment of Thomas Helwys", "summary": "Helwys published A Short Declaration of the Mystery of Iniquity, the first English plea for full religious liberty, and sent a signed copy to King James I telling him he had no power over people's souls. He was imprisoned in Newgate and died there about 1616.", "responsible": [
+      {"name": "James I", "role": "King of England", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Died in prison.", "sources": ["helwys", "mcbeth"]},
+    {"year": 1660, "date": "1660–1672", "title": "Imprisonment of John Bunyan and Restoration penalties", "summary": "After the Restoration, laws against nonconformist worship were used against Baptists; the Baptist preacher John Bunyan spent about 12 years in Bedford jail for unlicensed preaching, where he wrote Grace Abounding.", "responsible": [
+      {"name": "Charles II's government and local magistrates", "role": "Enforced laws against unlicensed preaching", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Released in 1672 under the Declaration of Indulgence.", "sources": ["mcbeth", "britannica"]},
+    {"year": 1651, "date": "1651", "title": "Whipping of Obadiah Holmes in Boston", "summary": "Massachusetts authorities fined the Baptists John Clarke, Obadiah Holmes, and John Crandall for holding a service; Holmes refused to let his fine be paid and was publicly whipped with 30 lashes.", "responsible": [
+      {"name": "Massachusetts Bay Colony court", "role": "Sentenced him", "jurisdiction": "Massachusetts Bay Colony (Puritan establishment)", "type": "state"}
+    ], "outcome": "Whipped; John Clarke's account helped win toleration for Baptists in Rhode Island's charter (1663).", "sources": ["mcbeth"]},
+    {"year": 1771, "date": "1768–1776", "title": "Jailing of Baptist preachers in Virginia", "summary": "Some 30 or more Baptist preachers were jailed in Anglican Virginia for preaching without licenses, some preaching through the bars to crowds outside.", "responsible": [
+      {"name": "Virginia county courts and Anglican establishment", "role": "Prosecuted unlicensed preachers", "jurisdiction": "Colony of Virginia", "type": "state"}
+    ], "outcome": "Fed the campaign of James Madison and Thomas Jefferson for religious freedom (Virginia statute, 1786).", "sources": ["mcbeth", "bebbington"]}
+  ],
+  "sources": [
+    {"id": "helwys", "type": "primary", "citation": "Thomas Helwys, A Short Declaration of the Mystery of Iniquity (1612), ed. Richard Groves. Macon, GA: Mercer University Press, 1998."},
+    {"id": "mcbeth", "type": "scholarly", "citation": "H. Leon McBeth, The Baptist Heritage: Four Centuries of Baptist Witness. Nashville: Broadman Press, 1987."},
+    {"id": "bebbington", "type": "scholarly", "citation": "David W. Bebbington, Baptists through the Centuries: A History of a Global People. Waco, TX: Baylor University Press, 2010."},
+    {"id": "britannica", "type": "reference", "citation": "\"Baptist.\" Encyclopaedia Britannica."}
+  ]
+}

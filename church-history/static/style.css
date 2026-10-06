@@ -111,6 +111,7 @@ table.events { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
 .events td.year { white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600; }
 .events tr.life td { background: var(--life); }
 .events tr.evt td { background: var(--event-bg); }
+.events .agreed { display: block; margin-top: 0.25rem; font-size: 0.85rem; color: var(--muted); }
 .event-kind { color: var(--event); font-weight: 700; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; margin: 0; }
 .cards.event-cards a { border-left: 4px solid var(--event); }
 ul.participants { padding-left: 1.2rem; }

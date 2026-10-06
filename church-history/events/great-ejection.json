@@ -1,0 +1,41 @@
+{
+  "name": "Great Ejection of 1662",
+  "slug": "great-ejection",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The removal of about 2,000 Puritan ministers from the Church of England who would not accept the Act of Uniformity, which created English Nonconformity as a separate body of churches.",
+  "place": "England and Wales",
+  "start": {"year": 1662, "date": "19 May 1662", "label": "Act of Uniformity receives royal assent", "sources": ["watts", "britannica"]},
+  "end": {"year": 1662, "date": "24 August 1662 (St Bartholomew's Day)", "label": "Ministers who have not conformed are ejected from their livings", "sources": ["watts", "calamy"]},
+  "background": [
+    {"text": "After the Restoration of Charles II (1660), the Cavalier Parliament set out to restore the Church of England with bishops and the Prayer Book after two decades of Puritan rule.", "sources": ["watts", "britannica"]}
+  ],
+  "happened": [
+    {"text": "The Act required every minister to be ordained by a bishop, to declare 'unfeigned assent and consent' to everything in the revised 1662 Book of Common Prayer, and to renounce the Solemn League and Covenant, by St Bartholomew's Day 1662.", "sources": ["watts", "britannica"]},
+    {"text": "Including those removed since 1660, about 2,000 ministers, roughly a fifth of the clergy, lost their livings, among them Richard Baxter and Edmund Calamy.", "sources": ["calamy", "watts"]},
+    {"text": "The 'Clarendon Code' followed: the Conventicle Act (1664) banned unauthorized worship of more than five people, and the Five Mile Act (1665) barred ejected ministers from coming within five miles of their former parishes or any town.", "sources": ["watts", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Charles II", "role": "King, who had promised 'liberty to tender consciences' at Breda (1660)"},
+    {"name": "Edward Hyde, Earl of Clarendon", "role": "Lord Chancellor whose name was given to the code"},
+    {"name": "Gilbert Sheldon", "role": "Bishop of London, later archbishop of Canterbury; strong supporter of uniformity"},
+    {"name": "Richard Baxter", "role": "Leading Puritan minister ejected in 1662"}
+  ],
+  "outcomes": [
+    {"text": "The ejected ministers and their followers formed the Presbyterian, Congregational (Independent), and Baptist churches of English Nonconformity.", "sources": ["watts", "britannica"]},
+    {"text": "The Toleration Act of 1689 allowed Nonconformists to worship, but they were barred from universities and public office until the 19th century.", "sources": ["watts", "britannica"]}
+  ],
+  "persecution_note": "Thousands of Nonconformists were fined and imprisoned under the Clarendon Code between 1662 and 1689.",
+  "persecution": [
+    {"year": 1664, "date": "1662–1689", "title": "Prosecution of Nonconformists under the Clarendon Code", "summary": "Ejected ministers and lay Nonconformists were fined, had property seized, and were imprisoned for holding services; Quakers and Baptists suffered most. John Bunyan spent 12 years in Bedford jail, and Richard Baxter was jailed in 1685 after trial before Judge Jeffreys.", "responsible": [
+      {"name": "Charles II and the Cavalier Parliament", "role": "Passed the laws", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Justices of the peace and informers", "role": "Enforced the laws, informers receiving part of the fines", "jurisdiction": "England and Wales", "type": "state"},
+      {"name": "Gilbert Sheldon and other bishops", "role": "Pressed for enforcement", "jurisdiction": "Church of England", "type": "church"}
+    ], "outcome": "Ended by the Toleration Act of 1689.", "sources": ["watts", "britannica"]}
+  ],
+  "sources": [
+    {"id": "calamy", "type": "primary", "citation": "Edmund Calamy, An Account of the Ministers ... Who Were Ejected or Silenced after the Restoration in 1660 (1702); revised as A. G. Matthews, Calamy Revised. Oxford: Clarendon Press, 1934."},
+    {"id": "watts", "type": "scholarly", "citation": "Michael R. Watts, The Dissenters, vol. 1: From the Reformation to the French Revolution. Oxford: Clarendon Press, 1978."},
+    {"id": "britannica", "type": "reference", "citation": "\"Act of Uniformity\" and \"Clarendon Code.\" Encyclopaedia Britannica."}
+  ]
+}

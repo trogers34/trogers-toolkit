@@ -1,0 +1,35 @@
+{
+  "name": "Southern Baptist Split of 1845",
+  "slug": "southern-baptist-split",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The division of American Baptists when Southern Baptists, refused the right to appoint slaveholders as missionaries, formed the Southern Baptist Convention.",
+  "place": "Augusta, Georgia",
+  "start": {"year": 1844, "date": "1844", "label": "Northern-led mission boards refuse to appoint slaveholders as missionaries", "sources": ["mcbeth", "bebbington"]},
+  "end": {"year": 1845, "date": "8–12 May 1845", "label": "Southern Baptist Convention founded at Augusta, Georgia", "sources": ["mcbeth", "britannica"]},
+  "background": [
+    {"text": "Since 1814 Baptists North and South had cooperated through the Triennial Convention for foreign missions and the American Baptist Home Mission Society, while abolitionist feeling grew in the North.", "sources": ["mcbeth", "bebbington"]}
+  ],
+  "happened": [
+    {"text": "In 1844 Georgia Baptists tested the Home Mission Society by proposing a slaveholder, James E. Reeve, as a missionary; the society declined to act on the nomination.", "sources": ["mcbeth"]},
+    {"text": "The Alabama convention asked the foreign mission board whether it would appoint slaveholders; the board replied in December 1844 that it would not.", "sources": ["mcbeth", "bebbington"]},
+    {"text": "In May 1845 about 300 delegates from Southern states met at Augusta and formed the Southern Baptist Convention, electing William B. Johnson of South Carolina as president.", "sources": ["mcbeth", "britannica"]}
+  ],
+  "participants": [
+    {"name": "William B. Johnson", "role": "First president of the Southern Baptist Convention"},
+    {"name": "Francis Wayland", "role": "Northern Baptist leader who opposed slavery but regretted the split"}
+  ],
+  "outcomes": [
+    {"text": "The SBC grew into the largest Protestant denomination in the United States.", "sources": ["bebbington", "britannica"]},
+    {"text": "After emancipation, most Black Baptists in the South left white-led churches to form their own congregations and conventions.", "sources": ["mcbeth", "britannica"]},
+    {"text": "In 1995 the SBC adopted a resolution on racial reconciliation acknowledging that its founding was connected to slavery and apologizing to African Americans.", "sources": ["sbc-1995", "britannica"]}
+  ],
+  "persecution_note": "No one was persecuted by the split itself. The underlying issue was the enslavement of millions of Black Americans, which Southern Baptist leaders defended from Scripture at the time.",
+  "persecution": [],
+  "sources": [
+    {"id": "sbc-1995", "type": "primary", "citation": "Southern Baptist Convention, Resolution on Racial Reconciliation on the 150th Anniversary of the Southern Baptist Convention, Atlanta, June 1995."},
+    {"id": "mcbeth", "type": "scholarly", "citation": "H. Leon McBeth, The Baptist Heritage: Four Centuries of Baptist Witness. Nashville: Broadman Press, 1987."},
+    {"id": "bebbington", "type": "scholarly", "citation": "David W. Bebbington, Baptists through the Centuries: A History of a Global People. Waco, TX: Baylor University Press, 2010."},
+    {"id": "britannica", "type": "reference", "citation": "\"Southern Baptist Convention.\" Encyclopaedia Britannica."}
+  ]
+}

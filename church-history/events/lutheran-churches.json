@@ -1,0 +1,51 @@
+{
+  "name": "Lutheran Churches: Beginnings and Splits",
+  "slug": "lutheran-churches",
+  "era": "Reformation",
+  "event_type": "denomination",
+  "summary": "How the Lutheran churches took shape around the Augsburg Confession, became state churches in Germany and Scandinavia, and divided in Germany and America over union with the Reformed, confessional strictness, and liberal theology.",
+  "place": "Germany, Scandinavia, and North America",
+  "start": {"year": 1530, "date": "25 June 1530", "label": "Augsburg Confession presented to Emperor Charles V", "sources": ["kolb", "gritsch"]},
+  "end": {"year": 2010, "date": "August 2010", "label": "North American Lutheran Church formed by congregations leaving the ELCA", "sources": ["granquist"]},
+  "key_dates": [
+    {"year": 1555, "label": "Peace of Augsburg lets each prince choose Lutheran or Catholic faith", "sources": ["gritsch", "britannica"]},
+    {"year": 1577, "label": "Formula of Concord settles disputes among Lutherans (Book of Concord, 1580)", "sources": ["kolb", "gritsch"]},
+    {"year": 1817, "label": "Prussian Union merges Lutheran and Reformed churches", "sources": ["gritsch", "clark"]},
+    {"year": 1847, "label": "Lutheran Church–Missouri Synod founded", "sources": ["granquist", "britannica"]},
+    {"year": 1974, "label": "Seminex: faculty and students walk out of Concordia Seminary, St. Louis", "sources": ["granquist"]},
+    {"year": 1988, "label": "Evangelical Lutheran Church in America (ELCA) formed by merger", "sources": ["granquist", "britannica"]},
+    {"year": 2001, "label": "Lutheran Congregations in Mission for Christ (LCMC) formed", "sources": ["granquist"]}
+  ],
+  "background": [
+    {"text": "Luther's reform movement (from 1517) led princes and cities across Germany and Scandinavia to establish evangelical churches under their own authority.", "sources": ["gritsch", "britannica"]}
+  ],
+  "happened": [
+    {"text": "The Augsburg Confession (1530), written mainly by Philip Melanchthon, became the defining statement of Lutheran faith; after quarrels following Luther's death, the Formula of Concord (1577), partly written by Martin Chemnitz, united most Lutherans.", "sources": ["kolb", "gritsch"]},
+    {"text": "Lutheranism became the state religion of much of Germany and of the Scandinavian kingdoms.", "sources": ["gritsch", "britannica"]},
+    {"text": "In 1817 King Frederick William III of Prussia merged the Lutheran and Reformed churches, and confessional 'Old Lutherans' who resisted were persecuted and emigrated.", "sources": ["clark", "gritsch"]},
+    {"text": "In America, Lutheran immigrants formed many synods by language and theology, which merged and divided through the 20th century over biblical authority, fellowship, and later sexuality.", "sources": ["granquist", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Martin Luther", "role": "Reformer from whom the churches take their name", "person": "martin-luther"},
+    {"name": "Philip Melanchthon", "role": "Author of the Augsburg Confession"},
+    {"name": "Martin Chemnitz", "role": "A principal author of the Formula of Concord", "person": "martin-chemnitz"},
+    {"name": "C. F. W. Walther", "role": "First president of the Missouri Synod"}
+  ],
+  "outcomes": [
+    {"text": "Lutherans number tens of millions worldwide, with the Lutheran World Federation and the more conservative International Lutheran Council as the main bodies.", "sources": ["gritsch", "britannica"]},
+    {"text": "In 1999 the Lutheran World Federation and the Catholic Church signed the Joint Declaration on the Doctrine of Justification.", "sources": ["gritsch", "britannica"]}
+  ],
+  "persecution_note": "The main persecution within Lutheran history was the Prussian state's suppression of Old Lutherans (see the Prussian Union event). Lutheran rulers in turn suppressed Reformed, Anabaptist, and Catholic dissenters in their territories.",
+  "persecution": [
+    {"year": 1548, "date": "1548–1552", "title": "The Augsburg Interim", "summary": "After defeating the Lutheran princes, Charles V imposed the Augsburg Interim, restoring much Catholic practice; Lutheran pastors who refused it, perhaps several hundred, were removed, and Magdeburg resisted under siege.", "responsible": [
+      {"name": "Charles V", "role": "Holy Roman Emperor", "jurisdiction": "Holy Roman Empire", "type": "state"}
+    ], "outcome": "Ended by the Peace of Passau (1552) and Augsburg (1555).", "sources": ["gritsch", "britannica"]}
+  ],
+  "sources": [
+    {"id": "kolb", "type": "primary", "citation": "Robert Kolb and Timothy J. Wengert (eds.), The Book of Concord: The Confessions of the Evangelical Lutheran Church. Minneapolis: Fortress Press, 2000."},
+    {"id": "gritsch", "type": "scholarly", "citation": "Eric W. Gritsch, A History of Lutheranism, 2nd ed. Minneapolis: Fortress Press, 2010."},
+    {"id": "granquist", "type": "scholarly", "citation": "Mark Granquist, Lutherans in America: A New History. Minneapolis: Fortress Press, 2015."},
+    {"id": "clark", "type": "scholarly", "citation": "Christopher Clark, \"Confessional Policy and the Limits of State Action: Frederick William III and the Prussian Church Union 1817–40,\" Historical Journal 39 (1996)."},
+    {"id": "britannica", "type": "reference", "citation": "\"Lutheranism.\" Encyclopaedia Britannica."}
+  ]
+}

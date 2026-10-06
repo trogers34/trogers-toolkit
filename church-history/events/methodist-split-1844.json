@@ -1,0 +1,36 @@
+{
+  "name": "Methodist Split of 1844",
+  "slug": "methodist-split-1844",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The division of the Methodist Episcopal Church, then the largest American denomination, into Northern and Southern churches after its General Conference asked a slaveholding bishop to stop serving.",
+  "place": "New York and Louisville, Kentucky",
+  "start": {"year": 1844, "date": "May–June 1844", "label": "General Conference asks Bishop James O. Andrew, a slaveholder, to stop serving as bishop", "sources": ["mathews", "richey"]},
+  "end": {"year": 1845, "date": "May 1845", "label": "Methodist Episcopal Church, South, organized at Louisville", "sources": ["mathews", "britannica"]},
+  "background": [
+    {"text": "Wesley and early American Methodists condemned slavery, but the church relaxed its rules to grow in the South; abolitionists who pressed the issue, such as Orange Scott, were disciplined and in 1843 left to form the Wesleyan Methodist Connection.", "sources": ["mathews", "richey"]}
+  ],
+  "happened": [
+    {"text": "Bishop James O. Andrew of Georgia had become a slaveholder through inheritance and marriage. The 1844 General Conference voted 111 to 69 that he 'desist from the exercise of this office so long as this impediment remains'.", "sources": ["mathews", "richey"]},
+    {"text": "Southern delegates protested, and the conference adopted a Plan of Separation allowing the Southern conferences to form their own church.", "sources": ["mathews", "britannica"]},
+    {"text": "The Methodist Episcopal Church, South, was organized at Louisville in May 1845.", "sources": ["mathews", "britannica"]}
+  ],
+  "participants": [
+    {"name": "James O. Andrew", "role": "Slaveholding bishop at the center of the dispute"},
+    {"name": "Orange Scott", "role": "Abolitionist who founded the Wesleyan Methodist Connection (1843)"}
+  ],
+  "outcomes": [
+    {"text": "The Northern church repudiated the Plan of Separation in 1848, leading to a dispute over church property that the U.S. Supreme Court settled in the Southern church's favor in Smith v. Swormstedt (1854).", "sources": ["mathews", "richey"]},
+    {"text": "The split foreshadowed the Civil War. The churches reunited only in 1939, with Black Methodists placed in a separate, segregated Central Jurisdiction until 1968.", "sources": ["richey", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1 June 1844", "by": "General Conference of the Methodist Episcopal Church", "authority": "Methodist Episcopal Church", "reason": "Bishop James O. Andrew asked to desist from serving as bishop while he held slaves", "status": "Superseded when he joined the Southern church", "sources": ["mathews"]}
+  ],
+  "persecution_note": "No one was persecuted in the split itself; the issue was the enslavement of Black Americans, which Southern Methodists defended.",
+  "persecution": [],
+  "sources": [
+    {"id": "mathews", "type": "scholarly", "citation": "Donald G. Mathews, Slavery and Methodism: A Chapter in American Morality, 1780–1845. Princeton: Princeton University Press, 1965."},
+    {"id": "richey", "type": "scholarly", "citation": "Russell E. Richey, Kenneth E. Rowe, and Jean Miller Schmidt, The Methodist Experience in America: A History. Nashville: Abingdon Press, 2010."},
+    {"id": "britannica", "type": "reference", "citation": "\"Methodist Episcopal Church, South.\" Encyclopaedia Britannica."}
+  ]
+}

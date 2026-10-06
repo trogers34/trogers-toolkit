@@ -76,8 +76,8 @@ between `start` and `end`.
 | Field | Notes |
 |---|---|
 | `name`, `slug`, `also_known_as`, `era`, `summary` | as for people |
-| `event_type` | `council`, `schism`, `persecution`, `massacre`, `trial`, `war`, `revival`, `document`, `assembly`, `other` |
-| `start` / `end` | `year`, `date`, `sources`, optional `circa`. `end` is optional for one-day events |
+| `event_type` | `council`, `schism`, `persecution`, `massacre`, `trial`, `war`, `revival`, `document`, `assembly`, `denomination` (a church's beginnings and splits), `other` |
+| `start` / `end` | `year`, `date`, `label` (short summary of what happened then; required), `sources`, optional `circa`. `end` is optional for one-day events |
 | `place` | optional |
 | `background`, `happened`, `outcomes` | bullet lists of `text` and `sources`; `happened` and `outcomes` are required |
 | `participants` | optional. `name`, `role`, and `person` (a person's slug) to link both pages |

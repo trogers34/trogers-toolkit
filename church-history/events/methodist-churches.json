@@ -1,0 +1,55 @@
+{
+  "name": "Methodist Churches: Beginnings and Splits",
+  "slug": "methodist-churches",
+  "era": "Modern",
+  "event_type": "denomination",
+  "summary": "How Methodism grew from the Wesleys' Oxford Holy Club into separate churches in Britain and America, and divided over race, church government, slavery, holiness, and sexuality.",
+  "place": "England and the United States, then worldwide",
+  "start": {"year": 1729, "date": "1729", "label": "Charles and John Wesley's Holy Club at Oxford, mocked as 'Methodists'", "sources": ["rack", "hempton"]},
+  "end": {"year": 2023, "date": "2019–2023", "label": "About a quarter of U.S. United Methodist congregations leave over sexuality", "sources": ["richey", "britannica"]},
+  "key_dates": [
+    {"year": 1738, "label": "Aldersgate: John Wesley's heart 'strangely warmed'", "sources": ["rack"]},
+    {"year": 1744, "label": "First Methodist Conference", "sources": ["rack", "hempton"]},
+    {"year": 1784, "label": "Christmas Conference founds the Methodist Episcopal Church in Baltimore", "sources": ["richey", "britannica"]},
+    {"year": 1795, "label": "British Methodists begin giving communion themselves, separating from the Church of England", "sources": ["hempton"]},
+    {"year": 1816, "label": "Richard Allen founds the African Methodist Episcopal Church", "sources": ["richey", "britannica"]},
+    {"year": 1830, "label": "Methodist Protestant Church separates over bishops' power", "sources": ["richey"]},
+    {"year": 1844, "label": "Methodist Episcopal Church splits North and South over slavery", "sources": ["richey", "britannica"]},
+    {"year": 1860, "label": "Free Methodist Church founded", "sources": ["richey"]},
+    {"year": 1908, "label": "Holiness churches unite as the Church of the Nazarene", "sources": ["richey", "britannica"]},
+    {"year": 1939, "label": "Northern, Southern, and Methodist Protestant churches reunite with a segregated 'Central Jurisdiction'", "sources": ["richey", "britannica"]},
+    {"year": 1968, "label": "United Methodist Church formed; Central Jurisdiction abolished", "sources": ["richey", "britannica"]},
+    {"year": 2022, "label": "Global Methodist Church launched (1 May)", "sources": ["britannica"]}
+  ],
+  "background": [
+    {"text": "Methodism began as a renewal movement inside the Church of England, with societies, classes, and lay preachers organized by John Wesley.", "sources": ["rack", "hempton"]}
+  ],
+  "happened": [
+    {"text": "After the American Revolution, Wesley ordained preachers for America, and the 1784 Christmas Conference founded the Methodist Episcopal Church under Francis Asbury and Thomas Coke.", "sources": ["richey", "rack"]},
+    {"text": "Black Methodists, facing segregation in white churches, founded the African Methodist Episcopal (1816) and AME Zion (1821) churches.", "sources": ["richey", "britannica"]},
+    {"text": "Splits followed over lay representation and bishops (1830), slavery (1843–44), and holiness teaching (1860s–1900s); British Methodism also divided and reunited in 1932.", "sources": ["richey", "hempton"]},
+    {"text": "The United Methodist Church's long dispute over homosexuality ended in mass departures (2019–23) and the removal of its restrictions in 2024.", "sources": ["britannica"]}
+  ],
+  "participants": [
+    {"name": "John Wesley", "role": "Founder of Methodism", "person": "john-wesley"},
+    {"name": "Charles Wesley", "role": "Co-founder and hymn writer", "person": "charles-wesley"},
+    {"name": "George Whitefield", "role": "Leader of Calvinistic Methodism", "person": "george-whitefield"},
+    {"name": "Francis Asbury", "role": "First bishop of American Methodism"},
+    {"name": "Richard Allen", "role": "Founder of the AME Church"}
+  ],
+  "outcomes": [
+    {"text": "Methodist and Wesleyan churches, including Holiness and (indirectly) Pentecostal churches that grew from them, have tens of millions of members worldwide.", "sources": ["hempton", "britannica"]}
+  ],
+  "persecution_note": "Early Methodists faced mobs in Britain (see the Wesleys' and Whitefield's pages). In America Black Methodists faced discrimination within the church itself.",
+  "persecution": [
+    {"year": 1792, "date": "c. 1787–1792", "title": "Black worshippers pulled from prayer at St. George's, Philadelphia", "summary": "At St. George's Methodist Church, white trustees pulled Absalom Jones and other Black worshippers from their knees during prayer for sitting in a section reserved for whites; Richard Allen, Jones, and others walked out, a step toward the founding of the AME Church and St. Thomas African Episcopal Church.", "responsible": [
+      {"name": "White trustees of St. George's Methodist Church", "role": "Enforced segregated seating", "jurisdiction": "Methodist Episcopal Church, Philadelphia", "type": "church"}
+    ], "outcome": "Allen founded Bethel Church (1794) and the AME denomination (1816).", "sources": ["richey", "britannica"]}
+  ],
+  "sources": [
+    {"id": "rack", "type": "scholarly", "citation": "Henry D. Rack, Reasonable Enthusiast: John Wesley and the Rise of Methodism. London: Epworth Press, 1989."},
+    {"id": "hempton", "type": "scholarly", "citation": "David Hempton, Methodism: Empire of the Spirit. New Haven: Yale University Press, 2005."},
+    {"id": "richey", "type": "scholarly", "citation": "Russell E. Richey, Kenneth E. Rowe, and Jean Miller Schmidt, The Methodist Experience in America: A History. Nashville: Abingdon Press, 2010."},
+    {"id": "britannica", "type": "reference", "citation": "\"Methodism\" and \"United Methodist Church.\" Encyclopaedia Britannica."}
+  ]
+}

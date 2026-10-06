@@ -1,0 +1,61 @@
+{
+  "name": "Charles Wesley",
+  "slug": "charles-wesley",
+  "era": "Modern",
+  "role": "Anglican priest, Methodist preacher, and hymn writer",
+  "born": {"year": 1707, "date": "18 December 1707 (Old Style)", "place": "Epworth, Lincolnshire, England", "sources": ["tyson", "britannica"]},
+  "died": {"year": 1788, "date": "29 March 1788", "place": "London, England", "sources": ["tyson", "britannica"]},
+  "summary": "Younger brother of John Wesley and co-founder of Methodism, who wrote thousands of hymns, many still sung across the world's churches.",
+  "key_dates": [
+    {"year": 1729, "label": "Forms the Oxford \"Holy Club\" that John later leads", "sources": ["tyson", "britannica"]},
+    {"year": 1735, "label": "Ordained deacon and priest; sails to Georgia as secretary to James Oglethorpe (returns 1736)", "sources": ["journal", "tyson"]},
+    {"year": 1738, "label": "Evangelical conversion on Whitsunday, 21 May, three days before John's", "sources": ["journal", "tyson"]},
+    {"year": 1739, "label": "Hymns and Sacred Poems, with \"Hark how all the welkin rings\" and \"Christ the Lord is risen today\"; begins field preaching", "sources": ["tyson", "lloyd"]},
+    {"year": 1749, "label": "Marries Sarah Gwynne (8 April); intervenes to stop John's marriage to Grace Murray", "sources": ["tyson", "lloyd"]},
+    {"year": 1756, "label": "Ends regular itinerant preaching and settles in Bristol", "sources": ["lloyd", "britannica"]},
+    {"year": 1784, "label": "Protests John's ordination of preachers for America", "sources": ["lloyd", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote more than 6,000 hymns and sacred poems, by most counts the largest body of hymns by any English writer.", "sources": ["tyson", "britannica"]},
+    {"text": "Wrote hymns still widely sung, including \"Hark! the Herald Angels Sing\", \"Christ the Lord Is Risen Today\", \"O for a Thousand Tongues to Sing\", \"And Can It Be\", \"Jesus, Lover of My Soul\", and \"Love Divine, All Loves Excelling\".", "sources": ["tyson", "britannica"]},
+    {"text": "Started the small Oxford group of students devoted to prayer, study, and charity that was mocked as the \"Holy Club\" and \"Methodists\".", "sources": ["tyson", "britannica"]},
+    {"text": "Preached across England, Wales, and Ireland as one of the first Methodist field preachers from 1739 until the mid-1750s.", "sources": ["journal", "tyson"]},
+    {"text": "Used hymns to teach Methodist doctrine, especially salvation by grace through faith, assurance, and holiness; John called the 1780 Collection of Hymns 'a little body of experimental and practical divinity'.", "sources": ["tyson", "lloyd"]},
+    {"text": "Insisted that Methodists stay within the Church of England, opposing lay preachers giving communion and John's 1784 ordinations; he wrote a satirical verse asking, of John and Thomas Coke, 'But who laid hands on him?'", "sources": ["lloyd", "britannica"]},
+    {"text": "In 1749 rode to intervene when John planned to marry the widow Grace Murray, and hurried her marriage to the preacher John Bennet; the episode caused a lasting rift between the brothers.", "sources": ["tyson", "lloyd"]},
+    {"text": "Remained a priest of the Church of England and asked to be buried in his parish churchyard at Marylebone rather than in John's Methodist chapel.", "sources": ["lloyd", "britannica"]}
+  ],
+  "sayings_intro": "A selection. Only a handful of his thousands of hymn lines are listed.",
+  "sayings": {
+    "original": [
+      {"phrase": "Love divine, all loves excelling, joy of heaven, to earth come down", "reference": "Hymns for Those That Seek, and Those That Have Redemption (1747)", "sources": ["tyson"]},
+      {"phrase": "Amazing love! How can it be that thou, my God, shouldst die for me?", "reference": "\"And Can It Be\" (1738)", "sources": ["tyson"]},
+      {"phrase": "Hark! how all the welkin rings, glory to the King of kings", "reference": "Hymns and Sacred Poems (1739)", "note": "His original opening line; see the misattributed entry below for the familiar version.", "sources": ["tyson", "britannica"]}
+    ],
+    "popularized": [
+      {"phrase": "O for a thousand tongues to sing", "reference": "Hymn written for the first anniversary of his conversion (1739)", "note": "He took the idea from the Moravian Peter Böhler's remark 'Had I a thousand tongues, I would praise him with them all.'", "sources": ["tyson"]}
+    ],
+    "misattributed": [
+      {"phrase": "Hark! the herald angels sing, 'Glory to the newborn King!'", "reference": "George Whitefield's 1753 hymnbook", "note": "Usually credited to Charles Wesley alone, but the opening as now sung is George Whitefield's 1753 revision of Charles's 'Hark how all the welkin rings'. The tune by Felix Mendelssohn was added in the 1850s.", "sources": ["tyson", "britannica"]}
+    ]
+  },
+  "persecution_note": "Charles Wesley was never imprisoned or executed. Like other early Methodist preachers he was shut out of many Church of England pulpits, attacked by mobs, and once accused of disloyalty to the crown.",
+  "persecution": [
+    {"year": 1744, "date": "March 1744", "title": "Accused of praying for the Stuart pretender", "summary": "During the Jacobite invasion scare of 1744, witnesses claimed that Charles had prayed in Yorkshire for the return of the exiled Stuarts, after he prayed for the Lord to 'call home his banished ones'. He was summoned before the magistrates at Wakefield, explained that he meant sinners, not the Stuarts, and was cleared.", "responsible": [
+      {"name": "Justices of the peace at Wakefield", "role": "Heard the accusation", "jurisdiction": "West Riding of Yorkshire, Kingdom of Great Britain", "type": "state"},
+      {"name": "Local accusers", "role": "Made the complaint", "jurisdiction": "Yorkshire", "type": "group"}
+    ], "outcome": "Cleared.", "sources": ["journal", "tyson"]},
+    {"year": 1747, "date": "February 1747", "title": "Mob attack at Devizes", "summary": "When Charles came to preach in Devizes, Wiltshire, a mob besieged the house where he was staying, sprayed it with water from the town fire engine, and attacked his horses. His journal says the local curate and some leading townsmen encouraged the mob.", "responsible": [
+      {"name": "Crowd at Devizes", "role": "Attacked the house", "jurisdiction": "Devizes, Wiltshire", "type": "group"},
+      {"name": "Curate of Devizes and leading townsmen", "role": "Encouraged the mob, according to Charles's journal", "jurisdiction": "Church of England / town of Devizes", "type": "church"}
+    ], "outcome": "Charles and his companion escaped unhurt.", "sources": ["journal", "tyson"]}
+  ],
+  "excommunication_note": "Charles Wesley was never excommunicated or formally disciplined by the Church of England, and he died a priest of that church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "journal", "type": "primary", "citation": "Charles Wesley, The Manuscript Journal of the Reverend Charles Wesley, M.A., ed. S T Kimbrough Jr. and Kenneth G. C. Newport, 2 vols. Nashville: Kingswood Books, 2008."},
+    {"id": "tyson", "type": "scholarly", "citation": "John R. Tyson, Assist Me to Proclaim: The Life and Hymns of Charles Wesley. Grand Rapids: Eerdmans, 2007."},
+    {"id": "lloyd", "type": "scholarly", "citation": "Gareth Lloyd, Charles Wesley and the Struggle for Methodist Identity. Oxford: Oxford University Press, 2007."},
+    {"id": "britannica", "type": "reference", "citation": "\"Charles Wesley.\" Encyclopaedia Britannica."}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Stone-Campbell Movement",
+  "slug": "stone-campbell-movement",
+  "also_known_as": "Restoration Movement; American Restoration Movement",
+  "era": "Modern",
+  "event_type": "other",
+  "summary": "The American movement to restore New Testament Christianity without creeds, led by Barton W. Stone and Thomas and Alexander Campbell, which produced the Churches of Christ, the Christian Church (Disciples of Christ), and the independent Christian Churches.",
+  "place": "Kentucky, Pennsylvania, Virginia (now West Virginia), and the American frontier",
+  "start": {"year": 1804, "date": "28 June 1804", "label": "Barton Stone's group dissolves the Springfield Presbytery to be 'Christians only'", "sources": ["last-will", "foster"]},
+  "end": {"year": 1832, "date": "1 January 1832", "label": "Stone's Christians and Campbell's Disciples unite at Lexington, Kentucky", "sources": ["foster", "garrett"]},
+  "key_dates": [
+    {"year": 1809, "label": "Thomas Campbell's Declaration and Address", "sources": ["declaration", "foster"]},
+    {"year": 1815, "label": "The Campbells' Brush Run church joins the Redstone Baptist Association", "sources": ["foster", "garrett"]},
+    {"year": 1823, "label": "Alexander Campbell begins The Christian Baptist", "sources": ["foster"]},
+    {"year": 1830, "label": "Campbell's 'Reformers' separate from the Baptists; the Millennial Harbinger begins", "sources": ["foster", "garrett"]}
+  ],
+  "background": [
+    {"text": "Barton W. Stone, a Presbyterian minister, hosted the Cane Ridge revival (1801); he and others who preached free salvation for all were censured by the Synod of Kentucky and formed their own Springfield Presbytery (1803).", "sources": ["foster", "conkin"]},
+    {"text": "Thomas Campbell, a Seceder Presbyterian minister from Ireland, was censured in Pennsylvania (1807) for giving communion to Presbyterians of other branches; he and his son Alexander called for Christian unity on the Bible alone.", "sources": ["foster", "garrett"]}
+  ],
+  "happened": [
+    {"text": "In The Last Will and Testament of the Springfield Presbytery (1804), Stone's group dissolved their presbytery 'to sink into union with the Body of Christ at large' and called themselves simply Christians.", "sources": ["last-will", "foster"]},
+    {"text": "Thomas Campbell's Declaration and Address (1809) argued that 'the church of Christ upon earth is essentially, intentionally, and constitutionally one' and that nothing should be required of Christians that the Bible does not expressly teach.", "sources": ["declaration", "foster"]},
+    {"text": "The Campbells adopted believers' baptism by immersion (1812), taught weekly communion and the independence of congregations, and Alexander Campbell became a leading debater and editor.", "sources": ["foster", "garrett"]},
+    {"text": "Stone's and Campbell's followers united in 1832, sealed by a handshake between 'Raccoon' John Smith and Stone at Lexington, Kentucky.", "sources": ["foster", "garrett"]}
+  ],
+  "participants": [
+    {"name": "Barton W. Stone", "role": "Founder of the 'Christian' churches in Kentucky"},
+    {"name": "Thomas Campbell", "role": "Author of the Declaration and Address"},
+    {"name": "Alexander Campbell", "role": "Leading preacher, editor, and founder of Bethany College (1840)"},
+    {"name": "Walter Scott", "role": "Evangelist who taught a 'five-finger' plan of salvation"},
+    {"name": "'Raccoon' John Smith", "role": "Preacher who helped unite the two groups"}
+  ],
+  "outcomes": [
+    {"text": "Disputes over instrumental music in worship and missionary societies divided the movement; the U.S. religious census of 1906 listed the a cappella Churches of Christ separately from the Disciples of Christ.", "sources": ["hughes", "foster"]},
+    {"text": "A second division followed in the 20th century, when congregations opposed to the Disciples' liberal theology and 1968 restructuring formed the independent Christian Churches and Churches of Christ.", "sources": ["foster", "britannica"]},
+    {"text": "The three branches together have millions of members, mostly in the United States.", "sources": ["foster", "britannica"]}
+  ],
+  "condemnations_note": "The movement's founders were censured by the churches they came from, though not excommunicated in the strict sense.",
+  "condemnations": [
+    {"date": "1803", "by": "Synod of Kentucky", "authority": "Presbyterian Church in the U.S.A.", "reason": "Richard McNemar and John Thompson censured for preaching against Calvinist doctrine; Stone and three others withdrew with them and were suspended", "status": "Not reversed", "sources": ["foster", "conkin"]},
+    {"date": "1807", "by": "Presbytery of Chartiers", "authority": "Associate (Seceder) Synod of North America", "reason": "Thomas Campbell censured for giving communion to Presbyterians outside his branch", "status": "Campbell withdrew from the synod in 1808", "sources": ["foster", "garrett"]},
+    {"date": "1827–1830", "by": "Baptist associations, including the Dover Association of Virginia (1830)", "authority": "Regular Baptist associations", "reason": "Churches and preachers following Alexander Campbell ('Reformers') excluded", "status": "Not reversed", "sources": ["foster"]}
+  ],
+  "persecution_note": "No members of the movement were arrested or executed for their faith; opposition took the form of church censures and exclusion.",
+  "persecution": [],
+  "sources": [
+    {"id": "last-will", "type": "primary", "citation": "The Last Will and Testament of the Springfield Presbytery (1804)."},
+    {"id": "declaration", "type": "primary", "citation": "Thomas Campbell, Declaration and Address of the Christian Association of Washington. Washington, PA: Brown & Sample, 1809."},
+    {"id": "foster", "type": "reference", "citation": "Douglas A. Foster, Paul M. Blowers, Anthony L. Dunnavant, and D. Newell Williams (eds.), The Encyclopedia of the Stone-Campbell Movement. Grand Rapids: Eerdmans, 2004."},
+    {"id": "garrett", "type": "scholarly", "citation": "Leroy Garrett, The Stone-Campbell Movement: The Story of the American Restoration Movement, rev. ed. Joplin, MO: College Press, 1994."},
+    {"id": "hughes", "type": "scholarly", "citation": "Richard T. Hughes, Reviving the Ancient Faith: The Story of Churches of Christ in America. Grand Rapids: Eerdmans, 1996."},
+    {"id": "conkin", "type": "scholarly", "citation": "Paul K. Conkin, Cane Ridge: America's Pentecost. Madison: University of Wisconsin Press, 1990."},
+    {"id": "britannica", "type": "reference", "citation": "\"Disciples of Christ\" and \"Churches of Christ.\" Encyclopaedia Britannica."}
+  ]
+}

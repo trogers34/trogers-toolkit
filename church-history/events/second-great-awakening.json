@@ -1,0 +1,58 @@
+{
+  "name": "Second Great Awakening",
+  "slug": "second-great-awakening",
+  "era": "Modern",
+  "event_type": "revival",
+  "summary": "The wave of American revivals from about 1790 to the 1840s, from frontier camp meetings to Charles Finney's urban campaigns, which made the United States heavily evangelical, fueled reform movements, and produced new religious movements.",
+  "place": "United States",
+  "start": {"year": 1790, "circa": true, "date": "c. 1790s", "label": "Revivals begin in New England colleges and on the frontier", "sources": ["hatch", "britannica"]},
+  "end": {"year": 1844, "circa": true, "date": "c. 1840s", "label": "Revival era wanes; Millerites' 'Great Disappointment' and denominational splits over slavery", "sources": ["hatch", "britannica"]},
+  "key_dates": [
+    {"year": 1801, "label": "Cane Ridge camp meeting in Kentucky draws thousands (August)", "sources": ["conkin", "hatch"]},
+    {"year": 1816, "label": "Richard Allen founds the African Methodist Episcopal Church", "sources": ["hatch", "britannica"]},
+    {"year": 1826, "label": "American Temperance Society founded", "sources": ["britannica"]},
+    {"year": 1830, "label": "Finney's Rochester revival; Joseph Smith founds the Church of Christ (Latter Day Saints)", "sources": ["johnson", "bushman"]},
+    {"year": 1838, "label": "Missouri's 'extermination order' against the Latter Day Saints", "sources": ["bushman"]}
+  ],
+  "background": [
+    {"text": "After the Revolution, church membership was low, the frontier was expanding, and disestablishment left churches to compete for members.", "sources": ["hatch", "britannica"]}
+  ],
+  "happened": [
+    {"text": "Revivals began at Yale under Timothy Dwight and on the Kentucky and Tennessee frontier under James McGready; the Cane Ridge camp meeting of August 1801, hosted by Barton W. Stone, drew perhaps 10,000–20,000 people.", "sources": ["conkin", "hatch"]},
+    {"text": "Methodist circuit riders and Baptist farmer-preachers carried the revival west; Methodists grew from a small sect to the largest American denomination by the 1840s.", "sources": ["hatch", "britannica"]},
+    {"text": "Charles Finney's revivals in the 'burned-over district' of western New York and in the cities (1824–1830s) used 'new measures' and taught that conversion was a matter of choice.", "sources": ["johnson", "hatch"]},
+    {"text": "Revival energy fed voluntary societies for missions (1810), Bibles (1816), temperance (1826), Sunday schools, and the abolition of slavery.", "sources": ["hatch", "britannica"]},
+    {"text": "New movements arose, including the Stone-Campbell movement, the Latter Day Saints (1830), and William Miller's Adventists, whose predicted return of Christ on 22 October 1844 became the 'Great Disappointment'.", "sources": ["hatch", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Charles Finney", "role": "Leading revivalist of the later awakening", "person": "charles-finney"},
+    {"name": "Barton W. Stone", "role": "Presbyterian minister who hosted Cane Ridge"},
+    {"name": "Francis Asbury", "role": "Methodist bishop who organized the circuit riders"},
+    {"name": "Lyman Beecher", "role": "Congregationalist revivalist and reformer"},
+    {"name": "Richard Allen", "role": "Founder of the African Methodist Episcopal Church"},
+    {"name": "Joseph Smith", "role": "Founder of the Latter Day Saint movement"}
+  ],
+  "outcomes": [
+    {"text": "Evangelical Protestantism became the dominant religious culture of the United States; Methodists and Baptists became the largest denominations.", "sources": ["hatch", "britannica"]},
+    {"text": "The reform movements it inspired, especially abolitionism, helped bring on the splits of the Methodist (1844) and Baptist (1845) churches into Northern and Southern bodies.", "sources": ["hatch", "britannica"]},
+    {"text": "Black churches such as the AME Church grew into independent institutions.", "sources": ["hatch"]}
+  ],
+  "persecution_note": "The revival era was also one of religious violence in America, especially against Catholics and the new Latter Day Saint movement.",
+  "persecution": [
+    {"year": 1834, "date": "11 August 1834", "title": "Burning of the Ursuline convent at Charlestown", "summary": "After anti-Catholic sermons and rumors, including some by Lyman Beecher in Boston, a Protestant mob burned the Ursuline convent school in Charlestown, Massachusetts; the nuns and students escaped.", "responsible": [
+      {"name": "Protestant mob of Charlestown and Boston", "role": "Burned the convent", "jurisdiction": "Massachusetts", "type": "group"}
+    ], "outcome": "Only one rioter was convicted, and he was pardoned.", "sources": ["britannica"]},
+    {"year": 1838, "date": "1838–1844", "title": "Violence against the Latter Day Saints", "summary": "Missouri Governor Lilburn Boggs ordered on 27 October 1838 that the Mormons be 'exterminated or driven from the State'; three days later militia killed 17 at Haun's Mill. In 1844 a mob killed Joseph Smith and his brother Hyrum in the jail at Carthage, Illinois.", "responsible": [
+      {"name": "Lilburn Boggs", "role": "Governor of Missouri; issued Executive Order 44", "jurisdiction": "State of Missouri", "type": "state"},
+      {"name": "Missouri militia", "role": "Carried out the Haun's Mill killings", "jurisdiction": "State of Missouri", "type": "state"},
+      {"name": "Mob at Carthage, Illinois", "role": "Killed Joseph and Hyrum Smith", "jurisdiction": "Illinois", "type": "group"}
+    ], "outcome": "The Latter Day Saints were driven from Missouri and later Illinois; Missouri rescinded the order in 1976.", "sources": ["bushman", "britannica"]}
+  ],
+  "sources": [
+    {"id": "hatch", "type": "scholarly", "citation": "Nathan O. Hatch, The Democratization of American Christianity. New Haven: Yale University Press, 1989."},
+    {"id": "conkin", "type": "scholarly", "citation": "Paul K. Conkin, Cane Ridge: America's Pentecost. Madison: University of Wisconsin Press, 1990."},
+    {"id": "johnson", "type": "scholarly", "citation": "Paul E. Johnson, A Shopkeeper's Millennium: Society and Revivals in Rochester, New York, 1815–1837. New York: Hill and Wang, 1978."},
+    {"id": "bushman", "type": "scholarly", "citation": "Richard Lyman Bushman, Joseph Smith: Rough Stone Rolling. New York: Alfred A. Knopf, 2005."},
+    {"id": "britannica", "type": "reference", "citation": "\"Second Great Awakening.\" Encyclopaedia Britannica."}
+  ]
+}

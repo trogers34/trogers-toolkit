@@ -1,0 +1,44 @@
+{
+  "name": "Charles Grandison Finney",
+  "slug": "charles-finney",
+  "era": "Modern",
+  "role": "American revivalist, theologian, and president of Oberlin College",
+  "born": {"year": 1792, "date": "29 August 1792", "place": "Warren, Connecticut", "sources": ["hambrick-stowe", "britannica"]},
+  "died": {"year": 1875, "date": "16 August 1875", "place": "Oberlin, Ohio", "sources": ["hambrick-stowe", "britannica"]},
+  "summary": "Lawyer turned revivalist whose 'new measures' and teaching that revival is the result of using the right means made him the leading evangelist of the Second Great Awakening.",
+  "key_dates": [
+    {"year": 1821, "label": "Conversion in the woods near Adams, New York (10 October)", "sources": ["memoirs", "hambrick-stowe"]},
+    {"year": 1824, "label": "Ordained by the St. Lawrence Presbytery; marries Lydia Andrews", "sources": ["memoirs", "hambrick-stowe"]},
+    {"year": 1827, "label": "New Lebanon Convention with critics of his methods, including Lyman Beecher", "sources": ["hambrick-stowe", "johnson"]},
+    {"year": 1830, "label": "Rochester revival (1830–31), his most famous campaign", "sources": ["johnson", "memoirs"]},
+    {"year": 1835, "label": "Lectures on Revivals of Religion; becomes professor of theology at Oberlin", "sources": ["lectures", "hambrick-stowe"]},
+    {"year": 1836, "label": "Leaves the Presbyterian Church for Congregationalism; Broadway Tabernacle opens", "sources": ["hambrick-stowe", "britannica"]},
+    {"year": 1851, "label": "Becomes president of Oberlin College (to 1866)", "sources": ["hambrick-stowe", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Led revivals across upstate New York's 'burned-over district' and in eastern cities from 1824, including a 1830–31 campaign in Rochester that drew hundreds into the churches.", "sources": ["johnson", "memoirs"]},
+    {"text": "Used 'new measures' such as the 'anxious bench' for those under conviction, protracted nightly meetings, direct personal appeals, and women praying aloud in mixed meetings, which conservative Calvinists criticized.", "sources": ["hambrick-stowe", "lectures"]},
+    {"text": "Taught in his Lectures on Revivals of Religion (1835) that revival 'is not a miracle' but the result of rightly using means, a view that shaped later evangelism.", "sources": ["lectures", "britannica"]},
+    {"text": "Rejected the Calvinist doctrines of inherited guilt and human inability, teaching that people can and must choose to repent; critics such as Charles Hodge of Princeton attacked his theology as unorthodox.", "sources": ["hambrick-stowe", "britannica"]},
+    {"text": "Taught 'Oberlin perfectionism', that Christians can attain entire sanctification in this life.", "sources": ["hambrick-stowe"]},
+    {"text": "Made Oberlin College, which admitted Black students from 1835 and women to degree courses from 1837, a center of evangelical reform and abolitionism.", "sources": ["hambrick-stowe", "britannica"]},
+    {"text": "Opposed slavery from the pulpit and refused communion to slaveholders, though he put revival ahead of political abolitionism.", "sources": ["hambrick-stowe"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "A revival is not a miracle, nor dependent on a miracle, in any sense. It is a purely philosophical result of the right use of the constituted means.", "reference": "Lectures on Revivals of Religion (1835), lecture 1", "sources": ["lectures"]}
+    ]
+  },
+  "persecution_note": "Finney was never arrested or persecuted. He faced strong opposition from fellow ministers, including Lyman Beecher and Asahel Nettleton at the 1827 New Lebanon Convention and the Princeton theologians, and from people hostile to revivals, but no formal action was taken against him.",
+  "persecution": [],
+  "excommunication_note": "Finney was never excommunicated or tried. He left the Presbyterian Church for Congregationalism in 1836 of his own accord, having said he had not read the Westminster Confession closely before his ordination.",
+  "excommunications": [],
+  "sources": [
+    {"id": "memoirs", "type": "primary", "citation": "Charles G. Finney, The Memoirs of Charles G. Finney: The Complete Restored Text, ed. Garth M. Rosell and Richard A. G. Dupuis. Grand Rapids: Zondervan, 1989."},
+    {"id": "lectures", "type": "primary", "citation": "Charles G. Finney, Lectures on Revivals of Religion (1835), ed. William G. McLoughlin. Cambridge, MA: Belknap Press of Harvard University Press, 1960."},
+    {"id": "hambrick-stowe", "type": "scholarly", "citation": "Charles E. Hambrick-Stowe, Charles G. Finney and the Spirit of American Evangelicalism. Grand Rapids: Eerdmans, 1996."},
+    {"id": "johnson", "type": "scholarly", "citation": "Paul E. Johnson, A Shopkeeper's Millennium: Society and Revivals in Rochester, New York, 1815–1837. New York: Hill and Wang, 1978."},
+    {"id": "britannica", "type": "reference", "citation": "\"Charles Grandison Finney.\" Encyclopaedia Britannica."}
+  ]
+}

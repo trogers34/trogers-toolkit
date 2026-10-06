@@ -127,6 +127,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - George Whitefield (`george-whitefield`): the user wrote "Whitfield" (the pronunciation)
 - John Wesley (`john-wesley`): starter example
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
+- Charles Finney (`charles-finney`)
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
@@ -162,6 +163,9 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Union of Brest, 1595–1596 (event: `union-of-brest`)
 - Old Believers Schism, 1652–1667 (event: `old-believers-schism`)
 - Melkite Schism, 1724–1729 (event: `melkite-schism`)
+- First Great Awakening, c. 1734–1745 (event: `first-great-awakening`)
+- Second Great Awakening, c. 1790–1844 (event: `second-great-awakening`)
+- Stone-Campbell Movement, 1804–1832 (event: `stone-campbell-movement`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
@@ -269,7 +273,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Nine Orthodox splits (Arsenite, Brest, Old Believers, Melkite, Bulgarian, Old Calendarist,
+- Charles Finney; First and Second Great Awakenings (linked to Edwards, Whitefield, the Wesleys,
+  Finney); the Stone-Campbell movement. 44 people, 36 events.
+- **PR #76**: Nine Orthodox splits (Arsenite, Brest, Old Believers, Melkite, Bulgarian, Old Calendarist,
   Church Abroad, Macedonian, Moscow–Constantinople); every event's start and end now carry a
   summary label instead of "Began"/"Ended". 43 people, 33 events.
 - **PR #75**: St Monica (all from the Confessions; her role in Augustine sending away his partner). 43 people,

@@ -832,12 +832,22 @@ def render_timeline(people, events=()):
 {TIMELINE_JS}"""
 
 
-def life_event(label, life):
-    """'Born' or 'Died' with the date, the place, and for deaths the cause, for the key-dates table."""
+def age_at_death(person):
+    """Approximate age at death from the birth and death years, or 'unknown' when either is unknown."""
+    born, died = person["born"], person["died"]
+    if any(str(life.get("date", "")).lower().startswith("unknown") for life in (born, died)):
+        return "unknown"
+    return f'about {died["year"] - born["year"]}'
+
+
+def life_event(label, life, age=None):
+    """'Born' or 'Died' with the date, the place, and for deaths the age and cause, for the key-dates table."""
     date = life.get("date") or life_year(life)
     parts = [f'<strong>{label}</strong> {esc(date)}']
     if life.get("place"):
         parts.append(f'<span class="where">{esc(life["place"])}</span>')
+    if age:
+        parts.append(f'<span class="cause">Age: {esc(age)}</span>')
     if life.get("cause"):
         parts.append(f'<span class="cause">How: {esc(life["cause"])}</span>')
     return "".join(parts)
@@ -853,7 +863,8 @@ def render_index(people, events=()):
         entries.append((p["born"]["year"], 0, p["name"], link, life_event("Born", p["born"]), p["born"].get("circa", False), "life"))
         for kd in p["key_dates"]:
             entries.append((kd["year"], 1, p["name"], link, esc(kd["label"]), kd.get("circa", False), "event"))
-        entries.append((p["died"]["year"], 2, p["name"], link, life_event("Died", p["died"]), p["died"].get("circa", False), "life"))
+        entries.append((p["died"]["year"], 2, p["name"], link, life_event("Died", p["died"], age_at_death(p)),
+                        p["died"].get("circa", False), "life"))
     for e in events:
         link = f'<span class="event-tag">Event</span><a href="events/{esc(e["slug"])}.html">{esc(e["name"])}</a>'
         end = e.get("end")

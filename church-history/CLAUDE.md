@@ -32,6 +32,9 @@ the user has set and the list of everyone on the site.
     the **same timeline as the people**, in date order, marked as events. Events follow the
     same rules as people: full history, everyone responsible for violence, condemnations,
     sources, and the AI notice.
+12. All seven ecumenical councils (accepted by both the Catholic and Orthodox churches) are
+    on the site; each is labeled with its number ("Third Ecumenical Council") in
+    `also_known_as`. Keep the set complete.
 
 ## Adding a person
 
@@ -117,8 +120,13 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 
 Keep this list in sync with `events/` (the tests check it). Oldest first.
 
-- Council of Nicaea, 325 (event: `council-of-nicaea`)
-- Council of Chalcedon, 451 (event: `council-of-chalcedon`)
+- First Council of Nicaea, 325, 1st ecumenical (event: `council-of-nicaea`)
+- First Council of Constantinople, 381, 2nd ecumenical (event: `first-council-of-constantinople`)
+- Council of Ephesus, 431, 3rd ecumenical (event: `council-of-ephesus`)
+- Council of Chalcedon, 451, 4th ecumenical (event: `council-of-chalcedon`)
+- Second Council of Constantinople, 553, 5th ecumenical (event: `second-council-of-constantinople`)
+- Third Council of Constantinople, 680–681, 6th ecumenical (event: `third-council-of-constantinople`)
+- Second Council of Nicaea, 787, 7th ecumenical (event: `second-council-of-nicaea`)
 - Great Schism of 1054 (event: `great-schism`)
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
 - Diet of Worms, 1521 (event: `diet-of-worms`)
@@ -220,7 +228,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- **Events** added, on the same timeline as people (user: "I would want these on the same
+- All seven ecumenical councils: added Constantinople I, Ephesus, Constantinople II,
+  Constantinople III, Nicaea II; Nicaea renamed "First Council of Nicaea". 32 people, 12 events.
+- **PR #63**: **Events** added, on the same timeline as people (user: "I would want these on the same
   timeline as the people"): event pages, Events section on linked people's pages, Events
   cards, events in the key-dates table. First 7: Nicaea, Chalcedon, the 1054 schism,
   Constance, Worms, Trent, St. Bartholomew's Day. 32 people, 7 events.

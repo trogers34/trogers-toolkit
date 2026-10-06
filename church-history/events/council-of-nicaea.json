@@ -1,7 +1,7 @@
 {
-  "name": "Council of Nicaea",
+  "name": "First Council of Nicaea",
   "slug": "council-of-nicaea",
-  "also_known_as": "First Council of Nicaea; First Ecumenical Council",
+  "also_known_as": "First Ecumenical Council",
   "era": "Early Church",
   "event_type": "council",
   "summary": "The first council of bishops from across the Roman Empire, called by Emperor Constantine, which condemned Arius and issued the original Nicene Creed.",
@@ -42,7 +42,7 @@
   "persecution": [
     {"year": 325, "date": "325, and c. 325–328", "title": "Exile of Arius and his supporters", "summary": "After the council, Constantine exiled Arius and the two bishops who refused to sign to Illyricum and ordered Arius's books burned, with death threatened for hiding them. Shortly after, Eusebius of Nicomedia and Theognis of Nicaea were also exiled for supporting Arius; they were recalled around 328.", "responsible": [
       {"name": "Constantine I", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Council of Nicaea", "role": "Council of bishops that condemned them", "jurisdiction": "Church of the Roman Empire", "type": "church"}
+      {"name": "First Council of Nicaea", "role": "Council of bishops that condemned them", "jurisdiction": "Church of the Roman Empire", "type": "church"}
     ], "outcome": "Exile; Arius and Eusebius later returned to imperial favor and Eusebius's party went on to secure the exile of Athanasius and other Nicene bishops.", "sources": ["hanson", "ayres"]}
   ],
   "sources": [

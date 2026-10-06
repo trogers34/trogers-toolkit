@@ -1,0 +1,53 @@
+{
+  "name": "First Council of Constantinople",
+  "slug": "first-council-of-constantinople",
+  "also_known_as": "Second Ecumenical Council",
+  "era": "Early Church",
+  "event_type": "council",
+  "summary": "The council called by Emperor Theodosius I that ended the Arian controversy in the eastern empire, affirmed the full divinity of the Holy Spirit, and is traditionally credited with the expanded Nicene Creed.",
+  "place": "Constantinople",
+  "start": {"year": 381, "date": "May 381", "sources": ["tanner", "hanson"]},
+  "end": {"year": 381, "date": "9 July 381", "sources": ["tanner", "hanson"]},
+  "background": [
+    {"text": "After Nicaea (325), emperors such as Constantius II and Valens supported anti-Nicene bishops, and Constantinople had been held by non-Nicene bishops for about 40 years.", "sources": ["hanson", "ayres"]},
+    {"text": "On 28 February 380 Theodosius I issued the edict Cunctos populos, ordering all subjects to hold the faith of the bishops of Rome and Alexandria and calling others 'demented and insane' heretics. In November 380 he expelled the non-Nicene bishop Demophilus from Constantinople's churches.", "sources": ["theodosian-code", "hanson"]},
+    {"text": "A group called the Pneumatomachians ('fighters against the Spirit', also called Macedonians) accepted the Son's divinity but denied that the Holy Spirit was fully God.", "sources": ["hanson", "ayres"]}
+  ],
+  "happened": [
+    {"text": "About 150 bishops attended, all from the eastern empire; the bishop of Rome, Damasus I, was neither present nor represented. A further 36 Pneumatomachian bishops came but left rather than accept the Nicene faith.", "sources": ["tanner", "hanson"]},
+    {"text": "Meletius of Antioch presided until he died during the council. Gregory of Nazianzus, confirmed as bishop of Constantinople, then presided, but resigned amid disputes over the succession at Antioch and objections to his transfer from another see.", "sources": ["mcguckin", "hanson"]},
+    {"text": "Nectarius, an unbaptized senator, was chosen as bishop of Constantinople in Gregory's place.", "sources": ["mcguckin", "britannica"]},
+    {"text": "Canon 1 reaffirmed the faith of Nicaea and anathematized the Eunomians, Arians, Semi-Arians or Pneumatomachians, Sabellians, Marcellians, Photinians, and Apollinarians.", "sources": ["tanner"]},
+    {"text": "Canon 3 gave the bishop of Constantinople precedence of honor after the bishop of Rome, 'because it is New Rome'.", "sources": ["tanner"]}
+  ],
+  "participants": [
+    {"name": "Theodosius I", "role": "Roman emperor (East); summoned the council"},
+    {"name": "Meletius of Antioch", "role": "First president; died during the council"},
+    {"name": "Gregory of Nazianzus", "role": "Bishop of Constantinople and president after Meletius; resigned"},
+    {"name": "Gregory of Nyssa", "role": "Cappadocian bishop and theologian; took part"},
+    {"name": "Nectarius", "role": "Elected bishop of Constantinople"}
+  ],
+  "outcomes": [
+    {"text": "The Niceno-Constantinopolitan Creed, used today in most churches, is traditionally attributed to this council; it expands the article on the Holy Spirit, 'the Lord and giver of life, who proceeds from the Father'. Its text is first recorded in the acts of Chalcedon (451), and scholars debate how it was issued in 381.", "sources": ["tanner", "kelly", "ayres"]},
+    {"text": "Together with Theodosius's laws, the council ended official support for Arianism in the eastern empire; Arian Christianity continued for centuries among the Goths and other Germanic peoples.", "sources": ["hanson", "britannica"]},
+    {"text": "Rome did not accept canon 3, and the council was recognized as ecumenical in the West only after Chalcedon (451).", "sources": ["tanner", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "381", "by": "First Council of Constantinople", "authority": "Council of eastern bishops, enforced by Theodosius I", "reason": "Canon 1 anathematized Arian, Eunomian, Pneumatomachian (Macedonian), Sabellian, Marcellian, Photinian, and Apollinarian teaching", "status": "Not reversed", "sources": ["tanner"]}
+  ],
+  "persecution_note": "The council itself condemned teachings, not named people. The penalties came from Theodosius I's laws, which took churches from non-Nicene Christians and banned their meetings.",
+  "persecution": [
+    {"year": 381, "date": "380–381", "title": "Imperial laws against non-Nicene Christians", "summary": "Theodosius's edict of 380 threatened heretics with divine and imperial punishment. In January 381 he ordered all churches handed to Nicene bishops and banned heretical meetings inside towns; on 30 July 381, after the council, he ordered churches given only to bishops in communion with named orthodox bishops.", "responsible": [
+      {"name": "Theodosius I", "role": "Roman emperor", "jurisdiction": "Roman Empire (East)", "type": "state"}
+    ], "outcome": "Non-Nicene bishops lost their churches across the eastern empire.", "sources": ["theodosian-code", "hanson"]}
+  ],
+  "sources": [
+    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
+    {"id": "theodosian-code", "type": "primary", "citation": "The Theodosian Code, book 16, titles 1 and 5, trans. Clyde Pharr. Princeton: Princeton University Press, 1952."},
+    {"id": "hanson", "type": "scholarly", "citation": "R. P. C. Hanson, The Search for the Christian Doctrine of God: The Arian Controversy 318–381. Edinburgh: T&T Clark, 1988."},
+    {"id": "ayres", "type": "scholarly", "citation": "Lewis Ayres, Nicaea and Its Legacy. Oxford: Oxford University Press, 2004."},
+    {"id": "mcguckin", "type": "scholarly", "citation": "John A. McGuckin, St. Gregory of Nazianzus: An Intellectual Biography. Crestwood, NY: St Vladimir's Seminary Press, 2001."},
+    {"id": "kelly", "type": "scholarly", "citation": "J. N. D. Kelly, Early Christian Creeds, 3rd ed. London: Longman, 1972."},
+    {"id": "britannica", "type": "reference", "citation": "\"First Council of Constantinople.\" Encyclopaedia Britannica."}
+  ]
+}

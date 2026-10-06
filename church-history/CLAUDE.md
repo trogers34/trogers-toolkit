@@ -102,9 +102,11 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Desiderius Erasmus (`desiderius-erasmus`)
 - Thomas More (`thomas-more`): includes the list of people executed for heresy linked to him, with verification ratings
 - Martin Luther (`martin-luther`): starter example
+- Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
 - Thomas Cranmer (`thomas-cranmer`)
 - Martin Bucer (`martin-bucer`)
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
+- John Calvin (`john-calvin`): includes people executed in Geneva linked to him (Servetus etc.), with ratings
 - John Knox (`john-knox`)
 - Martin Chemnitz (`martin-chemnitz`)
 
@@ -232,7 +234,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- J. Gresham Machen (assumed for "J Gresham Mencken"), with his 1935–36 suspension from the
+- John Calvin (Servetus, Gruet, and the 1545 plague trials in a victims list; linked to the Council
+  of Trent) and Huldrych Zwingli (Felix Manz in a victims list; death at Kappel). 37 people, 13 events.
+- **PR #67**: J. Gresham Machen (assumed for "J Gresham Mencken"), with his 1935–36 suspension from the
   PCUSA ministry. 35 people, 13 events.
 - **PR #66**: Jonathan Edwards (including his slaveholding and the 1750 dismissal) and Charles Wesley
   (hymns, the Grace Murray episode, mob attacks). 34 people, 13 events.

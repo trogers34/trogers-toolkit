@@ -92,6 +92,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Gregory the Great (`gregory-the-great`)
 
 **Medieval**
+- Anselm of Canterbury (`anselm-of-canterbury`)
 - Thomas Aquinas (`thomas-aquinas`)
 - William of Ockham (`william-of-ockham`)
 - John Wycliffe (`john-wycliffe`)
@@ -108,6 +109,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
 - John Calvin (`john-calvin`): includes people executed in Geneva linked to him (Servetus etc.), with ratings
 - John Knox (`john-knox`)
+- Richard Hooker (`richard-hooker`)
 - Martin Chemnitz (`martin-chemnitz`)
 
 **Modern**
@@ -237,7 +239,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- George Whitefield (his campaign for slavery in Georgia, the 1740 Charleston suspension, mobs)
+- Anselm of Canterbury (ontological argument, Cur Deus Homo, two exiles under William II and
+  Henry I) and Richard Hooker (Laws of Ecclesiastical Polity, the Travers dispute). 41 people, 14 events.
+- **PR #70**: George Whitefield (his campaign for slavery in Georgia, the 1740 Charleston suspension, mobs)
   and G. K. Chesterton (Marconi affair and antisemitism charges; misattributed quotations).
   39 people, 14 events.
 - **PR #69**: The Crusades (1095–1291) as one event, with violence on all sides and who was responsible

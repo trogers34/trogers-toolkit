@@ -1,0 +1,64 @@
+{
+  "name": "Anselm of Canterbury",
+  "slug": "anselm-of-canterbury",
+  "also_known_as": "Anselm of Aosta; Anselm of Bec",
+  "era": "Medieval",
+  "role": "Benedictine monk, abbot of Bec, archbishop of Canterbury, and theologian",
+  "born": {"year": 1033, "circa": true, "date": "c. 1033", "place": "Aosta, Kingdom of Burgundy (modern Italy)", "sources": ["southern", "britannica"]},
+  "died": {"year": 1109, "date": "21 April 1109", "place": "Canterbury, England", "sources": ["eadmer-vita", "southern"]},
+  "summary": "Monk and archbishop of Canterbury, often called the founder of scholasticism, known for the ontological argument for God's existence and the satisfaction theory of the atonement.",
+  "key_dates": [
+    {"year": 1060, "label": "Becomes a monk at the abbey of Bec in Normandy under Lanfranc", "sources": ["eadmer-vita", "southern"]},
+    {"year": 1063, "label": "Succeeds Lanfranc as prior of Bec", "sources": ["southern"]},
+    {"year": 1077, "label": "Writes the Proslogion (c. 1077–78), with the ontological argument", "sources": ["major-works", "southern"]},
+    {"year": 1078, "label": "Elected abbot of Bec", "sources": ["southern", "britannica"]},
+    {"year": 1093, "label": "Made archbishop of Canterbury by William II (consecrated 4 December)", "sources": ["eadmer-hn", "southern"]},
+    {"year": 1097, "label": "Leaves England in exile after quarrels with William II (to 1100)", "sources": ["eadmer-hn", "southern"]},
+    {"year": 1098, "label": "Completes Cur Deus Homo; defends the filioque before Greek bishops at the Council of Bari", "sources": ["major-works", "southern"]},
+    {"year": 1102, "label": "Council of Westminster bans the slave trade and enforces clerical celibacy", "sources": ["eadmer-hn", "southern"]},
+    {"year": 1107, "label": "Settlement with Henry I ends the investiture dispute in England", "sources": ["eadmer-hn", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Set out in the Proslogion the argument that God is 'that than which nothing greater can be conceived' and therefore must exist in reality, later called the ontological argument; the monk Gaunilo of Marmoutiers replied in his own time, and philosophers have debated it ever since.", "sources": ["major-works", "britannica"]},
+    {"text": "Wrote Cur Deus Homo ('Why God Became Man'), arguing that Christ's death made satisfaction for the dishonor sin does to God, an account of the atonement that shaped Western theology.", "sources": ["major-works", "southern"]},
+    {"text": "Described theology as 'faith seeking understanding' and used reason to explain Christian belief without appealing to authority, which led later writers to call him the father of scholasticism.", "sources": ["major-works", "britannica"]},
+    {"text": "Wrote the Monologion (1076) and devotional prayers and meditations that were widely copied in the Middle Ages.", "sources": ["major-works", "southern"]},
+    {"text": "Led Bec as prior and abbot for 30 years, making it one of the leading schools of Europe.", "sources": ["eadmer-vita", "southern"]},
+    {"text": "As archbishop, defended the rights of the church against William II and Henry I, insisting that the king could not appoint bishops by investing them with ring and staff; the 1107 compromise let the king receive homage while the church invested bishops.", "sources": ["eadmer-hn", "southern"]},
+    {"text": "Presided over the Council of Westminster (1102), which condemned the 'wicked trade' of selling people like animals in England, and enforced celibacy on the English clergy, removing married priests from their churches.", "sources": ["eadmer-hn", "southern"]},
+    {"text": "Was declared a Doctor of the Church by Pope Clement XI in 1720.", "sources": ["britannica"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "That than which nothing greater can be conceived (id quo maius cogitari nequit)", "reference": "Proslogion, chapter 2", "sources": ["major-works"]},
+      {"phrase": "Faith seeking understanding (fides quaerens intellectum)", "reference": "Proslogion, preface (the work's original title)", "sources": ["major-works"]}
+    ],
+    "popularized": [
+      {"phrase": "I believe in order that I may understand (credo ut intelligam)", "reference": "Proslogion, chapter 1", "note": "The idea comes from Augustine; Anselm's wording made it famous.", "sources": ["major-works", "britannica"]}
+    ]
+  },
+  "persecution_note": "Anselm was never arrested. As archbishop he was twice forced into exile by English kings, who seized the revenues of Canterbury while he was away.",
+  "persecution": [
+    {"year": 1095, "date": "February–March 1095", "title": "Council of Rockingham", "summary": "Anselm asked William II's permission to go to Rome to receive his pallium from Pope Urban II, whom the king had not recognized. At a council at Rockingham the king demanded that Anselm give up his obedience to the pope; most of the bishops, led by William of St-Calais, bishop of Durham, sided with the king and renounced obedience to Anselm, but the barons would not.", "responsible": [
+      {"name": "William II (Rufus)", "role": "King of England", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "William of St-Calais", "role": "Bishop of Durham; led the bishops against Anselm", "jurisdiction": "Diocese of Durham, English church", "type": "church"},
+      {"name": "English bishops at Rockingham", "role": "Renounced obedience to Anselm", "jurisdiction": "English church", "type": "group"}
+    ], "outcome": "No decision; the king later recognized Urban II and the dispute was patched up.", "sources": ["eadmer-hn", "southern"]},
+    {"year": 1097, "date": "October 1097 – 1100", "title": "First exile, under William II", "summary": "After further quarrels over church reform and the quality of knights he supplied to the king, Anselm left England without the king's leave to appeal to the pope. William II seized the lands and revenues of Canterbury.", "responsible": [
+      {"name": "William II (Rufus)", "role": "King of England", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Returned in 1100 after William II's death.", "sources": ["eadmer-hn", "southern"]},
+    {"year": 1103, "date": "1103–1106", "title": "Second exile, under Henry I", "summary": "Anselm refused to do homage to Henry I or consecrate bishops the king had invested, following the papal ban on lay investiture. He went to Rome and was not allowed back on his own terms; Henry seized Canterbury's revenues. Anselm threatened to excommunicate the king.", "responsible": [
+      {"name": "Henry I", "role": "King of England", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "defended_by": [{"name": "Adela of Blois", "role": "Henry's sister; helped arrange the reconciliation (1105)"}], "outcome": "Reconciled in 1105–06; the Concordat of London followed in 1107.", "sources": ["eadmer-hn", "southern"]}
+  ],
+  "excommunication_note": "Anselm was never excommunicated. He himself threatened Henry I with excommunication in 1105 but did not pronounce it.",
+  "excommunications": [],
+  "sources": [
+    {"id": "eadmer-vita", "type": "primary", "citation": "Eadmer, The Life of St Anselm, Archbishop of Canterbury, ed. and trans. R. W. Southern. Oxford: Clarendon Press, 1972 (first published 1962)."},
+    {"id": "eadmer-hn", "type": "primary", "citation": "Eadmer, History of Recent Events in England (Historia Novorum in Anglia), trans. Geoffrey Bosanquet. London: Cresset Press, 1964."},
+    {"id": "major-works", "type": "primary", "citation": "Anselm of Canterbury, The Major Works, ed. Brian Davies and G. R. Evans. Oxford World's Classics. Oxford: Oxford University Press, 1998."},
+    {"id": "southern", "type": "scholarly", "citation": "R. W. Southern, Saint Anselm: A Portrait in a Landscape. Cambridge: Cambridge University Press, 1990."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Anselm of Canterbury.\" Encyclopaedia Britannica."}
+  ]
+}

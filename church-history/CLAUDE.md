@@ -90,6 +90,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
+- Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
 - Gregory the Great (`gregory-the-great`)
@@ -253,7 +254,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Nine Catholic dogma events ("Do them all"): Lateran IV, Lyon II, Unam Sanctam, Vienne, Benedictus
+- St Monica (all from the Confessions; her role in Augustine sending away his partner). 43 people,
+  24 events. Orthodox church splits requested next; options listed for approval first.
+- **PR #74**: Nine Catholic dogma events ("Do them all"): Lateran IV, Lyon II, Unam Sanctam, Vienne, Benedictus
   Deus, Florence, Lateran V, Vatican I, Vatican II; Catholic council numbers added to Constance and
   Trent. 42 people, 24 events.
 - **PR #73**: Marian Dogmas (431–1950) as one combined event, at the user's choice, after listing the four

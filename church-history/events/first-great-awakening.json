@@ -1,0 +1,63 @@
+{
+  "name": "First Great Awakening",
+  "slug": "first-great-awakening",
+  "also_known_as": "The Great Awakening; the Evangelical Revival (in Britain)",
+  "era": "Modern",
+  "event_type": "revival",
+  "summary": "A wave of revivals in the British American colonies, linked to the Evangelical Revival in Britain, which stressed personal conversion, divided churches into supporters and opponents, and shaped American evangelicalism.",
+  "place": "British North American colonies; Britain",
+  "start": {"year": 1734, "circa": true, "date": "c. 1734 (Northampton revival)", "label": "Revival begins in Jonathan Edwards's Northampton church", "sources": ["kidd-ga", "works-4"]},
+  "end": {"year": 1745, "circa": true, "date": "c. mid-1740s", "label": "Revival fades amid division between New Lights and Old Lights", "sources": ["kidd-ga", "britannica"]},
+  "key_dates": [
+    {"year": 1739, "label": "George Whitefield begins his great American preaching tour", "sources": ["kidd-ga", "kidd-gw"]},
+    {"year": 1740, "label": "Gilbert Tennent preaches 'The Danger of an Unconverted Ministry'", "sources": ["kidd-ga"]},
+    {"year": 1741, "label": "Edwards preaches 'Sinners in the Hands of an Angry God'; Presbyterian Old Side–New Side split", "sources": ["kidd-ga", "britannica"]},
+    {"year": 1742, "label": "Connecticut passes a law against itinerant preachers", "sources": ["kidd-ga"]},
+    {"year": 1743, "label": "James Davenport's book-burning at New London; Charles Chauncy's Seasonable Thoughts attacks the revival", "sources": ["kidd-ga"]}
+  ],
+  "background": [
+    {"text": "Earlier local revivals had occurred under Theodorus Frelinghuysen in New Jersey (1720s) and Solomon Stoddard in Northampton; Presbyterians trained at William Tennent's 'Log College' in Pennsylvania spread revival preaching.", "sources": ["kidd-ga", "britannica"]}
+  ],
+  "happened": [
+    {"text": "Jonathan Edwards's Northampton revival (1734–35), described in his Faithful Narrative, became a model for revival across the colonies and in Britain.", "sources": ["works-4", "kidd-ga"]},
+    {"text": "George Whitefield's tours from 1739 drew crowds of thousands, sometimes tens of thousands, from Georgia to New England, and spread the revival across denominational lines.", "sources": ["kidd-gw", "kidd-ga"]},
+    {"text": "Preachers stressed the 'new birth', a felt experience of conversion; some meetings saw crying out, fainting, and visions, which critics called 'enthusiasm'.", "sources": ["kidd-ga", "works-4"]},
+    {"text": "Churches split between 'New Lights' (supporters) and 'Old Lights' (opponents): Presbyterians divided into Old Side and New Side synods (1741–58), and many New England congregations broke away as 'Separates', some becoming Baptists.", "sources": ["kidd-ga", "britannica"]},
+    {"text": "The revival reached enslaved Africans and Native Americans, some of whom, like the Mohegan minister Samson Occom, became preachers.", "sources": ["kidd-ga"]}
+  ],
+  "participants": [
+    {"name": "Jonathan Edwards", "role": "Leading preacher and theologian of the revival", "person": "jonathan-edwards"},
+    {"name": "George Whitefield", "role": "Itinerant evangelist whose tours spread the revival", "person": "george-whitefield"},
+    {"name": "John Wesley", "role": "Leader of the parallel Evangelical Revival in Britain", "person": "john-wesley"},
+    {"name": "Charles Wesley", "role": "Hymn writer of the Evangelical Revival in Britain", "person": "charles-wesley"},
+    {"name": "Gilbert Tennent", "role": "Presbyterian revivalist"},
+    {"name": "Charles Chauncy", "role": "Boston minister and leading critic of the revival"},
+    {"name": "James Davenport", "role": "Radical itinerant preacher"}
+  ],
+  "outcomes": [
+    {"text": "It shaped the evangelical emphasis on conversion and helped Baptists and later Methodists grow in America.", "sources": ["kidd-ga", "britannica"]},
+    {"text": "Revivalists founded colleges to train ministers, including the College of New Jersey (Princeton, 1746), Brown (1764), and Dartmouth (1769).", "sources": ["kidd-ga", "britannica"]},
+    {"text": "Some historians argue it weakened established churches and prepared the ground for religious liberty and the American Revolution; others question how unified a movement it was.", "sources": ["kidd-ga"]}
+  ],
+  "condemnations_note": "The revival divided churches but led to few formal condemnations of individuals; the courts that judged James Davenport found him mentally disturbed rather than guilty.",
+  "condemnations": [
+    {"date": "1741", "by": "Synod of Philadelphia (Old Side majority)", "authority": "Presbyterian Church in the colonies", "reason": "The revivalist New Brunswick Presbytery excluded from the synod", "status": "Reunited in 1758", "sources": ["kidd-ga", "britannica"]}
+  ],
+  "persecution_note": "Opponents used colonial law against radical revivalists, and Separates and Baptists were taxed and punished for refusing to support established churches.",
+  "persecution": [
+    {"year": 1742, "date": "1742–1750s", "title": "Connecticut's law against itinerant preaching", "summary": "Connecticut's assembly passed a law allowing itinerant preachers to be expelled and ministers who preached in other parishes without permission to lose their salaries. Separates who refused to pay taxes for the established Congregational churches were fined or jailed.", "responsible": [
+      {"name": "General Assembly of Connecticut", "role": "Passed the law", "jurisdiction": "Colony of Connecticut", "type": "state"},
+      {"name": "Established Congregational clergy (Old Lights)", "role": "Supported the measures", "jurisdiction": "Connecticut Congregational churches", "type": "church"}
+    ], "outcome": "Repealed in 1750; Separates and Baptists campaigned for religious liberty.", "sources": ["kidd-ga"]},
+    {"year": 1742, "date": "1742", "title": "Arrest and deportation of James Davenport", "summary": "The radical itinerant James Davenport, who denounced ministers as unconverted, was arrested in Connecticut and deported, and later tried in Boston; both courts judged him mentally disturbed. In 1743 he led a bonfire of books and luxury goods at New London, which he later repented.", "responsible": [
+      {"name": "Connecticut General Assembly", "role": "Had him arrested and deported", "jurisdiction": "Colony of Connecticut", "type": "state"},
+      {"name": "Massachusetts court in Boston", "role": "Tried him", "jurisdiction": "Province of Massachusetts Bay", "type": "state"}
+    ], "outcome": "Deported; he retracted his excesses in 1744.", "sources": ["kidd-ga"]}
+  ],
+  "sources": [
+    {"id": "works-4", "type": "primary", "citation": "Jonathan Edwards, The Great Awakening, ed. C. C. Goen. The Works of Jonathan Edwards, vol. 4. New Haven: Yale University Press, 1972."},
+    {"id": "kidd-ga", "type": "scholarly", "citation": "Thomas S. Kidd, The Great Awakening: The Roots of Evangelical Christianity in Colonial America. New Haven: Yale University Press, 2007."},
+    {"id": "kidd-gw", "type": "scholarly", "citation": "Thomas S. Kidd, George Whitefield: America's Spiritual Founding Father. New Haven: Yale University Press, 2014."},
+    {"id": "britannica", "type": "reference", "citation": "\"Great Awakening.\" Encyclopaedia Britannica."}
+  ]
+}

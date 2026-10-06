@@ -1,0 +1,51 @@
+{
+  "name": "Fifth Lateran Council",
+  "slug": "fifth-lateran-council",
+  "also_known_as": "Lateran V; eighteenth ecumenical council (Catholic count)",
+  "era": "Reformation",
+  "event_type": "council",
+  "summary": "The last council before the Reformation, called by Julius II against a rival council at Pisa, which defined the individual immortality of the soul and issued reform decrees that were largely not carried out.",
+  "place": "Lateran Basilica, Rome",
+  "start": {"year": 1512, "date": "10 May 1512", "sources": ["tanner", "minnich"]},
+  "end": {"year": 1517, "date": "16 March 1517", "sources": ["tanner", "minnich"]},
+  "key_dates": [
+    {"year": 1513, "label": "Apostolici regiminis defines the immortality of the individual soul (19 December)", "sources": ["tanner"]},
+    {"year": 1515, "label": "Decree requiring church approval before books are printed (4 May)", "sources": ["tanner", "minnich"]}
+  ],
+  "background": [
+    {"text": "In 1511 a group of cardinals backed by King Louis XII of France and Emperor Maximilian I called a council at Pisa to reform the church and pressure Pope Julius II; Julius answered by calling his own council in Rome.", "sources": ["minnich", "britannica"]}
+  ],
+  "happened": [
+    {"text": "In his opening sermon, Giles of Viterbo, head of the Augustinian order, declared that 'men must be changed by religion, not religion by men'.", "sources": ["minnich"]},
+    {"text": "The decree Apostolici regiminis (1513) condemned the view that the intellectual soul is mortal or one for all humans, and told philosophers to refute such arguments in their teaching.", "sources": ["tanner"]},
+    {"text": "The council required that books be approved by the bishop or papal officials before printing (1515), approved the montes pietatis (charitable pawnshops), and issued reform decrees on preaching, the curia, and cardinals.", "sources": ["tanner", "minnich"]},
+    {"text": "Under Leo X it approved the Concordat of Bologna (1516), which gave the king of France the right to nominate bishops and abbots, and abolished the Pragmatic Sanction of Bourges.", "sources": ["minnich", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Julius II", "role": "Pope who called the council; died in 1513"},
+    {"name": "Leo X", "role": "Pope who continued and closed it"},
+    {"name": "Giles of Viterbo", "role": "Augustinian prior general who preached the opening sermon"},
+    {"name": "Martin Luther", "role": "Not present; posted his Ninety-five Theses seven months after it closed", "person": "martin-luther"}
+  ],
+  "outcomes": [
+    {"text": "Its reforms were mostly not carried out, and it closed seven months before Luther's Ninety-five Theses; historians often cite it as a missed chance for reform.", "sources": ["minnich", "britannica"]},
+    {"text": "Its decree on the soul led to controversy over Pietro Pomponazzi's On the Immortality of the Soul (1516), which argued that reason alone could not prove immortality.", "sources": ["pine", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1511–1512", "by": "Julius II", "authority": "Papacy", "reason": "The cardinals who organized the Council of Pisa, including Bernardino Carvajal and Federico Sanseverino, deprived of office and excommunicated as schismatics", "status": "Restored by Leo X in 1513 after they submitted", "sources": ["minnich"]},
+    {"date": "19 December 1513", "by": "Fifth Lateran Council", "authority": "General council under Leo X", "reason": "The teaching that the soul is mortal or one for all humanity condemned", "status": "In force in the Catholic Church", "sources": ["tanner"]}
+  ],
+  "persecution_note": "No one was executed as a result of the council. Its censorship decree and the reaction to Pomponazzi are the main coercive measures connected to it.",
+  "persecution": [
+    {"year": 1516, "date": "1516–1518", "title": "Burning of Pomponazzi's book in Venice", "summary": "After Pietro Pomponazzi published On the Immortality of the Soul (1516), arguing that immortality could be known only by faith, the book was publicly burned in Venice and he was attacked by churchmen. He was protected by Cardinal Pietro Bembo and was never formally condemned.", "responsible": [
+      {"name": "Authorities in Venice", "role": "Had the book publicly burned", "jurisdiction": "Republic of Venice", "type": "state"},
+      {"name": "Clerical critics", "role": "Denounced the book", "jurisdiction": "Catholic Church in Italy", "type": "church"}
+    ], "defended_by": [{"name": "Pietro Bembo", "role": "Secretary to Leo X; protected him"}], "outcome": "Pomponazzi kept teaching at Bologna.", "sources": ["pine"]}
+  ],
+  "sources": [
+    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
+    {"id": "minnich", "type": "scholarly", "citation": "Nelson H. Minnich, The Fifth Lateran Council (1512–17): Studies on Its Membership, Diplomacy and Proposals for Reform. Aldershot: Variorum, 1993."},
+    {"id": "pine", "type": "scholarly", "citation": "Martin L. Pine, Pietro Pomponazzi: Radical Philosopher of the Renaissance. Padua: Antenore, 1986."},
+    {"id": "britannica", "type": "reference", "citation": "\"Fifth Lateran Council.\" Encyclopaedia Britannica."}
+  ]
+}

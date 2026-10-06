@@ -1,0 +1,59 @@
+{
+  "name": "George Whitefield",
+  "slug": "george-whitefield",
+  "also_known_as": "pronounced \"Whitfield\"",
+  "era": "Modern",
+  "role": "Anglican priest and itinerant evangelist; leading preacher of the Great Awakening and Calvinistic Methodism",
+  "born": {"year": 1714, "date": "16 December 1714 (Old Style)", "place": "Bell Inn, Gloucester, England", "sources": ["kidd", "britannica"]},
+  "died": {"year": 1770, "date": "30 September 1770", "place": "Newburyport, Massachusetts", "sources": ["kidd", "britannica"]},
+  "summary": "English evangelist whose open-air preaching on both sides of the Atlantic made him the most famous preacher of the 18th century and a central figure in the Great Awakening.",
+  "key_dates": [
+    {"year": 1732, "label": "Enters Pembroke College, Oxford, as a servitor; joins the Wesleys' Holy Club", "sources": ["kidd", "journals"]},
+    {"year": 1735, "label": "Evangelical conversion after reading Henry Scougal's The Life of God in the Soul of Man", "sources": ["journals", "kidd"]},
+    {"year": 1736, "label": "Ordained deacon at Gloucester (June); preaches his first sermon", "sources": ["kidd", "britannica"]},
+    {"year": 1739, "label": "Begins open-air preaching to coal miners at Kingswood, near Bristol (17 February); starts his great American tour", "sources": ["journals", "stout"]},
+    {"year": 1740, "label": "Founds Bethesda Orphanage in Savannah; tours New England; suspended by Commissary Garden in Charleston", "sources": ["kidd", "stout"]},
+    {"year": 1741, "label": "Breaks with John Wesley over predestination; marries Elizabeth James", "sources": ["kidd", "stout"]},
+    {"year": 1748, "label": "Becomes chaplain to Selina, Countess of Huntingdon", "sources": ["kidd", "britannica"]},
+    {"year": 1770, "label": "Dies on his seventh American tour; buried beneath the pulpit at Newburyport", "sources": ["kidd", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Preached in the open air to crowds of thousands, beginning with coal miners at Kingswood in 1739, and persuaded John Wesley to take up field preaching.", "sources": ["journals", "stout"]},
+    {"text": "Made seven preaching tours of the American colonies (13 Atlantic crossings) and was the best-known figure of the Great Awakening; he may have been heard by a majority of colonists.", "sources": ["kidd", "stout"]},
+    {"text": "Preached thousands of sermons, perhaps 18,000 by his own reckoning, emphasizing the 'new birth'; Benjamin Franklin calculated that his voice could reach 30,000 people outdoors.", "sources": ["franklin", "kidd"]},
+    {"text": "Used newspapers and print to publicize his tours on a new scale; his friend Benjamin Franklin printed his journals and sermons.", "sources": ["stout", "franklin"]},
+    {"text": "Led the Calvinistic wing of Methodism, which split from John Wesley in 1740–41 over predestination; the two men remained on friendly terms and Wesley preached his funeral sermon in London.", "sources": ["kidd", "britannica"]},
+    {"text": "Founded the Bethesda Orphanage near Savannah, Georgia (1740), and raised money for it throughout his life.", "sources": ["kidd", "britannica"]},
+    {"text": "Campaigned for slavery to be legalized in Georgia, which happened in 1751, arguing that the orphanage could not prosper without it; he bought enslaved people for its plantation and left about 50 to the Countess of Huntingdon at his death. In 1740 he had publicly criticized slaveholders' cruelty and urged that enslaved people be taught the gospel.", "sources": ["kidd", "stout"]},
+    {"text": "Worked with Welsh and English Calvinistic Methodists such as Howell Harris and the Countess of Huntingdon, whose chapels became a separate denomination after his death.", "sources": ["kidd", "britannica"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "popularized": [
+      {"phrase": "I had rather wear out than rust out.", "reference": "Reported by his biographers", "note": "Earlier attributed to Bishop Richard Cumberland (d. 1718); Whitefield made it famous among evangelicals.", "sources": ["kidd"]}
+    ]
+  },
+  "persecution_note": "Whitefield was never imprisoned. Many Church of England clergy and bishops closed their pulpits to him and wrote against his 'enthusiasm'; Harvard's faculty published a testimony against him in 1744. He was formally suspended by a church court in South Carolina and was attacked by mobs in England and Ireland.",
+  "persecution": [
+    {"year": 1740, "date": "July 1740", "title": "Suspended by the Bishop of London's commissary in Charleston", "summary": "Alexander Garden, the Bishop of London's representative in the Carolinas, summoned Whitefield before a church court for preaching in dissenting meeting-houses and not using the Book of Common Prayer. Whitefield denied the court's authority and appealed; Garden suspended him from the ministry.", "responsible": [
+      {"name": "Alexander Garden", "role": "Commissary of the Bishop of London in the Carolinas", "jurisdiction": "Church of England (Diocese of London's colonial jurisdiction)", "type": "church"}
+    ], "outcome": "Whitefield ignored the suspension and kept preaching; the appeal was never decided.", "sources": ["kidd", "stout"]},
+    {"year": 1757, "date": "July 1757", "title": "Stoned by a mob in Dublin", "summary": "While preaching at Oxmantown Green in Dublin, Whitefield was attacked by a crowd, mostly Catholics angered by his anti-Catholic preaching, who stoned him and left him badly injured.", "responsible": [
+      {"name": "Crowd at Oxmantown Green", "role": "Attacked him", "jurisdiction": "Dublin, Kingdom of Ireland", "type": "group"}
+    ], "outcome": "Seriously injured; he recovered.", "sources": ["kidd"]},
+    {"year": 1742, "date": "1740s", "title": "Mob disruption in England", "summary": "During his outdoor meetings, notably at Moorfields fair in London in 1742, crowds threw stones, dirt, and dead cats at him and tried to drown him out.", "responsible": [
+      {"name": "Crowds at Moorfields and elsewhere", "role": "Disrupted his preaching", "jurisdiction": "London, Kingdom of Great Britain", "type": "group"}
+    ], "outcome": "He continued preaching.", "sources": ["journals", "kidd"]}
+  ],
+  "excommunication_note": "Whitefield was never excommunicated and died a priest of the Church of England. His only formal censure was the 1740 suspension in South Carolina.",
+  "excommunications": [
+    {"date": "July 1740", "by": "Commissary Alexander Garden", "authority": "Church of England court in Charleston, South Carolina", "reason": "Suspended from the ministry for irregularities, including not using the Book of Common Prayer", "status": "Never enforced; Whitefield appealed and ignored it", "sources": ["kidd", "stout"]}
+  ],
+  "sources": [
+    {"id": "journals", "type": "primary", "citation": "George Whitefield, George Whitefield's Journals. London: Banner of Truth Trust, 1960."},
+    {"id": "franklin", "type": "primary", "citation": "Benjamin Franklin, The Autobiography of Benjamin Franklin (written 1771–1790)."},
+    {"id": "kidd", "type": "scholarly", "citation": "Thomas S. Kidd, George Whitefield: America's Spiritual Founding Father. New Haven: Yale University Press, 2014."},
+    {"id": "stout", "type": "scholarly", "citation": "Harry S. Stout, The Divine Dramatist: George Whitefield and the Rise of Modern Evangelicalism. Grand Rapids: Eerdmans, 1991."},
+    {"id": "britannica", "type": "reference", "citation": "\"George Whitefield.\" Encyclopaedia Britannica."}
+  ]
+}

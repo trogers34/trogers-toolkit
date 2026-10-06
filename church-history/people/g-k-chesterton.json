@@ -1,0 +1,52 @@
+{
+  "name": "G. K. Chesterton",
+  "slug": "g-k-chesterton",
+  "also_known_as": "Gilbert Keith Chesterton",
+  "era": "Modern",
+  "role": "English writer, journalist, and Christian apologist; convert to Catholicism",
+  "born": {"year": 1874, "date": "29 May 1874", "place": "Kensington, London, England", "sources": ["ker", "britannica"]},
+  "died": {"year": 1936, "date": "14 June 1936", "place": "Beaconsfield, Buckinghamshire, England", "sources": ["ker", "britannica"]},
+  "summary": "Prolific English writer whose books Orthodoxy and The Everlasting Man, and his Father Brown detective stories, made him one of the best-known Christian apologists of the 20th century.",
+  "key_dates": [
+    {"year": 1893, "label": "Enters the Slade School of Art in London (1893–96)", "sources": ["ker", "autobiography"]},
+    {"year": 1901, "label": "Marries Frances Blogg", "sources": ["ker", "britannica"]},
+    {"year": 1905, "label": "Publishes Heretics", "sources": ["ker", "britannica"]},
+    {"year": 1908, "label": "Publishes Orthodoxy and The Man Who Was Thursday", "sources": ["orthodoxy", "ker"]},
+    {"year": 1911, "label": "The Innocence of Father Brown, the first Father Brown collection", "sources": ["ker", "britannica"]},
+    {"year": 1922, "label": "Received into the Catholic Church at Beaconsfield (30 July)", "sources": ["ker", "autobiography"]},
+    {"year": 1925, "label": "Publishes The Everlasting Man; founds G.K.'s Weekly", "sources": ["ker", "britannica"]},
+    {"year": 1933, "label": "Publishes St. Thomas Aquinas", "sources": ["ker"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote Orthodoxy (1908), an account of how he came to accept Christianity, which remains one of the most widely read works of Christian apologetics.", "sources": ["orthodoxy", "ker"]},
+    {"text": "Wrote The Everlasting Man (1925), a reply to H. G. Wells's Outline of History that C. S. Lewis later credited with helping lead him to Christianity.", "sources": ["ker", "britannica"]},
+    {"text": "Created the priest-detective Father Brown, modeled partly on his friend Father John O'Connor, in five collections of stories (1911–35).", "sources": ["ker", "britannica"]},
+    {"text": "Was received into the Catholic Church in 1922 by Father O'Connor after many years as an Anglican, and wrote widely about the faith afterward, including biographies of Francis of Assisi (1923) and Thomas Aquinas (1933).", "sources": ["ker", "autobiography"]},
+    {"text": "With Hilaire Belloc promoted distributism, an economic program of widespread small property ownership as an alternative to both capitalism and socialism, through G.K.'s Weekly.", "sources": ["ker", "britannica"]},
+    {"text": "Wrote some 80 books and thousands of essays and newspaper columns, and held public debates with George Bernard Shaw, H. G. Wells, and others.", "sources": ["ker", "britannica"]},
+    {"text": "Wrote about Jews in ways that drew charges of antisemitism, during and after the Marconi scandal (1912–13), when his brother Cecil was convicted of libelling the businessman Godfrey Isaacs; in The New Jerusalem (1920) he proposed that Jews in England wear distinctive dress. In the 1930s he condemned Hitler's persecution of the Jews.", "sources": ["ker", "britannica"]}
+  ],
+  "sayings_intro": "A short selection. Many popular quotations credited to Chesterton cannot be found in his writings.",
+  "sayings": {
+    "original": [
+      {"phrase": "The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried.", "reference": "What's Wrong with the World (1910), part 1, chapter 5", "sources": ["wwww"]},
+      {"phrase": "Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead.", "reference": "Orthodoxy (1908), chapter 4", "sources": ["orthodoxy"]}
+    ],
+    "misattributed": [
+      {"phrase": "When a man stops believing in God he doesn't then believe in nothing, he believes anything.", "reference": "Not in his writings", "note": "Traced to a summary of his thought by Émile Cammaerts (1937), after his death.", "sources": ["cammaerts"]},
+      {"phrase": "\"What's wrong with the world?\" — \"Dear Sir, I am.\"", "reference": "Supposed letter to The Times", "note": "Often told as his reply to a newspaper question; no such letter has been found, and it is probably apocryphal.", "sources": ["ker"]}
+    ]
+  },
+  "persecution_note": "Chesterton was never arrested, tried, or persecuted. His brother Cecil was prosecuted and fined for criminal libel in 1913 over the Marconi affair, an action Chesterton strongly opposed but which did not target him.",
+  "persecution": [],
+  "excommunication_note": "Chesterton was never excommunicated or disciplined by any church. In 2019 the Catholic bishop of Northampton, Peter Doyle, declined to open a cause for his beatification, citing among other reasons the lack of a local cult and concerns about his writings on Jews.",
+  "excommunications": [],
+  "sources": [
+    {"id": "orthodoxy", "type": "primary", "citation": "G. K. Chesterton, Orthodoxy. London: John Lane, 1908."},
+    {"id": "wwww", "type": "primary", "citation": "G. K. Chesterton, What's Wrong with the World. London: Cassell, 1910."},
+    {"id": "autobiography", "type": "primary", "citation": "G. K. Chesterton, Autobiography. London: Hutchinson, 1936."},
+    {"id": "cammaerts", "type": "primary", "citation": "Émile Cammaerts, The Laughing Prophet: The Seven Virtues and G. K. Chesterton. London: Methuen, 1937."},
+    {"id": "ker", "type": "scholarly", "citation": "Ian Ker, G. K. Chesterton: A Biography. Oxford: Oxford University Press, 2011."},
+    {"id": "britannica", "type": "reference", "citation": "\"G. K. Chesterton.\" Encyclopaedia Britannica."}
+  ]
+}

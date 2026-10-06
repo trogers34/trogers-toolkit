@@ -112,10 +112,12 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 
 **Modern**
 - Jonathan Edwards (`jonathan-edwards`)
+- George Whitefield (`george-whitefield`): the user wrote "Whitfield" (the pronunciation)
 - John Wesley (`john-wesley`): starter example
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
+- G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -235,7 +237,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- The Crusades (1095–1291) as one event, with violence on all sides and who was responsible
+- George Whitefield (his campaign for slavery in Georgia, the 1740 Charleston suspension, mobs)
+  and G. K. Chesterton (Marconi affair and antisemitism charges; misattributed quotations).
+  39 people, 14 events.
+- **PR #69**: The Crusades (1095–1291) as one event, with violence on all sides and who was responsible
   (Rhineland 1096, Jerusalem 1099, Hattin 1187, York 1190, Acre 1191, Constantinople 1204,
   Béziers 1209, Antioch 1268). 37 people, 14 events.
 - **PR #68**: John Calvin (Servetus, Gruet, and the 1545 plague trials in a victims list; linked to the Council

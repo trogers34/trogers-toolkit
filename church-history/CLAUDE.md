@@ -54,7 +54,7 @@ When the user names a person from church history, add them to the site:
    on related people's pages rather than giving them their own page, unless asked.
 7. If a name is ambiguous, pick the most likely church-history figure, say which one you
    chose, and offer to swap (e.g. "Nicolas" was taken as Nicholas of Myra; "Knox" as John
-   Knox).
+   Knox; "J Gresham Mencken" as J. Gresham Machen).
 
 ## Adding an event
 
@@ -113,6 +113,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - John Wesley (`john-wesley`): starter example
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
 - Charles Haddon Spurgeon (`charles-spurgeon`)
+- J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -231,7 +232,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Jonathan Edwards (including his slaveholding and the 1750 dismissal) and Charles Wesley
+- J. Gresham Machen (assumed for "J Gresham Mencken"), with his 1935–36 suspension from the
+  PCUSA ministry. 35 people, 13 events.
+- **PR #66**: Jonathan Edwards (including his slaveholding and the 1750 dismissal) and Charles Wesley
   (hymns, the Grace Murray episode, mob attacks). 34 people, 13 events.
 - **PR #65**: Ninety-five Theses ("Wittenberg Door"), with the debate over whether they were actually
   posted on the door. 32 people, 13 events.

@@ -1,0 +1,43 @@
+{
+  "name": "Disruption of 1843",
+  "slug": "disruption-of-1843",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The walkout of about a third of the Church of Scotland's ministers, led by Thomas Chalmers, to form the Free Church of Scotland over the right of congregations to reject ministers imposed by patrons.",
+  "place": "Edinburgh, Scotland",
+  "start": {"year": 1834, "date": "May 1834", "label": "General Assembly passes the Veto Act, letting congregations reject patrons' nominees", "sources": ["brown", "britannica"]},
+  "end": {"year": 1843, "date": "18 May 1843", "label": "About 450 ministers walk out of the General Assembly to form the Free Church", "sources": ["brown", "britannica"]},
+  "key_dates": [
+    {"year": 1838, "label": "Court of Session rules against the church in the Auchterarder case", "sources": ["brown"]},
+    {"year": 1842, "label": "General Assembly adopts the Claim of Right; the government rejects it", "sources": ["brown", "britannica"]}
+  ],
+  "background": [
+    {"text": "Under the Patronage Act of 1712, landowners and the crown could present ministers to parishes; evangelicals argued congregations should have a say and that civil courts had no power over spiritual matters.", "sources": ["brown", "britannica"]}
+  ],
+  "happened": [
+    {"text": "In the 'Ten Years' Conflict' the civil courts, upheld by the House of Lords, ruled that the church's Veto Act was illegal and ordered presbyteries to admit patrons' nominees.", "sources": ["brown"]},
+    {"text": "On 18 May 1843 the retiring moderator read a protest and led some 450 ministers out of St Andrew's Church in Edinburgh; they formed the Free Church of Scotland under Thomas Chalmers.", "sources": ["brown", "britannica"]},
+    {"text": "The ministers gave up their churches, manses, and salaries; within a few years the Free Church had built hundreds of churches, schools, and manses by voluntary giving.", "sources": ["brown", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Thomas Chalmers", "role": "Leader of the evangelical party and first moderator of the Free Church"},
+    {"name": "David Welsh", "role": "Retiring moderator who read the protest"},
+    {"name": "Robert Peel", "role": "Prime minister whose government refused the Claim of Right"}
+  ],
+  "outcomes": [
+    {"text": "Patronage was abolished in 1874; most of the Free Church united with the United Presbyterians in 1900 and then with the Church of Scotland in 1929, while a minority continued as the Free Church of Scotland.", "sources": ["britannica", "brown"]}
+  ],
+  "condemnations": [
+    {"date": "1841", "by": "General Assembly of the Church of Scotland (evangelical majority)", "authority": "Church of Scotland", "reason": "Seven ministers of Strathbogie deposed for obeying the civil court rather than the church", "status": "Restored by the post-Disruption assembly in 1843", "sources": ["brown"]}
+  ],
+  "persecution_note": "",
+  "persecution": [
+    {"year": 1843, "date": "1843–1840s", "title": "Refusal of building sites to the Free Church", "summary": "Some landowners, including the Duke of Buccleuch at first, refused to sell or lease land for Free Church buildings, forcing congregations to meet in the open air, in tents, or, at Strontian, in a floating church moored in Loch Sunart. A parliamentary committee investigated in 1847.", "responsible": [
+      {"name": "Landowners opposed to the Free Church", "role": "Refused land for churches", "jurisdiction": "Scotland", "type": "group"}
+    ], "outcome": "Most landowners eventually gave sites.", "sources": ["brown", "britannica"]}
+  ],
+  "sources": [
+    {"id": "brown", "type": "scholarly", "citation": "Stewart J. Brown, Thomas Chalmers and the Godly Commonwealth in Scotland. Oxford: Oxford University Press, 1982."},
+    {"id": "britannica", "type": "reference", "citation": "\"Disruption\" and \"Free Church of Scotland.\" Encyclopaedia Britannica."}
+  ]
+}

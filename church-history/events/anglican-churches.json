@@ -1,0 +1,70 @@
+{
+  "name": "Anglican Churches: Beginnings and Splits",
+  "slug": "anglican-churches",
+  "era": "Reformation",
+  "event_type": "denomination",
+  "summary": "How the Church of England broke from Rome under Henry VIII, took shape under Edward VI and Elizabeth I, spread as a worldwide communion, and divided over Puritanism, Methodism, churchmanship, and sexuality.",
+  "place": "England, then worldwide",
+  "start": {"year": 1534, "date": "November 1534", "label": "Act of Supremacy makes Henry VIII supreme head of the Church of England", "sources": ["chapman", "britannica"]},
+  "end": {"year": 2023, "date": "February 2023", "label": "Global South Anglicans reject the Archbishop of Canterbury's leadership after the Church of England allows blessings of same-sex couples", "sources": ["britannica"]},
+  "key_dates": [
+    {"year": 1549, "label": "Cranmer's first Book of Common Prayer", "sources": ["macculloch", "britannica"]},
+    {"year": 1559, "label": "Elizabethan Settlement restores Protestant worship", "sources": ["chapman", "britannica"]},
+    {"year": 1571, "label": "Thirty-Nine Articles made binding on clergy", "sources": ["chapman"]},
+    {"year": 1662, "label": "Great Ejection of about 2,000 Puritan ministers", "sources": ["watts", "britannica"]},
+    {"year": 1789, "label": "Protestant Episcopal Church organized in the United States", "sources": ["chapman", "britannica"]},
+    {"year": 1833, "label": "Oxford Movement begins", "sources": ["chapman", "britannica"]},
+    {"year": 1867, "label": "First Lambeth Conference of Anglican bishops", "sources": ["chapman", "britannica"]},
+    {"year": 1873, "label": "Reformed Episcopal Church separates from the Episcopal Church", "sources": ["britannica"]},
+    {"year": 1977, "label": "Continuing Anglican churches form at the Congress of St. Louis", "sources": ["britannica"]},
+    {"year": 1992, "label": "Church of England votes to ordain women as priests", "sources": ["chapman", "britannica"]},
+    {"year": 2003, "label": "Episcopal Church consecrates Gene Robinson, an openly gay bishop", "sources": ["chapman", "britannica"]},
+    {"year": 2009, "label": "Anglican Church in North America founded, after GAFCON (2008)", "sources": ["britannica"]}
+  ],
+  "background": [
+    {"text": "Henry VIII broke with Rome after Pope Clement VII refused to annul his marriage to Catherine of Aragon; the break was political at first, with Catholic doctrine largely kept until Henry's death.", "sources": ["macculloch", "britannica"]}
+  ],
+  "happened": [
+    {"text": "Under Edward VI, Archbishop Thomas Cranmer introduced Protestant worship in English through the Book of Common Prayer; Mary I restored Catholicism (1553–58); Elizabeth I settled a Protestant church with bishops and traditional forms.", "sources": ["macculloch", "chapman"]},
+    {"text": "Puritans who wanted further reform were pushed out after the Restoration (1662) and formed the Nonconformist churches; Methodists separated after Wesley's death.", "sources": ["watts", "chapman"]},
+    {"text": "The church spread with the British Empire and missions, forming the Anglican Communion of independent provinces linked to the Archbishop of Canterbury.", "sources": ["chapman", "britannica"]},
+    {"text": "From the 1970s disputes over women's ordination and sexuality led to breakaway churches and a split between conservative provinces, mostly in the Global South, and Western provinces.", "sources": ["chapman", "britannica"]}
+  ],
+  "participants": [
+    {"name": "Thomas Cranmer", "role": "Archbishop who wrote the Book of Common Prayer", "person": "thomas-cranmer"},
+    {"name": "Thomas More", "role": "Executed for refusing to accept the royal supremacy", "person": "thomas-more"},
+    {"name": "Richard Hooker", "role": "Theologian of the Elizabethan church", "person": "richard-hooker"},
+    {"name": "John Wesley", "role": "Anglican priest whose movement became Methodism", "person": "john-wesley"},
+    {"name": "John Henry Newman", "role": "Leader of the Oxford Movement", "person": "john-henry-newman"},
+    {"name": "C. S. Lewis", "role": "Anglican layman and writer", "person": "c-s-lewis"}
+  ],
+  "outcomes": [
+    {"text": "The Anglican Communion has tens of millions of members, the largest share in Africa, but is divided over authority and sexuality.", "sources": ["chapman", "britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1570", "by": "Pope Pius V", "authority": "Papacy (bull Regnans in Excelsis)", "reason": "Elizabeth I excommunicated and declared deposed, releasing her subjects from obedience", "status": "Never lifted", "sources": ["britannica"]},
+    {"date": "1896", "by": "Pope Leo XIII", "authority": "Papacy (Apostolicae Curae)", "reason": "Anglican ordinations declared 'absolutely null and utterly void'", "status": "Still the Catholic position", "sources": ["britannica"]}
+  ],
+  "persecution_note": "The English Reformation brought executions on all sides as the official religion changed with each monarch.",
+  "persecution": [
+    {"year": 1535, "date": "1535–1540s", "title": "Executions under Henry VIII", "summary": "Those who refused the oath acknowledging the royal supremacy were executed, including Bishop John Fisher, Thomas More, and Carthusian monks of London (1535); Henry also burned Protestants who denied Catholic doctrines.", "responsible": [
+      {"name": "Henry VIII", "role": "King of England", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Thomas Cromwell", "role": "Chief minister who enforced the supremacy", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Dozens executed; monasteries dissolved (1536–40).", "sources": ["macculloch", "britannica"]},
+    {"year": 1555, "date": "1555–1558", "title": "Burnings under Mary I", "summary": "About 280 Protestants, including Archbishop Cranmer and Bishops Latimer and Ridley, were burned for heresy.", "responsible": [
+      {"name": "Mary I", "role": "Queen of England", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Reginald Pole and the bishops", "role": "Tried the accused for heresy", "jurisdiction": "Church of England under Rome", "type": "church"}
+    ], "outcome": "Remembered through Foxe's Book of Martyrs.", "sources": ["duffy", "britannica"]},
+    {"year": 1581, "date": "1570s–1603", "title": "Executions of Catholics under Elizabeth I", "summary": "After the papal excommunication of Elizabeth, Catholic priests were treated as traitors; about 180–200 Catholics, most of them priests such as Edmund Campion (1581), were executed.", "responsible": [
+      {"name": "Elizabeth I", "role": "Queen of England", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Francis Walsingham and William Cecil", "role": "Ministers who ran the campaign against Catholic priests", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Many later canonized by the Catholic Church.", "sources": ["duffy", "britannica"]}
+  ],
+  "sources": [
+    {"id": "macculloch", "type": "scholarly", "citation": "Diarmaid MacCulloch, Thomas Cranmer: A Life. New Haven: Yale University Press, 1996."},
+    {"id": "duffy", "type": "scholarly", "citation": "Eamon Duffy, Fires of Faith: Catholic England under Mary Tudor. New Haven: Yale University Press, 2009."},
+    {"id": "watts", "type": "scholarly", "citation": "Michael R. Watts, The Dissenters, vol. 1: From the Reformation to the French Revolution. Oxford: Clarendon Press, 1978."},
+    {"id": "chapman", "type": "scholarly", "citation": "Mark Chapman, Anglicanism: A Very Short Introduction. Oxford: Oxford University Press, 2006."},
+    {"id": "britannica", "type": "reference", "citation": "\"Anglicanism\" and \"Church of England.\" Encyclopaedia Britannica."}
+  ]
+}

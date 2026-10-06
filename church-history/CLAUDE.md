@@ -42,8 +42,12 @@ the user has set and the list of everyone on the site.
     date (the user: "make sure to have a brief summary other than 'Began'"). These appear in
     the timeline table and on event pages instead of "Began"/"Ended". The build enforces it.
 15. Church splits and denominational histories are wanted: Orthodox splits are done; Baptist,
-    Presbyterian, Anglican, Methodist, Lutheran, and Calvary Chapel "beginnings and splits" were requested next
-    (list them for approval first, as group requests).
+    Presbyterian, Anglican, Methodist, Lutheran, and Calvary Chapel histories are done (option C:
+    one overview event each plus separate events for the biggest splits).
+16. Every council (and dogma document) has `decisions`: a short note of what it agreed,
+    especially dogmas, shown as "Agreed:" in the home page's All key dates table and on the
+    event page (the user: "put a small note on the second timeline about what the councils
+    agreed to, especially dogmas"). The build requires it for councils.
 
 ## Adding a person
 
@@ -166,16 +170,28 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - First Great Awakening, c. 1734–1745 (event: `first-great-awakening`)
 - Second Great Awakening, c. 1790–1844 (event: `second-great-awakening`)
 - Stone-Campbell Movement, 1804–1832 (event: `stone-campbell-movement`)
+- Prussian Union and the Old Lutherans, 1817–1845 (event: `prussian-union`)
+- Disruption of 1843, 1834–1843 (event: `disruption-of-1843`)
+- Methodist Split of 1844, 1844–1845 (event: `methodist-split-1844`)
+- Southern Baptist Split, 1844–1845 (event: `southern-baptist-split`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
+- Lutheran Churches: Beginnings and Splits, 1530–2010 (event: `lutheran-churches`)
+- Anglican Churches: Beginnings and Splits, 1534–2023 (event: `anglican-churches`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
+- Presbyterian Churches: Beginnings and Splits, 1560–2012 (event: `presbyterian-churches`)
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
+- Baptist Churches: Beginnings and Splits, 1609–1991 (event: `baptist-churches`)
+- Great Ejection, 1662 (event: `great-ejection`)
+- Methodist Churches: Beginnings and Splits, 1729–2023 (event: `methodist-churches`)
 - First Vatican Council, 1869–1870 (event: `first-vatican-council`)
 - Bulgarian Schism, 1872–1945 (event: `bulgarian-schism`)
 - Old Calendarist Schism, 1924–1935 (event: `old-calendarist-schism`)
 - Russian Church Abroad Split, 1927–2007 (event: `russian-church-abroad-split`)
 - Second Vatican Council, 1962–1965 (event: `second-vatican-council`)
 - Macedonian Orthodox Church Schism, 1967–2022 (event: `macedonian-church-schism`)
+- Calvary Chapel: Beginnings and Splits, 1965–2016 (event: `calvary-chapel`)
+- Vineyard Split from Calvary Chapel, 1977–1982 (event: `vineyard-split`)
 - Moscow–Constantinople Schism, 2018–present (event: `moscow-constantinople-schism`)
 
 ## AI disclosure
@@ -273,7 +289,12 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Charles Finney; First and Second Great Awakenings (linked to Edwards, Whitefield, the Wesleys,
+- Denomination histories, option C chosen by the user: overview events for Baptist, Presbyterian,
+  Anglican, Methodist, Lutheran, and Calvary Chapel ("denomination" event type), plus the Southern
+  Baptist split, Disruption of 1843, Great Ejection, Methodist split of 1844, Prussian Union, and
+  Vineyard split. Councils and dogma documents get an "Agreed:" note in the key-dates table.
+  44 people, 48 events.
+- **PR #77**: Charles Finney; First and Second Great Awakenings (linked to Edwards, Whitefield, the Wesleys,
   Finney); the Stone-Campbell movement. 44 people, 36 events.
 - **PR #76**: Nine Orthodox splits (Arsenite, Brest, Old Believers, Melkite, Bulgarian, Old Calendarist,
   Church Abroad, Macedonian, Moscow–Constantinople); every event's start and end now carry a

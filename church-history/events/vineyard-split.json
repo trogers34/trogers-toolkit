@@ -1,0 +1,38 @@
+{
+  "name": "Vineyard Split from Calvary Chapel",
+  "slug": "vineyard-split",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The separation of John Wimber's churches from Calvary Chapel in 1982 over the place of healing, prophecy, and other 'signs and wonders' in worship, which created the Association of Vineyard Churches.",
+  "place": "Southern California",
+  "start": {"year": 1977, "date": "1977", "label": "John Wimber starts a Calvary Chapel in Yorba Linda", "sources": ["jackson", "miller"]},
+  "end": {"year": 1982, "date": "1982", "label": "Wimber's churches leave Calvary Chapel and join the Vineyard", "sources": ["jackson", "miller"]},
+  "background": [
+    {"text": "Kenn Gulliksen had started 'Vineyard' fellowships within Calvary Chapel from 1974. John Wimber, a former Quaker pastor and musician, led a fast-growing Calvary Chapel in Yorba Linda from 1977.", "sources": ["jackson", "miller"]}
+  ],
+  "happened": [
+    {"text": "Wimber's church put growing emphasis on healing, prophecy, and visible manifestations of the Spirit, in contrast to Chuck Smith's focus on Bible teaching and caution about charismatic displays.", "sources": ["jackson", "miller"]},
+    {"text": "In 1982 the Calvary Chapel leadership asked Wimber to stop using the Calvary Chapel name; his churches joined Gulliksen's Vineyard fellowships, and Wimber became the leader of the Association of Vineyard Churches.", "sources": ["jackson", "miller"]},
+    {"text": "That year Wimber also taught a course on 'Signs, Wonders, and Church Growth' at Fuller Theological Seminary with C. Peter Wagner, which spread his ideas widely.", "sources": ["jackson", "eskridge"]}
+  ],
+  "participants": [
+    {"name": "John Wimber", "role": "Founder and leader of the Vineyard"},
+    {"name": "Chuck Smith", "role": "Calvary Chapel founder who asked the Vineyard churches to separate", "person": "chuck-smith"},
+    {"name": "Kenn Gulliksen", "role": "Founder of the first Vineyard fellowships"},
+    {"name": "C. Peter Wagner", "role": "Fuller professor who co-taught Wimber's course"}
+  ],
+  "outcomes": [
+    {"text": "The Vineyard grew into an international movement of some 2,000+ churches and a major source of contemporary worship music.", "sources": ["miller", "jackson"]},
+    {"text": "In 1995 the Vineyard itself removed the Toronto Airport Vineyard after the 'Toronto Blessing' revival, over manifestations it judged excessive.", "sources": ["jackson"]}
+  ],
+  "condemnations": [
+    {"date": "December 1995", "by": "Association of Vineyard Churches", "authority": "Vineyard board under John Wimber", "reason": "Toronto Airport Vineyard disaffiliated over the manifestations of the 'Toronto Blessing'", "status": "Became Toronto Airport Christian Fellowship (later Catch the Fire)", "sources": ["jackson"]}
+  ],
+  "persecution_note": "No one was persecuted; the split was a parting of ways between church leaders.",
+  "persecution": [],
+  "sources": [
+    {"id": "jackson", "type": "scholarly", "citation": "Bill Jackson, The Quest for the Radical Middle: A History of the Vineyard. Cape Town: Vineyard International Publishing, 1999."},
+    {"id": "miller", "type": "scholarly", "citation": "Donald E. Miller, Reinventing American Protestantism: Christianity in the New Millennium. Berkeley: University of California Press, 1997."},
+    {"id": "eskridge", "type": "scholarly", "citation": "Larry Eskridge, God's Forever Family: The Jesus People Movement in America. New York: Oxford University Press, 2013."}
+  ]
+}

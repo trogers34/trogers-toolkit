@@ -1,0 +1,57 @@
+{
+  "name": "Presbyterian Churches: Beginnings and Splits",
+  "slug": "presbyterian-churches",
+  "era": "Reformation",
+  "event_type": "denomination",
+  "summary": "How Presbyterianism grew from Calvin's Geneva and Knox's Scottish Reformation into churches governed by elders, and how it divided in Scotland and America over revival, patronage, slavery, and theology.",
+  "place": "Geneva, Scotland, England, and North America",
+  "start": {"year": 1560, "date": "August 1560", "label": "Scottish Parliament adopts the Scots Confession, drafted by John Knox and others", "sources": ["balmer", "britannica"]},
+  "end": {"year": 2012, "date": "January 2012", "label": "ECO (A Covenant Order of Evangelical Presbyterians) forms out of the PC(USA)", "sources": ["longfield"]},
+  "key_dates": [
+    {"year": 1643, "label": "Westminster Assembly begins (to 1649), producing the Westminster Confession", "sources": ["balmer", "britannica"]},
+    {"year": 1685, "label": "Scottish Covenanters persecuted in the 'Killing Time'; the Wigtown martyrs drowned", "sources": ["britannica"]},
+    {"year": 1706, "label": "First American presbytery formed at Philadelphia", "sources": ["balmer", "longfield"]},
+    {"year": 1741, "label": "Old Side–New Side split over the Great Awakening (reunited 1758)", "sources": ["balmer"]},
+    {"year": 1810, "label": "Cumberland Presbyterian Church separates over revival and education of ministers", "sources": ["balmer"]},
+    {"year": 1837, "label": "Old School–New School split", "sources": ["balmer", "longfield"]},
+    {"year": 1843, "label": "Disruption of the Church of Scotland", "sources": ["britannica"]},
+    {"year": 1861, "label": "Southern Presbyterians separate (PCUS)", "sources": ["balmer", "longfield"]},
+    {"year": 1936, "label": "J. Gresham Machen founds what becomes the Orthodox Presbyterian Church", "sources": ["longfield"]},
+    {"year": 1973, "label": "Presbyterian Church in America (PCA) forms", "sources": ["longfield", "britannica"]},
+    {"year": 1983, "label": "Northern and Southern mainline churches reunite as the PC(USA)", "sources": ["longfield", "britannica"]}
+  ],
+  "background": [
+    {"text": "John Calvin organized the Geneva church under pastors, teachers, elders, and deacons; John Knox brought this model to Scotland after his exile in Geneva.", "sources": ["balmer", "britannica"]}
+  ],
+  "happened": [
+    {"text": "Presbyterian churches are governed by elders in a series of courts (session, presbytery, synod, general assembly) rather than by bishops.", "sources": ["balmer", "britannica"]},
+    {"text": "The Westminster Confession and Catechisms (1640s) became the doctrinal standards of most English-speaking Presbyterians.", "sources": ["balmer", "britannica"]},
+    {"text": "American Presbyterians repeatedly split and reunited over revivalism (1741, 1810, 1837), slavery and the Civil War (1861), and liberal theology (1936, 1973), and more recently over ordination and sexuality.", "sources": ["balmer", "longfield"]}
+  ],
+  "participants": [
+    {"name": "John Calvin", "role": "Reformer whose Geneva church was the model", "person": "john-calvin"},
+    {"name": "John Knox", "role": "Leader of the Scottish Reformation", "person": "john-knox"},
+    {"name": "Thomas Chalmers", "role": "Leader of the 1843 Disruption"},
+    {"name": "J. Gresham Machen", "role": "Founder of the Orthodox Presbyterian Church", "person": "j-gresham-machen"},
+    {"name": "R. C. Sproul", "role": "Theologian and minister in the PCA", "person": "r-c-sproul"}
+  ],
+  "outcomes": [
+    {"text": "Presbyterian and Reformed churches, through the World Communion of Reformed Churches and other bodies, number tens of millions of members worldwide, with large churches in Korea, Africa, and Brazil.", "sources": ["britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1935–1936", "by": "Presbyterian Church in the U.S.A.", "authority": "General Assembly and Presbytery of New Brunswick", "reason": "J. Gresham Machen suspended from the ministry, leading to the founding of the OPC (see his page)", "status": "Never reversed", "sources": ["longfield"]}
+  ],
+  "persecution_note": "Presbyterians were both persecuted and, where established, persecutors of others.",
+  "persecution": [
+    {"year": 1685, "date": "1660s–1688, especially 1680s", "title": "Persecution of the Scottish Covenanters", "summary": "After the Restoration, Charles II and James VII imposed bishops on the Church of Scotland. Presbyterians who held outdoor services ('conventicles') were fined, imprisoned, transported, or killed; in the 'Killing Time' of the 1680s government troops shot suspects in the field, and in 1685 two women, Margaret McLachlan and Margaret Wilson, were drowned at Wigtown for refusing an oath.", "responsible": [
+      {"name": "Charles II and James VII", "role": "Kings", "jurisdiction": "Kingdom of Scotland", "type": "state"},
+      {"name": "John Graham of Claverhouse", "role": "Royal commander who hunted Covenanters", "jurisdiction": "Kingdom of Scotland", "type": "state"},
+      {"name": "Scottish Privy Council and episcopal church", "role": "Ordered and supported the measures", "jurisdiction": "Kingdom of Scotland", "type": "state"}
+    ], "outcome": "Ended with the Revolution of 1688–90, which restored Presbyterianism in Scotland.", "sources": ["britannica"]}
+  ],
+  "sources": [
+    {"id": "balmer", "type": "scholarly", "citation": "Randall Balmer and John R. Fitzmier, The Presbyterians. Westport, CT: Greenwood Press, 1993."},
+    {"id": "longfield", "type": "scholarly", "citation": "Bradley J. Longfield, Presbyterians and American Culture: A History. Louisville: Westminster John Knox Press, 2013."},
+    {"id": "britannica", "type": "reference", "citation": "\"Presbyterian\" and \"Covenanter.\" Encyclopaedia Britannica."}
+  ]
+}

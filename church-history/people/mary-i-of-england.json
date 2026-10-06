@@ -1,0 +1,544 @@
+{
+  "name": "Mary I of England",
+  "slug": "mary-i-of-england",
+  "also_known_as": "Mary Tudor; Bloody Mary",
+  "era": "Reformation",
+  "role": "Queen of England and Ireland (1553–1558), the first queen regnant crowned in England; wife of Philip II of Spain",
+  "born": {
+    "year": 1516,
+    "date": "18 February 1516",
+    "place": "Greenwich Palace (Palace of Placentia), Greenwich, England",
+    "sources": [
+      "loades",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1558,
+    "date": "17 November 1558",
+    "place": "St James's Palace, London, England",
+    "sources": [
+      "loades",
+      "porter"
+    ],
+    "cause": "Illness; the exact cause is uncertain (an influenza epidemic and uterine or ovarian cancer have both been suggested)"
+  },
+  "summary": "Daughter of Henry VIII and Catherine of Aragon who, after being declared illegitimate and pressed to renounce her faith under her father and brother, became queen in 1553, reunited the English church with Rome, and revived the heresy laws under which about 280 Protestants were burned, earning her the later name \"Bloody Mary.\"",
+  "key_dates": [
+    {
+      "year": 1533,
+      "label": "Declared illegitimate after her parents' marriage is annulled; stripped of the title of princess",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1536,
+      "label": "Signs a submission accepting her father as Supreme Head of the Church and her parents' marriage as unlawful",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Defies Edward VI's council by continuing to hear Mass; her household officers are imprisoned",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Overthrows Lady Jane Grey's nine-day reign and becomes queen; Parliament repeals Edward VI's religious laws",
+      "sources": [
+        "loades",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1554,
+      "label": "Wyatt's rebellion suppressed; marries Philip of Spain; England reconciled to Rome by Cardinal Pole (30 November)",
+      "sources": [
+        "loades",
+        "duffy-fires"
+      ]
+    },
+    {
+      "year": 1555,
+      "label": "Heresy laws revived; burnings of Protestants begin with John Rogers (4 February)",
+      "sources": [
+        "duffy-fires",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1556,
+      "label": "Thomas Cranmer burned at Oxford; Reginald Pole becomes Archbishop of Canterbury",
+      "sources": [
+        "duffy-fires",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1558,
+      "label": "Calais, England's last possession in France, falls to the French (January)",
+      "sources": [
+        "loades",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Won the throne in July 1553 against the attempt by John Dudley, Duke of Northumberland, to crown the Protestant Lady Jane Grey, and became the first woman crowned queen regnant of England.",
+      "sources": [
+        "loades",
+        "porter",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Under Mary the swing went back to Rome: Edward VI's English Prayer Book was abolished, the Latin Mass, altars, and images returned, married priests were removed from their parishes, and papal authority was restored, until her half-sister Elizabeth I reversed it again in 1559.",
+      "sources": [
+        "duffy-fires",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Restored Catholic worship. Parliament repealed Edward VI's religious laws in 1553, the Latin Mass returned, and married clergy were removed from their posts.",
+      "sources": [
+        "duffy-fires",
+        "loades",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Reunited the Church of England with Rome. On 30 November 1554 the papal legate Cardinal Reginald Pole absolved the kingdom, and the Second Act of Repeal (1555) undid Henry VIII's anti-papal laws, though former monastic lands were left with their new owners.",
+      "sources": [
+        "duffy-fires",
+        "statutes",
+        "loades"
+      ]
+    },
+    {
+      "text": "Revived the medieval heresy laws (1555). Between February 1555 and November 1558 about 280 Protestants were burned, among them Archbishop Thomas Cranmer and Bishops Hugh Latimer, Nicholas Ridley, and John Hooper, and many ordinary men and women; others died in prison and some 800 fled abroad.",
+      "sources": [
+        "duffy-fires",
+        "foxe",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Supported a program of Catholic renewal under Pole: new preaching and catechetical books such as Bishop Edmund Bonner's homilies, a legatine synod (1555–1556) with plans for diocesan seminaries, and the refounding of some religious houses such as Westminster Abbey.",
+      "sources": [
+        "duffy-fires",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Married Philip of Spain (later Philip II) in 1554, a match that provoked Sir Thomas Wyatt's rebellion. After the rising was crushed, Lady Jane Grey, her husband, and her father were executed, along with about 90 rebels.",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "text": "Took England into Spain's war with France (1557), which led to the loss of Calais in January 1558. Her two apparent pregnancies (1554–1555 and 1557–1558) produced no child, and the crown passed to her Protestant half-sister Elizabeth.",
+      "sources": [
+        "loades",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Became known as \"Bloody Mary\" through the Protestant memory of the burnings, shaped above all by John Foxe's Acts and Monuments (1563). Recent historians such as Eamon Duffy and Linda Porter have reassessed her reign, while acknowledging that the burnings were exceptional in English history.",
+      "sources": [
+        "foxe",
+        "duffy-fires",
+        "porter"
+      ]
+    }
+  ],
+  "sayings_intro": "Few words are firmly attributed to Mary. This is a selection.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"When I am dead and opened, you shall find Calais lying in my heart\"",
+        "reference": "Reported in Raphael Holinshed's Chronicles (1577), as words spoken near her death",
+        "note": "Not in her own writings; recorded about two decades later and possibly embellished. Usually quoted as \"...you shall find 'Calais' lying upon my heart.\"",
+        "sources": [
+          "loades",
+          "porter"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"Bloody Mary\"",
+        "reference": "Later Protestant nickname",
+        "note": "Not her words. The name comes from later Protestant tradition built on Foxe's account of the burnings; it is also used for an unrelated cocktail and folklore figure.",
+        "sources": [
+          "duffy-fires",
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"Mary, Mary, quite contrary\"",
+        "reference": "English nursery rhyme, first printed in the 18th century",
+        "note": "Often said to be about Mary I and her executions, but there is no evidence connecting the rhyme to her; the link is a later theory.",
+        "sources": [
+          "opie"
+        ]
+      }
+    ]
+  },
+  "victims_title": "Notable people executed on Mary I's authority",
+  "victims_intro": "About 280 people (Eamon Duffy counts 284) were burned for heresy in Mary's reign, the great majority ordinary laypeople in London, Kent, Essex, and East Anglia; others died in prison. In addition, Lady Jane Grey and about 90 rebels were executed after Wyatt's rebellion in 1554. Heresy cases were tried by bishops and papal commissioners and the burnings carried out by the secular authorities under the revived heresy laws, with the queen's warrant. Historians agree that Mary supported the burnings and refused to stop them; how far she, Cardinal Pole, Bishop Stephen Gardiner, Bishop Edmund Bonner, and the council each drove them is debated. This is a selection of the best-known cases. The links are Wikipedia searches for each name, and the Foxe link opens the online edition.",
+  "victims": [
+    {
+      "name": "Lady Jane Grey",
+      "executed": "Beheaded on Tower Green, Tower of London, 12 February 1554",
+      "condemned_by": "Tried for high treason at the Guildhall, London, November 1553",
+      "allegation": "The Protestant great-niece of Henry VIII, proclaimed queen for nine days in July 1553. Mary at first spared her, but signed her death warrant after Jane's father joined Wyatt's rebellion. A Catholic priest, John Feckenham, was sent to convert her before her death; she refused.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The queen signed the warrant; her earlier reluctance is also recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Lady Jane Grey",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Lady+Jane+Grey"
+        }
+      ],
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "name": "John Rogers",
+      "executed": "Burned at Smithfield, London, 4 February 1555",
+      "condemned_by": "Commission headed by Stephen Gardiner, Bishop of Winchester and Lord Chancellor, January 1555",
+      "allegation": "Editor of the Matthew Bible (1537) and a London preacher, he was the first Protestant burned under Mary.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Burned under the heresy laws revived in her reign and with royal authority. Her personal part in this case is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: John Rogers",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Rogers+martyr"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires"
+      ]
+    },
+    {
+      "name": "John Hooper",
+      "executed": "Burned at Gloucester, 9 February 1555",
+      "condemned_by": "Commission headed by Stephen Gardiner, January 1555",
+      "allegation": "Former Bishop of Gloucester and Worcester and a strong Protestant reformer. He was sent back to his own cathedral city to be burned; Foxe describes a slow death in a fire of green wood.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under royal authority in her reign. The details of his suffering come from Foxe.",
+      "links": [
+        {
+          "label": "Wikipedia: John Hooper",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Hooper+bishop"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires"
+      ]
+    },
+    {
+      "name": "Rowland Taylor",
+      "executed": "Burned on Aldham Common, near Hadleigh, Suffolk, 9 February 1555",
+      "condemned_by": "Commission headed by Stephen Gardiner, January 1555",
+      "allegation": "Rector of Hadleigh, arrested after he resisted the restoration of the Mass in his parish church.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under royal authority in her reign; her personal part in this case is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Rowland Taylor",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Rowland+Taylor"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires"
+      ]
+    },
+    {
+      "name": "Hugh Latimer",
+      "executed": "Burned outside Balliol College, Oxford, 16 October 1555",
+      "condemned_by": "Papal commissioners led by John White, Bishop of Lincoln, acting under Cardinal Pole's legatine authority, October 1555",
+      "allegation": "Former Bishop of Worcester and Henry VIII's best-known Protestant preacher. Foxe records his words to Ridley at the stake: \"Be of good comfort, Master Ridley, and play the man.\"",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under royal authority in her reign. The famous words are reported by Foxe, not in an earlier source.",
+      "links": [
+        {
+          "label": "Wikipedia: Hugh Latimer",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Hugh+Latimer"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires"
+      ]
+    },
+    {
+      "name": "Nicholas Ridley",
+      "executed": "Burned outside Balliol College, Oxford, 16 October 1555, with Latimer",
+      "condemned_by": "Papal commissioners led by John White, Bishop of Lincoln, October 1555",
+      "allegation": "Former Bishop of London, who had preached in 1553 that Mary and Elizabeth were illegitimate in support of Lady Jane Grey. Foxe describes his death as long and painful.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under royal authority in her reign; her personal part in this case is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Nicholas Ridley",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Nicholas+Ridley+martyr"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires"
+      ]
+    },
+    {
+      "name": "Thomas Cranmer",
+      "executed": "Burned outside Balliol College, Oxford, 21 March 1556",
+      "condemned_by": "James Brooks, Bishop of Gloucester, as papal commissioner (September 1555); sentenced by Pope Paul IV (December 1555)",
+      "allegation": "The former Archbishop of Canterbury, who had annulled her parents' marriage in 1533. He signed several recantations, which under church law could have saved him, but Mary refused to pardon him. At the stake he withdrew his recantations.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Mary's refusal to spare him after his recantations is documented.",
+      "links": [
+        {
+          "label": "Wikipedia: Thomas Cranmer",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thomas+Cranmer"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online (search the name)",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "duffy-fires",
+        "loades"
+      ]
+    }
+  ],
+  "persecution_note": "Before she became queen, Mary was declared illegitimate, separated from her mother, and pressed under threat of treason charges to accept her father's supremacy over the church, which she did in 1536. Under her Protestant brother Edward VI she was pressured to give up the Mass, and her household officers were jailed. Edward's will tried to exclude her from the throne. She was never imprisoned or excommunicated.",
+  "persecution": [
+    {
+      "year": 1533,
+      "date": "1533–1536",
+      "title": "Declared illegitimate and separated from her mother",
+      "summary": "After Cranmer declared Henry's marriage to Catherine of Aragon void (1533), Mary lost the title of princess and was declared illegitimate by the Act of Succession (1534). Her household was broken up, she was made to serve in the household of the infant Elizabeth, and she was not allowed to see her mother, who died in 1536.",
+      "responsible": [
+        {
+          "name": "Henry VIII",
+          "role": "Her father; King of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Cranmer",
+          "role": "Archbishop of Canterbury; declared her parents' marriage void",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "Parliament of England",
+          "role": "Passed the Act of Succession (1534)",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Anne Boleyn",
+          "role": "Queen; reported by contemporaries to have encouraged harsh treatment of Mary",
+          "jurisdiction": "Royal court",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Kept from her mother and from court until 1536.",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1536,
+      "date": "June 1536",
+      "title": "Forced submission to her father's supremacy",
+      "summary": "After Anne Boleyn's fall, Mary still refused to accept Henry as head of the church or her own illegitimacy. A council delegation led by the Duke of Norfolk threatened her, judges advised that she could be proceeded against for treason, and her supporters were questioned. Advised by the imperial ambassador Eustace Chapuys to give way, she signed the submission.",
+      "responsible": [
+        {
+          "name": "Henry VIII",
+          "role": "Demanded her submission",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Cromwell",
+          "role": "The king's chief minister; managed the pressure and drafted the terms",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Howard, Duke of Norfolk",
+          "role": "Led the council delegation that confronted her",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "She signed, was restored to her father's favor, and returned to court, though still illegitimate in law until 1544, when Parliament restored her to the succession.",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1550,
+      "date": "1549–1551",
+      "title": "Pressure to abandon the Mass under Edward VI",
+      "summary": "After the Act of Uniformity (1549) made the Book of Common Prayer compulsory, Mary continued to have Mass said in her household. In 1550 she considered fleeing to the Continent. In March 1551 Edward VI and his council confronted her; in August 1551 her chief officers, Robert Rochester, Edward Waldegrave, and Francis Englefield, were sent to the Tower for refusing to stop the Masses in her house.",
+      "responsible": [
+        {
+          "name": "Edward VI",
+          "role": "Her half-brother; King of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Privy Council of Edward VI",
+          "role": "Led by John Dudley, Earl of Warwick (later Duke of Northumberland)",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Emperor Charles V",
+          "role": "Her cousin; threatened war if she was denied her Mass"
+        }
+      ],
+      "outcome": "She continued to hear Mass privately, protected by fear of the emperor's reaction.",
+      "sources": [
+        "loades",
+        "porter"
+      ]
+    },
+    {
+      "year": 1553,
+      "date": "June–July 1553",
+      "title": "Excluded from the throne by Edward VI's \"Devise\"",
+      "summary": "Edward VI, with the Duke of Northumberland, set aside both his half-sisters in favor of Lady Jane Grey, in large part to keep a Catholic from the throne. After Edward's death on 6 July, Jane was proclaimed queen and forces were sent to capture Mary.",
+      "responsible": [
+        {
+          "name": "Edward VI",
+          "role": "Drew up the \"Devise for the Succession\"",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "John Dudley, Duke of Northumberland",
+          "role": "Lord President of the Council; promoted the scheme and led forces against her",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Mary gathered support in East Anglia, the council changed sides, and she was proclaimed queen on 19 July 1553. Northumberland was executed for treason.",
+      "sources": [
+        "loades",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Mary was never excommunicated. She shared in the schism of her father's church after her forced submission of 1536, but the realm, including her, was formally absolved and reconciled to Rome by Cardinal Pole on 30 November 1554. She died in communion with the Roman Catholic Church.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Accounts of those burned under Mary I. Online: The Unabridged Acts and Monuments Online (Digital Humanities Institute, University of Sheffield).",
+      "url": "https://www.dhi.ac.uk/foxe/"
+    },
+    {
+      "id": "statutes",
+      "type": "primary",
+      "citation": "The Statutes of the Realm (London: Record Commission, 1810–1828). Marian statutes including the First Act of Repeal (1553), the revival of the heresy acts, and the Second Act of Repeal (1555)."
+    },
+    {
+      "id": "loades",
+      "type": "scholarly",
+      "citation": "David Loades, Mary Tudor: A Life (Oxford: Basil Blackwell, 1989)."
+    },
+    {
+      "id": "porter",
+      "type": "scholarly",
+      "citation": "Linda Porter, Mary Tudor: The First Queen (London: Portrait, 2007)."
+    },
+    {
+      "id": "duffy-fires",
+      "type": "scholarly",
+      "citation": "Eamon Duffy, Fires of Faith: Catholic England under Mary Tudor (New Haven: Yale University Press, 2009)."
+    },
+    {
+      "id": "haigh",
+      "type": "scholarly",
+      "citation": "Christopher Haigh, English Reformations: Religion, Politics, and Society under the Tudors (Oxford: Clarendon Press, 1993)."
+    },
+    {
+      "id": "opie",
+      "type": "reference",
+      "citation": "Iona and Peter Opie, eds., The Oxford Dictionary of Nursery Rhymes (Oxford: Clarendon Press, 1951)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Mary I,\" Encyclopaedia Britannica."
+    }
+  ]
+}

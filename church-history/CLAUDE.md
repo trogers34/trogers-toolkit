@@ -53,6 +53,10 @@ the user has set and the list of everyone on the site.
     date, place, and how they died (`died.cause`, required by the build; "Unknown" when it is).
     Dates are exact where known and marked approximate (c.) where not. Deaths also show the
     approximate age at death ("about N", or "unknown" when a birth or death date is unknown).
+18. For English royalty of the 1500s, cover every swing between Catholic and Protestant
+    (Anglican) worship, with dates, what changed in parish worship, and who was punished
+    (the user: "cover all the back and forth between being Anglican or Roman Catholic").
+    Henry VIII, Edward VI, Mary I, and Elizabeth I each name the monarch before and after.
 
 ## Adding a person
 
@@ -106,6 +110,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
+- Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
 - Boethius (`boethius`)
@@ -127,9 +132,15 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Thomas More (`thomas-more`): includes the list of people executed for heresy linked to him, with verification ratings
 - Martin Luther (`martin-luther`): starter example
 - Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
+- Henry VIII (`henry-viii`)
+- Ignatius of Loyola (`ignatius-of-loyola`)
 - Thomas Cranmer (`thomas-cranmer`)
 - Martin Bucer (`martin-bucer`)
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
+- Heinrich Bullinger (`heinrich-bullinger`)
+- Mary I of England (`mary-i-of-england`): "Bloody Mary"
+- Edward VI (`edward-vi`)
+- Elizabeth I (`elizabeth-i`)
 - John Calvin (`john-calvin`): includes people executed in Geneva linked to him (Servetus etc.), with ratings
 - John Knox (`john-knox`)
 - Richard Hooker (`richard-hooker`)
@@ -201,6 +212,7 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
 - Baptist Churches: Beginnings and Splits, 1609–1991 (event: `baptist-churches`)
 - Synod of Dort, 1618–1619 (event: `synod-of-dort`)
+- Religion in Stuart England, 1603–1714 (event: `stuart-england`)
 - Great Ejection, 1662 (event: `great-ejection`)
 - Methodist Churches: Beginnings and Splits, 1729–2023 (event: `methodist-churches`)
 - First Vatican Council, 1869–1870 (event: `first-vatican-council`)
@@ -308,10 +320,13 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Boethius (execution by Theodoric), Peter Abelard (castration; condemned at Soissons 1121 and Sens
+- Henry VIII, Edward VI, Mary I ("Bloody Mary"), Elizabeth I (with the Catholic–Protestant swings and
+  victims lists; linked from the Anglican history), Ignatius of Loyola, Jerome, Heinrich Bullinger,
+  and a Religion in Stuart England event (1603–1714). Drafted partly by helper agents and reviewed.
+  58 people, 56 events.
+- **PR #84**: Boethius (execution by Theodoric), Peter Abelard (castration; condemned at Soissons 1121 and Sens
   1141), Bernard of Clairvaux (Second Crusade, prosecution of Abelard; linked from the Crusades and
-  Marian dogmas). 51 people, 55 events. Queued: Henry VIII, Ignatius of Loyola, Jerome, Bullinger,
-  Elizabeth I, Mary I, and a Stuart England event.
+  Marian dogmas). 51 people, 55 events.
 - William Carey (the Enquiry, the BMS, Serampore translations, sati, his wife Dorothy's suffering,
   East India Company restrictions); linked from the Baptist history. 48 people, 55 events.
 - **PR #83**: John Duns Scotus (Immaculate Conception, univocity, haecceity; expelled from France in 1303);

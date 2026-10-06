@@ -1,0 +1,510 @@
+{
+  "name": "Henry VIII",
+  "slug": "henry-viii",
+  "also_known_as": "Henry VIII of England; Defender of the Faith (Fidei Defensor)",
+  "era": "Reformation",
+  "role": "King of England (1509–1547) and lord, then king, of Ireland; first Supreme Head of the Church of England",
+  "born": {
+    "year": 1491,
+    "date": "28 June 1491",
+    "place": "Greenwich Palace (Palace of Placentia), Greenwich, England",
+    "sources": [
+      "scarisbrick",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1547,
+    "date": "28 January 1547",
+    "place": "Palace of Whitehall, London, England",
+    "sources": [
+      "scarisbrick",
+      "britannica"
+    ],
+    "cause": "Natural causes after years of declining health (severe obesity and a chronically ulcerated leg); the exact cause is unknown"
+  },
+  "summary": "King of England who, after the pope would not annul his marriage to Catherine of Aragon, broke the English church from Rome, made himself its Supreme Head, and dissolved the monasteries. He kept most Catholic doctrine, and his government executed both Catholics who refused his supremacy (including Thomas More and John Fisher) and Protestants who denied traditional teaching.",
+  "key_dates": [
+    {
+      "year": 1509,
+      "label": "Becomes king; marries Catherine of Aragon, his late brother Arthur's widow, under a papal dispensation",
+      "sources": [
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1521,
+      "label": "Publishes the Assertio Septem Sacramentorum against Luther; Pope Leo X names him \"Defender of the Faith\"",
+      "sources": [
+        "assertio",
+        "scarisbrick"
+      ]
+    },
+    {
+      "year": 1527,
+      "label": "Begins seeking an annulment of his marriage to Catherine (the \"King's Great Matter\")",
+      "sources": [
+        "scarisbrick",
+        "bernard"
+      ]
+    },
+    {
+      "year": 1533,
+      "label": "Act in Restraint of Appeals; marries Anne Boleyn; Cranmer declares the marriage to Catherine void",
+      "sources": [
+        "statutes",
+        "scarisbrick",
+        "haigh"
+      ]
+    },
+    {
+      "year": 1534,
+      "label": "Act of Supremacy names the king Supreme Head of the Church of England; Act of Succession and its oath",
+      "sources": [
+        "statutes",
+        "bernard",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1535,
+      "label": "Carthusian monks, John Fisher, and Thomas More executed for denying his supremacy",
+      "sources": [
+        "scarisbrick",
+        "bernard"
+      ]
+    },
+    {
+      "year": 1536,
+      "label": "Anne Boleyn executed; dissolution of the smaller monasteries begins; Pilgrimage of Grace rising in the North",
+      "sources": [
+        "ives",
+        "bernard",
+        "haigh"
+      ]
+    },
+    {
+      "year": 1539,
+      "label": "Act of Six Articles reaffirms Catholic doctrine; Great Bible published; larger monasteries surrender",
+      "sources": [
+        "statutes",
+        "bernard",
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1540,
+      "label": "Thomas Cromwell executed; three Protestants and three Catholics executed on the same day (30 July)",
+      "sources": [
+        "scarisbrick",
+        "bernard",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1543,
+      "label": "The King's Book (A Necessary Doctrine and Erudition for Any Christian Man) issued under his name",
+      "sources": [
+        "bernard",
+        "haigh"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Broke the English church from papal authority. After Pope Clement VII would not annul his first marriage, a series of statutes (1532–1534) ended appeals and payments to Rome, and the Act of Supremacy (1534) declared the king Supreme Head of the Church of England.",
+      "sources": [
+        "statutes",
+        "scarisbrick",
+        "bernard"
+      ]
+    },
+    {
+      "text": "In parish churches the Latin Mass, the seven sacraments, and clerical celibacy remained under Henry, but the pope's name was struck from service books, shrines and monasteries were destroyed, and an English Bible was ordered placed in every church (1538); his son Edward VI then moved the church decisively to Protestantism.",
+      "sources": [
+        "duffy-altars",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Dissolved every monastery, priory, convent, and friary in England and Wales (1536–1540), over 800 houses. Their lands and wealth passed to the crown and were largely sold to the nobility and gentry; shrines, including Thomas Becket's at Canterbury (1538), were destroyed.",
+      "sources": [
+        "bernard",
+        "duffy-altars",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote, with help from scholars, the Assertio Septem Sacramentorum (1521) defending the seven sacraments and papal authority against Martin Luther, for which Pope Leo X gave him the title \"Defender of the Faith,\" still used by English monarchs.",
+      "sources": [
+        "assertio",
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Authorized the English Bible in churches: royal injunctions of 1538 ordered a Bible in English in every parish, and the Great Bible (1539) was issued with his image on the title page. In 1543 he restricted Bible reading by women and the lower classes.",
+      "sources": [
+        "macculloch",
+        "haigh",
+        "bernard"
+      ]
+    },
+    {
+      "text": "Kept most traditional Catholic doctrine. The Act of Six Articles (1539) made denial of transubstantiation punishable by burning and upheld clerical celibacy and private Masses; Protestants were burned under it, including Anne Askew (1546).",
+      "sources": [
+        "statutes",
+        "haigh",
+        "foxe"
+      ]
+    },
+    {
+      "text": "Had those who refused to accept his supremacy executed for treason, among them Bishop John Fisher, Sir Thomas More, Carthusian monks of the London Charterhouse, and Bridgettine and Franciscan friars (see the list below).",
+      "sources": [
+        "scarisbrick",
+        "bernard",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Married six times. He had his marriages to Catherine of Aragon and Anne of Cleves annulled and two wives, Anne Boleyn (1536) and Catherine Howard (1542), beheaded on charges of adultery and treason that many historians regard as doubtful in Anne Boleyn's case.",
+      "sources": [
+        "ives",
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Crushed the Pilgrimage of Grace (1536–1537), a northern rising that demanded the restoration of the monasteries and the old religion; after a promised pardon, around 200 people were executed, including its leader Robert Aske.",
+      "sources": [
+        "bernard",
+        "haigh",
+        "scarisbrick"
+      ]
+    },
+    {
+      "text": "Pursued a shifting middle course. His chief minister Thomas Cromwell and Archbishop Thomas Cranmer advanced reforming policies, while conservative bishops such as Stephen Gardiner shaped the Six Articles and the King's Book (1543); on 30 July 1540 three Protestants were burned and three Catholics hanged together.",
+      "sources": [
+        "macculloch",
+        "bernard",
+        "foxe"
+      ]
+    }
+  ],
+  "sayings_intro": "Henry is better remembered for what he did than for phrases. This is a selection.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"Defender of the Faith\" (Fidei Defensor)",
+        "reference": "Title granted by Pope Leo X in 1521 for the Assertio Septem Sacramentorum",
+        "note": "Not coined by Henry, but granted to him; Parliament later confirmed it as a royal title after the break with Rome, and it still appears on British coins as \"F.D.\" or \"Fid. Def.\"",
+        "sources": [
+          "assertio",
+          "britannica"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"Greensleeves\"",
+        "reference": "English ballad tune, first registered in 1580",
+        "note": "Popularly said to have been written by Henry for Anne Boleyn. Its musical style is later than his reign, and there is no contemporary evidence that he wrote it.",
+        "sources": [
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"Will no one rid me of this turbulent priest?\"",
+        "reference": "Often wrongly placed in Henry VIII's mouth",
+        "note": "This later paraphrase belongs to Henry II and Thomas Becket (1170), not Henry VIII, who destroyed Becket's shrine in 1538.",
+        "sources": [
+          "britannica"
+        ]
+      }
+    ]
+  },
+  "victims_title": "Notable people executed on Henry VIII's authority",
+  "victims_intro": "Executions under Henry VIII were numerous: those who refused his supremacy, people convicted of treason (including two of his wives and his former chief minister Thomas Cromwell), rebels of the Pilgrimage of Grace, and Protestants burned for heresy. This is a selection of well-documented cases. In each case the king's authority stood behind the sentence, either through treason trials, acts of attainder, or his heresy laws; his personal part varied and is noted. Thomas More, whose page is on this site, is included here as well. The links are Wikipedia searches for each name.",
+  "victims": [
+    {
+      "name": "John Houghton and the Carthusians of the London Charterhouse",
+      "executed": "Hanged, drawn, and quartered at Tyburn, London, 4 May 1535 (Houghton, with two other Carthusian priors, a Bridgettine monk, and a secular priest); further Carthusians executed in June 1535, and others starved to death in Newgate prison in 1537",
+      "condemned_by": "Special commission at Westminster under the Treasons Act 1534",
+      "allegation": "Houghton, prior of the London Charterhouse, refused to accept the king as Supreme Head of the Church. He and his companions were the first executed for denying the royal supremacy.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The executions under the new treason law, and Cromwell's direction of the case on the king's behalf, are well documented.",
+      "links": [
+        {
+          "label": "Wikipedia: John Houghton",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Houghton+Carthusian"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "bernard",
+        "scarisbrick"
+      ]
+    },
+    {
+      "name": "John Fisher",
+      "executed": "Beheaded on Tower Hill, London, 22 June 1535",
+      "condemned_by": "Special commission at Westminster Hall, 17 June 1535, under the Treasons Act 1534",
+      "allegation": "Bishop of Rochester and Catherine of Aragon's leading defender. He refused the Oath of Succession and denied the king's supremacy. Pope Paul III's naming him a cardinal in May 1535 angered Henry, and he was tried within weeks.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Prosecuted by the king's government for denying the king's supremacy; Henry's anger at the cardinal's hat is recorded by contemporaries.",
+      "links": [
+        {
+          "label": "Wikipedia: John Fisher",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Fisher"
+        }
+      ],
+      "sources": [
+        "scarisbrick",
+        "bernard",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Thomas More",
+      "executed": "Beheaded on Tower Hill, London, 6 July 1535",
+      "condemned_by": "Special commission at Westminster Hall, 1 July 1535, under the Treasons Act 1534",
+      "allegation": "Former Lord Chancellor, convicted of denying the king's supremacy on testimony by Richard Rich that More called perjured. Henry commuted the sentence from hanging, drawing, and quartering to beheading.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The trial and the king's commutation of the sentence are documented.",
+      "links": [
+        {
+          "label": "Wikipedia: Thomas More",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Thomas+More"
+        }
+      ],
+      "sources": [
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Anne Boleyn",
+      "executed": "Beheaded by a swordsman inside the Tower of London, 19 May 1536",
+      "condemned_by": "A court of peers presided over by her uncle Thomas Howard, Duke of Norfolk, 15 May 1536; Cranmer annulled her marriage to Henry two days later",
+      "allegation": "Henry's second wife, convicted of adultery, incest with her brother George Boleyn, and plotting the king's death. Five men, including her brother, were executed with her.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Henry's government brought the charges and he approved the sentence. Whether the charges were true is doubted by most historians, and whether Henry or Cromwell drove the case is debated.",
+      "links": [
+        {
+          "label": "Wikipedia: Anne Boleyn",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Anne+Boleyn"
+        }
+      ],
+      "sources": [
+        "ives",
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Robert Aske",
+      "executed": "Hanged in chains at York, July 1537",
+      "condemned_by": "Tried for treason at Westminster, May 1537",
+      "allegation": "A lawyer who led the Pilgrimage of Grace (1536), which demanded the restoration of the monasteries. Henry invited him to court with promises of a pardon and a Parliament; after a further rising in early 1537 he was arrested and executed, and Henry ordered harsh exemplary executions in the North.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Henry's letters ordering executions after the risings survive.",
+      "links": [
+        {
+          "label": "Wikipedia: Robert Aske",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Robert+Aske"
+        }
+      ],
+      "sources": [
+        "bernard",
+        "haigh"
+      ]
+    },
+    {
+      "name": "Robert Barnes",
+      "executed": "Burned at Smithfield, London, 30 July 1540, with the Protestants Thomas Garret and William Jerome; three Catholics (Thomas Abel, Richard Featherstone, and Edward Powell) were hanged for denying the supremacy the same day",
+      "condemned_by": "Act of attainder passed by Parliament, without trial",
+      "allegation": "A Lutheran-leaning former Augustinian friar who had served as Henry's envoy to German Lutherans. He fell after a sermon dispute with Stephen Gardiner and the fall of his patron Thomas Cromwell.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Attainder required royal assent. Barnes said at the stake that he did not know why he was condemned.",
+      "links": [
+        {
+          "label": "Wikipedia: Robert Barnes",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Robert+Barnes+martyr"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "macculloch",
+        "bernard"
+      ]
+    },
+    {
+      "name": "Catherine Howard",
+      "executed": "Beheaded on Tower Green, Tower of London, 13 February 1542",
+      "condemned_by": "Act of attainder passed by Parliament, with royal assent",
+      "allegation": "Henry's fifth wife, condemned for relationships before her marriage and an alleged affair after it. Thomas Culpeper and Francis Dereham were executed in December 1541.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The attainder required the king's assent, which was given by commission.",
+      "links": [
+        {
+          "label": "Wikipedia: Catherine Howard",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Catherine+Howard"
+        }
+      ],
+      "sources": [
+        "scarisbrick",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Anne Askew",
+      "executed": "Burned at Smithfield, London, 16 July 1546",
+      "condemned_by": "Convicted of heresy at the Guildhall, London, June 1546, under the Act of Six Articles",
+      "allegation": "A Protestant gentlewoman from Lincolnshire who denied transubstantiation. She was racked in the Tower by Lord Chancellor Thomas Wriothesley and Richard Rich, reportedly in an attempt to implicate women close to Queen Catherine Parr; she wrote her own account of her examinations.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "She was burned under Henry's own heresy law. No record shows Henry personally directing her case or her torture, which was irregular even then.",
+      "links": [
+        {
+          "label": "Wikipedia: Anne Askew",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Anne+Askew"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "haigh"
+      ]
+    }
+  ],
+  "persecution_note": "Henry was never arrested, tried, or imprisoned. The main threats he faced over religion were papal: Pope Clement VII threatened excommunication in 1533, and Pope Paul III's bull of excommunication and deposition (drafted 1535, published 1538) called on Catholic rulers to act against him, which none did. The Pilgrimage of Grace (1536) was a large armed rising against his religious policies, but it was aimed at his ministers and policies rather than at deposing him, and he suppressed it.",
+  "persecution": [
+    {
+      "year": 1538,
+      "date": "December 1538 – 1539",
+      "title": "Papal sentence of deposition and the effort to enforce it",
+      "summary": "After the destruction of Becket's shrine, Pope Paul III published the bull of excommunication drafted in 1535, declaring Henry deposed and releasing his subjects from obedience. Cardinal Reginald Pole, an English exile, was sent to urge Emperor Charles V and King Francis I of France to enforce it. Henry's government executed Pole's relatives in England (his brother Henry Pole, Lord Montagu, in 1539 and his mother Margaret Pole, Countess of Salisbury, in 1541).",
+      "responsible": [
+        {
+          "name": "Pope Paul III",
+          "role": "Issued the sentence of excommunication and deposition",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Cardinal Reginald Pole",
+          "role": "Papal legate sent to rally Catholic rulers against Henry",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "Neither Charles V nor Francis I invaded England, and the sentence had no practical effect on Henry's rule.",
+      "sources": [
+        "scarisbrick",
+        "bernard"
+      ]
+    }
+  ],
+  "excommunication_note": "Henry was excommunicated by Pope Paul III. Clement VII had already threatened him with excommunication in 1533. The sentence was never lifted, and Henry died without reconciling with Rome.",
+  "excommunications": [
+    {
+      "date": "July 1533",
+      "by": "Pope Clement VII",
+      "authority": "Papacy",
+      "reason": "Repudiating Catherine of Aragon and marrying Anne Boleyn while the annulment case was pending in Rome; Clement declared the new marriage invalid and threatened excommunication unless Henry returned to Catherine",
+      "status": "Conditional sentence, suspended; superseded by Paul III's bull",
+      "sources": [
+        "scarisbrick",
+        "bernard"
+      ]
+    },
+    {
+      "date": "Bull drafted 30 August 1535; published 17 December 1538",
+      "by": "Pope Paul III",
+      "authority": "Papacy (bull of excommunication and deposition)",
+      "reason": "Schism, the execution of John Fisher and others, and (in 1538) the despoiling of Thomas Becket's shrine; declared Henry deposed and released his subjects from allegiance",
+      "status": "Never lifted; Henry died excommunicate",
+      "sources": [
+        "scarisbrick",
+        "bernard",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "assertio",
+      "type": "primary",
+      "citation": "Henry VIII, Assertio Septem Sacramentorum adversus Martinum Lutherum (Defence of the Seven Sacraments against Martin Luther), London, 1521."
+    },
+    {
+      "id": "statutes",
+      "type": "primary",
+      "citation": "The Statutes of the Realm (London: Record Commission, 1810–1828). Henrician statutes including the Act in Restraint of Appeals (1533), the Act of Supremacy (1534), and the Act of Six Articles (1539)."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Accounts of those burned under Henry VIII, including Robert Barnes and Anne Askew. Online: The Unabridged Acts and Monuments Online (Digital Humanities Institute, University of Sheffield).",
+      "url": "https://www.dhi.ac.uk/foxe/"
+    },
+    {
+      "id": "scarisbrick",
+      "type": "scholarly",
+      "citation": "J. J. Scarisbrick, Henry VIII (London: Eyre & Spottiswoode, 1968)."
+    },
+    {
+      "id": "bernard",
+      "type": "scholarly",
+      "citation": "G. W. Bernard, The King's Reformation: Henry VIII and the Remaking of the English Church (New Haven: Yale University Press, 2005)."
+    },
+    {
+      "id": "haigh",
+      "type": "scholarly",
+      "citation": "Christopher Haigh, English Reformations: Religion, Politics, and Society under the Tudors (Oxford: Clarendon Press, 1993)."
+    },
+    {
+      "id": "duffy-altars",
+      "type": "scholarly",
+      "citation": "Eamon Duffy, The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580 (New Haven: Yale University Press, 1992)."
+    },
+    {
+      "id": "macculloch",
+      "type": "scholarly",
+      "citation": "Diarmaid MacCulloch, Thomas Cranmer: A Life (New Haven: Yale University Press, 1996)."
+    },
+    {
+      "id": "ives",
+      "type": "scholarly",
+      "citation": "Eric Ives, The Life and Death of Anne Boleyn (Oxford: Blackwell, 2004)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Henry VIII,\" Encyclopaedia Britannica."
+    }
+  ]
+}

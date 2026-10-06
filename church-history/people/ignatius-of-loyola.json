@@ -1,0 +1,379 @@
+{
+  "name": "Ignatius of Loyola",
+  "slug": "ignatius-of-loyola",
+  "also_known_as": "Íñigo López de Loyola",
+  "era": "Reformation",
+  "role": "Basque soldier turned priest, author of the Spiritual Exercises, founder and first superior general of the Society of Jesus (Jesuits)",
+  "born": {
+    "year": 1491,
+    "date": "1491 (exact day not recorded)",
+    "place": "Loyola castle, near Azpeitia, Gipuzkoa (Basque Country, Spain)",
+    "sources": [
+      "omalley",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1556,
+    "date": "31 July 1556",
+    "place": "Rome",
+    "sources": [
+      "omalley",
+      "britannica"
+    ],
+    "cause": "Illness after years of poor health; an autopsy found gallstones, usually taken as the underlying cause"
+  },
+  "summary": "Basque nobleman and soldier who, after a conversion during his recovery from a war wound, wrote the Spiritual Exercises and founded the Society of Jesus, which became a leading force in Catholic missions, education, and the Counter-Reformation.",
+  "key_dates": [
+    {
+      "year": 1521,
+      "label": "Leg shattered by a cannonball defending Pamplona against the French (20 May); conversion while convalescing at Loyola",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1522,
+      "label": "Vigil at Montserrat; months of prayer and penance at Manresa (1522–23), where the Spiritual Exercises take shape",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1523,
+      "label": "Pilgrimage to Jerusalem; the Franciscan custodian sends him back to Europe",
+      "sources": [
+        "autobiography",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1527,
+      "label": "Imprisoned by church authorities at Alcalá (42 days) and then at Salamanca (about 22 days) while his teaching was examined",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1534,
+      "label": "Vows at Montmartre, Paris (15 August), with six companions including Francis Xavier and Peter Faber",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1537,
+      "label": "Ordained priest in Venice (24 June); vision at La Storta on the way to Rome",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1540,
+      "label": "Pope Paul III approves the Society of Jesus in the bull Regimini militantis Ecclesiae (27 September)",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1541,
+      "label": "Elected first superior general of the Society (April)",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1548,
+      "label": "Paul III approves the Spiritual Exercises; first printed edition",
+      "sources": [
+        "exercises",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Founds the Roman College (later the Gregorian University)",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Founded the Society of Jesus with companions from the University of Paris; approved in 1540, it grew to about 1,000 members by his death and became one of the largest Catholic religious orders.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote the Spiritual Exercises, a month-long program of guided meditation and choice ('discernment') drawn from his own experience at Manresa, which became the basis of Jesuit formation and of retreats across the Catholic world.",
+      "sources": [
+        "exercises",
+        "omalley"
+      ]
+    },
+    {
+      "text": "Wrote most of the Society's Constitutions, which stressed mobility, obedience to superiors, and a special vow of obedience to the pope concerning missions, and dropped the choir office kept by older orders.",
+      "sources": [
+        "constitutions",
+        "omalley"
+      ]
+    },
+    {
+      "text": "Turned the Society toward schooling: by his death it ran dozens of colleges, including the Roman College (1551) and the German College (1552), which trained priests for the Holy Roman Empire.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Sent Jesuits on missions abroad, beginning with Francis Xavier to India in 1541, and to Brazil, Ethiopia, and other lands.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Placed the Society at the service of the Counter-Reformation: Jesuits such as Diego Laínez and Alfonso Salmerón served as papal theologians at the Council of Trent, and Peter Canisius led Catholic renewal in Germany.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Recommended harsh measures against Protestants in the Habsburg lands in a 1554 letter to Peter Canisius, including removing heretics from office and teaching, burning their books, exile, and in some cases death.",
+      "sources": [
+        "letters",
+        "omalley"
+      ]
+    },
+    {
+      "text": "Founded works of charity in Rome, including the House of Saint Martha (1543) for women leaving prostitution and a house for converts from Judaism.",
+      "sources": [
+        "omalley"
+      ]
+    },
+    {
+      "text": "Dictated an account of his life (the so-called Autobiography, 1553–55) to Luís Gonçalves da Câmara, the main source for his conversion and early years, written in the third person as 'the pilgrim'.",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    }
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "Ad majorem Dei gloriam (for the greater glory of God)",
+        "reference": "Constitutions of the Society of Jesus, throughout",
+        "note": "Phrases of this kind recur through his Constitutions and letters, and the Latin became the Jesuit motto (often abbreviated AMDG). Whether he coined the wording is not established.",
+        "sources": [
+          "constitutions",
+          "omalley"
+        ]
+      },
+      {
+        "phrase": "Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will.",
+        "reference": "Spiritual Exercises §234 (the Suscipe, in the Contemplation to Attain Love)",
+        "sources": [
+          "exercises"
+        ]
+      },
+      {
+        "phrase": "Love ought to manifest itself more by deeds than by words.",
+        "reference": "Spiritual Exercises §230",
+        "sources": [
+          "exercises"
+        ]
+      },
+      {
+        "phrase": "What seems to me white, I will believe black if the hierarchical Church so defines.",
+        "reference": "Spiritual Exercises §365, Rules for Thinking with the Church, rule 13",
+        "sources": [
+          "exercises"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "Give me a child until he is seven and I will show you the man.",
+        "reference": "Proverbial; listed as a 'Jesuit maxim'",
+        "note": "Not found in his writings. Quotation dictionaries record it as an anonymous proverb attributed to the Jesuits in general, sometimes credited to Francis Xavier or Ignatius without a source.",
+        "sources": [
+          "odq"
+        ]
+      },
+      {
+        "phrase": "Pray as if everything depended on God; work as if everything depended on you.",
+        "reference": "Gabriel Hevenesi, Scintillae Ignatianae (1705)",
+        "note": "Not in Ignatius's own writings. It comes from a collection of maxims assembled by the Hungarian Jesuit Gabriel Hevenesi 150 years after his death, where the wording runs the other way ('Trust in God as if all success depended on you and not on God; yet work as though God alone will do everything'). The popular form is a later simplification.",
+        "sources": [
+          "hevenesi"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Ignatius was repeatedly examined by church authorities while a layman preaching without theological training. He was imprisoned twice in Spain in 1527, at Alcalá and Salamanca, and investigated in Paris, Venice, and Rome; each case ended without a finding of heresy, but in Spain he was barred from teaching on matters of faith until he had studied. The Spanish Inquisition investigated him at Alcalá but did not try him. Later opposition, such as the Dominican Melchor Cano's attacks on the Exercises and the Paris Faculty of Theology's 1554 decree against the Society, was aimed at the order rather than at him personally.",
+  "persecution": [
+    {
+      "year": 1526,
+      "date": "1526–1527",
+      "title": "Investigation and imprisonment at Alcalá",
+      "summary": "At Alcalá, Ignatius and a few companions in grey habits gave spiritual instruction to townspeople, drawing suspicion that they were alumbrados (illuminists). Inquisitors from Toledo investigated and left the matter to the archbishop's vicar at Alcalá, Juan Rodríguez de Figueroa, who in 1527 had Ignatius jailed for 42 days while witnesses were heard, in part over two women who had gone on a pilgrimage, reportedly on his advice.",
+      "responsible": [
+        {
+          "name": "Spanish Inquisition (inquisitors of Toledo)",
+          "role": "Investigated the group and referred the case to the vicar",
+          "jurisdiction": "Spanish Inquisition, tribunal of Toledo",
+          "type": "church"
+        },
+        {
+          "name": "Juan Rodríguez de Figueroa",
+          "role": "Vicar general of the archbishop of Toledo at Alcalá; ordered the imprisonment",
+          "jurisdiction": "Archdiocese of Toledo",
+          "type": "church"
+        }
+      ],
+      "outcome": "Released without a finding of error, but ordered to dress like other students and not to teach on matters of faith until he had studied further. He left for Salamanca.",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1527,
+      "date": "Summer 1527",
+      "title": "Imprisonment at Salamanca",
+      "summary": "Dominicans at the convent of San Esteban questioned Ignatius about how he could preach without study and held him there; he was then jailed, chained to a companion, for about 22 days by order of the bishop's vicar while judges examined his papers, including an early draft of the Exercises.",
+      "responsible": [
+        {
+          "name": "Dominican friars of San Esteban",
+          "role": "Questioned him and reported him to the authorities",
+          "jurisdiction": "Dominican Order, Salamanca",
+          "type": "church"
+        },
+        {
+          "name": "Vicar of the bishop of Salamanca (named Frías in the Autobiography)",
+          "role": "Ordered the imprisonment and examined him with other judges",
+          "jurisdiction": "Diocese of Salamanca",
+          "type": "church"
+        }
+      ],
+      "outcome": "Judges found no error in his life or teaching but forbade him to define what is a mortal and what a venial sin until he had studied four more years. He left Spain for Paris.",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1529,
+      "date": "1529–1535",
+      "title": "Denunciations in Paris",
+      "summary": "In Paris, students he influenced gave away their goods and changed their way of life, and Ignatius was denounced to the inquisitor; the principal of the Collège Sainte-Barbe, Diogo de Gouveia, threatened him with a public flogging, then relented. In 1535, hearing he had been accused again, Ignatius went to the inquisitor of France, Valentin Liévin, and asked for a judgment, which cleared him.",
+      "responsible": [
+        {
+          "name": "Diogo de Gouveia",
+          "role": "Principal of the Collège Sainte-Barbe; threatened a public flogging",
+          "jurisdiction": "University of Paris",
+          "type": "individual"
+        },
+        {
+          "name": "Unnamed accusers",
+          "role": "Denounced him to the inquisitor",
+          "jurisdiction": "Paris",
+          "type": "individual"
+        }
+      ],
+      "outcome": "No punishment; a written declaration in his favor in 1535.",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    },
+    {
+      "year": 1538,
+      "date": "1538",
+      "title": "Heresy accusations in Rome",
+      "summary": "After the companions criticized the preaching of the Augustinian Agostino Mainardi, Spaniards in Rome led by Miguel Landívar, a former follower, accused Ignatius and his companions of heresy and of having fled trials in Spain, Paris, and Venice. Ignatius refused a quiet dismissal of the charges and appealed to Pope Paul III for a formal verdict.",
+      "responsible": [
+        {
+          "name": "Miguel Landívar",
+          "role": "Former associate who accused the group of heresy",
+          "jurisdiction": "Rome",
+          "type": "individual"
+        },
+        {
+          "name": "Francisco Mudarra and other Spanish courtiers",
+          "role": "Spread and supported the accusations",
+          "jurisdiction": "Rome",
+          "type": "group"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Pope Paul III",
+          "role": "Ordered the case to be decided after Ignatius appealed to him"
+        }
+      ],
+      "outcome": "The governor of Rome, Benedetto Conversini, pronounced them innocent in November 1538, after witnesses from their earlier investigations happened to be in Rome.",
+      "sources": [
+        "autobiography",
+        "omalley"
+      ]
+    }
+  ],
+  "excommunication_note": "Ignatius was never excommunicated or condemned. None of the investigations of 1526–1538 ended in a finding of heresy. He was beatified in 1609 and canonized by Pope Gregory XV in 1622. The Paris Faculty of Theology's decree of 1554 against the Jesuits condemned the Society, not Ignatius by name.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "autobiography",
+      "type": "primary",
+      "citation": "Ignatius of Loyola, A Pilgrim's Journey: The Autobiography of Ignatius of Loyola, trans. Joseph N. Tylenda. Wilmington, DE: Michael Glazier, 1985."
+    },
+    {
+      "id": "exercises",
+      "type": "primary",
+      "citation": "Ignatius of Loyola, The Spiritual Exercises of St. Ignatius, trans. Louis J. Puhl. Westminster, MD: Newman Press, 1951."
+    },
+    {
+      "id": "constitutions",
+      "type": "primary",
+      "citation": "Ignatius of Loyola, The Constitutions of the Society of Jesus, trans. George E. Ganss. St. Louis: Institute of Jesuit Sources, 1970."
+    },
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "Ignatius of Loyola, Letters of St. Ignatius of Loyola, trans. William J. Young. Chicago: Loyola University Press, 1959."
+    },
+    {
+      "id": "hevenesi",
+      "type": "primary",
+      "citation": "Gabriel Hevenesi, Scintillae Ignatianae. Vienna, 1705."
+    },
+    {
+      "id": "omalley",
+      "type": "scholarly",
+      "citation": "John W. O'Malley, The First Jesuits. Cambridge, MA: Harvard University Press, 1993."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Ignatius of Loyola.\" Encyclopaedia Britannica."
+    },
+    {
+      "id": "odq",
+      "type": "reference",
+      "citation": "Elizabeth Knowles (ed.), Oxford Dictionary of Quotations, 8th ed. Oxford: Oxford University Press, 2014."
+    }
+  ]
+}

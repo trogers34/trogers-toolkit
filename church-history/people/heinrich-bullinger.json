@@ -1,0 +1,261 @@
+{
+  "name": "Heinrich Bullinger",
+  "slug": "heinrich-bullinger",
+  "also_known_as": "Henry Bullinger",
+  "era": "Reformation",
+  "role": "Swiss Reformer, Zwingli's successor as chief minister (Antistes) of the Zürich church",
+  "born": {
+    "year": 1504,
+    "date": "18 July 1504",
+    "place": "Bremgarten, Aargau (modern Switzerland)",
+    "sources": [
+      "gordon-campi",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1575,
+    "date": "17 September 1575",
+    "place": "Zürich",
+    "sources": [
+      "gordon-campi",
+      "britannica"
+    ],
+    "cause": "Illness after months of decline in old age"
+  },
+  "summary": "Leader of the Zürich church for over forty years after Zwingli's death, author of the Second Helvetic Confession and the Decades, and one of the most widely read and best-connected Reformed theologians of the sixteenth century.",
+  "key_dates": [
+    {
+      "year": 1522,
+      "label": "Studying at Cologne, turns to the Reformation through reading the Church Fathers and Luther",
+      "sources": [
+        "gordon-campi",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1523,
+      "label": "Becomes teacher at the Cistercian monastery school of Kappel",
+      "sources": [
+        "gordon-campi",
+        "gordon"
+      ]
+    },
+    {
+      "year": 1529,
+      "label": "Succeeds his father as pastor of Bremgarten; marries Anna Adlischwyler, a former nun",
+      "sources": [
+        "gordon-campi",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1531,
+      "label": "Flees Bremgarten after the Catholic victory at Kappel (November); elected Zwingli's successor at Zürich (9 December)",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "year": 1536,
+      "label": "Co-author of the First Helvetic Confession",
+      "sources": [
+        "gordon",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1549,
+      "label": "Consensus Tigurinus with Calvin unites Zürich and Geneva on the Lord's Supper; the Decades begin to appear (1549–51)",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Zürich's ministers, led by Bullinger, advise Geneva that Servetus should be punished; Servetus is burned (27 October)",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "year": 1555,
+      "label": "Zürich takes in Protestant refugees expelled from Locarno",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "year": 1566,
+      "label": "Second Helvetic Confession published, adopted by the Swiss Reformed churches and the Elector Palatine",
+      "sources": [
+        "confessions",
+        "gordon"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Led the Zürich church as Antistes from 1531 until his death, steadying it after the defeat at Kappel and negotiating with the city council a settlement that kept the clergy's freedom to preach while limiting their role in politics.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Wrote the Second Helvetic Confession, first drafted as a personal statement of faith in 1561 and published in 1566; it became one of the most widely accepted Reformed confessions, adopted in Switzerland, Hungary, Poland, and elsewhere.",
+      "sources": [
+        "confessions",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Agreed with Calvin the Consensus Tigurinus (1549), a common statement on the sacraments that drew the Zürich and Genevan churches together and marked the Reformed tradition off from the Lutheran.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Published the Decades (1549–51), fifty sermons on Christian doctrine; in English translation they were widely used in the Elizabethan church, and Archbishop John Whitgift ordered less-educated clergy to read them (1586).",
+      "sources": [
+        "decades",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Kept up a correspondence of about 12,000 surviving letters with reformers, rulers, and churches across Europe, and advised the churches of England, Hungary, and Poland.",
+      "sources": [
+        "gordon-campi",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Gave refuge and support to Protestant exiles, including English Protestants fleeing Mary I and the Protestants expelled from Locarno in 1555.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Developed an early theology of the covenant in On the One and Eternal Testament or Covenant of God (1534), influential in later Reformed covenant theology.",
+      "sources": [
+        "gordon-campi",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote against the Anabaptists, including a history tracing them to the radicals of the 1520s (1560), and supported the Zürich council's use of fines, imprisonment, and banishment against them, defending the magistrate's right to punish obstinate heretics.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    },
+    {
+      "text": "Endorsed the condemnation of Michael Servetus, advising Geneva in 1553 that he should be punished and approving his execution afterwards.",
+      "sources": [
+        "gordon",
+        "bainton"
+      ]
+    },
+    {
+      "text": "Wrote a history of the Reformation in the Swiss Confederation, an important if partisan source for Zwingli's career and death.",
+      "sources": [
+        "gordon-campi",
+        "gordon"
+      ]
+    }
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "The preaching of the Word of God is the Word of God.",
+        "reference": "Second Helvetic Confession (1566), chapter 1 (Praedicatio verbi Dei est verbum Dei)",
+        "note": "A marginal heading in the confession, often quoted as a summary of the Reformed view of preaching.",
+        "sources": [
+          "confessions",
+          "gordon-campi"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Bullinger was never arrested, tried, or imprisoned. He and his father were driven from Bremgarten in 1531 when the Catholic cantons restored the Mass there after their victory at Kappel. As a leading Protestant his works were later placed on the Catholic Index. He was himself on the side of the authorities in the coercion of Anabaptists and in the case of Servetus, described among his accomplishments above.",
+  "persecution": [
+    {
+      "year": 1531,
+      "date": "November 1531",
+      "title": "Flight from Bremgarten",
+      "summary": "After the Catholic cantons defeated Zürich at Kappel (11 October 1531), Bremgarten, in the jointly ruled Freie Ämter, was forced back to Catholicism. Bullinger, his father, and the Reformed party fled to Zürich.",
+      "responsible": [
+        {
+          "name": "The Five Catholic Cantons (Lucerne, Uri, Schwyz, Unterwalden, Zug)",
+          "role": "Victors at Kappel who imposed the restoration of Catholic worship",
+          "jurisdiction": "Swiss Confederation (Catholic cantons)",
+          "type": "state"
+        },
+        {
+          "name": "Bremgarten town authorities",
+          "role": "Accepted the Catholic restoration",
+          "jurisdiction": "Town of Bremgarten",
+          "type": "state"
+        }
+      ],
+      "outcome": "Exile to Zürich, where he was chosen to succeed Zwingli within weeks.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    }
+  ],
+  "excommunication_note": "No papal excommunication of Bullinger by name is recorded. As a Protestant minister he was outside the Catholic Church, and all his works were forbidden to Catholics.",
+  "excommunications": [
+    {
+      "date": "1559",
+      "by": "Pope Paul IV",
+      "authority": "Papacy (Index of Prohibited Books)",
+      "reason": "Bullinger listed among authors all of whose works were forbidden to Catholics",
+      "status": "The Index was abolished in 1966",
+      "sources": [
+        "gordon-campi",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "confessions",
+      "type": "primary",
+      "citation": "Arthur C. Cochrane (ed.), Reformed Confessions of the Sixteenth Century. Philadelphia: Westminster Press, 1966."
+    },
+    {
+      "id": "decades",
+      "type": "primary",
+      "citation": "Heinrich Bullinger, The Decades of Henry Bullinger, ed. Thomas Harding, 4 vols. Cambridge: Parker Society, 1849–1852."
+    },
+    {
+      "id": "gordon-campi",
+      "type": "scholarly",
+      "citation": "Bruce Gordon and Emidio Campi (eds.), Architect of Reformation: An Introduction to Heinrich Bullinger, 1504–1575. Grand Rapids: Baker Academic, 2004."
+    },
+    {
+      "id": "gordon",
+      "type": "scholarly",
+      "citation": "Bruce Gordon, The Swiss Reformation. Manchester: Manchester University Press, 2002."
+    },
+    {
+      "id": "bainton",
+      "type": "scholarly",
+      "citation": "Roland H. Bainton, Hunted Heretic: The Life and Death of Michael Servetus, 1511–1553. Boston: Beacon Press, 1953."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Heinrich Bullinger.\" Encyclopaedia Britannica."
+    }
+  ]
+}

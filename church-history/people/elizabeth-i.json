@@ -1,0 +1,637 @@
+{
+  "name": "Elizabeth I",
+  "slug": "elizabeth-i",
+  "also_known_as": "Elizabeth Tudor; the Virgin Queen; Good Queen Bess; Gloriana",
+  "era": "Reformation",
+  "role": "Queen of England and Ireland (1558–1603), Supreme Governor of the Church of England",
+  "born": {
+    "year": 1533,
+    "date": "7 September 1533",
+    "place": "Greenwich Palace (Palace of Placentia), Greenwich, England",
+    "sources": [
+      "haigh-eliz",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1603,
+    "date": "24 March 1603 (24 March 1602 in the Old Style calendar then used in England, when the year began on 25 March)",
+    "place": "Richmond Palace, Surrey, England",
+    "sources": [
+      "guy-forgotten",
+      "britannica"
+    ],
+    "cause": "Illness after several weeks of decline; the exact cause is unknown"
+  },
+  "summary": "Daughter of Henry VIII and Anne Boleyn who succeeded her Catholic half-sister Mary I in 1558, restored a Protestant Church of England with herself as Supreme Governor, and ruled until 1603, when the crown passed to James VI of Scotland. Excommunicated by Pope Pius V in 1570, her government fined Catholic recusants and executed about 180 Catholics, most of them priests, as traitors, and also punished Puritans and separatists who wanted further reform.",
+  "key_dates": [
+    {
+      "year": 1554,
+      "label": "Imprisoned in the Tower of London after Wyatt's rebellion under Mary I, then held at Woodstock",
+      "sources": [
+        "foxe",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "year": 1558,
+      "label": "Becomes queen on Mary I's death (17 November)",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1559,
+      "label": "Acts of Supremacy and Uniformity: she becomes Supreme Governor, the English Prayer Book replaces the Latin Mass, and Mary's bishops are deprived",
+      "sources": [
+        "statutes",
+        "macculloch-later",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "year": 1563,
+      "label": "Convocation adopts the Thirty-nine Articles (given statutory force in 1571)",
+      "sources": [
+        "articles",
+        "macculloch-later"
+      ]
+    },
+    {
+      "year": 1570,
+      "label": "After the Catholic Northern Rising (1569) is crushed, Pope Pius V excommunicates her in Regnans in Excelsis",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1577,
+      "label": "Suspends Archbishop Edmund Grindal for refusing to suppress the \"prophesyings\"; first seminary priest, Cuthbert Mayne, executed",
+      "sources": [
+        "collinson-puritan",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "year": 1581,
+      "label": "Recusancy fines raised to £20 a month; the Jesuit Edmund Campion executed",
+      "sources": [
+        "statutes",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "year": 1587,
+      "label": "Mary, Queen of Scots, executed after the Babington Plot",
+      "sources": [
+        "guy-mqs",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1588,
+      "label": "Spanish Armada defeated; speech to the troops at Tilbury",
+      "sources": [
+        "elizabeth-works",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1593,
+      "label": "Act against Seditious Sectaries; separatists Henry Barrow, John Greenwood, and John Penry hanged",
+      "sources": [
+        "statutes",
+        "collinson-puritan"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Reversed Mary I's Catholic restoration in the Elizabethan Settlement (1559). The Act of Supremacy again cut the church off from Rome, making her \"Supreme Governor\" rather than \"Supreme Head\"; the Act of Uniformity made a revised Book of Common Prayer (based on the 1552 book of her brother Edward VI) the only legal form of worship.",
+      "sources": [
+        "statutes",
+        "macculloch-later",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Under Elizabeth the swing went back to Protestantism: the Latin Mass was replaced by the English Book of Common Prayer, altars and images were removed again, and all but one of Mary's bishops were deprived for refusing the oath of supremacy; she kept bishops and some traditional ceremonies, which Puritans opposed.",
+      "sources": [
+        "haigh-eliz",
+        "duffy-altars"
+      ]
+    },
+    {
+      "text": "For ordinary worship, the swing back meant the end of the Latin Mass, which became illegal; services in English from the Prayer Book; the removal of roods and images in the royal visitation of 1559; and communion tables in place of stone altars. The monasteries Mary had refounded, such as Westminster Abbey, were dissolved again.",
+      "sources": [
+        "duffy-altars",
+        "macculloch-later",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "text": "Punished those who refused the 1559 settlement. All but one of Mary's surviving bishops refused the Oath of Supremacy and were deprived, and several, including Edmund Bonner, died in custody; Catholics who stayed away from church (recusants) were fined, at first 12 pence a Sunday, raised to £20 a month in 1581.",
+      "sources": [
+        "statutes",
+        "haigh-eliz",
+        "macculloch-later"
+      ]
+    },
+    {
+      "text": "Defined the Church of England's doctrine in the Thirty-nine Articles (1563, made binding on clergy by Parliament in 1571), a revision of Cranmer's Forty-two Articles that was Protestant in doctrine while keeping bishops and much traditional ceremony.",
+      "sources": [
+        "articles",
+        "macculloch-later"
+      ]
+    },
+    {
+      "text": "Survived Catholic risings and plots that aimed to replace her with her Catholic cousin Mary, Queen of Scots: the Northern Rising (1569), after which several hundred rebels were executed, and the Ridolfi (1571), Throckmorton (1583), and Babington (1586) plots. She approved the execution of Mary, Queen of Scots, in 1587.",
+      "sources": [
+        "guy-mqs",
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Treated Catholic priests trained abroad as traitors. Laws of 1571, 1581, and 1585 made it treason to bring in papal bulls, to reconcile anyone to Rome, or for a Jesuit or seminary priest to be in England. About 180 Catholics were executed in her reign, roughly 120 of them priests, many after torture authorized by the Privy Council.",
+      "sources": [
+        "statutes",
+        "haigh-eliz",
+        "macculloch-later"
+      ]
+    },
+    {
+      "text": "Resisted Puritans who wanted further reform. She suspended Archbishop Edmund Grindal (1577) for refusing to suppress the clergy's preaching meetings (\"prophesyings\"), backed Archbishop John Whitgift's enforcement of conformity through the Court of High Commission from 1583, and after the Marprelate tracts (1588–1589) saw separatist leaders hanged in 1593.",
+      "sources": [
+        "collinson-puritan",
+        "haigh-eliz"
+      ]
+    },
+    {
+      "text": "Signed the writ for the burning of two Dutch Anabaptists at Smithfield in 1575, despite a plea for mercy from John Foxe. Arians were also burned at Norwich and elsewhere in her reign.",
+      "sources": [
+        "foxe",
+        "macculloch-later"
+      ]
+    },
+    {
+      "text": "Led England through the Spanish Armada crisis of 1588. Pope Sixtus V supported the invasion. Its defeat strengthened the identification of English national feeling with Protestantism.",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Never married and had no children. On her death the Tudor line ended, and the crown passed to the Protestant James VI of Scotland (James I of England), son of Mary, Queen of Scots.",
+      "sources": [
+        "guy-forgotten",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection. Many words credited to Elizabeth survive only in later reports, so the source is given for each.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I know I have the body but of a weak and feeble woman; but I have the heart and stomach of a king, and of a king of England too\"",
+        "reference": "Speech to the troops at Tilbury, August 1588",
+        "note": "The best-known text comes from a letter by Leonel Sharp, a chaplain present at Tilbury, first printed in 1654. Most historians accept that she spoke to the troops; the exact wording cannot be confirmed.",
+        "sources": [
+          "elizabeth-works",
+          "britannica"
+        ]
+      },
+      {
+        "phrase": "\"Though God hath raised me high, yet this I count the glory of my crown, that I have reigned with your loves\"",
+        "reference": "The \"Golden Speech\" to members of the House of Commons, 30 November 1601",
+        "note": "Survives in several versions taken down by those present and later printed.",
+        "sources": [
+          "elizabeth-works"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Video et taceo\" (\"I see and say nothing\")",
+        "reference": "Her personal motto",
+        "note": "A Latin motto she adopted, not one she coined.",
+        "sources": [
+          "britannica"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"I would not open windows into men's souls\"",
+        "reference": "Paraphrase of words by Francis Bacon, c. 1589–1590",
+        "note": "Not her own words. Bacon, describing and defending her religious policy (in a paper often printed as a letter of Sir Francis Walsingham), wrote that the queen did not like \"to make windows into men's hearts and secret thoughts.\" The \"souls\" wording is a later paraphrase. The policy described was outward conformity, enforced by fines and, for priests, by treason law.",
+        "sources": [
+          "bacon",
+          "haigh-eliz"
+        ]
+      },
+      {
+        "phrase": "\"All my possessions for a moment of time\"",
+        "reference": "Often quoted as her last words",
+        "note": "Not found in any contemporary account of her death; a later legend.",
+        "sources": [
+          "guy-forgotten"
+        ]
+      }
+    ]
+  },
+  "victims_title": "Notable people executed on Elizabeth I's authority",
+  "victims_intro": "About 180 Catholics were executed in Elizabeth's reign, roughly 120 of them priests, almost all under treason laws rather than for heresy; the government's position was that they died for treason, not religion, which Catholics denied. Several hundred rebels were executed after the Northern Rising of 1569. A few Protestant radicals (Anabaptists and anti-Trinitarians) were burned for heresy, and separatists were hanged for sedition. This is a selection. Elizabeth's personal part varied: some sentences she signed or allowed against advice to pardon, while most were carried out by courts and the Privy Council under her statutes. The links are Wikipedia searches for each name, and the Foxe link opens the online edition.",
+  "victims": [
+    {
+      "name": "Cuthbert Mayne",
+      "executed": "Hanged, drawn, and quartered at Launceston, Cornwall, 29 November 1577",
+      "condemned_by": "Assize court at Launceston, under the 1571 act against bringing in papal bulls and other statutes",
+      "allegation": "The first of the seminary priests trained at Douai to be executed. He was found with a papal document (an expired jubilee bull) and an Agnus Dei.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Condemned under her laws by a royal court; her personal involvement is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Cuthbert Mayne",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Cuthbert+Mayne"
+        }
+      ],
+      "sources": [
+        "haigh-eliz",
+        "macculloch-later"
+      ]
+    },
+    {
+      "name": "Two Dutch Anabaptists (Jan Pieters and Hendrik Terwoort)",
+      "executed": "Burned at Smithfield, London, 22 July 1575",
+      "condemned_by": "Ecclesiastical court under the Bishop of London, followed by a royal writ for their burning",
+      "allegation": "Members of a group of Dutch Anabaptists arrested in London. Others recanted or were deported; these two refused. John Foxe wrote to the queen asking that they be spared or punished some other way.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "A heretic could be burned only under a royal writ, which she issued despite the appeal.",
+      "links": [
+        {
+          "label": "Wikipedia: Dutch Anabaptists burned in London 1575",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Anabaptists+burned+Smithfield+1575"
+        },
+        {
+          "label": "Foxe's Acts and Monuments online",
+          "url": "https://www.dhi.ac.uk/foxe/"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "macculloch-later"
+      ]
+    },
+    {
+      "name": "Edmund Campion",
+      "executed": "Hanged, drawn, and quartered at Tyburn, London, 1 December 1581",
+      "condemned_by": "Court of King's (Queen's) Bench at Westminster, November 1581, for treason (an alleged plot against the queen)",
+      "allegation": "A Jesuit priest and former Oxford scholar who came to England on mission in 1580. He was racked in the Tower on the Privy Council's authority. Contemporary reports say he was brought before the queen, who questioned him; he said he acknowledged her as queen.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Tried and executed under her government. The treason charge is generally regarded by historians as weak; the meeting with the queen is reported but details are uncertain.",
+      "links": [
+        {
+          "label": "Wikipedia: Edmund Campion",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Edmund+Campion"
+        }
+      ],
+      "sources": [
+        "haigh-eliz",
+        "macculloch-later",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Margaret Clitherow",
+      "executed": "Pressed to death at York, 25 March 1586",
+      "condemned_by": "Judges at the York assizes, after she refused to enter a plea",
+      "allegation": "A Catholic butcher's wife accused of harboring priests. She refused to plead so that her children and servants would not be made to testify, and was crushed under weights as the law then required.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under the 1585 act making it a felony to harbor priests; no record shows the queen's personal involvement.",
+      "links": [
+        {
+          "label": "Wikipedia: Margaret Clitherow",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Margaret+Clitherow"
+        }
+      ],
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Mary, Queen of Scots",
+      "executed": "Beheaded at Fotheringhay Castle, Northamptonshire, 8 February 1587",
+      "condemned_by": "Special commission of peers and privy councillors at Fotheringhay, October 1586, under the Act for the Queen's Safety (1585)",
+      "allegation": "Elizabeth's Catholic cousin and heir, held in England since 1568 and a focus of Catholic plots. She was convicted of approving the Babington Plot to kill Elizabeth. Elizabeth signed the death warrant on 1 February 1587, then said it had been sent without her consent and punished her secretary William Davison.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Elizabeth's signature on the warrant is documented; how far she intended it to be carried out is debated.",
+      "links": [
+        {
+          "label": "Wikipedia: Mary, Queen of Scots",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Mary+Queen+of+Scots"
+        }
+      ],
+      "sources": [
+        "guy-mqs",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Henry Barrow and John Greenwood",
+      "executed": "Hanged at Tyburn, London, 6 April 1593",
+      "condemned_by": "Tried for publishing seditious books, March 1593, after years of imprisonment by the Court of High Commission",
+      "allegation": "Separatists who rejected the Church of England as a false church. Archbishop Whitgift's courts had held them in prison since 1587.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Prosecuted by her bishops and courts; her personal part is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Henry Barrow",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Henry+Barrow"
+        },
+        {
+          "label": "Wikipedia: John Greenwood",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Greenwood+separatist"
+        }
+      ],
+      "sources": [
+        "collinson-puritan",
+        "macculloch-later"
+      ]
+    },
+    {
+      "name": "John Penry",
+      "executed": "Hanged at St Thomas-a-Watering, Southwark, 29 May 1593",
+      "condemned_by": "Court of King's (Queen's) Bench, for seditious writings",
+      "allegation": "A Welsh Puritan, later separatist, suspected of a part in the Marprelate tracts attacking the bishops. He was condemned on the basis of private notes, including a draft petition to the queen.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Condemned under her government; Archbishop Whitgift's role is more directly documented than hers.",
+      "links": [
+        {
+          "label": "Wikipedia: John Penry",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Penry"
+        }
+      ],
+      "sources": [
+        "collinson-puritan"
+      ]
+    },
+    {
+      "name": "Robert Southwell",
+      "executed": "Hanged, drawn, and quartered at Tyburn, London, 21 February 1595",
+      "condemned_by": "Court of King's (Queen's) Bench, for treason as a Jesuit priest in England",
+      "allegation": "A Jesuit priest and poet, arrested in 1592 and repeatedly tortured by the priest-hunter Richard Topcliffe, who acted with Privy Council authority.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under her 1585 statute; the torture was licensed by her council. Her personal involvement is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Robert Southwell",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Robert+Southwell+Jesuit"
+        }
+      ],
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Elizabeth was declared illegitimate after her mother's execution, questioned as a teenager over Thomas Seymour's schemes, and imprisoned in the Tower and then under guard at Woodstock by her half-sister Mary I, who suspected her of involvement in Wyatt's rebellion. As queen she was excommunicated and declared deposed by the pope, and was the target of several Catholic assassination plots and a papally backed invasion.",
+  "persecution": [
+    {
+      "year": 1536,
+      "date": "May–July 1536",
+      "title": "Declared illegitimate after her mother's execution",
+      "summary": "When Anne Boleyn was executed, Cranmer declared Henry's marriage to her invalid, and the Second Act of Succession (1536) made Elizabeth, aged two, illegitimate and removed her from the succession.",
+      "responsible": [
+        {
+          "name": "Henry VIII",
+          "role": "Her father; King of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Cranmer",
+          "role": "Archbishop of Canterbury; declared her parents' marriage invalid",
+          "jurisdiction": "Province of Canterbury",
+          "type": "church"
+        },
+        {
+          "name": "Parliament of England",
+          "role": "Passed the Second Act of Succession",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Restored to the line of succession by the Third Act of Succession (1544), though never declared legitimate.",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1549,
+      "date": "January–March 1549",
+      "title": "Questioned over Thomas Seymour's schemes",
+      "summary": "After Thomas Seymour, who had flirted with her in his household, was arrested for plotting against his brother the Lord Protector, Elizabeth, then fifteen, was questioned at Hatfield by Sir Robert Tyrwhitt, and her governess Kat Ashley and her cofferer Thomas Parry were sent to the Tower. She denied any plan to marry Seymour without the council's consent.",
+      "responsible": [
+        {
+          "name": "Edward Seymour, Duke of Somerset",
+          "role": "Lord Protector for Edward VI",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Sir Robert Tyrwhitt",
+          "role": "Sent by the council to interrogate her",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "No charge was brought against her; Seymour was executed in March 1549.",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1554,
+      "date": "March 1554 – April 1555",
+      "title": "Imprisoned in the Tower and held at Woodstock under Mary I",
+      "summary": "After Sir Thomas Wyatt's Protestant rebellion against Mary's Spanish marriage, Elizabeth was suspected of involvement, brought to London, questioned by the council led by Bishop Stephen Gardiner, and sent to the Tower on 18 March 1554. Some councillors urged her execution. In May she was moved under guard to Woodstock, Oxfordshire, where she was held by Sir Henry Bedingfield, and she attended Mass under pressure.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Her half-sister; Queen of England",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Stephen Gardiner",
+          "role": "Bishop of Winchester and Lord Chancellor; led her interrogation and reportedly favored severe measures",
+          "jurisdiction": "Kingdom of England; Diocese of Winchester",
+          "type": "state"
+        },
+        {
+          "name": "Sir Henry Bedingfield",
+          "role": "Her keeper at Woodstock",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Sir Thomas Wyatt",
+          "role": "Cleared her of involvement in his speech on the scaffold (11 April 1554)"
+        }
+      ],
+      "outcome": "No evidence was found against her. She was brought back to court in April 1555 and later allowed to live at Hatfield.",
+      "sources": [
+        "foxe",
+        "haigh-eliz",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1570,
+      "date": "1570–1588",
+      "title": "Papal deposition, assassination plots, and the Armada",
+      "summary": "Pope Pius V declared her deposed in 1570 and released her subjects from obedience. Plots followed to kill or depose her and crown Mary, Queen of Scots: the Ridolfi Plot (1571), with the knowledge of Pius V and Philip II; the Throckmorton Plot (1583), involving the Spanish ambassador Bernardino de Mendoza; and the Babington Plot (1586). In 1588 Philip II sent the Armada, with the backing of Pope Sixtus V.",
+      "responsible": [
+        {
+          "name": "Pope Pius V",
+          "role": "Issued Regnans in Excelsis; knew of the Ridolfi Plot",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Pope Sixtus V",
+          "role": "Renewed the sentence and promised funds for the invasion of 1588",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Philip II of Spain",
+          "role": "Backed plots and sent the Armada",
+          "jurisdiction": "Spanish Monarchy",
+          "type": "state"
+        },
+        {
+          "name": "Roberto Ridolfi, Francis Throckmorton, and Anthony Babington",
+          "role": "Organizers of the plots named after them",
+          "jurisdiction": "None (private conspirators)",
+          "type": "individual"
+        }
+      ],
+      "outcome": "All the plots were uncovered, largely by Sir Francis Walsingham's agents, and the Armada was defeated.",
+      "sources": [
+        "guy-mqs",
+        "haigh-eliz",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Elizabeth was excommunicated by Pope Pius V in 1570. The sentence was never lifted. In 1580 Pope Gregory XIII allowed that English Catholics could obey her in civil matters for the time being without sin, which eased but did not revoke the bull.",
+  "excommunications": [
+    {
+      "date": "25 February 1570",
+      "by": "Pope Pius V",
+      "authority": "Papacy (bull Regnans in Excelsis)",
+      "reason": "Heresy and support of heretics; declared her deprived of her \"pretended\" right to the throne and released her subjects from allegiance, under pain of excommunication for those who obeyed her",
+      "status": "Never lifted; its demands were softened for English Catholics by Gregory XIII in 1580",
+      "sources": [
+        "haigh-eliz",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "elizabeth-works",
+      "type": "primary",
+      "citation": "Elizabeth I: Collected Works, ed. Leah S. Marcus, Janel Mueller, and Mary Beth Rose (Chicago: University of Chicago Press, 2000). Includes the Tilbury speech and the Golden Speech."
+    },
+    {
+      "id": "statutes",
+      "type": "primary",
+      "citation": "The Statutes of the Realm (London: Record Commission, 1810–1828). Elizabethan statutes including the Acts of Supremacy and Uniformity (1559) and the acts against recusants, Jesuits, and seditious sectaries (1571–1593)."
+    },
+    {
+      "id": "articles",
+      "type": "primary",
+      "citation": "The Thirty-nine Articles of Religion (1563; 1571), printed in the Book of Common Prayer."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; enlarged ed. 1570. Includes his account of Elizabeth's imprisonment under Mary. Online: The Unabridged Acts and Monuments Online (Digital Humanities Institute, University of Sheffield).",
+      "url": "https://www.dhi.ac.uk/foxe/"
+    },
+    {
+      "id": "bacon",
+      "type": "primary",
+      "citation": "The Letters and the Life of Francis Bacon, ed. James Spedding, 7 vols. (London, 1861–1874)."
+    },
+    {
+      "id": "haigh-eliz",
+      "type": "scholarly",
+      "citation": "Christopher Haigh, Elizabeth I (London: Longman, 1988)."
+    },
+    {
+      "id": "collinson-puritan",
+      "type": "scholarly",
+      "citation": "Patrick Collinson, The Elizabethan Puritan Movement (London: Jonathan Cape, 1967)."
+    },
+    {
+      "id": "macculloch-later",
+      "type": "scholarly",
+      "citation": "Diarmaid MacCulloch, The Later Reformation in England, 1547–1603 (Basingstoke: Macmillan, 1990)."
+    },
+    {
+      "id": "duffy-altars",
+      "type": "scholarly",
+      "citation": "Eamon Duffy, The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580 (New Haven: Yale University Press, 1992)."
+    },
+    {
+      "id": "guy-mqs",
+      "type": "scholarly",
+      "citation": "John Guy, \"My Heart Is My Own\": The Life of Mary Queen of Scots (London: Fourth Estate, 2004)."
+    },
+    {
+      "id": "guy-forgotten",
+      "type": "scholarly",
+      "citation": "John Guy, Elizabeth: The Forgotten Years (London: Viking, 2016)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Elizabeth I,\" Encyclopaedia Britannica."
+    }
+  ]
+}

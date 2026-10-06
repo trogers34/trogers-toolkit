@@ -334,6 +334,30 @@
   ],
   "excommunication_note": "Ignatius was never excommunicated or condemned. None of the investigations of 1526–1538 ended in a finding of heresy. He was beatified in 1609 and canonized by Pope Gregory XV in 1622. The Paris Faculty of Theology's decree of 1554 against the Jesuits condemned the Society, not Ignatius by name.",
   "excommunications": [],
+  "persecuted_others_note": "Ignatius supported the use of church and state power against Protestants: he backed the refounding of the Roman Inquisition in 1542 and in 1554 recommended harsh measures against heretics in Germany, including in some cases death. He himself held no judicial office and is not known to have taken part in any trial or execution; he also resisted pressure to exclude men of Jewish descent from the Society of Jesus.",
+  "persecuted_others": [
+    {
+      "year": 1542,
+      "title": "Support for the Roman Inquisition",
+      "targets": "Protestants and suspected heretics in Italy",
+      "involvement": "advocated",
+      "summary": "Pope Paul III re-established the Roman Inquisition in July 1542, a move led by Cardinal Gian Pietro Carafa (later Pope Paul IV). Ignatius supported the step and, by some accounts, urged the pope to take it; how much his advice counted is not clear.",
+      "sources": [
+        "omalley"
+      ]
+    },
+    {
+      "year": 1554,
+      "title": "Letter to Peter Canisius on measures against heretics",
+      "targets": "Protestants in the lands of King Ferdinand of Austria",
+      "involvement": "advocated",
+      "summary": "In August 1554 Ignatius wrote, at Canisius's request, advice for King Ferdinand: heretics should be removed from government and teaching posts, heretical books burned, and obstinate heretics punished, by exile or prison and in some cases death. He paired these with positive measures such as better preaching and the founding of colleges.",
+      "sources": [
+        "letters",
+        "omalley"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "autobiography",

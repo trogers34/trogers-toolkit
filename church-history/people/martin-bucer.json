@@ -261,6 +261,41 @@
       ]
     }
   ],
+  "persecuted_others_note": "Bucer generally preferred persuasion to force with religious dissenters, and won back some Anabaptists in Hesse through debate. But he supported the Strasbourg council's measures against Anabaptists and Spiritualists, advised Philip of Hesse to place harsh restrictions on Jews, and in his last book urged Edward VI to suppress false religion by law.",
+  "persecuted_others": [
+    {
+      "year": 1533,
+      "title": "Strasbourg synod against the sectarians",
+      "targets": "Anabaptists and Spiritualists in Strasbourg, including Melchior Hoffman and Caspar Schwenckfeld",
+      "involvement": "took_part",
+      "summary": "Bucer led the 1533 Strasbourg synod that condemned the teachings of Hoffman, Schwenckfeld, and other radicals, and pressed the city council to enforce a church order against them. Hoffman was imprisoned by the council and died in prison about ten years later; Schwenckfeld left the city; the council's decrees against Anabaptists threatened banishment.",
+      "sources": [
+        "greschat",
+        "wright"
+      ]
+    },
+    {
+      "date": "1538–1539",
+      "title": "Advice on the Jews of Hesse",
+      "targets": "Jews in Landgrave Philip of Hesse's territories",
+      "involvement": "advocated",
+      "summary": "In a memorandum for Philip of Hesse (the 'Judenratschlag'), Bucer and other Hessian ministers recommended that Jews be allowed to stay only under strict limits: no new synagogues, no disputing religion with Christians, exclusion from money-lending and restriction to menial work, and compulsory attendance at Christian sermons. Philip adopted a milder ordinance.",
+      "sources": [
+        "greschat"
+      ]
+    },
+    {
+      "year": 1550,
+      "title": "De Regno Christi: calls to suppress false religion",
+      "targets": "Catholic worship and religious dissenters in England",
+      "involvement": "advocated",
+      "summary": "In the book he wrote for Edward VI, Bucer argued that a Christian king must abolish false worship and should punish those who obstinately spread false religion or blasphemy, with severe penalties for serious offenses.",
+      "sources": [
+        "de-regno",
+        "greschat"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "de-regno",

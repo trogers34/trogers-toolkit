@@ -571,6 +571,69 @@
       ]
     }
   ],
+  "persecuted_others_note": "Elizabeth I's laws made Catholic worship illegal, fined absent churchgoers, and from 1585 made it treason for a Catholic priest ordained abroad to be in England; about 180 Catholics were executed in her reign, mostly priests, along with hundreds of northern rebels, a few Anabaptists and anti-Trinitarians burned for heresy, and separatist Puritans hanged. She claimed to punish acts, not beliefs, a policy Francis Bacon summed up as not making 'windows into men's souls'; Catholics denied that the executions were for anything but religion.",
+  "persecuted_others": [
+    {
+      "date": "1575–1595",
+      "title": "Executions on her authority (summary)",
+      "targets": "Catholic priests and laypeople (Cuthbert Mayne, Edmund Campion, Margaret Clitherow, Robert Southwell), Dutch Anabaptists, Mary, Queen of Scots, and the separatists Henry Barrow, John Greenwood, and John Penry",
+      "involvement": "ordered",
+      "summary": "See the list of executed people above. Most were condemned by royal courts under her statutes; she signed some warrants herself, including the writ to burn the two Dutch Anabaptists in 1575 despite John Foxe's plea for mercy and, reluctantly, the warrant for Mary, Queen of Scots.",
+      "sources": [
+        "foxe",
+        "haigh-eliz",
+        "macculloch-later"
+      ]
+    },
+    {
+      "date": "1559",
+      "title": "Acts of Supremacy and Uniformity",
+      "targets": "Catholic bishops and clergy, and Catholics who stayed away from church",
+      "involvement": "ordered",
+      "summary": "The religious settlement of 1559 required an oath to the queen as Supreme Governor of the Church and made the Prayer Book the only lawful worship, with a fine of 12 pence for each Sunday missed. All but one of Mary's surviving bishops refused the oath and were deprived; several, including Edmund Bonner, were kept in prison or custody for years.",
+      "sources": [
+        "statutes",
+        "haigh-eliz",
+        "duffy-altars"
+      ]
+    },
+    {
+      "date": "1569–1570",
+      "title": "Reprisals after the Northern Rising",
+      "targets": "Catholic rebels in Yorkshire, Durham, and Northumberland",
+      "involvement": "ordered",
+      "summary": "After the rising of the Catholic earls of Northumberland and Westmorland collapsed, Elizabeth ordered exemplary martial-law executions; several hundred rebels were hanged, and the Earl of Northumberland was executed in 1572.",
+      "sources": [
+        "haigh-eliz",
+        "macculloch-later",
+        "britannica"
+      ]
+    },
+    {
+      "date": "1571–1593",
+      "title": "Laws against Catholics, priests, and recusants",
+      "targets": "Catholic priests (especially Jesuits and seminary priests), those who sheltered them, and recusants",
+      "involvement": "ordered",
+      "summary": "An act of 1571 made bringing in papal bulls treason; the 1581 act made reconciling anyone to Rome treason and raised the recusancy fine to £20 a month; the 1585 act made it treason for a priest ordained abroad to be in England and a felony to shelter one. The Privy Council authorized torture of some prisoners, including Edmund Campion. Ministers such as William Cecil and Francis Walsingham drove much of this policy.",
+      "sources": [
+        "statutes",
+        "haigh-eliz",
+        "macculloch-later"
+      ]
+    },
+    {
+      "date": "1583–1593",
+      "title": "Campaign against Puritan nonconformists and separatists",
+      "targets": "Presbyterian Puritans such as Thomas Cartwright, and separatists such as Henry Barrow, John Greenwood, and John Penry",
+      "involvement": "approved",
+      "summary": "Elizabeth backed Archbishop John Whitgift's drive to enforce conformity, which suspended nonconforming ministers and brought Cartwright and other Presbyterian leaders before the Court of High Commission and Star Chamber (1590–1591). In 1593 Barrow and Greenwood were hanged for publishing seditious books, Penry was hanged soon after, and Parliament passed an act against 'seditious sectaries' that ordered banishment for those who would not conform.",
+      "sources": [
+        "collinson-puritan",
+        "statutes",
+        "macculloch-later"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "elizabeth-works",

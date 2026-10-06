@@ -454,6 +454,47 @@
       ]
     }
   ],
+  "persecuted_others_note": "Henry VIII ordered or authorized the deaths of many people for religious and political dissent: Catholics who refused his royal supremacy, rebels of the Pilgrimage of Grace, and Protestants and Anabaptists burned under his heresy laws. He punished both sides, sometimes on the same day, as in July 1540 when three evangelicals were burned and three Catholics hanged together at Smithfield.",
+  "persecuted_others": [
+    {
+      "date": "1535–1546",
+      "title": "Executions on his authority (summary)",
+      "targets": "Opponents of the royal supremacy (Carthusians, John Fisher, Thomas More), Anne Boleyn, Robert Aske, Robert Barnes, Catherine Howard, Anne Askew, and others",
+      "involvement": "ordered",
+      "summary": "See the list of executed people above. Those sentences ran through treason trials, acts of attainder, and the heresy laws, all under the king's authority; ministers such as Thomas Cromwell and later Thomas Wriothesley and Stephen Gardiner carried out much of the work, and Henry's personal part varied from case to case.",
+      "sources": [
+        "statutes",
+        "scarisbrick",
+        "bernard"
+      ]
+    },
+    {
+      "date": "1537",
+      "title": "Reprisals after the Pilgrimage of Grace",
+      "targets": "Northern rebels, including monks and leaders such as Robert Aske, Lord Darcy, and Sir Robert Constable",
+      "involvement": "ordered",
+      "summary": "After the rising of 1536 had dispersed on a promise of pardon, renewed unrest in early 1537 gave Henry grounds to act. He instructed the Duke of Norfolk to impose martial law and make a terrible example, including hanging monks who had resisted the dissolution; around 200 people were executed, the leaders after trials in London.",
+      "outcome": "Resistance in the North was broken and the dissolution of the monasteries continued.",
+      "sources": [
+        "scarisbrick",
+        "haigh",
+        "britannica"
+      ]
+    },
+    {
+      "date": "1535–1546",
+      "title": "Burnings for heresy under his laws",
+      "targets": "Dutch Anabaptists (1535), the sacramentarian John Lambert (1538), the evangelicals Robert Barnes, Thomas Garrett, and William Jerome (1540), Anne Askew and others (1546)",
+      "involvement": "ordered",
+      "summary": "Henry kept the late medieval laws against heresy and added the Act of Six Articles (1539), which made denial of transubstantiation punishable by burning. In November 1538 he presided in person over John Lambert's heresy trial in Westminster Hall, disputing with him and pronouncing sentence; Lambert was burned at Smithfield. Bishops such as Stephen Gardiner and Edmund Bonner and the council handled most other cases.",
+      "sources": [
+        "statutes",
+        "foxe",
+        "macculloch",
+        "haigh"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "assertio",

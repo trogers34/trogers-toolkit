@@ -498,6 +498,46 @@
   ],
   "excommunication_note": "Mary was never excommunicated. She shared in the schism of her father's church after her forced submission of 1536, but the realm, including her, was formally absolved and reconciled to Rome by Cardinal Pole on 30 November 1554. She died in communion with the Roman Catholic Church.",
   "excommunications": [],
+  "persecuted_others_note": "Mary I restored the old heresy laws and supported the burning of about 280 Protestants between 1555 and 1558, the 'Marian persecution' that gave her the name 'Bloody Mary' in later Protestant memory. She also had Lady Jane Grey and about 90 rebels executed after Wyatt's rebellion, and removed married and Protestant clergy from their posts; some 800 Protestants went into exile abroad.",
+  "persecuted_others": [
+    {
+      "date": "1555–1558",
+      "title": "The Marian burnings (summary)",
+      "targets": "About 280 Protestants (Eamon Duffy counts 284), mostly laypeople, including John Rogers, John Hooper, Rowland Taylor, Hugh Latimer, Nicholas Ridley, and Thomas Cranmer",
+      "involvement": "ordered",
+      "summary": "See the list of executed people above. Parliament revived the medieval heresy laws at the end of 1554 and the burnings began in February 1555; bishops and papal commissioners tried the cases and the secular authorities carried out the sentences. Mary supported the policy and refused to halt it; how far she, Cardinal Reginald Pole, Bishop Stephen Gardiner, and Bishop Edmund Bonner each drove it is debated by historians.",
+      "sources": [
+        "statutes",
+        "foxe",
+        "duffy-fires",
+        "loades"
+      ]
+    },
+    {
+      "date": "1554",
+      "title": "Executions after Wyatt's rebellion",
+      "targets": "Lady Jane Grey, her husband Guildford Dudley, her father the Duke of Suffolk, Sir Thomas Wyatt, and about 90 rebels",
+      "involvement": "ordered",
+      "summary": "After the largely Protestant rising led by Sir Thomas Wyatt against her Spanish marriage failed in February 1554, Mary signed the death warrant of Lady Jane Grey, whom she had earlier spared, and about 90 rebels were hanged. Her half-sister Elizabeth was sent to the Tower on suspicion of involvement but was not charged.",
+      "sources": [
+        "loades",
+        "porter",
+        "britannica"
+      ]
+    },
+    {
+      "date": "1554",
+      "title": "Removal of married and Protestant clergy",
+      "targets": "Married priests and Protestant bishops and clergy",
+      "involvement": "ordered",
+      "summary": "Royal injunctions of March 1554 ordered bishops to deprive clergy who had married under Edward VI; many were removed from their parishes, some later restored after separating from their wives. Protestant bishops such as Hooper, Ridley, Latimer, and Cranmer had already been deprived and imprisoned.",
+      "sources": [
+        "haigh",
+        "duffy-fires",
+        "loades"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "foxe",

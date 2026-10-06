@@ -120,6 +120,33 @@
   ],
   "excommunication_note": "No excommunication of Nicholas is recorded. The legend that the Council of Nicaea removed him from office for striking Arius is not historical.",
   "excommunications": [],
+  "persecuted_others_note": "No contemporary record shows Nicholas persecuting anyone. Later legends credit him with two hostile acts: slapping or striking Arius at the Council of Nicaea (325), and destroying pagan temples in his region, including the temple of Artemis at Myra. Historians treat both stories as legend rather than history.",
+  "persecuted_others": [
+    {
+      "year": 325,
+      "title": "Striking Arius at Nicaea (legend)",
+      "targets": "Arius",
+      "involvement": "carried_out",
+      "summary": "A late legend, not found in early accounts of the Council of Nicaea, says Nicholas grew so angry at Arius during the debates that he struck him, and that the council removed him from office and jailed him until a vision restored him. Historians regard the story as legend; Nicholas's presence at Nicaea is itself uncertain.",
+      "outcome": "In the legend, Nicholas was briefly deposed and imprisoned, then restored.",
+      "sources": [
+        "english",
+        "jones"
+      ]
+    },
+    {
+      "date": "early 4th century",
+      "circa": true,
+      "title": "Destroying pagan temples (legend)",
+      "targets": "Pagan worshippers of Lycia; the temple of Artemis at Myra",
+      "involvement": "carried_out",
+      "summary": "The Life of Nicholas by Michael the Archimandrite (9th century) says he tore down pagan temples and shrines in and around Myra, chief among them the temple of Artemis. This is a later hagiographical account with no contemporary support, and historians treat it as legend.",
+      "sources": [
+        "anrich",
+        "english"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "anrich",

@@ -22,7 +22,8 @@ SITE_DIR = ROOT / "site"
 STATIC_DIR = ROOT / "static"
 
 REQUIRED_FIELDS = ["name", "slug", "era", "summary", "born", "died",
-                   "key_dates", "accomplishments", "persecution", "excommunications", "sources"]
+                   "key_dates", "accomplishments", "persecution", "excommunications", "persecuted_others",
+                   "persecuted_others_note", "sources"]
 EVENT_REQUIRED_FIELDS = ["name", "slug", "era", "event_type", "start", "summary", "happened",
                          "outcomes", "sources"]
 EVENT_TYPES = {
@@ -45,6 +46,13 @@ SAYING_CATEGORIES = {
                     "Already in use before them, but their use made it widely known."),
     "misattributed": ("Misattributed",
                       "Commonly credited to them, but not found in their writings."),
+}
+INVOLVEMENT = {
+    "ordered": "Ordered or signed it",
+    "carried_out": "Carried it out",
+    "took_part": "Took part",
+    "approved": "Approved or defended it",
+    "advocated": "Called for it",
 }
 AI_LEVELS = {"full": "fully", "partial": "partially"}
 
@@ -211,6 +219,19 @@ def validate_person(person, file_stem):
     if not person["persecution"] and not person.get("persecution_note"):
         errors.append("'persecution' is empty: add 'persecution_note' saying none is recorded")
     validate_shared_sections(person, errors, check_refs, "excommunications")
+
+    if not str(person["persecuted_others_note"]).strip():
+        errors.append("'persecuted_others_note' must summarize persecution they supported (or say none is recorded)")
+    for i, item in enumerate(person["persecuted_others"]):
+        where = f"persecuted_others[{i}]"
+        for field in ("title", "targets", "summary"):
+            if not item.get(field):
+                errors.append(f"{where} needs '{field}'")
+        if not item.get("date") and not isinstance(item.get("year"), int):
+            errors.append(f"{where} needs a 'year' or 'date'")
+        if item.get("involvement") not in INVOLVEMENT:
+            errors.append(f"{where}.involvement must be one of {list(INVOLVEMENT)}")
+        check_refs(where, item)
 
     sayings = person.get("sayings", {})
     for category in sayings:
@@ -498,6 +519,28 @@ def events_for_person(slug, events):
 
 # ---------------------------------------------------------------- person page
 
+def render_persecuted_others(person, numbers):
+    cards = []
+    for item in person["persecuted_others"]:
+        when = item.get("date") or format_year(item["year"], item.get("circa", False))
+        outcome = f'<p class="outcome"><strong>Outcome:</strong> {esc(item["outcome"])}</p>' if item.get("outcome") else ""
+        cards.append(f'''
+    <div class="incident inflicted">
+      <p class="when">{esc(when)}</p>
+      <h3>{esc(item["title"])}</h3>
+      <p class="badges"><span class="involvement {esc(item["involvement"])}">{INVOLVEMENT[item["involvement"]]}</span></p>
+      <p><strong>Against:</strong> {esc(item["targets"])}</p>
+      <p>{esc(item["summary"])}{cite(item["sources"], numbers)}</p>
+      {outcome}
+    </div>''')
+    return f'''
+  <section>
+    <h2>Persecution they supported or carried out</h2>
+    <p class="intro">{esc(person["persecuted_others_note"])}</p>{"".join(cards)}
+  </section>
+'''
+
+
 def render_person(person, events=()):
     numbers = source_numbers(person)
     born, died = person["born"], person["died"]
@@ -591,7 +634,7 @@ def render_person(person, events=()):
     <h2>What they did</h2>
     {render_bullets(person["accomplishments"], numbers)}
   </section>
-{events_html}{sayings_html}{render_victims(person, numbers, person["name"].split()[-1])}{persecution_html}{render_key_dates(dates, numbers)}{render_sources(person)}</article>
+{events_html}{sayings_html}{render_victims(person, numbers, person["name"].split()[-1])}{render_persecuted_others(person, numbers)}{persecution_html}{render_key_dates(dates, numbers)}{render_sources(person)}</article>
 """
     notice = ai_notice(person.get("ai_generated", "full"))
     return page(f'{person["name"]} — Church History', body, root="../", notice=notice)

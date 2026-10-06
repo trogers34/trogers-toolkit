@@ -151,6 +151,8 @@
   ],
   "excommunication_note": "No excommunication or condemnation of him is recorded.",
   "excommunications": [],
+  "persecuted_others_note": "No record of Ignatius supporting or carrying out persecution of others; he was himself a prisoner on the way to execution when he wrote. His letters use harsh language against Christians he regarded as false teachers (especially those who denied that Christ truly suffered in the flesh), calling them \"beasts in human form\" and urging believers to avoid them, but he called for shunning, not punishment, and asked his readers to pray for them.",
+  "persecuted_others": [],
   "sources": [
     {
       "id": "holmes",

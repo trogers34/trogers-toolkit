@@ -222,6 +222,22 @@
   ],
   "excommunication_note": "Wesley was never excommunicated. Many clergy closed their pulpits to him, but the Church of England never took formal action against him, and he died a priest of that church. The Methodists separated from the Church of England only after his death.",
   "excommunications": [],
+  "persecuted_others_note": "Wesley opposed the persecution of Methodists and usually urged love toward Catholics (his 1749 Letter to a Roman Catholic), but in 1779–1780 he opposed the Catholic Relief Act and publicly defended the Protestant Association's call to keep the legal restrictions on Catholics. He did not support the Gordon Riots of June 1780, which followed the Association's petition.",
+  "persecuted_others": [
+    {
+      "year": 1780,
+      "date": "1779–1780",
+      "title": "Defended keeping the penal laws against Catholics",
+      "targets": "English Roman Catholics",
+      "involvement": "advocated",
+      "summary": "In a letter printed in the Public Advertiser in January 1780, and in Popery Calmly Considered (1779), Wesley argued that Catholics should not be granted toleration because, he claimed, their church taught that faith need not be kept with heretics and that the pope could absolve them from allegiance. He said he wished no Catholic to be persecuted for conscience, only that they not be given the means to do harm. Lord George Gordon's Protestant Association used such arguments in the campaign that ended in the Gordon Riots; Wesley visited Gordon in the Tower in December 1780.",
+      "outcome": "The Relief Act stood; the riots in London killed several hundred people and destroyed Catholic chapels and homes. Wesley was not involved in the violence.",
+      "sources": [
+        "rack",
+        "wesley-letters"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "journal",
@@ -239,6 +255,11 @@
       "type": "reference",
       "citation": "\"John Wesley,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/John-Wesley"
+    },
+    {
+      "id": "wesley-letters",
+      "type": "primary",
+      "citation": "John Wesley, The Letters of the Rev. John Wesley, A.M., ed. John Telford, 8 vols. (London: Epworth Press, 1931)."
     }
   ]
 }

@@ -226,6 +226,43 @@
       ]
     }
   ],
+  "persecuted_others_note": "Bullinger supported the punishment of religious dissenters by the civil authorities: he advised that Michael Servetus be punished and approved his burning, defended Zürich's fines, imprisonment, and banishment of Anabaptists, and backed the banishment of Bernardino Ochino. Zürich's executions of Anabaptists by drowning (1527–1532) mostly came before he succeeded Zwingli in December 1531, and he held no judicial office himself.",
+  "persecuted_others": [
+    {
+      "year": 1553,
+      "title": "Advice for the punishment of Michael Servetus",
+      "targets": "Michael Servetus, anti-Trinitarian physician tried in Geneva",
+      "involvement": "advocated",
+      "summary": "When Geneva consulted the Swiss Protestant churches, the Zürich ministers led by Bullinger replied that Servetus should be punished so that his heresy could not spread, and Bullinger privately expected and approved a death sentence. Servetus was burned on 27 October 1553; the Geneva council passed the sentence and John Calvin led the prosecution.",
+      "sources": [
+        "bainton",
+        "gordon"
+      ]
+    },
+    {
+      "date": "1531–1575",
+      "title": "Measures against Anabaptists in Zürich",
+      "targets": "Anabaptists in Zürich and its territory",
+      "involvement": "approved",
+      "summary": "Bullinger supported the Zürich council's continuing mandates against Anabaptists, which punished them with fines, imprisonment, and banishment, and in his writings, including a history of the movement (1560), defended the magistrate's right to punish obstinate heretics and the earlier executions as punishment for sedition.",
+      "sources": [
+        "gordon",
+        "gordon-campi",
+        "decades"
+      ]
+    },
+    {
+      "year": 1563,
+      "title": "Banishment of Bernardino Ochino",
+      "targets": "Bernardino Ochino, Italian refugee preacher to Zürich's Italian congregation",
+      "involvement": "took_part",
+      "summary": "After Ochino published his Thirty Dialogues, which were read as excusing polygamy and questioning the Trinity, the Zürich ministers led by Bullinger reported against the book, and the council expelled him and his children in winter 1563. Ochino, then in his mid-seventies, died in Moravia the next year.",
+      "sources": [
+        "gordon",
+        "gordon-campi"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "confessions",

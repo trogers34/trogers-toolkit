@@ -482,6 +482,46 @@
   ],
   "excommunication_note": "More was never excommunicated. He died in communion with the Roman Catholic Church, which beatified him in 1886 and canonized him in 1935.",
   "excommunications": [],
+  "persecuted_others_note": "Thomas More wrote in defense of burning obstinate heretics, led searches for forbidden Protestant books, and as Lord Chancellor (1529–1532) oversaw the arrest and interrogation of suspected heretics, several of whom were burned. He denied using torture, and his early Utopia (1516) had described a society that tolerated differing religions.",
+  "persecuted_others": [
+    {
+      "year": 1526,
+      "title": "Raid on the Steelyard for Lutheran books",
+      "targets": "German Hanseatic merchants at the London Steelyard suspected of importing Lutheran books",
+      "involvement": "carried_out",
+      "summary": "Acting under Cardinal Wolsey's authority, More led a search of the Steelyard in January 1526; several merchants were arrested and made to do public penance at St Paul's, where Lutheran books were burned.",
+      "sources": [
+        "guy",
+        "marius"
+      ]
+    },
+    {
+      "year": 1529,
+      "title": "Defended burning heretics in his writings",
+      "targets": "English Protestants (\"heretics\")",
+      "involvement": "advocated",
+      "summary": "In A Dialogue Concerning Heresies (1529) and later polemics against Tyndale and others, More argued that the burning of obstinate heretics was lawful and necessary. The epitaph he wrote for himself in 1532 described him as \"grievous to thieves, murderers and heretics\".",
+      "sources": [
+        "more-works",
+        "marius",
+        "guy"
+      ]
+    },
+    {
+      "date": "1529–1532",
+      "title": "Arrests and burnings during his chancellorship",
+      "targets": "Suspected Protestants, including Thomas Hitton, Thomas Bilney, Richard Bayfield, John Tewkesbury, James Bainham and others",
+      "involvement": "approved",
+      "summary": "As Lord Chancellor, More arrested and questioned suspected heretics, some at his house in Chelsea, and his Chancery issued the writs under which heretics condemned by the bishops were burned; he publicly approved of these executions (see the list of executed people above). Bishops such as John Stokesley of London condemned them. Foxe accused More of having prisoners whipped and racked; More denied this in his Apology (1533), and historians disagree.",
+      "outcome": "Six people were burned for heresy during his chancellorship and John Frith in 1533 after his resignation.",
+      "sources": [
+        "foxe",
+        "guy",
+        "marius",
+        "more-works"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "more-works",

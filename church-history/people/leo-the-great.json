@@ -154,6 +154,34 @@
       ]
     }
   ],
+  "persecuted_others_note": "Leo conducted an inquiry into the Manichaeans of Rome in 443–444, urged the faithful to denounce them, and pressed other bishops to hunt down those who fled; an imperial law of 445 then punished them. In 447 he wrote approvingly of the execution of Priscillian in 385 and urged action against the Priscillianists of Spain. No record shows him calling for violence against Jews.",
+  "persecuted_others": [
+    {
+      "year": 443,
+      "date": "443–445",
+      "title": "Inquiry against the Manichaeans of Rome",
+      "targets": "Manichaeans in Rome",
+      "involvement": "carried_out",
+      "summary": "Leo held an investigation with bishops, clergy, and senators present at which Manichaean leaders were questioned and confessed; in his sermons he urged Romans to report Manichaeans to their priests. In Letter 7 (444) he asked the bishops of Italy to seek out Manichaeans who had fled Rome. Valentinian III's law of 445 (Novel 18), which cites Leo's inquiry, barred them from the army and civic life and ordered them expelled.",
+      "outcome": "Manichaeans who would not recant were exiled from Rome; some recanted and did penance.",
+      "sources": [
+        "npnf-leo",
+        "sermons",
+        "neil"
+      ]
+    },
+    {
+      "year": 447,
+      "title": "Approval of Priscillian's execution and action against Priscillianists",
+      "targets": "Priscillianists in Spain (and, after the fact, Priscillian, executed in 385)",
+      "involvement": "approved",
+      "summary": "Replying to Bishop Turribius of Astorga (Letter 15), Leo said the secular rulers had rightly punished Priscillian and his followers with death, describing that severity as a help to the church's leniency, and urged a Spanish synod to condemn the sect. The execution itself was ordered by the usurper Maximus at Trier in 385, decades before Leo.",
+      "sources": [
+        "npnf-leo",
+        "neil"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "sermons",
@@ -175,6 +203,11 @@
       "type": "reference",
       "citation": "\"Saint Leo I,\" Encyclopaedia Britannica.",
       "url": "https://www.britannica.com/biography/Saint-Leo-I"
+    },
+    {
+      "id": "npnf-leo",
+      "type": "primary",
+      "citation": "Leo the Great, Gregory the Great, ed. Charles Lett Feltoe and James Barmby. Nicene and Post-Nicene Fathers, Second Series, vol. 12. New York: Christian Literature Co., 1895. (Leo's letters and sermons.)"
     }
   ]
 }

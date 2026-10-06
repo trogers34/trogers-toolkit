@@ -4,44 +4,296 @@
   "also_known_as": "Edward VI of England",
   "era": "Reformation",
   "role": "King of England and Ireland (1547–1553)",
-  "born": {"year": 1537, "date": "12 October 1537", "place": "Hampton Court Palace, Middlesex, England", "sources": ["loach", "britannica"]},
-  "died": {"year": 1553, "date": "6 July 1553", "place": "Greenwich Palace, Kent, England", "cause": "A lung disease, probably tuberculosis, at age 15", "sources": ["loach", "britannica"]},
+  "born": {
+    "year": 1537,
+    "date": "12 October 1537",
+    "place": "Hampton Court Palace, Middlesex, England",
+    "sources": [
+      "loach",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1553,
+    "date": "6 July 1553",
+    "place": "Greenwich Palace, Kent, England",
+    "cause": "A lung disease, probably tuberculosis, at age 15",
+    "sources": [
+      "loach",
+      "britannica"
+    ]
+  },
   "summary": "Son of Henry VIII and Jane Seymour who became king at nine; under his regents England moved from Henry's Catholic-style church without the pope to a fully Protestant one, with the Book of Common Prayer, until his early death brought his Catholic half-sister Mary I to the throne.",
   "key_dates": [
-    {"year": 1547, "label": "Becomes king at nine (28 January); his uncle Edward Seymour rules as Lord Protector; royal injunctions order images removed and chantries dissolved", "sources": ["macculloch", "duffy-altars"]},
-    {"year": 1549, "label": "First Book of Common Prayer replaces the Latin Mass (Whitsunday, 9 June); clergy allowed to marry; Prayer Book Rebellion in Devon and Cornwall", "sources": ["macculloch", "duffy-altars"]},
-    {"year": 1550, "label": "New ordinal for ordaining clergy; stone altars ordered replaced by wooden tables; Joan Bocher burned for heresy", "sources": ["macculloch", "foxe"]},
-    {"year": 1551, "label": "Dispute with his half-sister Mary over her private Mass; her chaplains arrested", "sources": ["loach", "macculloch"]},
-    {"year": 1552, "label": "Second, more Protestant Book of Common Prayer; the Duke of Somerset executed (22 January)", "sources": ["macculloch", "loach"]},
-    {"year": 1553, "label": "Forty-two Articles issued; his 'Device for the Succession' names Lady Jane Grey as heir; dies 6 July", "sources": ["macculloch", "loach"]}
+    {
+      "year": 1547,
+      "label": "Becomes king at nine (28 January); his uncle Edward Seymour rules as Lord Protector; royal injunctions order images removed and chantries dissolved",
+      "sources": [
+        "macculloch",
+        "duffy-altars"
+      ]
+    },
+    {
+      "year": 1549,
+      "label": "First Book of Common Prayer replaces the Latin Mass (Whitsunday, 9 June); clergy allowed to marry; Prayer Book Rebellion in Devon and Cornwall",
+      "sources": [
+        "macculloch",
+        "duffy-altars"
+      ]
+    },
+    {
+      "year": 1550,
+      "label": "New ordinal for ordaining clergy; stone altars ordered replaced by wooden tables; Joan Bocher burned for heresy",
+      "sources": [
+        "macculloch",
+        "foxe"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Dispute with his half-sister Mary over her private Mass; her chaplains arrested",
+      "sources": [
+        "loach",
+        "macculloch"
+      ]
+    },
+    {
+      "year": 1552,
+      "label": "Second, more Protestant Book of Common Prayer; the Duke of Somerset executed (22 January)",
+      "sources": [
+        "macculloch",
+        "loach"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Forty-two Articles issued; his 'Device for the Succession' names Lady Jane Grey as heir; dies 6 July",
+      "sources": [
+        "macculloch",
+        "loach"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "His reign was the second swing in England's religious changes: Henry VIII had broken with Rome but kept Catholic worship; under Edward the English church became fully Protestant; under Mary I it returned to Rome; under Elizabeth I it became Protestant again.", "sources": ["macculloch", "haigh"]},
-    {"text": "Under his regents Archbishop Thomas Cranmer replaced the Latin Mass with the English Book of Common Prayer (1549, revised in a more Protestant direction in 1552), allowed priests to marry, and issued the Forty-two Articles (1553), the basis of the later Thirty-nine Articles.", "sources": ["macculloch", "britannica"]},
-    {"text": "In parish churches images, shrines, and wall paintings were removed or whitewashed, chantries that paid priests to pray for the dead were dissolved and their property seized, and stone altars were replaced by communion tables.", "sources": ["duffy-altars", "macculloch"]},
-    {"text": "Was educated as a convinced Protestant, and his journal and letters show him taking a personal interest in religious reform.", "sources": ["loach", "macculloch"]},
-    {"text": "Welcomed Continental Protestant refugees, including Martin Bucer and Peter Martyr Vermigli, who were made professors at Cambridge and Oxford, and allowed a church for foreign Protestants in London (1550).", "sources": ["macculloch"]},
-    {"text": "Conservative bishops who resisted the changes, including Stephen Gardiner of Winchester and Edmund Bonner of London, were deprived of their sees and imprisoned.", "sources": ["macculloch", "haigh"]},
-    {"text": "Tried, as he was dying, to stop his Catholic half-sister Mary from succeeding by naming his Protestant cousin Lady Jane Grey in his 'Device for the Succession'; Jane reigned nine days before Mary took the throne.", "sources": ["loach", "britannica"]}
+    {
+      "text": "His reign was the second swing in England's religious changes: Henry VIII had broken with Rome but kept Catholic worship; under Edward the English church became fully Protestant; under Mary I it returned to Rome; under Elizabeth I it became Protestant again.",
+      "sources": [
+        "macculloch",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Under his regents Archbishop Thomas Cranmer replaced the Latin Mass with the English Book of Common Prayer (1549, revised in a more Protestant direction in 1552), allowed priests to marry, and issued the Forty-two Articles (1553), the basis of the later Thirty-nine Articles.",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In parish churches images, shrines, and wall paintings were removed or whitewashed, chantries that paid priests to pray for the dead were dissolved and their property seized, and stone altars were replaced by communion tables.",
+      "sources": [
+        "duffy-altars",
+        "macculloch"
+      ]
+    },
+    {
+      "text": "Was educated as a convinced Protestant, and his journal and letters show him taking a personal interest in religious reform.",
+      "sources": [
+        "loach",
+        "macculloch"
+      ]
+    },
+    {
+      "text": "Welcomed Continental Protestant refugees, including Martin Bucer and Peter Martyr Vermigli, who were made professors at Cambridge and Oxford, and allowed a church for foreign Protestants in London (1550).",
+      "sources": [
+        "macculloch"
+      ]
+    },
+    {
+      "text": "Conservative bishops who resisted the changes, including Stephen Gardiner of Winchester and Edmund Bonner of London, were deprived of their sees and imprisoned.",
+      "sources": [
+        "macculloch",
+        "haigh"
+      ]
+    },
+    {
+      "text": "Tried, as he was dying, to stop his Catholic half-sister Mary from succeeding by naming his Protestant cousin Lady Jane Grey in his 'Device for the Succession'; Jane reigned nine days before Mary took the throne.",
+      "sources": [
+        "loach",
+        "britannica"
+      ]
+    }
   ],
   "victims_title": "People executed under Edward VI",
   "victims_intro": "Executions in the king's name during his minority. Edward was a child, so the decisions were largely those of his regents and council, though he signed some warrants himself.",
   "victims": [
-    {"name": "Joan Bocher", "executed": "Burned at Smithfield, London, 2 May 1550", "condemned_by": "Archbishop Cranmer's commission for heresy; the king's council", "allegation": "Burned as an Anabaptist for denying that Christ took flesh from the Virgin Mary; a later story in Foxe that Edward signed her warrant in tears at Cranmer's urging is doubted by historians.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "The execution is documented; Edward's personal role rests on a later, doubtful anecdote.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Joan+Bocher"}], "sources": ["foxe", "macculloch"]},
-    {"name": "George van Parris", "executed": "Burned at Smithfield, London, April 1551", "condemned_by": "Commission for heresy under Archbishop Cranmer", "allegation": "A Flemish surgeon burned for denying the divinity of Christ.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "Executed under Edward's government; the king's own involvement is not recorded.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=George+van+Parris"}], "sources": ["macculloch"]},
-    {"name": "Robert Welsh", "executed": "Hanged from the tower of his church, St Thomas's, Exeter, 1549", "condemned_by": "Royal commanders after the Prayer Book Rebellion", "allegation": "A Catholic priest executed for his part in the rebellion against the 1549 Prayer Book.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "Executed by royal forces; a decision of the commanders in the field rather than the king.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Prayer+Book+Rebellion"}], "sources": ["duffy-altars", "britannica"]},
-    {"name": "Humphrey Arundell", "executed": "Hanged, drawn, and quartered at Tyburn, January 1550", "condemned_by": "Trial for treason under Edward's government", "allegation": "Leader of the Cornish and Devon rebels of 1549 who demanded the return of the Latin Mass.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "Executed for treason in the king's name.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Humphrey+Arundell"}], "sources": ["britannica"]}
+    {
+      "name": "Joan Bocher",
+      "executed": "Burned at Smithfield, London, 2 May 1550",
+      "condemned_by": "Archbishop Cranmer's commission for heresy; the king's council",
+      "allegation": "Burned as an Anabaptist for denying that Christ took flesh from the Virgin Mary; a later story in Foxe that Edward signed her warrant in tears at Cranmer's urging is doubted by historians.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "The execution is documented; Edward's personal role rests on a later, doubtful anecdote.",
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Joan+Bocher"
+        }
+      ],
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    },
+    {
+      "name": "George van Parris",
+      "executed": "Burned at Smithfield, London, April 1551",
+      "condemned_by": "Commission for heresy under Archbishop Cranmer",
+      "allegation": "A Flemish surgeon burned for denying the divinity of Christ.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed under Edward's government; the king's own involvement is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=George+van+Parris"
+        }
+      ],
+      "sources": [
+        "macculloch"
+      ]
+    },
+    {
+      "name": "Robert Welsh",
+      "executed": "Hanged from the tower of his church, St Thomas's, Exeter, 1549",
+      "condemned_by": "Royal commanders after the Prayer Book Rebellion",
+      "allegation": "A Catholic priest executed for his part in the rebellion against the 1549 Prayer Book.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed by royal forces; a decision of the commanders in the field rather than the king.",
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Prayer+Book+Rebellion"
+        }
+      ],
+      "sources": [
+        "duffy-altars",
+        "britannica"
+      ]
+    },
+    {
+      "name": "Humphrey Arundell",
+      "executed": "Hanged, drawn, and quartered at Tyburn, January 1550",
+      "condemned_by": "Trial for treason under Edward's government",
+      "allegation": "Leader of the Cornish and Devon rebels of 1549 who demanded the return of the Latin Mass.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Executed for treason in the king's name.",
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Humphrey+Arundell"
+        }
+      ],
+      "sources": [
+        "britannica"
+      ]
+    }
   ],
   "persecution_note": "Edward himself was never persecuted. His government put down the 1549 Prayer Book Rebellion with great force: royal troops under Lord Russell and Lord Grey, including foreign mercenaries, killed several thousand rebels in Devon and Cornwall.",
   "persecution": [],
   "excommunication_note": "No pope excommunicated Edward by name. His realm was already outside the Catholic Church after Henry VIII's break with Rome, and Mary I reconciled it to Rome after his death.",
   "excommunications": [],
+  "persecuted_others_note": "Executions and punishments in Edward VI's reign were carried out in his name, but as a child king the decisions lay mainly with his regents, Edward Seymour, Duke of Somerset, and John Dudley, Duke of Northumberland, and the council. Two radicals were burned for heresy, Catholic risings were crushed with great loss of life, Catholic bishops were deprived and imprisoned, and Edward himself pressed his sister Mary to give up the Mass.",
+  "persecuted_others": [
+    {
+      "date": "1549–1551",
+      "title": "Executions in his name (summary)",
+      "targets": "Joan Bocher and George van Parris (burned for heresy), Robert Welsh and Humphrey Arundell (Prayer Book Rebellion)",
+      "involvement": "ordered",
+      "summary": "See the list of executed people above. The heresy cases were tried by Archbishop Thomas Cranmer's commission and the sentences issued under royal authority; the later story that Edward signed Joan Bocher's warrant in tears at Cranmer's urging is doubted by historians.",
+      "sources": [
+        "foxe",
+        "loach",
+        "macculloch"
+      ]
+    },
+    {
+      "date": "1549",
+      "title": "Suppression of the Prayer Book Rebellion",
+      "targets": "Rebels in Devon and Cornwall who rose against the English Prayer Book and demanded the Latin Mass",
+      "involvement": "ordered",
+      "summary": "Protector Somerset's government sent Lord Russell and Lord Grey, with foreign mercenaries, against the western rebels besieging Exeter. Several thousand rebels were killed in the fighting and in martial-law executions afterwards (estimates vary), and their leaders were executed in London in 1550. Edward, aged eleven, was king in name; the orders came from Somerset and the council.",
+      "sources": [
+        "loach",
+        "duffy-altars",
+        "haigh"
+      ]
+    },
+    {
+      "date": "1549–1551",
+      "title": "Deprivation and imprisonment of Catholic bishops",
+      "targets": "Bishops Edmund Bonner of London, Stephen Gardiner of Winchester, Nicholas Heath, George Day, and Cuthbert Tunstall",
+      "involvement": "ordered",
+      "summary": "Bishops who resisted the Protestant changes were tried by royal commissions, deprived of their sees, and imprisoned, Bonner from 1549 and Gardiner from 1551, both in prisons where they remained until Mary I freed them in 1553.",
+      "sources": [
+        "macculloch",
+        "loach",
+        "haigh"
+      ]
+    },
+    {
+      "date": "1550–1551",
+      "title": "Pressure on Princess Mary to give up the Mass",
+      "targets": "His half-sister Mary and her household chaplains and officers",
+      "involvement": "took_part",
+      "summary": "Edward personally refused Mary's request to keep hearing Mass and rebuked her before the council in March 1551. The council arrested her chaplain Francis Mallet and later sent three of her household officers to the Tower for failing to stop Mass being said in her house.",
+      "sources": [
+        "loach",
+        "macculloch"
+      ]
+    }
+  ],
   "sources": [
-    {"id": "foxe", "type": "primary", "citation": "John Foxe, Acts and Monuments ('Foxe's Book of Martyrs'), 1563 and later editions."},
-    {"id": "loach", "type": "scholarly", "citation": "Jennifer Loach, Edward VI, ed. George Bernard and Penry Williams. New Haven: Yale University Press, 1999."},
-    {"id": "macculloch", "type": "scholarly", "citation": "Diarmaid MacCulloch, Tudor Church Militant: Edward VI and the Protestant Reformation. London: Allen Lane, 1999."},
-    {"id": "duffy-altars", "type": "scholarly", "citation": "Eamon Duffy, The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580. New Haven: Yale University Press, 1992."},
-    {"id": "haigh", "type": "scholarly", "citation": "Christopher Haigh, English Reformations: Religion, Politics, and Society under the Tudors. Oxford: Clarendon Press, 1993."},
-    {"id": "britannica", "type": "reference", "citation": "\"Edward VI.\" Encyclopaedia Britannica."}
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments ('Foxe's Book of Martyrs'), 1563 and later editions."
+    },
+    {
+      "id": "loach",
+      "type": "scholarly",
+      "citation": "Jennifer Loach, Edward VI, ed. George Bernard and Penry Williams. New Haven: Yale University Press, 1999."
+    },
+    {
+      "id": "macculloch",
+      "type": "scholarly",
+      "citation": "Diarmaid MacCulloch, Tudor Church Militant: Edward VI and the Protestant Reformation. London: Allen Lane, 1999."
+    },
+    {
+      "id": "duffy-altars",
+      "type": "scholarly",
+      "citation": "Eamon Duffy, The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580. New Haven: Yale University Press, 1992."
+    },
+    {
+      "id": "haigh",
+      "type": "scholarly",
+      "citation": "Christopher Haigh, English Reformations: Religion, Politics, and Society under the Tudors. Oxford: Clarendon Press, 1993."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Edward VI.\" Encyclopaedia Britannica."
+    }
   ]
 }

@@ -259,6 +259,33 @@
       ]
     }
   ],
+  "persecuted_others_note": "Zwingli led Zürich's campaign against the Anabaptists, including his own former followers, and supported the council's 1526 decree making rebaptism punishable by drowning, under which Felix Manz was executed. He also pressed for the abolition of the Mass in Zürich and for war against the Catholic cantons.",
+  "persecuted_others": [
+    {
+      "date": "1525–1527",
+      "title": "Suppression of the Zürich Anabaptists",
+      "targets": "Swiss Brethren (Anabaptists), including Conrad Grebel, Felix Manz and George Blaurock",
+      "involvement": "approved",
+      "summary": "Zwingli argued against the Anabaptists in public disputations in 1525, after which the Zürich council ordered infant baptism, banned their meetings, and imprisoned or expelled their leaders. He supported the council's decree of March 1526 making rebaptism punishable by drowning and wrote against the Anabaptists, though the council, not Zwingli, passed the sentences (see the list of executed people above).",
+      "outcome": "Felix Manz was drowned in the Limmat on 5 January 1527; others were imprisoned, banished or, like Blaurock, flogged and expelled.",
+      "sources": [
+        "harder",
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "year": 1525,
+      "title": "Abolition of the Mass in Zürich",
+      "targets": "Catholics in Zürich",
+      "involvement": "advocated",
+      "summary": "Zwingli urged the removal of images (1524) and the abolition of the Mass, which the Zürich council ended at Easter 1525; Catholic worship was thereafter forbidden in the city and its territory.",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "writings",

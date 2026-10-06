@@ -290,6 +290,73 @@
       ]
     }
   ],
+  "persecuted_others_note": "As archbishop, Cranmer took part in heresy proceedings that ended in burnings under both Henry VIII (John Frith, John Lambert, Anabaptists) and Edward VI (Joan Bocher, George van Parris), and helped deprive Catholic bishops under Edward. He was also known for interceding for others, urging that Thomas More and John Fisher be allowed a partial oath and writing to the king on behalf of Anne Boleyn and Thomas Cromwell, before he was himself burned under Mary I.",
+  "persecuted_others": [
+    {
+      "year": 1533,
+      "title": "Condemnation of John Frith",
+      "targets": "John Frith, evangelical scholar who denied the real presence in the Eucharist",
+      "involvement": "took_part",
+      "summary": "Cranmer examined Frith at Croydon and, with Bishops John Stokesley and Stephen Gardiner, tried to persuade him to recant; when Frith refused he was condemned and burned at Smithfield on 4 July 1533. Cranmer described the case in a letter of the time; he later came to views on the Eucharist close to Frith's.",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    },
+    {
+      "date": "1533–1534",
+      "title": "Examination of Elizabeth Barton",
+      "targets": "Elizabeth Barton, the 'Holy Maid of Kent', a visionary who prophesied against Henry's divorce",
+      "involvement": "took_part",
+      "summary": "Cranmer examined Barton in 1533 and obtained her confession that her revelations were feigned. She and several clergy who supported her were then condemned by act of attainder, without trial, and hanged at Tyburn in April 1534.",
+      "sources": [
+        "macculloch",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1538,
+      "title": "Heresy trials of Anabaptists and of John Lambert",
+      "targets": "Dutch Anabaptists in England; John Lambert",
+      "involvement": "took_part",
+      "summary": "Cranmer headed a royal commission against Anabaptists in 1538, after which some were burned. In November 1538 he was one of the bishops who disputed against John Lambert at the trial over which Henry VIII presided; Lambert, who denied the real presence, was condemned and burned.",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    },
+    {
+      "date": "1549–1551",
+      "title": "Deprivation of Catholic bishops",
+      "targets": "Bishops Edmund Bonner of London and Stephen Gardiner of Winchester",
+      "involvement": "took_part",
+      "summary": "Cranmer sat on the royal commissions that deprived Bonner (1549) and Gardiner (1551) of their sees; both were imprisoned until Mary I's accession.",
+      "sources": [
+        "macculloch"
+      ]
+    },
+    {
+      "date": "1550–1551",
+      "title": "Burnings of Joan Bocher and George van Parris",
+      "targets": "Joan Bocher, Anabaptist; George van Parris, Flemish surgeon who denied the divinity of Christ",
+      "involvement": "took_part",
+      "summary": "Cranmer led the commissions that condemned Bocher (burned 2 May 1550) and van Parris (burned April 1551) for heresy. A later story in Foxe that Cranmer pressed a reluctant Edward VI to sign Bocher's warrant is doubted by historians, including Diarmaid MacCulloch.",
+      "sources": [
+        "foxe",
+        "macculloch"
+      ]
+    },
+    {
+      "date": "1551–1553",
+      "title": "Reform of canon law (Reformatio legum ecclesiasticarum)",
+      "targets": "Obstinate heretics",
+      "involvement": "advocated",
+      "summary": "The draft revision of church law prepared under Cranmer's direction provided that heretics who would not recant should be handed over to the civil authorities for punishment. Parliament never enacted it.",
+      "sources": [
+        "macculloch"
+      ]
+    }
+  ],
   "sources": [
     {
       "id": "bcp",

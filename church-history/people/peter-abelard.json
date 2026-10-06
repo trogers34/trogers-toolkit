@@ -4,57 +4,281 @@
   "also_known_as": "Pierre Abélard",
   "era": "Medieval",
   "role": "French philosopher, theologian, and teacher",
-  "born": {"year": 1079, "date": "1079", "place": "Le Pallet, near Nantes, Brittany", "sources": ["clanchy", "britannica"]},
-  "died": {"year": 1142, "date": "21 April 1142", "place": "Priory of Saint-Marcel, near Chalon-sur-Saône, Burgundy", "cause": "Illness, while traveling to Rome to appeal his condemnation", "sources": ["clanchy", "letters"]},
+  "born": {
+    "year": 1079,
+    "date": "1079",
+    "place": "Le Pallet, near Nantes, Brittany",
+    "sources": [
+      "clanchy",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1142,
+    "date": "21 April 1142",
+    "place": "Priory of Saint-Marcel, near Chalon-sur-Saône, Burgundy",
+    "cause": "Illness, while traveling to Rome to appeal his condemnation",
+    "sources": [
+      "clanchy",
+      "letters"
+    ]
+  },
   "summary": "The most famous teacher of 12th-century Paris, whose logical method shaped scholastic theology, whose affair with Héloïse ended in his castration, and whose teaching was twice condemned.",
   "key_dates": [
-    {"year": 1113, "circa": true, "label": "Master of the cathedral school of Notre-Dame, Paris", "sources": ["clanchy", "letters"]},
-    {"year": 1116, "circa": true, "label": "Affair with his student Héloïse; their son Astrolabe is born and they marry secretly", "sources": ["letters", "clanchy"]},
-    {"year": 1117, "circa": true, "label": "Castrated by men hired by Héloïse's uncle Fulbert; becomes a monk at Saint-Denis", "sources": ["letters", "clanchy"]},
-    {"year": 1121, "label": "Council of Soissons condemns his book on the Trinity; forced to burn it", "sources": ["letters", "clanchy"]},
-    {"year": 1122, "label": "Founds the oratory of the Paraclete, later given to Héloïse and her nuns", "sources": ["letters", "britannica"]},
-    {"year": 1132, "circa": true, "label": "Writes the Historia Calamitatum; correspondence with Héloïse begins", "sources": ["letters"]},
-    {"year": 1141, "label": "Condemned at the Council of Sens and by Pope Innocent II", "sources": ["clanchy", "britannica"]}
+    {
+      "year": 1113,
+      "circa": true,
+      "label": "Master of the cathedral school of Notre-Dame, Paris",
+      "sources": [
+        "clanchy",
+        "letters"
+      ]
+    },
+    {
+      "year": 1116,
+      "circa": true,
+      "label": "Affair with his student Héloïse; their son Astrolabe is born and they marry secretly",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "year": 1117,
+      "circa": true,
+      "label": "Castrated by men hired by Héloïse's uncle Fulbert; becomes a monk at Saint-Denis",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "year": 1121,
+      "label": "Council of Soissons condemns his book on the Trinity; forced to burn it",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "year": 1122,
+      "label": "Founds the oratory of the Paraclete, later given to Héloïse and her nuns",
+      "sources": [
+        "letters",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1132,
+      "circa": true,
+      "label": "Writes the Historia Calamitatum; correspondence with Héloïse begins",
+      "sources": [
+        "letters"
+      ]
+    },
+    {
+      "year": 1141,
+      "label": "Condemned at the Council of Sens and by Pope Innocent II",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Drew students from across Europe to Paris and helped make it the center of learning from which the university grew.", "sources": ["clanchy", "britannica"]},
-    {"text": "In Sic et Non ('Yes and No') set apparently contradictory statements of the church fathers side by side with rules for reconciling them, a method that shaped scholastic theology.", "sources": ["clanchy", "britannica"]},
-    {"text": "Argued in logic for a middle position on universals, that general terms are meaningful words rather than real things, a key step toward 'nominalism'.", "sources": ["clanchy", "britannica"]},
-    {"text": "Taught in his Ethics (Know Yourself) that sin lies in consent and intention rather than in outward acts.", "sources": ["clanchy"]},
-    {"text": "Taught that Christ's death saves above all by revealing God's love and awakening love in return (often called the 'moral influence' view of the atonement).", "sources": ["clanchy", "britannica"]},
-    {"text": "Seduced Héloïse, a gifted young woman his student and in his care in her uncle's house; he admitted in his own account that he planned the seduction.", "sources": ["letters", "clanchy"]},
-    {"text": "Wrote the Historia Calamitatum, an autobiography, and exchanged letters with Héloïse that are among the most famous in literature; he also wrote hymns and a rule for her convent.", "sources": ["letters", "britannica"]}
+    {
+      "text": "Drew students from across Europe to Paris and helped make it the center of learning from which the university grew.",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In Sic et Non ('Yes and No') set apparently contradictory statements of the church fathers side by side with rules for reconciling them, a method that shaped scholastic theology.",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Argued in logic for a middle position on universals, that general terms are meaningful words rather than real things, a key step toward 'nominalism'.",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Taught in his Ethics (Know Yourself) that sin lies in consent and intention rather than in outward acts.",
+      "sources": [
+        "clanchy"
+      ]
+    },
+    {
+      "text": "Taught that Christ's death saves above all by revealing God's love and awakening love in return (often called the 'moral influence' view of the atonement).",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Seduced Héloïse, a gifted young woman his student and in his care in her uncle's house; he admitted in his own account that he planned the seduction.",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "text": "Wrote the Historia Calamitatum, an autobiography, and exchanged letters with Héloïse that are among the most famous in literature; he also wrote hymns and a rule for her convent.",
+      "sources": [
+        "letters",
+        "britannica"
+      ]
+    }
   ],
   "sayings_intro": "A short selection.",
   "sayings": {
     "original": [
-      {"phrase": "By doubting we come to inquiry, and by inquiry we perceive the truth.", "reference": "Sic et Non, prologue", "sources": ["clanchy"]}
+      {
+        "phrase": "By doubting we come to inquiry, and by inquiry we perceive the truth.",
+        "reference": "Sic et Non, prologue",
+        "sources": [
+          "clanchy"
+        ]
+      }
     ]
   },
   "persecution_note": "Abelard suffered a violent attack and two church condemnations, the second pressed by Bernard of Clairvaux.",
   "persecution": [
-    {"year": 1117, "date": "c. 1117–1118", "title": "Castration by Fulbert's men", "summary": "Believing Abelard had abandoned Héloïse after sending her to the convent at Argenteuil, her uncle Fulbert, a canon of Notre-Dame, had men bribe Abelard's servant and castrate him in his sleep. Two of the attackers were caught and blinded and castrated in punishment.", "responsible": [
-      {"name": "Fulbert", "role": "Canon of Notre-Dame and Héloïse's uncle; arranged the attack", "jurisdiction": "Cathedral of Notre-Dame, Paris", "type": "individual"},
-      {"name": "Hired attackers", "role": "Carried out the castration", "jurisdiction": "Paris", "type": "group"}
-    ], "outcome": "Abelard became a monk at Saint-Denis; Héloïse took the veil at Argenteuil.", "sources": ["letters", "clanchy"]},
-    {"year": 1121, "date": "1121", "title": "Council of Soissons", "summary": "Rival teachers Alberic of Reims and Lotulf of Novara brought charges against his treatise on the Trinity. A council under the papal legate Conan of Praeneste condemned it without a proper hearing; Abelard was made to burn it with his own hands and was confined for a time in the monastery of Saint-Médard.", "responsible": [
-      {"name": "Conan of Praeneste", "role": "Papal legate who presided", "jurisdiction": "Papacy", "type": "church"},
-      {"name": "Alberic of Reims and Lotulf of Novara", "role": "Teachers who pressed the charges", "jurisdiction": "School of Reims", "type": "individual"}
-    ], "outcome": "Released soon after; he returned to Saint-Denis.", "sources": ["letters", "clanchy"]},
-    {"year": 1141, "date": "1140–1141", "title": "Condemnation at Sens", "summary": "Bernard of Clairvaux and William of Saint-Thierry drew up a list of errors from Abelard's works. At the Council of Sens Abelard refused to debate and appealed to Rome, but the bishops condemned the propositions, and Pope Innocent II confirmed the condemnation, ordered his books burned, and sentenced him to perpetual silence and confinement in a monastery.", "responsible": [
-      {"name": "Bernard of Clairvaux", "role": "Led the prosecution", "jurisdiction": "Cistercian Order", "type": "church"},
-      {"name": "William of Saint-Thierry", "role": "Drew up the first list of errors", "jurisdiction": "Cistercian Order", "type": "church"},
-      {"name": "Innocent II", "role": "Pope who confirmed the condemnation", "jurisdiction": "Papacy", "type": "church"}
-    ], "defended_by": [{"name": "Peter the Venerable", "role": "Abbot of Cluny; sheltered him and reconciled him with Bernard"}], "outcome": "He spent his last months at Cluny and its priory, reconciled with the church.", "sources": ["clanchy", "britannica"]}
+    {
+      "year": 1117,
+      "date": "c. 1117–1118",
+      "title": "Castration by Fulbert's men",
+      "summary": "Believing Abelard had abandoned Héloïse after sending her to the convent at Argenteuil, her uncle Fulbert, a canon of Notre-Dame, had men bribe Abelard's servant and castrate him in his sleep. Two of the attackers were caught and blinded and castrated in punishment.",
+      "responsible": [
+        {
+          "name": "Fulbert",
+          "role": "Canon of Notre-Dame and Héloïse's uncle; arranged the attack",
+          "jurisdiction": "Cathedral of Notre-Dame, Paris",
+          "type": "individual"
+        },
+        {
+          "name": "Hired attackers",
+          "role": "Carried out the castration",
+          "jurisdiction": "Paris",
+          "type": "group"
+        }
+      ],
+      "outcome": "Abelard became a monk at Saint-Denis; Héloïse took the veil at Argenteuil.",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "year": 1121,
+      "date": "1121",
+      "title": "Council of Soissons",
+      "summary": "Rival teachers Alberic of Reims and Lotulf of Novara brought charges against his treatise on the Trinity. A council under the papal legate Conan of Praeneste condemned it without a proper hearing; Abelard was made to burn it with his own hands and was confined for a time in the monastery of Saint-Médard.",
+      "responsible": [
+        {
+          "name": "Conan of Praeneste",
+          "role": "Papal legate who presided",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Alberic of Reims and Lotulf of Novara",
+          "role": "Teachers who pressed the charges",
+          "jurisdiction": "School of Reims",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Released soon after; he returned to Saint-Denis.",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "year": 1141,
+      "date": "1140–1141",
+      "title": "Condemnation at Sens",
+      "summary": "Bernard of Clairvaux and William of Saint-Thierry drew up a list of errors from Abelard's works. At the Council of Sens Abelard refused to debate and appealed to Rome, but the bishops condemned the propositions, and Pope Innocent II confirmed the condemnation, ordered his books burned, and sentenced him to perpetual silence and confinement in a monastery.",
+      "responsible": [
+        {
+          "name": "Bernard of Clairvaux",
+          "role": "Led the prosecution",
+          "jurisdiction": "Cistercian Order",
+          "type": "church"
+        },
+        {
+          "name": "William of Saint-Thierry",
+          "role": "Drew up the first list of errors",
+          "jurisdiction": "Cistercian Order",
+          "type": "church"
+        },
+        {
+          "name": "Innocent II",
+          "role": "Pope who confirmed the condemnation",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Peter the Venerable",
+          "role": "Abbot of Cluny; sheltered him and reconciled him with Bernard"
+        }
+      ],
+      "outcome": "He spent his last months at Cluny and its priory, reconciled with the church.",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    }
   ],
   "excommunication_note": "Abelard was not formally excommunicated, but his teaching was condemned twice.",
   "excommunications": [
-    {"date": "1121", "by": "Council of Soissons", "authority": "Provincial council under a papal legate", "reason": "His treatise on the Trinity (Theologia 'Summi boni') condemned; he was made to burn it", "status": "Not reversed", "sources": ["letters", "clanchy"]},
-    {"date": "1141", "by": "Council of Sens; confirmed by Pope Innocent II", "authority": "Council of bishops and the papacy", "reason": "Propositions from his works condemned as heretical; his books ordered burned and perpetual silence imposed", "status": "Peter the Venerable obtained his reconciliation before his death and a posthumous absolution for Héloïse to keep", "sources": ["clanchy", "britannica"]}
+    {
+      "date": "1121",
+      "by": "Council of Soissons",
+      "authority": "Provincial council under a papal legate",
+      "reason": "His treatise on the Trinity (Theologia 'Summi boni') condemned; he was made to burn it",
+      "status": "Not reversed",
+      "sources": [
+        "letters",
+        "clanchy"
+      ]
+    },
+    {
+      "date": "1141",
+      "by": "Council of Sens; confirmed by Pope Innocent II",
+      "authority": "Council of bishops and the papacy",
+      "reason": "Propositions from his works condemned as heretical; his books ordered burned and perpetual silence imposed",
+      "status": "Peter the Venerable obtained his reconciliation before his death and a posthumous absolution for Héloïse to keep",
+      "sources": [
+        "clanchy",
+        "britannica"
+      ]
+    }
   ],
+  "persecuted_others_note": "No record of Peter Abelard supporting or carrying out persecution of others; he was himself condemned twice. His Dialogue of a Philosopher with a Jew and a Christian gives the Jew a sympathetic voice in describing the mistreatment Jews suffered among Christians.",
+  "persecuted_others": [],
   "sources": [
-    {"id": "letters", "type": "primary", "citation": "The Letters of Abelard and Heloise, trans. Betty Radice, rev. M. T. Clanchy. London: Penguin, 2003. (Includes the Historia Calamitatum.)"},
-    {"id": "clanchy", "type": "scholarly", "citation": "M. T. Clanchy, Abelard: A Medieval Life. Oxford: Blackwell, 1997."},
-    {"id": "britannica", "type": "reference", "citation": "\"Peter Abelard.\" Encyclopaedia Britannica."}
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "The Letters of Abelard and Heloise, trans. Betty Radice, rev. M. T. Clanchy. London: Penguin, 2003. (Includes the Historia Calamitatum.)"
+    },
+    {
+      "id": "clanchy",
+      "type": "scholarly",
+      "citation": "M. T. Clanchy, Abelard: A Medieval Life. Oxford: Blackwell, 1997."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Peter Abelard.\" Encyclopaedia Britannica."
+    }
   ]
 }

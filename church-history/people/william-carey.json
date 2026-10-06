@@ -1,0 +1,50 @@
+{
+  "name": "William Carey",
+  "slug": "william-carey",
+  "era": "Modern",
+  "role": "English Baptist missionary to India, Bible translator, and founder of the Baptist Missionary Society",
+  "born": {"year": 1761, "date": "17 August 1761", "place": "Paulerspury, Northamptonshire, England", "sources": ["george", "britannica"]},
+  "died": {"year": 1834, "date": "9 June 1834", "place": "Serampore, Bengal, India", "cause": "Illness in old age, after months of failing health", "sources": ["george", "stanley"]},
+  "summary": "Shoemaker turned Baptist minister whose 1792 Enquiry and voyage to India helped launch the modern Protestant missionary movement, and whose team at Serampore translated the Bible into dozens of Indian languages.",
+  "key_dates": [
+    {"year": 1779, "label": "Conversion as a shoemaker's apprentice", "sources": ["george"]},
+    {"year": 1783, "label": "Baptized as a believer by John Ryland in Northampton", "sources": ["george", "stanley"]},
+    {"year": 1792, "label": "Publishes An Enquiry; preaches 'Expect great things'; Baptist Missionary Society founded (2 October)", "sources": ["enquiry", "stanley"]},
+    {"year": 1793, "label": "Sails for India with his family and John Thomas, arriving in November", "sources": ["george", "stanley"]},
+    {"year": 1800, "label": "Moves to Danish Serampore; first Bengali convert, Krishna Pal, baptized", "sources": ["stanley", "george"]},
+    {"year": 1801, "label": "Bengali New Testament published; becomes teacher at Fort William College, Calcutta", "sources": ["stanley", "britannica"]},
+    {"year": 1812, "label": "Fire destroys the Serampore press and manuscripts", "sources": ["george"]},
+    {"year": 1818, "label": "Founds Serampore College", "sources": ["stanley", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Argued in An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens (1792) that the Great Commission still bound the church, against the hyper-Calvinist view that missions were unnecessary.", "sources": ["enquiry", "stanley"]},
+    {"text": "Helped found the Baptist Missionary Society (1792), a model for the missionary societies that followed in Britain and America.", "sources": ["stanley", "britannica"]},
+    {"text": "With Joshua Marshman and William Ward (the 'Serampore Trio'), translated and printed the whole Bible or parts of it in some 35 to 40 languages and dialects, including complete Bibles in Bengali, Sanskrit, and Marathi.", "sources": ["stanley", "britannica"]},
+    {"text": "Founded Serampore College (1818) to train Indian ministers and teach the sciences, and published grammars and dictionaries of Indian languages.", "sources": ["stanley", "george"]},
+    {"text": "Campaigned against sati (the burning of widows) and translated into Bengali the 1829 regulation abolishing it.", "sources": ["george", "britannica"]},
+    {"text": "Was a keen botanist and founded the Agricultural and Horticultural Society of India (1820).", "sources": ["george", "britannica"]},
+    {"text": "Took his family to India over his wife Dorothy's initial refusal; she suffered the death of their son Peter in 1794 and severe mental illness for years before her death in 1807, and Carey has been criticized for the burden the mission placed on her.", "sources": ["george", "stanley"]},
+    {"text": "Quarreled with the Baptist Missionary Society's younger leaders over control of the Serampore mission, which separated from the society from 1827 to 1837.", "sources": ["stanley"]}
+  ],
+  "sayings_intro": "His best-known words come from his 1792 sermon.",
+  "sayings": {
+    "original": [
+      {"phrase": "Expect great things from God; attempt great things for God.", "reference": "Sermon on Isaiah 54:2–3, Nottingham, 31 May 1792", "note": "The sermon text does not survive; the wording comes from those who heard it, and early accounts give it in slightly different forms.", "sources": ["george", "stanley"]}
+    ]
+  },
+  "persecution_note": "Carey was never imprisoned. In British India the East India Company opposed missionaries as a threat to its rule, which is why he settled in the Danish colony of Serampore.",
+  "persecution": [
+    {"year": 1807, "date": "1793–1813", "title": "East India Company restrictions on missionaries", "summary": "The Company refused missionaries permission to work in its territories; Carey entered as an indigo-factory manager and later moved to Danish Serampore. After the Vellore mutiny of 1806, the Calcutta government in 1807 ordered the Serampore missionaries to stop preaching in Calcutta and distributing tracts in its territories, and tried to deport new missionaries.", "responsible": [
+      {"name": "East India Company", "role": "Banned missionary work in its territories", "jurisdiction": "British India", "type": "state"},
+      {"name": "Lord Minto", "role": "Governor-General who imposed the 1807 restrictions", "jurisdiction": "British India", "type": "state"}
+    ], "defended_by": [{"name": "Danish governor of Serampore", "role": "Gave the missionaries protection"}], "outcome": "The Charter Act of 1813 opened British India to missionaries.", "sources": ["stanley", "george"]}
+  ],
+  "excommunication_note": "Carey was never excommunicated or disciplined by any church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "enquiry", "type": "primary", "citation": "William Carey, An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens. Leicester: Ann Ireland, 1792."},
+    {"id": "george", "type": "scholarly", "citation": "Timothy George, Faithful Witness: The Life and Mission of William Carey. Birmingham, AL: New Hope, 1991."},
+    {"id": "stanley", "type": "scholarly", "citation": "Brian Stanley, The History of the Baptist Missionary Society, 1792–1992. Edinburgh: T&T Clark, 1992."},
+    {"id": "britannica", "type": "reference", "citation": "\"William Carey.\" Encyclopaedia Britannica."}
+  ]
+}

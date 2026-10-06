@@ -137,6 +137,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - George Whitefield (`george-whitefield`): the user wrote "Whitfield" (the pronunciation)
 - John Wesley (`john-wesley`): starter example
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
+- William Carey (`william-carey`)
 - Charles Finney (`charles-finney`)
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
@@ -304,7 +305,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- John Duns Scotus (Immaculate Conception, univocity, haecceity; expelled from France in 1303);
+- William Carey (the Enquiry, the BMS, Serampore translations, sati, his wife Dorothy's suffering,
+  East India Company restrictions); linked from the Baptist history. 48 people, 55 events.
+- **PR #83**: John Duns Scotus (Immaculate Conception, univocity, haecceity; expelled from France in 1303);
   linked from the Marian dogmas event. 47 people, 55 events.
 - **PR #82**: Dutch Reformed churches: overview plus Synod of Dort, Afscheiding, Doleantie, Vrijmaking, Christian
   Reformed secession, and the South African church, race, and apartheid. 46 people, 55 events.

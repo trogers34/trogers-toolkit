@@ -1,0 +1,340 @@
+{
+  "name": "Jerome",
+  "slug": "jerome",
+  "also_known_as": "Eusebius Sophronius Hieronymus; Saint Jerome",
+  "era": "Early Church",
+  "role": "Biblical scholar, translator of the Vulgate, ascetic, and controversialist; Doctor of the Church",
+  "born": {
+    "year": 347,
+    "circa": true,
+    "date": "c. 347 (J. N. D. Kelly argued for c. 331)",
+    "place": "Stridon, on the border of Dalmatia and Pannonia (exact site unknown)",
+    "sources": [
+      "kelly",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 420,
+    "circa": true,
+    "date": "30 September 420 (traditional date; some sources give 419)",
+    "place": "Bethlehem, Palestine",
+    "sources": [
+      "kelly",
+      "britannica"
+    ],
+    "cause": "Unknown; he died in old age after a period of illness and weakness"
+  },
+  "summary": "Latin scholar and ascetic who translated most of the Bible into the Latin version later called the Vulgate, wrote extensive commentaries and letters, and was known for bitter polemics against opponents including his former friend Rufinus.",
+  "key_dates": [
+    {
+      "year": 366,
+      "circa": true,
+      "label": "Studies in Rome under the grammarian Donatus; baptized there (c. 366)",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "year": 375,
+      "circa": true,
+      "label": "Dream at Antioch in which he is accused of being 'a Ciceronian, not a Christian'; lives as a hermit in the desert of Chalcis (c. 375–377) and learns Hebrew",
+      "sources": [
+        "letters",
+        "kelly"
+      ]
+    },
+    {
+      "year": 382,
+      "label": "In Rome as secretary to Pope Damasus, who asks him to revise the Latin Gospels (finished 384); guides an ascetic circle of Roman women including Marcella and Paula",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "year": 385,
+      "label": "Forced out of Rome after Damasus's death (August); sails for the East",
+      "sources": [
+        "letters",
+        "kelly"
+      ]
+    },
+    {
+      "year": 386,
+      "label": "Settles in Bethlehem, where Paula funds monasteries for men and women",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "year": 390,
+      "circa": true,
+      "label": "Begins translating the Old Testament directly from the Hebrew (c. 390–405)",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "year": 393,
+      "label": "Writes Against Jovinian and On Illustrious Men; the Origenist controversy with Bishop John of Jerusalem and Rufinus begins",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "year": 401,
+      "label": "Apology against Rufinus (401–402) completes his public break with his former friend",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "year": 415,
+      "label": "Dialogue against the Pelagians",
+      "sources": [
+        "kelly",
+        "rebenich"
+      ]
+    },
+    {
+      "year": 416,
+      "label": "Monasteries at Bethlehem attacked and burned by a band blamed on Pelagian sympathizers",
+      "sources": [
+        "kelly",
+        "rebenich"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Translated most of the Bible into Latin, revising the Gospels from Greek (383–384) and translating the Hebrew Old Testament (c. 390–405); with other texts, his work formed the core of the Vulgate, the standard Bible of the Western church for over a thousand years.",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Insisted on translating from the Hebrew original ('Hebrew truth') rather than the Greek Septuagint, and studied with Jewish teachers to do so; critics including Augustine and Rufinus objected to the departure from the Septuagint.",
+      "sources": [
+        "kelly",
+        "rebenich"
+      ]
+    },
+    {
+      "text": "Distinguished the books of the Hebrew Bible from those found only in the Greek Old Testament, calling the latter apocrypha; Protestant reformers later appealed to his view.",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote commentaries on most books of the Old Testament prophets and several of Paul's letters, as well as Matthew.",
+      "sources": [
+        "kelly",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On Illustrious Men (393), a catalog of 135 Christian writers, and translated and continued Eusebius's Chronicle; he also translated many of Origen's homilies.",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "text": "Promoted ascetic life through letters, lives of the hermits Paul, Malchus, and Hilarion, and spiritual direction of Roman women such as Paula, Eustochium, and Marcella; with Paula he founded monasteries at Bethlehem.",
+      "sources": [
+        "letters",
+        "kelly"
+      ]
+    },
+    {
+      "text": "Defended Mary's perpetual virginity against Helvidius (c. 383) and the superiority of virginity over marriage against Jovinian (393); his disparagement of marriage in Against Jovinian was so extreme that his friend Pammachius tried to withdraw copies in Rome.",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "text": "Wrote some of the harshest polemics of the early church: he turned on his former friend Rufinus over Origen, mocked him even after his death in 411, and abused opponents such as Vigilantius (406) in personal terms.",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "text": "Exchanged tense letters with Augustine (c. 394–405) over Paul's rebuke of Peter in Galatians 2 and over his new translation from the Hebrew; the two were later reconciled and united against Pelagius.",
+      "sources": [
+        "letters",
+        "kelly"
+      ]
+    },
+    {
+      "text": "Was blamed by many in Rome for the death in 384 of Paula's daughter Blesilla after severe fasting under his guidance; the outcry contributed to his leaving the city.",
+      "sources": [
+        "kelly"
+      ]
+    }
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "Ignorance of Scripture is ignorance of Christ.",
+        "reference": "Commentary on Isaiah, prologue (Ignoratio Scripturarum ignoratio Christi est)",
+        "note": "Quoted by the Second Vatican Council in Dei Verbum §25.",
+        "sources": [
+          "dei-verbum",
+          "kelly"
+        ]
+      },
+      {
+        "phrase": "You are a Ciceronian, not a Christian.",
+        "reference": "Letter 22.30, to Eustochium (Ciceronianus es, non Christianus)",
+        "note": "Words he says the Judge spoke to him in a dream at Antioch.",
+        "sources": [
+          "letters",
+          "kelly"
+        ]
+      },
+      {
+        "phrase": "Do some work, so that the devil may always find you busy.",
+        "reference": "Letter 125.11, to Rusticus (Facito aliquid operis, ut te semper diabolus inveniat occupatum)",
+        "note": "Often compared to the later proverb 'The devil finds work for idle hands.'",
+        "sources": [
+          "npnf"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Jerome was never arrested or tried by the state. He was forced out of Rome in 385 under suspicion from the Roman clergy, was placed under a church ban by Bishop John of Jerusalem during the Origenist controversy (c. 394–397), and in 416 his monasteries at Bethlehem were attacked and burned by a band whose members have never been identified. His bitter disputes with Rufinus, Augustine, and others were literary quarrels rather than persecution.",
+  "persecution": [
+    {
+      "year": 385,
+      "date": "August 385",
+      "title": "Forced out of Rome",
+      "summary": "After Pope Damasus died in December 384, Jerome lost his patron. Rumors about his relationship with the widow Paula and anger over Blesilla's death led to an inquiry by members of the Roman clergy, which he called a 'senate of Pharisees'; he was not convicted but left the city under a cloud. The new pope, Siricius, did not support him.",
+      "responsible": [
+        {
+          "name": "Roman clergy (unnamed)",
+          "role": "Investigated the accusations against him",
+          "jurisdiction": "Church of Rome",
+          "type": "church"
+        },
+        {
+          "name": "Pope Siricius",
+          "role": "Bishop of Rome; withheld support (his exact role is unclear)",
+          "jurisdiction": "Church of Rome",
+          "type": "church"
+        }
+      ],
+      "outcome": "Left Rome for the East; settled in Bethlehem in 386.",
+      "sources": [
+        "letters",
+        "kelly"
+      ]
+    },
+    {
+      "year": 394,
+      "date": "c. 394–397",
+      "title": "Ban by John of Jerusalem",
+      "summary": "During the Origenist controversy, Jerome sided with Epiphanius of Salamis against Bishop John of Jerusalem. After Epiphanius ordained Jerome's brother Paulinian a priest for the Bethlehem monastery, outside John's authority, John barred the monks from the churches of Bethlehem and sought an imperial order to expel Jerome from Palestine.",
+      "responsible": [
+        {
+          "name": "John II of Jerusalem",
+          "role": "Bishop of Jerusalem; imposed the ban and sought the expulsion",
+          "jurisdiction": "Church of Jerusalem",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Theophilus of Alexandria",
+          "role": "Helped arrange the reconciliation"
+        }
+      ],
+      "outcome": "The expulsion order was never carried out; Jerome, John, and Rufinus were reconciled around 397, though the quarrel with Rufinus soon resumed.",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    },
+    {
+      "year": 416,
+      "date": "416",
+      "title": "Attack on the Bethlehem monasteries",
+      "summary": "A band of armed men attacked the monasteries of Jerome and Eustochium, killed a deacon, and set buildings on fire; Jerome took refuge in a fortified tower. The attack was blamed on supporters of Pelagius, whom Jerome had attacked in writing, though the attackers were not identified.",
+      "responsible": [
+        {
+          "name": "Unidentified armed band (blamed on Pelagian sympathizers)",
+          "role": "Carried out the attack",
+          "jurisdiction": "Bethlehem, Palestine",
+          "type": "group"
+        },
+        {
+          "name": "John II of Jerusalem",
+          "role": "Local bishop; rebuked by Pope Innocent I for failing to prevent or punish the attack",
+          "jurisdiction": "Church of Jerusalem",
+          "type": "church"
+        }
+      ],
+      "outcome": "Pope Innocent I wrote to Jerome in sympathy and rebuked Bishop John; no one is recorded as punished.",
+      "sources": [
+        "kelly",
+        "rebenich"
+      ]
+    }
+  ],
+  "excommunication_note": "Jerome was never excommunicated by a pope or council, and he is venerated as a saint and Doctor of the Church. The only church sanction recorded against him is John of Jerusalem's ban on his monastery (c. 394–397), listed below.",
+  "excommunications": [
+    {
+      "date": "c. 394",
+      "by": "Bishop John II of Jerusalem",
+      "authority": "Church of Jerusalem",
+      "reason": "Dispute over Origenism and over the ordination of Jerome's brother Paulinian by Epiphanius in John's jurisdiction; the Bethlehem monks were barred from the local churches",
+      "status": "Ended with the reconciliation of c. 397",
+      "sources": [
+        "npnf",
+        "kelly"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "Jerome, Select Letters of St. Jerome, trans. F. A. Wright. Loeb Classical Library 262. Cambridge, MA: Harvard University Press, 1933."
+    },
+    {
+      "id": "npnf",
+      "type": "primary",
+      "citation": "St. Jerome: Letters and Select Works, trans. W. H. Fremantle. Nicene and Post-Nicene Fathers, Second Series, vol. 6. New York: Christian Literature Company, 1893."
+    },
+    {
+      "id": "dei-verbum",
+      "type": "primary",
+      "citation": "Second Vatican Council, Dei Verbum (Dogmatic Constitution on Divine Revelation), 18 November 1965, §25."
+    },
+    {
+      "id": "kelly",
+      "type": "scholarly",
+      "citation": "J. N. D. Kelly, Jerome: His Life, Writings, and Controversies. London: Duckworth, 1975."
+    },
+    {
+      "id": "rebenich",
+      "type": "scholarly",
+      "citation": "Stefan Rebenich, Jerome. The Early Church Fathers. London: Routledge, 2002."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Jerome.\" Encyclopaedia Britannica."
+    }
+  ]
+}

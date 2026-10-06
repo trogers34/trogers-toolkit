@@ -245,6 +245,9 @@ def validate_event(event, file_stem, people_slugs=None):
     check_refs("start", start)
     if "end" in event:
         check_refs("end", end)
+    for key in ("start", "end"):
+        if key in event and not event[key].get("label"):
+            errors.append(f"'{key}' needs a 'label' summarizing what happened then")
     years_ok = isinstance(start.get("year"), int) and isinstance(end.get("year"), int)
     if years_ok and start["year"] > end["year"]:
         errors.append("start year is after end year")
@@ -649,13 +652,13 @@ def render_event(event, people=()):
   </section>
 '''
 
-    dates = [{"year": start["year"], "label": "Began" if end else event["name"], "sources": start["sources"],
+    dates = [{"year": start["year"], "label": start["label"], "sources": start["sources"],
               "kind": "life", "circa": start.get("circa")}]
     dates += [dict(kd, kind="event") for kd in event.get("key_dates", [])]
     if end:
-        dates.append({"year": end["year"], "label": "Ended", "sources": end["sources"], "kind": "life",
+        dates.append({"year": end["year"], "label": end["label"], "sources": end["sources"], "kind": "life",
                       "circa": end.get("circa")})
-    dates.sort(key=lambda e: (e["year"], e["label"] == "Ended"))
+    dates.sort(key=lambda e: (e["year"], end is not None and e["label"] == end["label"]))
     key_dates = render_key_dates(dates, numbers) if len(dates) > 1 else ""
 
     body = f"""
@@ -834,12 +837,12 @@ def render_index(people, events=()):
     for e in events:
         link = f'<span class="event-tag">Event</span><a href="events/{esc(e["slug"])}.html">{esc(e["name"])}</a>'
         end = e.get("end")
-        entries.append((e["start"]["year"], 1, e["name"], link, "Began" if end else EVENT_TYPES[e["event_type"]],
+        entries.append((e["start"]["year"], 1, e["name"], link, e["start"]["label"],
                         e["start"].get("circa", False), "evt"))
         for kd in e.get("key_dates", []):
             entries.append((kd["year"], 1, e["name"], link, kd["label"], kd.get("circa", False), "evt"))
         if end and end["year"] != e["start"]["year"]:
-            entries.append((end["year"], 1, e["name"], link, "Ended", end.get("circa", False), "evt"))
+            entries.append((end["year"], 1, e["name"], link, end["label"], end.get("circa", False), "evt"))
     entries.sort(key=lambda x: (x[0], x[1], x[2]))
 
     table_rows = "\n".join(

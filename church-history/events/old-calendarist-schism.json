@@ -1,0 +1,130 @@
+{
+  "name": "Old Calendarist Schism",
+  "slug": "old-calendarist-schism",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The split that followed the adoption of the Revised Julian calendar by the Church of Greece and other Orthodox churches in 1924, when many faithful refused to change and formed separate Old Calendarist churches.",
+  "place": "Greece, Romania, Cyprus, and the Orthodox diaspora",
+  "start": {
+    "year": 1924,
+    "date": "10/23 March 1924 (Church of Greece changes calendar)",
+    "sources": [
+      "ware",
+      "britannica"
+    ],
+    "label": "Church of Greece adopts the new calendar; Old Calendarists refuse"
+  },
+  "end": {
+    "year": 1935,
+    "date": "1935 (first bishops join; the split continues)",
+    "sources": [
+      "ware"
+    ],
+    "label": "Three bishops join the Old Calendarists"
+  },
+  "background": [
+    {
+      "text": "A Pan-Orthodox Congress in Constantinople in 1923, called by Patriarch Meletios IV, proposed the Revised Julian calendar, which matches the Gregorian calendar for fixed feasts while keeping the traditional date of Easter.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "The Church of Greece adopted the new calendar in March 1924, as did Constantinople and soon Romania; the churches of Russia, Serbia, Jerusalem, and Mount Athos kept the old Julian calendar.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Many Greek laypeople and monks refused, saying the change had been made without a general council and to suit the West; they formed Old Calendarist communities, at first without bishops.",
+      "sources": [
+        "ware"
+      ]
+    },
+    {
+      "text": "In 1935 three Greek bishops, led by Chrysostomos of Florina, joined them; the movement later divided into several rival synods.",
+      "sources": [
+        "ware"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Meletios IV Metaxakis",
+      "role": "Patriarch of Constantinople who promoted the change"
+    },
+    {
+      "name": "Chrysostomos Papadopoulos",
+      "role": "Archbishop of Athens who introduced it in Greece"
+    },
+    {
+      "name": "Chrysostomos Kavourides of Florina",
+      "role": "Bishop who led the Old Calendarists from 1935"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Orthodox churches still use two calendars for fixed feasts; Old Calendarist churches remain outside communion with the mainstream churches.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "1935",
+      "by": "Holy Synod of the Church of Greece",
+      "authority": "Church of Greece",
+      "reason": "The three bishops who joined the Old Calendarists deposed and exiled to monasteries",
+      "status": "Not reversed",
+      "sources": [
+        "ware"
+      ]
+    }
+  ],
+  "persecution_note": "The Greek state backed the official church against the Old Calendarists in the 1920s–1950s.",
+  "persecution": [
+    {
+      "year": 1951,
+      "date": "1924–1950s",
+      "title": "State action against Old Calendarists in Greece",
+      "summary": "Greek governments, at the official church's request, at times arrested Old Calendarist clergy, closed or seized their churches, and forcibly shaved and defrocked priests; Bishop Chrysostomos of Florina was exiled in 1951.",
+      "responsible": [
+        {
+          "name": "Church of Greece hierarchy",
+          "role": "Requested and supported the measures",
+          "jurisdiction": "Church of Greece",
+          "type": "church"
+        },
+        {
+          "name": "Greek governments and police",
+          "role": "Carried out arrests and church closures",
+          "jurisdiction": "Kingdom of Greece",
+          "type": "state"
+        }
+      ],
+      "outcome": "The movement survived; persecution eased after the 1950s.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ware",
+      "type": "scholarly",
+      "citation": "Timothy (Kallistos) Ware, The Orthodox Church, new ed. London: Penguin, 1993."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Eastern Orthodoxy\" (calendar controversy). Encyclopaedia Britannica."
+    }
+  ]
+}

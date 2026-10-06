@@ -6,51 +6,222 @@
   "event_type": "council",
   "summary": "The council that defined Christ as one person in two natures, divine and human, using Pope Leo I's Tome, and that split the eastern churches.",
   "place": "Chalcedon, across the Bosporus from Constantinople (modern Kadıköy, Istanbul)",
-  "start": {"year": 451, "date": "8 October 451", "sources": ["price-gaddis", "tanner"]},
-  "end": {"year": 451, "date": "1 November 451", "sources": ["price-gaddis", "tanner"]},
+  "start": {
+    "year": 451,
+    "date": "8 October 451",
+    "sources": [
+      "price-gaddis",
+      "tanner"
+    ],
+    "label": "Council opens under Emperor Marcian"
+  },
+  "end": {
+    "year": 451,
+    "date": "1 November 451",
+    "sources": [
+      "price-gaddis",
+      "tanner"
+    ],
+    "label": "Council closes after defining Christ as one person in two natures"
+  },
   "background": [
-    {"text": "In 449 a council at Ephesus under Dioscorus of Alexandria restored the monk Eutyches, who taught that Christ had only one nature after the incarnation, and deposed Flavian of Constantinople, who died soon after from mistreatment. Leo I called it a 'robber council' (latrocinium).", "sources": ["price-gaddis", "britannica"]},
-    {"text": "After Emperor Theodosius II died in 450, the new emperor Marcian and Empress Pulcheria summoned a new council to reverse Ephesus 449.", "sources": ["price-gaddis"]}
+    {
+      "text": "In 449 a council at Ephesus under Dioscorus of Alexandria restored the monk Eutyches, who taught that Christ had only one nature after the incarnation, and deposed Flavian of Constantinople, who died soon after from mistreatment. Leo I called it a 'robber council' (latrocinium).",
+      "sources": [
+        "price-gaddis",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After Emperor Theodosius II died in 450, the new emperor Marcian and Empress Pulcheria summoned a new council to reverse Ephesus 449.",
+      "sources": [
+        "price-gaddis"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Around 350–500 bishops met, nearly all from the East; imperial officials presided over the sessions and controlled the agenda, with Leo's legates given the first place among the bishops.", "sources": ["price-gaddis"]},
-    {"text": "The bishops read and accepted Leo's Tome to Flavian; the minutes record the acclamation 'Peter has spoken through Leo'.", "sources": ["price-gaddis", "leo-tome"]},
-    {"text": "On 22 October the council issued its definition: Christ is one person 'acknowledged in two natures, without confusion, without change, without division, without separation'.", "sources": ["tanner", "price-gaddis"]},
-    {"text": "It deposed Dioscorus of Alexandria and restored bishops removed in 449, including Theodoret of Cyrrhus and Ibas of Edessa after they condemned Nestorius.", "sources": ["price-gaddis"]},
-    {"text": "Canon 28 gave Constantinople, as 'New Rome', privileges equal to Old Rome and second rank after it; Leo's legates protested, and Leo refused to confirm the canon.", "sources": ["tanner", "price-gaddis"]}
+    {
+      "text": "Around 350–500 bishops met, nearly all from the East; imperial officials presided over the sessions and controlled the agenda, with Leo's legates given the first place among the bishops.",
+      "sources": [
+        "price-gaddis"
+      ]
+    },
+    {
+      "text": "The bishops read and accepted Leo's Tome to Flavian; the minutes record the acclamation 'Peter has spoken through Leo'.",
+      "sources": [
+        "price-gaddis",
+        "leo-tome"
+      ]
+    },
+    {
+      "text": "On 22 October the council issued its definition: Christ is one person 'acknowledged in two natures, without confusion, without change, without division, without separation'.",
+      "sources": [
+        "tanner",
+        "price-gaddis"
+      ]
+    },
+    {
+      "text": "It deposed Dioscorus of Alexandria and restored bishops removed in 449, including Theodoret of Cyrrhus and Ibas of Edessa after they condemned Nestorius.",
+      "sources": [
+        "price-gaddis"
+      ]
+    },
+    {
+      "text": "Canon 28 gave Constantinople, as 'New Rome', privileges equal to Old Rome and second rank after it; Leo's legates protested, and Leo refused to confirm the canon.",
+      "sources": [
+        "tanner",
+        "price-gaddis"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Marcian and Pulcheria", "role": "Emperor and empress who summoned the council; Marcian attended the sixth session"},
-    {"name": "Leo I", "role": "Bishop of Rome; his Tome became the basis of the definition, and his legates (Paschasinus, Lucentius, Boniface) led the bishops", "person": "leo-the-great"},
-    {"name": "Anatolius of Constantinople", "role": "Bishop of the capital; supported canon 28"},
-    {"name": "Dioscorus of Alexandria", "role": "Bishop who presided at Ephesus 449; deposed"},
-    {"name": "Theodoret of Cyrrhus", "role": "Theologian deposed in 449 and restored at the council"}
+    {
+      "name": "Marcian and Pulcheria",
+      "role": "Emperor and empress who summoned the council; Marcian attended the sixth session"
+    },
+    {
+      "name": "Leo I",
+      "role": "Bishop of Rome; his Tome became the basis of the definition, and his legates (Paschasinus, Lucentius, Boniface) led the bishops",
+      "person": "leo-the-great"
+    },
+    {
+      "name": "Anatolius of Constantinople",
+      "role": "Bishop of the capital; supported canon 28"
+    },
+    {
+      "name": "Dioscorus of Alexandria",
+      "role": "Bishop who presided at Ephesus 449; deposed"
+    },
+    {
+      "name": "Theodoret of Cyrrhus",
+      "role": "Theologian deposed in 449 and restored at the council"
+    }
   ],
   "outcomes": [
-    {"text": "The Chalcedonian definition became the standard teaching on Christ for the Catholic, Eastern Orthodox, and most Protestant churches.", "sources": ["britannica", "tanner"]},
-    {"text": "Much of Egypt, Syria, and Armenia rejected the council as a betrayal of Cyril of Alexandria's teaching; they formed the churches now called Oriental Orthodox (Coptic, Syriac, Armenian, Ethiopian, Eritrean), and the split has never been formally healed.", "sources": ["britannica", "price-gaddis"]},
-    {"text": "Imperial attempts to reconcile the two sides, such as Zeno's Henotikon (482) and later monothelitism, failed and caused further schisms, including the Acacian schism between Rome and Constantinople (484–519).", "sources": ["price-gaddis", "britannica"]},
-    {"text": "Rome's refusal of canon 28 marked an early stage in the rivalry between Rome and Constantinople.", "sources": ["price-gaddis"]}
+    {
+      "text": "The Chalcedonian definition became the standard teaching on Christ for the Catholic, Eastern Orthodox, and most Protestant churches.",
+      "sources": [
+        "britannica",
+        "tanner"
+      ]
+    },
+    {
+      "text": "Much of Egypt, Syria, and Armenia rejected the council as a betrayal of Cyril of Alexandria's teaching; they formed the churches now called Oriental Orthodox (Coptic, Syriac, Armenian, Ethiopian, Eritrean), and the split has never been formally healed.",
+      "sources": [
+        "britannica",
+        "price-gaddis"
+      ]
+    },
+    {
+      "text": "Imperial attempts to reconcile the two sides, such as Zeno's Henotikon (482) and later monothelitism, failed and caused further schisms, including the Acacian schism between Rome and Constantinople (484–519).",
+      "sources": [
+        "price-gaddis",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Rome's refusal of canon 28 marked an early stage in the rivalry between Rome and Constantinople.",
+      "sources": [
+        "price-gaddis"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "13 October 451", "by": "Council of Chalcedon", "authority": "Council of bishops under imperial oversight", "reason": "Dioscorus of Alexandria deposed, formally for refusing to appear when summoned three times and for his conduct at Ephesus 449 rather than for heresy", "status": "Rejected by the Coptic and other Oriental Orthodox churches, which venerate him as a saint", "sources": ["price-gaddis"]},
-    {"date": "451", "by": "Council of Chalcedon", "authority": "Council of bishops", "reason": "Eutyches's teaching of one nature after the union condemned, confirming his deposition of 448", "status": "Not reversed; the Oriental Orthodox churches also reject Eutyches", "sources": ["tanner", "britannica"]}
+    {
+      "date": "13 October 451",
+      "by": "Council of Chalcedon",
+      "authority": "Council of bishops under imperial oversight",
+      "reason": "Dioscorus of Alexandria deposed, formally for refusing to appear when summoned three times and for his conduct at Ephesus 449 rather than for heresy",
+      "status": "Rejected by the Coptic and other Oriental Orthodox churches, which venerate him as a saint",
+      "sources": [
+        "price-gaddis"
+      ]
+    },
+    {
+      "date": "451",
+      "by": "Council of Chalcedon",
+      "authority": "Council of bishops",
+      "reason": "Eutyches's teaching of one nature after the union condemned, confirming his deposition of 448",
+      "status": "Not reversed; the Oriental Orthodox churches also reject Eutyches",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    }
   ],
   "persecution_note": "The council was followed by decades of violence between supporters and opponents of its definition, with the imperial government enforcing it by force.",
   "persecution": [
-    {"year": 451, "date": "451–454", "title": "Exile of Dioscorus", "summary": "After his deposition Dioscorus was banished by imperial order to Gangra in Paphlagonia, where he died in 454.", "responsible": [
-      {"name": "Marcian", "role": "Roman emperor", "jurisdiction": "Eastern Roman Empire", "type": "state"},
-      {"name": "Council of Chalcedon", "role": "Deposed him", "jurisdiction": "Church of the Eastern Roman Empire", "type": "church"}
-    ], "outcome": "Died in exile in 454.", "sources": ["price-gaddis", "britannica"]},
-    {"year": 457, "date": "457", "title": "Murder of Proterius of Alexandria", "summary": "Proterius, the pro-Chalcedon bishop installed in Alexandria with military support, faced riots from the start. After Marcian's death, an anti-Chalcedon crowd killed him in 457, and Timothy Aelurus took his see.", "responsible": [
-      {"name": "Anti-Chalcedon crowd in Alexandria", "role": "Killed the bishop", "jurisdiction": "Alexandria, Egypt", "type": "group"},
-      {"name": "Supporters of Timothy Aelurus", "role": "Rival bishop who benefited; sources disagree on his personal part", "jurisdiction": "Church of Alexandria (anti-Chalcedon party)", "type": "group"}
-    ], "outcome": "Proterius killed; Emperor Leo I later exiled Timothy Aelurus (460).", "sources": ["price-gaddis", "britannica"]}
+    {
+      "year": 451,
+      "date": "451–454",
+      "title": "Exile of Dioscorus",
+      "summary": "After his deposition Dioscorus was banished by imperial order to Gangra in Paphlagonia, where he died in 454.",
+      "responsible": [
+        {
+          "name": "Marcian",
+          "role": "Roman emperor",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Council of Chalcedon",
+          "role": "Deposed him",
+          "jurisdiction": "Church of the Eastern Roman Empire",
+          "type": "church"
+        }
+      ],
+      "outcome": "Died in exile in 454.",
+      "sources": [
+        "price-gaddis",
+        "britannica"
+      ]
+    },
+    {
+      "year": 457,
+      "date": "457",
+      "title": "Murder of Proterius of Alexandria",
+      "summary": "Proterius, the pro-Chalcedon bishop installed in Alexandria with military support, faced riots from the start. After Marcian's death, an anti-Chalcedon crowd killed him in 457, and Timothy Aelurus took his see.",
+      "responsible": [
+        {
+          "name": "Anti-Chalcedon crowd in Alexandria",
+          "role": "Killed the bishop",
+          "jurisdiction": "Alexandria, Egypt",
+          "type": "group"
+        },
+        {
+          "name": "Supporters of Timothy Aelurus",
+          "role": "Rival bishop who benefited; sources disagree on his personal part",
+          "jurisdiction": "Church of Alexandria (anti-Chalcedon party)",
+          "type": "group"
+        }
+      ],
+      "outcome": "Proterius killed; Emperor Leo I later exiled Timothy Aelurus (460).",
+      "sources": [
+        "price-gaddis",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "price-gaddis", "type": "primary", "citation": "Richard Price and Michael Gaddis (trans. and eds.), The Acts of the Council of Chalcedon, 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005."},
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "leo-tome", "type": "primary", "citation": "Leo the Great, Letter 28 (the Tome to Flavian), 449, in Nicene and Post-Nicene Fathers, 2nd series, vol. 12."},
-    {"id": "britannica", "type": "reference", "citation": "\"Council of Chalcedon.\" Encyclopaedia Britannica."}
+    {
+      "id": "price-gaddis",
+      "type": "primary",
+      "citation": "Richard Price and Michael Gaddis (trans. and eds.), The Acts of the Council of Chalcedon, 3 vols. Translated Texts for Historians 45. Liverpool: Liverpool University Press, 2005."
+    },
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "leo-tome",
+      "type": "primary",
+      "citation": "Leo the Great, Letter 28 (the Tome to Flavian), 449, in Nicene and Post-Nicene Fathers, 2nd series, vol. 12."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Chalcedon.\" Encyclopaedia Britannica."
+    }
   ]
 }

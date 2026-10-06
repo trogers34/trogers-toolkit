@@ -6,56 +6,255 @@
   "event_type": "council",
   "summary": "The council at which Cyril of Alexandria had Nestorius of Constantinople deposed and Mary affirmed as Theotokos ('God-bearer'), held amid rival assemblies, imperial arrests, and bribery of the court.",
   "place": "Ephesus, Asia (near modern Selçuk, Turkey)",
-  "start": {"year": 431, "date": "22 June 431", "sources": ["price-graumann", "tanner"]},
-  "end": {"year": 431, "date": "Dissolved by the emperor c. September–October 431", "sources": ["price-graumann", "mcguckin"]},
+  "start": {
+    "year": 431,
+    "date": "22 June 431",
+    "sources": [
+      "price-graumann",
+      "tanner"
+    ],
+    "label": "Cyril's council deposes Nestorius and upholds 'Theotokos'"
+  },
+  "end": {
+    "year": 431,
+    "date": "Dissolved by the emperor c. September–October 431",
+    "sources": [
+      "price-graumann",
+      "mcguckin"
+    ],
+    "label": "Theodosius II dissolves the rival councils"
+  },
   "background": [
-    {"text": "Nestorius, bishop of Constantinople from 428, objected to calling Mary Theotokos ('God-bearer') and preferred Christotokos ('Christ-bearer'); Cyril of Alexandria accused him of dividing Christ into two persons.", "sources": ["mcguckin", "britannica"]},
-    {"text": "A Roman synod under Pope Celestine I condemned Nestorius in August 430 and asked Cyril to enforce it; Cyril added twelve anathemas that Nestorius and the bishops of Antioch rejected.", "sources": ["mcguckin", "price-graumann"]},
-    {"text": "Emperor Theodosius II summoned a council to Ephesus for Pentecost 431.", "sources": ["price-graumann"]}
+    {
+      "text": "Nestorius, bishop of Constantinople from 428, objected to calling Mary Theotokos ('God-bearer') and preferred Christotokos ('Christ-bearer'); Cyril of Alexandria accused him of dividing Christ into two persons.",
+      "sources": [
+        "mcguckin",
+        "britannica"
+      ]
+    },
+    {
+      "text": "A Roman synod under Pope Celestine I condemned Nestorius in August 430 and asked Cyril to enforce it; Cyril added twelve anathemas that Nestorius and the bishops of Antioch rejected.",
+      "sources": [
+        "mcguckin",
+        "price-graumann"
+      ]
+    },
+    {
+      "text": "Emperor Theodosius II summoned a council to Ephesus for Pentecost 431.",
+      "sources": [
+        "price-graumann"
+      ]
+    }
   ],
   "happened": [
-    {"text": "On 22 June 431 Cyril opened the council with about 150 bishops, over the protest of the imperial commissioner Candidian and 68 bishops, before John of Antioch and the Syrian bishops arrived. That same day it deposed Nestorius, who refused to attend.", "sources": ["price-graumann", "mcguckin"]},
-    {"text": "John of Antioch arrived on 26 June and held a rival council of about 43 bishops with Candidian's support, which deposed Cyril and Memnon, bishop of Ephesus.", "sources": ["price-graumann", "mcguckin"]},
-    {"text": "Pope Celestine's legates arrived in July and endorsed Cyril's council.", "sources": ["price-graumann", "tanner"]},
-    {"text": "A letter from Capreolus of Carthage was read explaining that the African bishops could not come; Theodosius's invitation to Augustine had arrived after Augustine's death in August 430.", "sources": ["price-graumann"]},
-    {"text": "Cyril's council also condemned Pelagian teaching and forbade composing any creed other than that of Nicaea (canon 7).", "sources": ["tanner"]},
-    {"text": "In August Theodosius accepted both sides' depositions and had Cyril, Memnon, and Nestorius held under guard. Cyril's agents spent heavily on gifts to court officials; a list of these 'blessings' survives. Cyril escaped back to Alexandria, Nestorius was sent to his monastery near Antioch, and the emperor dissolved the council.", "sources": ["mcguckin", "price-graumann"]}
+    {
+      "text": "On 22 June 431 Cyril opened the council with about 150 bishops, over the protest of the imperial commissioner Candidian and 68 bishops, before John of Antioch and the Syrian bishops arrived. That same day it deposed Nestorius, who refused to attend.",
+      "sources": [
+        "price-graumann",
+        "mcguckin"
+      ]
+    },
+    {
+      "text": "John of Antioch arrived on 26 June and held a rival council of about 43 bishops with Candidian's support, which deposed Cyril and Memnon, bishop of Ephesus.",
+      "sources": [
+        "price-graumann",
+        "mcguckin"
+      ]
+    },
+    {
+      "text": "Pope Celestine's legates arrived in July and endorsed Cyril's council.",
+      "sources": [
+        "price-graumann",
+        "tanner"
+      ]
+    },
+    {
+      "text": "A letter from Capreolus of Carthage was read explaining that the African bishops could not come; Theodosius's invitation to Augustine had arrived after Augustine's death in August 430.",
+      "sources": [
+        "price-graumann"
+      ]
+    },
+    {
+      "text": "Cyril's council also condemned Pelagian teaching and forbade composing any creed other than that of Nicaea (canon 7).",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "In August Theodosius accepted both sides' depositions and had Cyril, Memnon, and Nestorius held under guard. Cyril's agents spent heavily on gifts to court officials; a list of these 'blessings' survives. Cyril escaped back to Alexandria, Nestorius was sent to his monastery near Antioch, and the emperor dissolved the council.",
+      "sources": [
+        "mcguckin",
+        "price-graumann"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Theodosius II", "role": "Eastern Roman emperor; summoned the council"},
-    {"name": "Cyril of Alexandria", "role": "Presided over the majority council"},
-    {"name": "Nestorius", "role": "Bishop of Constantinople; deposed"},
-    {"name": "John of Antioch", "role": "Led the rival council"},
-    {"name": "Memnon of Ephesus", "role": "Local bishop and Cyril's ally"},
-    {"name": "Celestine I", "role": "Bishop of Rome; sent legates who backed Cyril"},
-    {"name": "Augustine of Hippo", "role": "Invited by Theodosius II, but died before the invitation arrived", "person": "augustine-of-hippo"}
+    {
+      "name": "Theodosius II",
+      "role": "Eastern Roman emperor; summoned the council"
+    },
+    {
+      "name": "Cyril of Alexandria",
+      "role": "Presided over the majority council"
+    },
+    {
+      "name": "Nestorius",
+      "role": "Bishop of Constantinople; deposed"
+    },
+    {
+      "name": "John of Antioch",
+      "role": "Led the rival council"
+    },
+    {
+      "name": "Memnon of Ephesus",
+      "role": "Local bishop and Cyril's ally"
+    },
+    {
+      "name": "Celestine I",
+      "role": "Bishop of Rome; sent legates who backed Cyril"
+    },
+    {
+      "name": "Augustine of Hippo",
+      "role": "Invited by Theodosius II, but died before the invitation arrived",
+      "person": "augustine-of-hippo"
+    }
   ],
   "outcomes": [
-    {"text": "In the Formula of Reunion (433) Cyril and John of Antioch were reconciled; John accepted Nestorius's deposition and Cyril accepted a statement of Christ's two natures.", "sources": ["mcguckin", "britannica"]},
-    {"text": "Calling Mary Theotokos became standard in Catholic and Orthodox teaching and devotion.", "sources": ["britannica", "tanner"]},
-    {"text": "The Church of the East in Persia never accepted the council and is still sometimes, inaccurately, called 'Nestorian'.", "sources": ["britannica"]},
-    {"text": "The quarrel over how to read Cyril led directly to the Council of Ephesus of 449 and to Chalcedon (451).", "sources": ["mcguckin", "price-graumann"]}
+    {
+      "text": "In the Formula of Reunion (433) Cyril and John of Antioch were reconciled; John accepted Nestorius's deposition and Cyril accepted a statement of Christ's two natures.",
+      "sources": [
+        "mcguckin",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Calling Mary Theotokos became standard in Catholic and Orthodox teaching and devotion.",
+      "sources": [
+        "britannica",
+        "tanner"
+      ]
+    },
+    {
+      "text": "The Church of the East in Persia never accepted the council and is still sometimes, inaccurately, called 'Nestorian'.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "The quarrel over how to read Cyril led directly to the Council of Ephesus of 449 and to Chalcedon (451).",
+      "sources": [
+        "mcguckin",
+        "price-graumann"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "22 June 431", "by": "Cyril of Alexandria's council", "authority": "Council of bishops, backed by the papal legates", "reason": "Nestorius deposed and excommunicated for teaching that divided Christ and for rejecting the title Theotokos", "status": "Confirmed by Theodosius II and by Chalcedon (451); the Church of the East honors Nestorius as a teacher", "sources": ["price-graumann", "tanner"]},
-    {"date": "26 June 431", "by": "John of Antioch's council", "authority": "Rival council of Syrian bishops", "reason": "Cyril of Alexandria and Memnon of Ephesus deposed for heresy and for opening the council early", "status": "Not upheld; withdrawn in the reunion of 433", "sources": ["price-graumann", "mcguckin"]},
-    {"date": "July 431", "by": "Cyril of Alexandria's council", "authority": "Council of bishops", "reason": "John of Antioch and his supporters suspended from communion", "status": "Lifted in the reunion of 433", "sources": ["price-graumann"]}
+    {
+      "date": "22 June 431",
+      "by": "Cyril of Alexandria's council",
+      "authority": "Council of bishops, backed by the papal legates",
+      "reason": "Nestorius deposed and excommunicated for teaching that divided Christ and for rejecting the title Theotokos",
+      "status": "Confirmed by Theodosius II and by Chalcedon (451); the Church of the East honors Nestorius as a teacher",
+      "sources": [
+        "price-graumann",
+        "tanner"
+      ]
+    },
+    {
+      "date": "26 June 431",
+      "by": "John of Antioch's council",
+      "authority": "Rival council of Syrian bishops",
+      "reason": "Cyril of Alexandria and Memnon of Ephesus deposed for heresy and for opening the council early",
+      "status": "Not upheld; withdrawn in the reunion of 433",
+      "sources": [
+        "price-graumann",
+        "mcguckin"
+      ]
+    },
+    {
+      "date": "July 431",
+      "by": "Cyril of Alexandria's council",
+      "authority": "Council of bishops",
+      "reason": "John of Antioch and his supporters suspended from communion",
+      "status": "Lifted in the reunion of 433",
+      "sources": [
+        "price-graumann"
+      ]
+    }
   ],
   "persecution_note": "No one was killed. The emperor's arrests in 431 hit both sides; the lasting penalties fell on Nestorius and his supporters.",
   "persecution": [
-    {"year": 431, "date": "August–September 431", "title": "Arrest of Cyril, Memnon, and Nestorius", "summary": "The imperial official John, sent by Theodosius II, placed all three bishops under guard after the emperor accepted both councils' depositions. Cyril's party then won the court over, helped by large gifts to officials.", "responsible": [
-      {"name": "Theodosius II", "role": "Eastern Roman emperor", "jurisdiction": "Eastern Roman Empire", "type": "state"},
-      {"name": "Count John", "role": "Imperial official who carried out the arrests", "jurisdiction": "Eastern Roman Empire", "type": "state"}
-    ], "outcome": "Cyril escaped to Alexandria and kept his see; Nestorius was sent to his monastery near Antioch.", "sources": ["mcguckin", "price-graumann"]},
-    {"year": 435, "date": "435–c. 450", "title": "Exile of Nestorius and ban on his books", "summary": "Theodosius II ordered Nestorius's books burned and his followers to be called 'Simonians', and exiled him first to Petra and then to the Great Oasis in Egypt, where he was caught up in raids by nomads.", "responsible": [
-      {"name": "Theodosius II", "role": "Eastern Roman emperor", "jurisdiction": "Eastern Roman Empire", "type": "state"},
-      {"name": "Cyril of Alexandria and his supporters", "role": "Pressed for his removal", "jurisdiction": "Church of Alexandria", "type": "church"}
-    ], "outcome": "Nestorius died in exile around 450.", "sources": ["mcguckin", "britannica"]}
+    {
+      "year": 431,
+      "date": "August–September 431",
+      "title": "Arrest of Cyril, Memnon, and Nestorius",
+      "summary": "The imperial official John, sent by Theodosius II, placed all three bishops under guard after the emperor accepted both councils' depositions. Cyril's party then won the court over, helped by large gifts to officials.",
+      "responsible": [
+        {
+          "name": "Theodosius II",
+          "role": "Eastern Roman emperor",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Count John",
+          "role": "Imperial official who carried out the arrests",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Cyril escaped to Alexandria and kept his see; Nestorius was sent to his monastery near Antioch.",
+      "sources": [
+        "mcguckin",
+        "price-graumann"
+      ]
+    },
+    {
+      "year": 435,
+      "date": "435–c. 450",
+      "title": "Exile of Nestorius and ban on his books",
+      "summary": "Theodosius II ordered Nestorius's books burned and his followers to be called 'Simonians', and exiled him first to Petra and then to the Great Oasis in Egypt, where he was caught up in raids by nomads.",
+      "responsible": [
+        {
+          "name": "Theodosius II",
+          "role": "Eastern Roman emperor",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Cyril of Alexandria and his supporters",
+          "role": "Pressed for his removal",
+          "jurisdiction": "Church of Alexandria",
+          "type": "church"
+        }
+      ],
+      "outcome": "Nestorius died in exile around 450.",
+      "sources": [
+        "mcguckin",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "price-graumann", "type": "primary", "citation": "Richard Price and Thomas Graumann (trans. and eds.), The Council of Ephesus of 431: Documents and Proceedings. Translated Texts for Historians 72. Liverpool: Liverpool University Press, 2020."},
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "mcguckin", "type": "scholarly", "citation": "John A. McGuckin, St. Cyril of Alexandria: The Christological Controversy. Leiden: Brill, 1994."},
-    {"id": "britannica", "type": "reference", "citation": "\"Council of Ephesus.\" Encyclopaedia Britannica."}
+    {
+      "id": "price-graumann",
+      "type": "primary",
+      "citation": "Richard Price and Thomas Graumann (trans. and eds.), The Council of Ephesus of 431: Documents and Proceedings. Translated Texts for Historians 72. Liverpool: Liverpool University Press, 2020."
+    },
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "mcguckin",
+      "type": "scholarly",
+      "citation": "John A. McGuckin, St. Cyril of Alexandria: The Christological Controversy. Leiden: Brill, 1994."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Ephesus.\" Encyclopaedia Britannica."
+    }
   ]
 }

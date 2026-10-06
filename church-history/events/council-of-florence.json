@@ -6,48 +6,199 @@
   "event_type": "council",
   "summary": "The council at which the Byzantine emperor and Greek bishops agreed to reunion with Rome on the filioque, purgatory, and papal primacy, a union their church soon rejected; it also issued decrees on the sacraments and on salvation outside the church.",
   "place": "Ferrara (1438), Florence (1439–43), Rome (1443–45)",
-  "start": {"year": 1438, "date": "8 January 1438 (Ferrara)", "sources": ["gill", "tanner"]},
-  "end": {"year": 1445, "date": "c. 1445 (sessions in Rome)", "circa": true, "sources": ["gill", "tanner"]},
+  "start": {
+    "year": 1438,
+    "date": "8 January 1438 (Ferrara)",
+    "sources": [
+      "gill",
+      "tanner"
+    ],
+    "label": "Council opens at Ferrara with the Byzantine emperor present"
+  },
+  "end": {
+    "year": 1445,
+    "date": "c. 1445 (sessions in Rome)",
+    "circa": true,
+    "sources": [
+      "gill",
+      "tanner"
+    ],
+    "label": "Last sessions in Rome after unions with Eastern churches"
+  },
   "key_dates": [
-    {"year": 1439, "label": "Union with the Greeks proclaimed (Laetentur caeli, 6 July); union with the Armenians (22 November)", "sources": ["tanner", "gill"]},
-    {"year": 1442, "label": "Union with the Copts (Cantate Domino, 4 February)", "sources": ["tanner"]}
+    {
+      "year": 1439,
+      "label": "Union with the Greeks proclaimed (Laetentur caeli, 6 July); union with the Armenians (22 November)",
+      "sources": [
+        "tanner",
+        "gill"
+      ]
+    },
+    {
+      "year": 1442,
+      "label": "Union with the Copts (Cantate Domino, 4 February)",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "background": [
-    {"text": "The Byzantine Empire, reduced to little more than Constantinople, hoped Western military help against the Ottoman Turks would follow church union.", "sources": ["gill", "britannica"]},
-    {"text": "Pope Eugene IV was at the same time in conflict with the Council of Basel, which claimed authority over the pope; he transferred the council to Ferrara to meet the Greeks.", "sources": ["gill", "tanner"]}
+    {
+      "text": "The Byzantine Empire, reduced to little more than Constantinople, hoped Western military help against the Ottoman Turks would follow church union.",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Pope Eugene IV was at the same time in conflict with the Council of Basel, which claimed authority over the pope; he transferred the council to Ferrara to meet the Greeks.",
+      "sources": [
+        "gill",
+        "tanner"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Emperor John VIII Palaiologos, Patriarch Joseph II of Constantinople (who died in Florence in June 1439), and some 700 Greeks attended, with Bessarion of Nicaea and Mark Eugenikos of Ephesus as their leading theologians.", "sources": ["gill", "britannica"]},
-    {"text": "After long debates the decree Laetentur caeli (6 July 1439) declared that the Spirit proceeds from the Father and the Son, that leavened or unleavened bread may be used, that purgatory exists, and that the pope has primacy over the whole church. Mark of Ephesus was the only Greek bishop present who refused to sign.", "sources": ["tanner", "gill"]},
-    {"text": "The council made unions with the Armenians (Exultate Deo, 1439, setting out the seven sacraments), the Copts (1442), and other Eastern churches.", "sources": ["tanner", "gill"]},
-    {"text": "The decree Cantate Domino (1442) declared that 'none of those outside the Catholic Church, not only pagans but also Jews or heretics and schismatics, can share in eternal life' unless they join it before death.", "sources": ["tanner"]}
+    {
+      "text": "Emperor John VIII Palaiologos, Patriarch Joseph II of Constantinople (who died in Florence in June 1439), and some 700 Greeks attended, with Bessarion of Nicaea and Mark Eugenikos of Ephesus as their leading theologians.",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After long debates the decree Laetentur caeli (6 July 1439) declared that the Spirit proceeds from the Father and the Son, that leavened or unleavened bread may be used, that purgatory exists, and that the pope has primacy over the whole church. Mark of Ephesus was the only Greek bishop present who refused to sign.",
+      "sources": [
+        "tanner",
+        "gill"
+      ]
+    },
+    {
+      "text": "The council made unions with the Armenians (Exultate Deo, 1439, setting out the seven sacraments), the Copts (1442), and other Eastern churches.",
+      "sources": [
+        "tanner",
+        "gill"
+      ]
+    },
+    {
+      "text": "The decree Cantate Domino (1442) declared that 'none of those outside the Catholic Church, not only pagans but also Jews or heretics and schismatics, can share in eternal life' unless they join it before death.",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Eugene IV", "role": "Pope who led the council"},
-    {"name": "John VIII Palaiologos", "role": "Byzantine emperor"},
-    {"name": "Bessarion", "role": "Greek archbishop who supported the union and became a Roman cardinal"},
-    {"name": "Mark Eugenikos of Ephesus", "role": "Greek archbishop who refused to sign; venerated as a saint by the Orthodox"},
-    {"name": "Isidore of Kiev", "role": "Metropolitan of Kiev and all Rus'; signed the union"}
+    {
+      "name": "Eugene IV",
+      "role": "Pope who led the council"
+    },
+    {
+      "name": "John VIII Palaiologos",
+      "role": "Byzantine emperor"
+    },
+    {
+      "name": "Bessarion",
+      "role": "Greek archbishop who supported the union and became a Roman cardinal"
+    },
+    {
+      "name": "Mark Eugenikos of Ephesus",
+      "role": "Greek archbishop who refused to sign; venerated as a saint by the Orthodox"
+    },
+    {
+      "name": "Isidore of Kiev",
+      "role": "Metropolitan of Kiev and all Rus'; signed the union"
+    }
   ],
   "outcomes": [
-    {"text": "The union was rejected by most Byzantine clergy and people. It was proclaimed in Hagia Sophia only on 12 December 1452, months before the Ottomans took Constantinople (29 May 1453), and an Orthodox synod formally repudiated it in 1484.", "sources": ["gill", "britannica"]},
-    {"text": "The council defeated the conciliarist Council of Basel and strengthened papal authority.", "sources": ["gill", "britannica"]},
-    {"text": "Its decrees on purgatory and the sacraments were reaffirmed at Trent; since the Second Vatican Council, Catholic teaching has stated that people outside the visible church can be saved, a shift from the wording of Cantate Domino.", "sources": ["tanner", "britannica"]}
+    {
+      "text": "The union was rejected by most Byzantine clergy and people. It was proclaimed in Hagia Sophia only on 12 December 1452, months before the Ottomans took Constantinople (29 May 1453), and an Orthodox synod formally repudiated it in 1484.",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The council defeated the conciliarist Council of Basel and strengthened papal authority.",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Its decrees on purgatory and the sacraments were reaffirmed at Trent; since the Second Vatican Council, Catholic teaching has stated that people outside the visible church can be saved, a shift from the wording of Cantate Domino.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "25 June 1439", "by": "Council of Basel", "authority": "Rival council claiming authority over the pope", "reason": "Pope Eugene IV declared deposed as a heretic; in November Basel elected Amadeus VIII of Savoy as antipope Felix V", "status": "Never accepted; Felix V resigned in 1449", "sources": ["gill", "britannica"]},
-    {"date": "4 September 1439", "by": "Eugene IV and the Council of Florence", "authority": "Papacy and council", "reason": "The members of the Council of Basel condemned as schismatics and heretics", "status": "Lifted when Basel's last members submitted in 1449", "sources": ["tanner", "gill"]}
+    {
+      "date": "25 June 1439",
+      "by": "Council of Basel",
+      "authority": "Rival council claiming authority over the pope",
+      "reason": "Pope Eugene IV declared deposed as a heretic; in November Basel elected Amadeus VIII of Savoy as antipope Felix V",
+      "status": "Never accepted; Felix V resigned in 1449",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    },
+    {
+      "date": "4 September 1439",
+      "by": "Eugene IV and the Council of Florence",
+      "authority": "Papacy and council",
+      "reason": "The members of the Council of Basel condemned as schismatics and heretics",
+      "status": "Lifted when Basel's last members submitted in 1449",
+      "sources": [
+        "tanner",
+        "gill"
+      ]
+    }
   ],
   "persecution_note": "Violence over the union came mainly afterward, in the Orthodox world.",
   "persecution": [
-    {"year": 1441, "date": "1441", "title": "Arrest of Isidore of Kiev in Moscow", "summary": "When Metropolitan Isidore returned to Moscow and read the union decree in the cathedral, Grand Prince Vasily II had him arrested and confined in a monastery as a traitor to Orthodoxy.", "responsible": [
-      {"name": "Vasily II", "role": "Grand Prince of Moscow", "jurisdiction": "Grand Principality of Moscow", "type": "state"},
-      {"name": "Russian bishops", "role": "Condemned the union", "jurisdiction": "Russian Orthodox Church", "type": "church"}
-    ], "outcome": "Isidore escaped to Rome; the Russian church soon chose its own metropolitan (1448).", "sources": ["gill", "britannica"]}
+    {
+      "year": 1441,
+      "date": "1441",
+      "title": "Arrest of Isidore of Kiev in Moscow",
+      "summary": "When Metropolitan Isidore returned to Moscow and read the union decree in the cathedral, Grand Prince Vasily II had him arrested and confined in a monastery as a traitor to Orthodoxy.",
+      "responsible": [
+        {
+          "name": "Vasily II",
+          "role": "Grand Prince of Moscow",
+          "jurisdiction": "Grand Principality of Moscow",
+          "type": "state"
+        },
+        {
+          "name": "Russian bishops",
+          "role": "Condemned the union",
+          "jurisdiction": "Russian Orthodox Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Isidore escaped to Rome; the Russian church soon chose its own metropolitan (1448).",
+      "sources": [
+        "gill",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "gill", "type": "scholarly", "citation": "Joseph Gill, The Council of Florence. Cambridge: Cambridge University Press, 1959."},
-    {"id": "britannica", "type": "reference", "citation": "\"Council of Ferrara-Florence.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "gill",
+      "type": "scholarly",
+      "citation": "Joseph Gill, The Council of Florence. Cambridge: Cambridge University Press, 1959."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Ferrara-Florence.\" Encyclopaedia Britannica."
+    }
   ]
 }

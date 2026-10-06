@@ -6,44 +6,179 @@
   "event_type": "council",
   "summary": "Pope Pius IX's council, which defined papal infallibility and the pope's universal jurisdiction, and was cut short when Italian troops took Rome.",
   "place": "St Peter's Basilica, Vatican",
-  "start": {"year": 1869, "date": "8 December 1869", "sources": ["tanner", "omalley"]},
-  "end": {"year": 1870, "date": "Suspended 20 October 1870", "sources": ["tanner", "omalley"]},
+  "start": {
+    "year": 1869,
+    "date": "8 December 1869",
+    "sources": [
+      "tanner",
+      "omalley"
+    ],
+    "label": "Pius IX opens the council"
+  },
+  "end": {
+    "year": 1870,
+    "date": "Suspended 20 October 1870",
+    "sources": [
+      "tanner",
+      "omalley"
+    ],
+    "label": "Council suspended after Italian troops take Rome"
+  },
   "background": [
-    {"text": "Pius IX had lost most of the Papal States to the new Kingdom of Italy and had condemned modern errors in the Syllabus of Errors (1864). The ultramontane movement wanted papal authority strengthened.", "sources": ["omalley", "britannica"]}
+    {
+      "text": "Pius IX had lost most of the Papal States to the new Kingdom of Italy and had condemned modern errors in the Syllabus of Errors (1864). The ultramontane movement wanted papal authority strengthened.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    }
   ],
   "happened": [
-    {"text": "About 700 bishops attended. The constitution Dei Filius (24 April 1870) taught that God can be known with certainty by natural reason and that faith and reason cannot contradict each other.", "sources": ["tanner", "omalley"]},
-    {"text": "The constitution Pastor Aeternus (18 July 1870) defined that the pope has full and immediate jurisdiction over the whole church, and that when he speaks ex cathedra to define a doctrine of faith or morals he is infallible, and such definitions are irreformable 'of themselves, and not from the consent of the church'.", "sources": ["tanner"]},
-    {"text": "About 60 bishops of the minority, who thought the definition unwise or untrue, left Rome the day before the final vote rather than vote against it before the pope. The vote was 533 to 2; the two bishops who voted no submitted immediately.", "sources": ["omalley", "butler"]},
-    {"text": "The Franco-Prussian War broke out the next day; French troops left Rome, Italian forces captured it on 20 September 1870, and Pius IX suspended the council indefinitely on 20 October.", "sources": ["omalley", "britannica"]}
+    {
+      "text": "About 700 bishops attended. The constitution Dei Filius (24 April 1870) taught that God can be known with certainty by natural reason and that faith and reason cannot contradict each other.",
+      "sources": [
+        "tanner",
+        "omalley"
+      ]
+    },
+    {
+      "text": "The constitution Pastor Aeternus (18 July 1870) defined that the pope has full and immediate jurisdiction over the whole church, and that when he speaks ex cathedra to define a doctrine of faith or morals he is infallible, and such definitions are irreformable 'of themselves, and not from the consent of the church'.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "About 60 bishops of the minority, who thought the definition unwise or untrue, left Rome the day before the final vote rather than vote against it before the pope. The vote was 533 to 2; the two bishops who voted no submitted immediately.",
+      "sources": [
+        "omalley",
+        "butler"
+      ]
+    },
+    {
+      "text": "The Franco-Prussian War broke out the next day; French troops left Rome, Italian forces captured it on 20 September 1870, and Pius IX suspended the council indefinitely on 20 October.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Pius IX", "role": "Pope who called the council"},
-    {"name": "Henry Edward Manning", "role": "Archbishop of Westminster; leader of the infallibilist majority"},
-    {"name": "Félix Dupanloup", "role": "Bishop of Orléans; leader of the minority"},
-    {"name": "John Henry Newman", "role": "Not present; thought the definition inopportune but accepted it, and defended it against Gladstone in 1875", "person": "john-henry-newman"},
-    {"name": "Ignaz von Döllinger", "role": "Munich church historian who rejected the definition"}
+    {
+      "name": "Pius IX",
+      "role": "Pope who called the council"
+    },
+    {
+      "name": "Henry Edward Manning",
+      "role": "Archbishop of Westminster; leader of the infallibilist majority"
+    },
+    {
+      "name": "Félix Dupanloup",
+      "role": "Bishop of Orléans; leader of the minority"
+    },
+    {
+      "name": "John Henry Newman",
+      "role": "Not present; thought the definition inopportune but accepted it, and defended it against Gladstone in 1875",
+      "person": "john-henry-newman"
+    },
+    {
+      "name": "Ignaz von Döllinger",
+      "role": "Munich church historian who rejected the definition"
+    }
   ],
   "outcomes": [
-    {"text": "Papal infallibility has been invoked explicitly once since, for the Assumption of Mary (1950); Catholic theologians also count the 1854 Immaculate Conception.", "sources": ["omalley", "britannica"]},
-    {"text": "Groups in Germany, Switzerland, and Austria who rejected the decrees formed the Old Catholic churches, joining the Union of Utrecht in 1889.", "sources": ["omalley", "britannica"]},
-    {"text": "Protestant and Orthodox churches rejected the decrees, and they became a major issue in later ecumenical dialogue; the council's work on bishops was left unfinished until Vatican II.", "sources": ["omalley", "britannica"]}
+    {
+      "text": "Papal infallibility has been invoked explicitly once since, for the Assumption of Mary (1950); Catholic theologians also count the 1854 Immaculate Conception.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Groups in Germany, Switzerland, and Austria who rejected the decrees formed the Old Catholic churches, joining the Union of Utrecht in 1889.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Protestant and Orthodox churches rejected the decrees, and they became a major issue in later ecumenical dialogue; the council's work on bishops was left unfinished until Vatican II.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "17 April 1871", "by": "Archbishop Gregor von Scherr of Munich", "authority": "Archdiocese of Munich and Freising", "reason": "Ignaz von Döllinger excommunicated for refusing to accept the decrees on infallibility", "status": "Never lifted; he died in 1890 without reconciling, though he never joined the Old Catholics formally", "sources": ["omalley", "britannica"]},
-    {"date": "18 July 1870", "by": "First Vatican Council", "authority": "General council under Pius IX", "reason": "Anathema on anyone who contradicts the definition of papal infallibility or universal jurisdiction", "status": "In force in the Catholic Church", "sources": ["tanner"]}
+    {
+      "date": "17 April 1871",
+      "by": "Archbishop Gregor von Scherr of Munich",
+      "authority": "Archdiocese of Munich and Freising",
+      "reason": "Ignaz von Döllinger excommunicated for refusing to accept the decrees on infallibility",
+      "status": "Never lifted; he died in 1890 without reconciling, though he never joined the Old Catholics formally",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    },
+    {
+      "date": "18 July 1870",
+      "by": "First Vatican Council",
+      "authority": "General council under Pius IX",
+      "reason": "Anathema on anyone who contradicts the definition of papal infallibility or universal jurisdiction",
+      "status": "In force in the Catholic Church",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "persecution_note": "Opponents of the decrees were disciplined by the church, and in Germany the state turned on the Catholic Church partly in reaction to the council.",
   "persecution": [
-    {"year": 1873, "date": "1871–1878", "title": "The Kulturkampf in Germany", "summary": "Otto von Bismarck's government, citing the danger of papal power after the council, passed laws expelling the Jesuits (1872) and, in the May Laws of 1873, putting the training and appointment of clergy under state control. Bishops and priests who refused were fined, imprisoned, or exiled; Archbishop Mieczysław Ledóchowski of Gniezno-Poznań was imprisoned in 1874.", "responsible": [
-      {"name": "Otto von Bismarck", "role": "Chancellor of Germany and Prussian minister-president", "jurisdiction": "German Empire / Kingdom of Prussia", "type": "state"},
-      {"name": "Adalbert Falk", "role": "Prussian minister of culture; author of the May Laws", "jurisdiction": "Kingdom of Prussia", "type": "state"}
-    ], "outcome": "Many dioceses and parishes left vacant; most laws were eased from 1878.", "sources": ["omalley", "britannica"]}
+    {
+      "year": 1873,
+      "date": "1871–1878",
+      "title": "The Kulturkampf in Germany",
+      "summary": "Otto von Bismarck's government, citing the danger of papal power after the council, passed laws expelling the Jesuits (1872) and, in the May Laws of 1873, putting the training and appointment of clergy under state control. Bishops and priests who refused were fined, imprisoned, or exiled; Archbishop Mieczysław Ledóchowski of Gniezno-Poznań was imprisoned in 1874.",
+      "responsible": [
+        {
+          "name": "Otto von Bismarck",
+          "role": "Chancellor of Germany and Prussian minister-president",
+          "jurisdiction": "German Empire / Kingdom of Prussia",
+          "type": "state"
+        },
+        {
+          "name": "Adalbert Falk",
+          "role": "Prussian minister of culture; author of the May Laws",
+          "jurisdiction": "Kingdom of Prussia",
+          "type": "state"
+        }
+      ],
+      "outcome": "Many dioceses and parishes left vacant; most laws were eased from 1878.",
+      "sources": [
+        "omalley",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 2. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "butler", "type": "primary", "citation": "Cuthbert Butler, The Vatican Council 1869–1870, Based on Bishop Ullathorne's Letters. London: Longmans, Green, 1930."},
-    {"id": "omalley", "type": "scholarly", "citation": "John W. O'Malley, Vatican I: The Council and the Making of the Ultramontane Church. Cambridge, MA: Belknap Press of Harvard University Press, 2018."},
-    {"id": "britannica", "type": "reference", "citation": "\"First Vatican Council.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 2. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "butler",
+      "type": "primary",
+      "citation": "Cuthbert Butler, The Vatican Council 1869–1870, Based on Bishop Ullathorne's Letters. London: Longmans, Green, 1930."
+    },
+    {
+      "id": "omalley",
+      "type": "scholarly",
+      "citation": "John W. O'Malley, Vatican I: The Council and the Making of the Ultramontane Church. Cambridge, MA: Belknap Press of Harvard University Press, 2018."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"First Vatican Council.\" Encyclopaedia Britannica."
+    }
   ]
 }

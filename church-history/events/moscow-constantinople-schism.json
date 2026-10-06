@@ -1,0 +1,219 @@
+{
+  "name": "Moscow–Constantinople Schism",
+  "slug": "moscow-constantinople-schism",
+  "also_known_as": "The 2018 schism over Ukrainian autocephaly",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The break of communion by the Russian Orthodox Church with the Ecumenical Patriarchate in 2018, after Constantinople moved to grant independence to a new Orthodox Church of Ukraine; it remains unresolved.",
+  "place": "Constantinople (Istanbul), Moscow, and Kyiv",
+  "start": {
+    "year": 2018,
+    "date": "15 October 2018 (Moscow breaks communion)",
+    "sources": [
+      "roc-2018",
+      "denysenko"
+    ],
+    "label": "Moscow breaks communion with Constantinople over Ukraine"
+  },
+  "end": {
+    "year": 2026,
+    "date": "Unresolved (as of 2026)",
+    "sources": [
+      "britannica"
+    ],
+    "label": "Still unresolved"
+  },
+  "key_dates": [
+    {
+      "year": 2019,
+      "label": "Tomos of autocephaly granted to the Orthodox Church of Ukraine (5–6 January)",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "Russia's full-scale invasion of Ukraine; Patriarch Kirill supports the war",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "Ukraine passes a law to ban religious organizations tied to the Russian church (20 August)",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "Since 1686 the Kyiv metropolis had been under Moscow. After Ukraine's independence in 1991, Ukrainian Orthodoxy split between a church linked to Moscow and two unrecognized churches, one led by Filaret Denysenko, whom Moscow anathematized in 1997.",
+      "sources": [
+        "denysenko",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After Russia's annexation of Crimea (2014) and the war in eastern Ukraine, the Ukrainian government and many clergy asked Constantinople for an independent church.",
+      "sources": [
+        "denysenko",
+        "britannica"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "On 11 October 2018 the synod of the Ecumenical Patriarchate decided to grant autocephaly to Ukraine, revoked the 1686 letter giving Moscow authority over Kyiv, and restored Filaret and other unrecognized bishops to communion.",
+      "sources": [
+        "ep-2018",
+        "britannica"
+      ]
+    },
+    {
+      "text": "On 15 October 2018 the Holy Synod of the Russian Orthodox Church, meeting in Minsk, broke communion with the Ecumenical Patriarchate.",
+      "sources": [
+        "roc-2018",
+        "britannica"
+      ]
+    },
+    {
+      "text": "A unification council in Kyiv on 15 December 2018 formed the Orthodox Church of Ukraine and elected Metropolitan Epifaniy; Patriarch Bartholomew signed its tomos of autocephaly on 5 January 2019.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "Moscow also broke communion with the primates of Greece, Alexandria, and Cyprus when they recognized the new church, and in 2021 set up its own exarchate in Africa, in Alexandria's territory.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Bartholomew I",
+      "role": "Ecumenical Patriarch"
+    },
+    {
+      "name": "Kirill",
+      "role": "Patriarch of Moscow"
+    },
+    {
+      "name": "Epifaniy (Dumenko)",
+      "role": "Metropolitan of Kyiv of the Orthodox Church of Ukraine"
+    },
+    {
+      "name": "Filaret (Denysenko)",
+      "role": "Former head of the Kyiv Patriarchate"
+    },
+    {
+      "name": "Onufriy (Berezovsky)",
+      "role": "Metropolitan of the Moscow-linked Ukrainian Orthodox Church"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "The world's largest Orthodox church is out of communion with the Ecumenical Patriarchate and several other churches, the deepest division in Orthodoxy since the 20th century.",
+      "sources": [
+        "britannica",
+        "denysenko"
+      ]
+    },
+    {
+      "text": "After Russia's 2022 invasion, the Moscow-linked Ukrainian Orthodox Church declared its 'full independence' from Moscow (May 2022), though both Kyiv and Moscow dispute what that means.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "15 October 2018",
+      "by": "Holy Synod of the Russian Orthodox Church",
+      "authority": "Moscow Patriarchate",
+      "reason": "Eucharistic communion with the Ecumenical Patriarchate broken",
+      "status": "In effect as of 2026",
+      "sources": [
+        "roc-2018"
+      ]
+    },
+    {
+      "date": "11 October 2018",
+      "by": "Holy Synod of the Ecumenical Patriarchate",
+      "authority": "Ecumenical Patriarchate",
+      "reason": "Lifted Moscow's 1997 anathema on Filaret Denysenko and restored him and others to communion",
+      "status": "Moscow does not accept this",
+      "sources": [
+        "ep-2018"
+      ]
+    }
+  ],
+  "persecution_note": "The church conflict is bound up with Russia's war on Ukraine, and both states have taken action against churches they see as tied to the other side.",
+  "persecution": [
+    {
+      "year": 2022,
+      "date": "2022–2024",
+      "title": "Ukrainian measures against the Moscow-linked church",
+      "summary": "After Russia's 2022 invasion, Ukraine's security service (SBU) searched churches and monasteries of the Ukrainian Orthodox Church, including the Kyiv Pechersk Lavra; several of its clergy were charged with collaboration, and its lease on parts of the Lavra was ended. In August 2024 parliament passed a law allowing courts to ban religious bodies linked to the Russian Orthodox Church.",
+      "responsible": [
+        {
+          "name": "Security Service of Ukraine (SBU)",
+          "role": "Searches and prosecutions",
+          "jurisdiction": "Ukraine",
+          "type": "state"
+        },
+        {
+          "name": "Verkhovna Rada (parliament of Ukraine)",
+          "role": "Passed the 2024 law",
+          "jurisdiction": "Ukraine",
+          "type": "state"
+        }
+      ],
+      "outcome": "Many parishes transferred to the Orthodox Church of Ukraine; the Russian church and some human-rights groups called the measures persecution, while Ukraine calls them security measures.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014–present",
+      "title": "Pressure on the Orthodox Church of Ukraine in Russian-occupied territory",
+      "summary": "In Crimea and other areas occupied by Russia, parishes of the Kyiv Patriarchate and later the Orthodox Church of Ukraine lost their churches and clergy were pressured to leave.",
+      "responsible": [
+        {
+          "name": "Russian occupation authorities",
+          "role": "Seized churches and pressured clergy",
+          "jurisdiction": "Russian-occupied Ukraine",
+          "type": "state"
+        }
+      ],
+      "outcome": "Few parishes of the Orthodox Church of Ukraine remain in occupied areas.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ep-2018",
+      "type": "primary",
+      "citation": "Ecumenical Patriarchate, announcement of the Holy and Sacred Synod, 11 October 2018."
+    },
+    {
+      "id": "roc-2018",
+      "type": "primary",
+      "citation": "Holy Synod of the Russian Orthodox Church, statement on the uncanonical actions of the Patriarchate of Constantinople, Minsk, 15 October 2018."
+    },
+    {
+      "id": "denysenko",
+      "type": "scholarly",
+      "citation": "Nicholas E. Denysenko, The Orthodox Church in Ukraine: A Century of Separation. DeKalb: Northern Illinois University Press, 2018."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Orthodox Church of Ukraine\" and \"Russian Orthodox Church.\" Encyclopaedia Britannica."
+    }
+  ]
+}

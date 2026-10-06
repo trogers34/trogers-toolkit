@@ -1,0 +1,241 @@
+{
+  "name": "Old Believers Schism",
+  "slug": "old-believers-schism",
+  "also_known_as": "The Raskol",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The split in the Russian Orthodox Church over Patriarch Nikon's reforms of worship, which the church and state enforced with exile, torture, and burning, and which led thousands of Old Believers to burn themselves to death.",
+  "place": "Muscovite Russia",
+  "start": {
+    "year": 1652,
+    "date": "1652 (Nikon becomes patriarch)",
+    "sources": [
+      "michels",
+      "britannica"
+    ],
+    "label": "Nikon becomes patriarch and begins reforming Russian worship"
+  },
+  "end": {
+    "year": 1667,
+    "date": "1667 (anathemas of the Great Moscow Synod)",
+    "sources": [
+      "michels",
+      "britannica"
+    ],
+    "label": "Great Moscow Synod anathematizes the old rites"
+  },
+  "key_dates": [
+    {
+      "year": 1653,
+      "label": "Nikon orders the sign of the cross with three fingers instead of two",
+      "sources": [
+        "avvakum",
+        "michels"
+      ]
+    },
+    {
+      "year": 1666,
+      "label": "Great Moscow Synod deposes Nikon but keeps his reforms (December)",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "Patriarch Nikon, with Tsar Alexis I's support, set out to bring Russian service books and rituals into line with contemporary Greek practice, which differed from older Russian customs.",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "The reforms changed the sign of the cross (three fingers instead of two), the spelling of Jesus' name, the number of alleluias, and the direction of processions; opponents saw them as abandoning the true faith.",
+      "sources": [
+        "michels",
+        "avvakum"
+      ]
+    },
+    {
+      "text": "Nikon quarrelled with the tsar and left the patriarchal throne in 1658; the Great Moscow Synod (1666–67), attended by the patriarchs of Alexandria and Antioch, deposed him but upheld his reforms and anathematized the old rites and those who kept them.",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Solovetsky Monastery refused the reforms and was besieged by the tsar's troops from 1668 to 1676; most of the defenders were killed when it fell.",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Archpriest Avvakum, the most famous Old Believer, wrote his autobiography in exile and was burned at Pustozersk in 1682.",
+      "sources": [
+        "avvakum",
+        "michels"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Nikon",
+      "role": "Patriarch of Moscow who introduced the reforms"
+    },
+    {
+      "name": "Alexis I",
+      "role": "Tsar who supported the reforms"
+    },
+    {
+      "name": "Avvakum Petrov",
+      "role": "Archpriest and leader of the Old Believers"
+    },
+    {
+      "name": "Feodosia Morozova",
+      "role": "Noblewoman and Old Believer who died in prison"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Millions of Russians remained Old Believers, splitting into priestly and priestless groups; they suffered legal penalties and double taxation under Peter I and later tsars until the 1905 Edict of Toleration.",
+      "sources": [
+        "crummey",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In 1971 a council of the Russian Orthodox Church lifted the anathemas of 1666–67 and declared the old rites equally saving.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "December 1666",
+      "by": "Great Moscow Synod",
+      "authority": "Russian church, with the patriarchs of Alexandria and Antioch",
+      "reason": "Patriarch Nikon deposed and reduced to a simple monk, for abandoning his see and his conduct toward the tsar",
+      "status": "Not reversed in his lifetime; Tsar Fyodor III allowed him to return from exile shortly before his death in 1681",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    },
+    {
+      "date": "May 1667",
+      "by": "Great Moscow Synod",
+      "authority": "Russian church, with the patriarchs of Alexandria and Antioch",
+      "reason": "Anathemas on those who kept the old rites and rejected the new books",
+      "status": "Lifted by the Local Council of the Russian Orthodox Church in 1971",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "Church and state punished Old Believers severely for decades; the scale of the self-immolations is uncertain, but historians put the deaths in the thousands to tens of thousands.",
+  "persecution": [
+    {
+      "year": 1682,
+      "date": "1653–1682",
+      "title": "Exile and execution of Avvakum and his companions",
+      "summary": "Avvakum was exiled to Siberia, defrocked and anathematized in 1667, and held for 15 years in an earthen pit at Pustozersk. On 14 April 1682 he and three companions were burned there by order of Tsar Fyodor III.",
+      "responsible": [
+        {
+          "name": "Alexis I and Fyodor III",
+          "role": "Tsars",
+          "jurisdiction": "Tsardom of Russia",
+          "type": "state"
+        },
+        {
+          "name": "Great Moscow Synod",
+          "role": "Condemned him",
+          "jurisdiction": "Russian Orthodox Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Burned at the stake; venerated as a martyr by Old Believers.",
+      "sources": [
+        "avvakum",
+        "michels"
+      ]
+    },
+    {
+      "year": 1676,
+      "date": "1668–1676",
+      "title": "Siege of the Solovetsky Monastery",
+      "summary": "Tsar Alexis's troops besieged the monastery for eight years; when it fell in January 1676, most of the monks and their supporters were killed.",
+      "responsible": [
+        {
+          "name": "Alexis I",
+          "role": "Tsar who ordered the siege",
+          "jurisdiction": "Tsardom of Russia",
+          "type": "state"
+        },
+        {
+          "name": "Ivan Meshcherinov",
+          "role": "Commander who took the monastery",
+          "jurisdiction": "Russian army",
+          "type": "state"
+        }
+      ],
+      "outcome": "Most defenders killed.",
+      "sources": [
+        "michels",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1685,
+      "date": "1670s–1690s",
+      "title": "Laws against Old Believers and mass self-immolations",
+      "summary": "Decrees of 1684–85 under Regent Sophia ordered unrepentant Old Believers burned. Expecting the end of the world and facing arrest, many communities burned themselves to death in their churches rather than submit.",
+      "responsible": [
+        {
+          "name": "Regent Sophia Alekseyevna",
+          "role": "Issued the 1685 decrees",
+          "jurisdiction": "Tsardom of Russia",
+          "type": "state"
+        },
+        {
+          "name": "Russian Orthodox hierarchy",
+          "role": "Pressed for enforcement",
+          "jurisdiction": "Russian Orthodox Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Thousands died; Old Believers fled to forests and borderlands.",
+      "sources": [
+        "crummey",
+        "michels"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "avvakum",
+      "type": "primary",
+      "citation": "Avvakum Petrovich, The Life of the Archpriest Avvakum, by Himself, trans. Jane Harrison and Hope Mirrlees. London: Hogarth Press, 1924."
+    },
+    {
+      "id": "michels",
+      "type": "scholarly",
+      "citation": "Georg Bernhard Michels, At War with the Church: Religious Dissent in Seventeenth-Century Russia. Stanford: Stanford University Press, 1999."
+    },
+    {
+      "id": "crummey",
+      "type": "scholarly",
+      "citation": "Robert O. Crummey, The Old Believers and the World of Antichrist: The Vyg Community and the Russian State, 1694–1855. Madison: University of Wisconsin Press, 1970."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Old Believer.\" Encyclopaedia Britannica."
+    }
+  ]
+}

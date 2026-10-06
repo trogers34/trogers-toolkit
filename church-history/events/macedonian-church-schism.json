@@ -1,0 +1,158 @@
+{
+  "name": "Macedonian Orthodox Church Schism",
+  "slug": "macedonian-church-schism",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The 55-year break after the Macedonian Orthodox Church declared itself independent of the Serbian Orthodox Church in 1967, ended by its recognition in 2022.",
+  "place": "Ohrid and Skopje (North Macedonia); Belgrade",
+  "start": {
+    "year": 1967,
+    "date": "17–19 July 1967 (autocephaly declared at Ohrid)",
+    "sources": [
+      "ware",
+      "britannica"
+    ],
+    "label": "Macedonian church declares independence; Serbia calls it schismatic"
+  },
+  "end": {
+    "year": 2022,
+    "date": "May–June 2022 (communion restored and autocephaly granted by Serbia)",
+    "sources": [
+      "ep-2022",
+      "britannica"
+    ],
+    "label": "Communion restored; Serbia grants autocephaly"
+  },
+  "key_dates": [
+    {
+      "year": 2002,
+      "label": "Niš agreement on union with Serbia rejected in Skopje",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "year": 2004,
+      "label": "Bishop Jovan Vraniškovski, head of the Serbian-backed Ohrid Archbishopric, imprisoned",
+      "sources": [
+        "amnesty",
+        "britannica"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "The Serbian church had governed the dioceses of Macedonia; in 1958, with support from Yugoslavia's communist government, it allowed a Macedonian church with its own head under the Serbian patriarch.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "In July 1967 a church council at Ohrid declared the Macedonian Orthodox Church autocephalous (fully independent), claiming the heritage of the medieval Archbishopric of Ohrid; the Yugoslav authorities supported the move.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Serbian church declared the Macedonian church schismatic and its bishops outside the church, and no other Orthodox church recognized it.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Dositej",
+      "role": "First head of the Macedonian Orthodox Church"
+    },
+    {
+      "name": "Serbian Orthodox Church",
+      "role": "Mother church that declared the schism"
+    },
+    {
+      "name": "Jovan Vraniškovski",
+      "role": "Bishop who left the Macedonian church to lead a Serbian-backed archbishopric; imprisoned"
+    },
+    {
+      "name": "Bartholomew I",
+      "role": "Ecumenical Patriarch who received the church back into communion in 2022"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "On 9 May 2022 the Ecumenical Patriarchate received the church back into communion under the name Archdiocese of Ohrid; the Serbian church recognized it later that month and granted it autocephaly in June 2022, though its name remains disputed.",
+      "sources": [
+        "ep-2022",
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "September 1967",
+      "by": "Holy Assembly of Bishops of the Serbian Orthodox Church",
+      "authority": "Serbian Orthodox Church",
+      "reason": "The Macedonian church's declaration of autocephaly condemned as schismatic and its bishops cut off from communion",
+      "status": "Lifted in 2022",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "",
+  "persecution": [
+    {
+      "year": 2004,
+      "date": "2002–2006",
+      "title": "Prosecution of Bishop Jovan Vraniškovski",
+      "summary": "After Jovan Vraniškovski accepted the Niš agreement and led an archbishopric under the Serbian church, the Macedonian church expelled him and the government of North Macedonia (then the Republic of Macedonia) prosecuted him. In 2004 he was imprisoned for 'inciting ethnic and religious hatred'; Amnesty International called him a prisoner of conscience.",
+      "responsible": [
+        {
+          "name": "Courts and police of the Republic of Macedonia",
+          "role": "Prosecuted and imprisoned him",
+          "jurisdiction": "Republic of Macedonia",
+          "type": "state"
+        },
+        {
+          "name": "Macedonian Orthodox Church",
+          "role": "Expelled him and pressed for action",
+          "jurisdiction": "Macedonian Orthodox Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Served prison terms in 2004–2006 and later.",
+      "sources": [
+        "amnesty",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ep-2022",
+      "type": "primary",
+      "citation": "Ecumenical Patriarchate, communiqué of the Holy and Sacred Synod on the Church of North Macedonia, 9 May 2022."
+    },
+    {
+      "id": "amnesty",
+      "type": "primary",
+      "citation": "Amnesty International, statements on the imprisonment of Zoran Vraniškovski (Archbishop Jovan), 2004–2005."
+    },
+    {
+      "id": "ware",
+      "type": "scholarly",
+      "citation": "Timothy (Kallistos) Ware, The Orthodox Church, new ed. London: Penguin, 1993."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Macedonian Orthodox Church.\" Encyclopaedia Britannica."
+    }
+  ]
+}

@@ -6,39 +6,159 @@
   "event_type": "schism",
   "summary": "The mutual excommunications of 1054 between papal legates and the patriarch of Constantinople, traditionally dated as the split between the Catholic and Eastern Orthodox churches.",
   "place": "Constantinople",
-  "start": {"year": 1054, "date": "16 July 1054 (bull laid on the altar)", "sources": ["chadwick", "runciman"]},
-  "end": {"year": 1054, "date": "c. 20–24 July 1054 (patriarch's synod)", "sources": ["chadwick", "runciman"]},
+  "start": {
+    "year": 1054,
+    "date": "16 July 1054 (bull laid on the altar)",
+    "sources": [
+      "chadwick",
+      "runciman"
+    ],
+    "label": "Papal legates excommunicate Patriarch Michael Cerularius"
+  },
+  "end": {
+    "year": 1054,
+    "date": "c. 20–24 July 1054 (patriarch's synod)",
+    "sources": [
+      "chadwick",
+      "runciman"
+    ],
+    "label": "Patriarch's synod excommunicates the legates"
+  },
   "background": [
-    {"text": "Rome and Constantinople had long disagreed over papal authority, the Latin addition of the filioque ('and the Son') to the creed, and practices such as unleavened bread in the Eucharist and clerical marriage.", "sources": ["chadwick", "britannica"]},
-    {"text": "In 1053 Patriarch Michael Cerularius closed the Latin churches in Constantinople, and a letter by Archbishop Leo of Ohrid attacking Latin customs reached Rome.", "sources": ["runciman", "chadwick"]}
+    {
+      "text": "Rome and Constantinople had long disagreed over papal authority, the Latin addition of the filioque ('and the Son') to the creed, and practices such as unleavened bread in the Eucharist and clerical marriage.",
+      "sources": [
+        "chadwick",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In 1053 Patriarch Michael Cerularius closed the Latin churches in Constantinople, and a letter by Archbishop Leo of Ohrid attacking Latin customs reached Rome.",
+      "sources": [
+        "runciman",
+        "chadwick"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Pope Leo IX sent Cardinal Humbert of Silva Candida, Frederick of Lorraine (later Pope Stephen IX), and Archbishop Peter of Amalfi to Constantinople in 1054; Leo died in April, before they acted, which raises doubt about whether their authority still stood.", "sources": ["chadwick", "runciman"]},
-    {"text": "On 16 July 1054 the legates laid a bull excommunicating Cerularius and his supporters on the altar of the Hagia Sophia during the liturgy, and left the city.", "sources": ["chadwick", "runciman", "britannica"]},
-    {"text": "The bull accused Cerularius of many errors, including, wrongly, that the Greeks had deleted the filioque from the creed.", "sources": ["runciman", "chadwick"]},
-    {"text": "Days later a synod under Cerularius excommunicated the legates (not the pope or the Latin church as a whole) and burned the bull, with Emperor Constantine IX's consent.", "sources": ["chadwick", "runciman"]}
+    {
+      "text": "Pope Leo IX sent Cardinal Humbert of Silva Candida, Frederick of Lorraine (later Pope Stephen IX), and Archbishop Peter of Amalfi to Constantinople in 1054; Leo died in April, before they acted, which raises doubt about whether their authority still stood.",
+      "sources": [
+        "chadwick",
+        "runciman"
+      ]
+    },
+    {
+      "text": "On 16 July 1054 the legates laid a bull excommunicating Cerularius and his supporters on the altar of the Hagia Sophia during the liturgy, and left the city.",
+      "sources": [
+        "chadwick",
+        "runciman",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The bull accused Cerularius of many errors, including, wrongly, that the Greeks had deleted the filioque from the creed.",
+      "sources": [
+        "runciman",
+        "chadwick"
+      ]
+    },
+    {
+      "text": "Days later a synod under Cerularius excommunicated the legates (not the pope or the Latin church as a whole) and burned the bull, with Emperor Constantine IX's consent.",
+      "sources": [
+        "chadwick",
+        "runciman"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Leo IX", "role": "Pope who sent the legates; died before the excommunication"},
-    {"name": "Cardinal Humbert of Silva Candida", "role": "Head of the papal legation; wrote and laid the bull"},
-    {"name": "Michael I Cerularius", "role": "Patriarch of Constantinople"},
-    {"name": "Constantine IX Monomachos", "role": "Byzantine emperor, who had hoped for an alliance with the pope against the Normans"}
+    {
+      "name": "Leo IX",
+      "role": "Pope who sent the legates; died before the excommunication"
+    },
+    {
+      "name": "Cardinal Humbert of Silva Candida",
+      "role": "Head of the papal legation; wrote and laid the bull"
+    },
+    {
+      "name": "Michael I Cerularius",
+      "role": "Patriarch of Constantinople"
+    },
+    {
+      "name": "Constantine IX Monomachos",
+      "role": "Byzantine emperor, who had hoped for an alliance with the pope against the Normans"
+    }
   ],
   "outcomes": [
-    {"text": "At the time the events were seen as one more quarrel; most historians now treat the schism as a gradual process, made decisive by the crusaders' sack of Constantinople in 1204.", "sources": ["chadwick", "runciman", "britannica"]},
-    {"text": "Reunions agreed at the Councils of Lyon (1274) and Florence (1439) were rejected by most Orthodox clergy and people and did not last.", "sources": ["chadwick", "britannica"]},
-    {"text": "On 7 December 1965 Pope Paul VI and Patriarch Athenagoras I lifted the mutual excommunications of 1054 in a joint declaration; full communion was not restored.", "sources": ["joint-1965", "britannica"]}
+    {
+      "text": "At the time the events were seen as one more quarrel; most historians now treat the schism as a gradual process, made decisive by the crusaders' sack of Constantinople in 1204.",
+      "sources": [
+        "chadwick",
+        "runciman",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Reunions agreed at the Councils of Lyon (1274) and Florence (1439) were rejected by most Orthodox clergy and people and did not last.",
+      "sources": [
+        "chadwick",
+        "britannica"
+      ]
+    },
+    {
+      "text": "On 7 December 1965 Pope Paul VI and Patriarch Athenagoras I lifted the mutual excommunications of 1054 in a joint declaration; full communion was not restored.",
+      "sources": [
+        "joint-1965",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "16 July 1054", "by": "Cardinal Humbert and the papal legates", "authority": "Papacy (legates of Leo IX, who had died in April)", "reason": "Excommunication of Patriarch Michael Cerularius and his supporters for alleged errors and for attacks on Latin practice", "status": "Lifted 7 December 1965 by Pope Paul VI", "sources": ["chadwick", "joint-1965"]},
-    {"date": "c. 20–24 July 1054", "by": "Synod of Constantinople under Michael Cerularius", "authority": "Patriarchate of Constantinople", "reason": "Excommunication of the papal legates and those who wrote the bull", "status": "Lifted 7 December 1965 by Patriarch Athenagoras I", "sources": ["chadwick", "joint-1965"]}
+    {
+      "date": "16 July 1054",
+      "by": "Cardinal Humbert and the papal legates",
+      "authority": "Papacy (legates of Leo IX, who had died in April)",
+      "reason": "Excommunication of Patriarch Michael Cerularius and his supporters for alleged errors and for attacks on Latin practice",
+      "status": "Lifted 7 December 1965 by Pope Paul VI",
+      "sources": [
+        "chadwick",
+        "joint-1965"
+      ]
+    },
+    {
+      "date": "c. 20–24 July 1054",
+      "by": "Synod of Constantinople under Michael Cerularius",
+      "authority": "Patriarchate of Constantinople",
+      "reason": "Excommunication of the papal legates and those who wrote the bull",
+      "status": "Lifted 7 December 1965 by Patriarch Athenagoras I",
+      "sources": [
+        "chadwick",
+        "joint-1965"
+      ]
+    }
   ],
   "persecution_note": "No one was arrested or killed in the events of 1054 themselves. The violence linked to the schism came later, notably the massacre of Latins in Constantinople (1182) and the crusaders' sack of the city (1204), which are not covered here.",
   "persecution": [],
   "sources": [
-    {"id": "chadwick", "type": "scholarly", "citation": "Henry Chadwick, East and West: The Making of a Rift in the Church, from Apostolic Times until the Council of Florence. Oxford: Oxford University Press, 2003."},
-    {"id": "runciman", "type": "scholarly", "citation": "Steven Runciman, The Eastern Schism: A Study of the Papacy and the Eastern Churches during the XIth and XIIth Centuries. Oxford: Clarendon Press, 1955."},
-    {"id": "joint-1965", "type": "primary", "citation": "Joint Catholic–Orthodox Declaration of His Holiness Pope Paul VI and the Ecumenical Patriarch Athenagoras I, 7 December 1965."},
-    {"id": "britannica", "type": "reference", "citation": "\"Schism of 1054.\" Encyclopaedia Britannica."}
+    {
+      "id": "chadwick",
+      "type": "scholarly",
+      "citation": "Henry Chadwick, East and West: The Making of a Rift in the Church, from Apostolic Times until the Council of Florence. Oxford: Oxford University Press, 2003."
+    },
+    {
+      "id": "runciman",
+      "type": "scholarly",
+      "citation": "Steven Runciman, The Eastern Schism: A Study of the Papacy and the Eastern Churches during the XIth and XIIth Centuries. Oxford: Clarendon Press, 1955."
+    },
+    {
+      "id": "joint-1965",
+      "type": "primary",
+      "citation": "Joint Catholic–Orthodox Declaration of His Holiness Pope Paul VI and the Ecumenical Patriarch Athenagoras I, 7 December 1965."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Schism of 1054.\" Encyclopaedia Britannica."
+    }
   ]
 }

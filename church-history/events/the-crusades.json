@@ -6,101 +6,537 @@
   "event_type": "war",
   "summary": "A series of wars called by popes, which promised spiritual rewards to those who fought: above all the campaigns to capture and hold Jerusalem and the Holy Land, from Urban II's call in 1095 to the fall of Acre in 1291.",
   "place": "The eastern Mediterranean (Syria, Palestine, Egypt), Constantinople, and parts of Europe",
-  "start": {"year": 1095, "date": "27 November 1095 (Urban II's sermon at Clermont)", "sources": ["peters", "riley-smith"]},
-  "end": {"year": 1291, "date": "18 May 1291 (fall of Acre)", "sources": ["riley-smith", "tyerman"]},
+  "start": {
+    "year": 1095,
+    "date": "27 November 1095 (Urban II's sermon at Clermont)",
+    "sources": [
+      "peters",
+      "riley-smith"
+    ],
+    "label": "Urban II calls the First Crusade at Clermont"
+  },
+  "end": {
+    "year": 1291,
+    "date": "18 May 1291 (fall of Acre)",
+    "sources": [
+      "riley-smith",
+      "tyerman"
+    ],
+    "label": "Fall of Acre ends the crusader states"
+  },
   "key_dates": [
-    {"year": 1096, "label": "First Crusade sets out; massacres of Jews in the Rhineland", "sources": ["chazan", "tyerman"]},
-    {"year": 1099, "label": "Crusaders take Jerusalem (15 July)", "sources": ["peters", "riley-smith"]},
-    {"year": 1147, "label": "Second Crusade (1147–49), preached by Bernard of Clairvaux; fails at Damascus", "sources": ["riley-smith", "tyerman"]},
-    {"year": 1187, "label": "Saladin wins at Hattin (4 July) and takes Jerusalem (2 October)", "sources": ["gabrieli", "riley-smith"]},
-    {"year": 1189, "label": "Third Crusade (1189–92): Frederick Barbarossa, Richard I, Philip II", "sources": ["riley-smith", "tyerman"]},
-    {"year": 1191, "label": "Richard I takes Acre and executes about 2,700 Muslim prisoners", "sources": ["gabrieli", "tyerman"]},
-    {"year": 1204, "label": "Fourth Crusade sacks Constantinople (April)", "sources": ["phillips", "riley-smith"]},
-    {"year": 1209, "label": "Albigensian Crusade begins against the Cathars; massacre at Béziers", "sources": ["pegg", "tyerman"]},
-    {"year": 1229, "label": "Frederick II regains Jerusalem by treaty while excommunicated", "sources": ["riley-smith", "tyerman"]},
-    {"year": 1244, "label": "Jerusalem lost for the last time", "sources": ["riley-smith"]},
-    {"year": 1248, "label": "Louis IX's crusade to Egypt (1248–54); he is captured; dies on crusade at Tunis in 1270", "sources": ["riley-smith", "tyerman"]}
+    {
+      "year": 1096,
+      "label": "First Crusade sets out; massacres of Jews in the Rhineland",
+      "sources": [
+        "chazan",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1099,
+      "label": "Crusaders take Jerusalem (15 July)",
+      "sources": [
+        "peters",
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1147,
+      "label": "Second Crusade (1147–49), preached by Bernard of Clairvaux; fails at Damascus",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1187,
+      "label": "Saladin wins at Hattin (4 July) and takes Jerusalem (2 October)",
+      "sources": [
+        "gabrieli",
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1189,
+      "label": "Third Crusade (1189–92): Frederick Barbarossa, Richard I, Philip II",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1191,
+      "label": "Richard I takes Acre and executes about 2,700 Muslim prisoners",
+      "sources": [
+        "gabrieli",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1204,
+      "label": "Fourth Crusade sacks Constantinople (April)",
+      "sources": [
+        "phillips",
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1209,
+      "label": "Albigensian Crusade begins against the Cathars; massacre at Béziers",
+      "sources": [
+        "pegg",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1229,
+      "label": "Frederick II regains Jerusalem by treaty while excommunicated",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1244,
+      "label": "Jerusalem lost for the last time",
+      "sources": [
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1248,
+      "label": "Louis IX's crusade to Egypt (1248–54); he is captured; dies on crusade at Tunis in 1270",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    }
   ],
   "background": [
-    {"text": "The Seljuk Turks had taken most of Anatolia from the Byzantine Empire after the Battle of Manzikert (1071), and Emperor Alexios I Komnenos asked the West for military help in 1095.", "sources": ["riley-smith", "britannica"]},
-    {"text": "Pilgrimage to Jerusalem, which had been under Muslim rule since the 630s, was a central devotion of Western Christians; the church already offered remission of penance for pilgrimage.", "sources": ["riley-smith", "tyerman"]},
-    {"text": "The reforming papacy of the 11th century sought to direct the violence of the knightly class toward ends it considered holy.", "sources": ["riley-smith", "tyerman"]}
+    {
+      "text": "The Seljuk Turks had taken most of Anatolia from the Byzantine Empire after the Battle of Manzikert (1071), and Emperor Alexios I Komnenos asked the West for military help in 1095.",
+      "sources": [
+        "riley-smith",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Pilgrimage to Jerusalem, which had been under Muslim rule since the 630s, was a central devotion of Western Christians; the church already offered remission of penance for pilgrimage.",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    },
+    {
+      "text": "The reforming papacy of the 11th century sought to direct the violence of the knightly class toward ends it considered holy.",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    }
   ],
   "happened": [
-    {"text": "On 27 November 1095 at the Council of Clermont, Pope Urban II called on Western knights to free the Eastern Christians and Jerusalem, offering full remission of penance to those who went; the crowd answered 'God wills it' (Deus vult), according to the chroniclers.", "sources": ["peters", "riley-smith"]},
-    {"text": "The First Crusade took Antioch (1098) and Jerusalem (1099) and founded four crusader states: the Kingdom of Jerusalem, the County of Edessa, the Principality of Antioch, and the County of Tripoli.", "sources": ["peters", "riley-smith"]},
-    {"text": "Military religious orders, the Knights Templar and the Knights Hospitaller, were founded to protect pilgrims and defend the crusader states.", "sources": ["riley-smith", "britannica"]},
-    {"text": "After Edessa fell (1144), the Second Crusade, led by Louis VII of France and Conrad III of Germany, failed at Damascus (1148). Saladin, sultan of Egypt and Syria, destroyed the army of Jerusalem at Hattin in 1187 and took the city.", "sources": ["riley-smith", "gabrieli"]},
-    {"text": "The Third Crusade recovered Acre and much of the coast but not Jerusalem; Richard I and Saladin agreed the Treaty of Jaffa (1192), allowing Christian pilgrims access to the city.", "sources": ["riley-smith", "tyerman"]},
-    {"text": "The Fourth Crusade, in debt to Venice, attacked the Christian city of Zara (1202) and then Constantinople, which it sacked in April 1204, setting up a Latin empire there that lasted until 1261.", "sources": ["phillips", "riley-smith"]},
-    {"text": "Popes extended crusading to other enemies: the Cathars of southern France (from 1209), pagans in the Baltic, Muslims in Spain, and the popes' political opponents in Italy.", "sources": ["tyerman", "pegg"]},
-    {"text": "Later crusades to Egypt (1217–21, 1248–54) failed. Frederick II regained Jerusalem by treaty in 1229, but it was lost in 1244, and the Mamluks took the last crusader strongholds, ending with Acre in 1291.", "sources": ["riley-smith", "tyerman"]}
+    {
+      "text": "On 27 November 1095 at the Council of Clermont, Pope Urban II called on Western knights to free the Eastern Christians and Jerusalem, offering full remission of penance to those who went; the crowd answered 'God wills it' (Deus vult), according to the chroniclers.",
+      "sources": [
+        "peters",
+        "riley-smith"
+      ]
+    },
+    {
+      "text": "The First Crusade took Antioch (1098) and Jerusalem (1099) and founded four crusader states: the Kingdom of Jerusalem, the County of Edessa, the Principality of Antioch, and the County of Tripoli.",
+      "sources": [
+        "peters",
+        "riley-smith"
+      ]
+    },
+    {
+      "text": "Military religious orders, the Knights Templar and the Knights Hospitaller, were founded to protect pilgrims and defend the crusader states.",
+      "sources": [
+        "riley-smith",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After Edessa fell (1144), the Second Crusade, led by Louis VII of France and Conrad III of Germany, failed at Damascus (1148). Saladin, sultan of Egypt and Syria, destroyed the army of Jerusalem at Hattin in 1187 and took the city.",
+      "sources": [
+        "riley-smith",
+        "gabrieli"
+      ]
+    },
+    {
+      "text": "The Third Crusade recovered Acre and much of the coast but not Jerusalem; Richard I and Saladin agreed the Treaty of Jaffa (1192), allowing Christian pilgrims access to the city.",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    },
+    {
+      "text": "The Fourth Crusade, in debt to Venice, attacked the Christian city of Zara (1202) and then Constantinople, which it sacked in April 1204, setting up a Latin empire there that lasted until 1261.",
+      "sources": [
+        "phillips",
+        "riley-smith"
+      ]
+    },
+    {
+      "text": "Popes extended crusading to other enemies: the Cathars of southern France (from 1209), pagans in the Baltic, Muslims in Spain, and the popes' political opponents in Italy.",
+      "sources": [
+        "tyerman",
+        "pegg"
+      ]
+    },
+    {
+      "text": "Later crusades to Egypt (1217–21, 1248–54) failed. Frederick II regained Jerusalem by treaty in 1229, but it was lost in 1244, and the Mamluks took the last crusader strongholds, ending with Acre in 1291.",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Urban II", "role": "Pope who launched the First Crusade"},
-    {"name": "Alexios I Komnenos", "role": "Byzantine emperor who asked for Western help"},
-    {"name": "Godfrey of Bouillon, Raymond of Toulouse, Bohemond, Tancred", "role": "Leaders of the First Crusade"},
-    {"name": "Bernard of Clairvaux", "role": "Cistercian abbot who preached the Second Crusade"},
-    {"name": "Saladin (Salah al-Din)", "role": "Sultan of Egypt and Syria; retook Jerusalem in 1187"},
-    {"name": "Richard I of England", "role": "Leader of the Third Crusade"},
-    {"name": "Innocent III", "role": "Pope who called the Fourth Crusade and the Albigensian Crusade"},
-    {"name": "Enrico Dandolo", "role": "Doge of Venice; led the Venetian forces of the Fourth Crusade"},
-    {"name": "Frederick II", "role": "Holy Roman Emperor; regained Jerusalem by treaty"},
-    {"name": "Louis IX of France", "role": "Led two crusades; died at Tunis"},
-    {"name": "Baybars", "role": "Mamluk sultan who took most of the remaining crusader territory"}
+    {
+      "name": "Urban II",
+      "role": "Pope who launched the First Crusade"
+    },
+    {
+      "name": "Alexios I Komnenos",
+      "role": "Byzantine emperor who asked for Western help"
+    },
+    {
+      "name": "Godfrey of Bouillon, Raymond of Toulouse, Bohemond, Tancred",
+      "role": "Leaders of the First Crusade"
+    },
+    {
+      "name": "Bernard of Clairvaux",
+      "role": "Cistercian abbot who preached the Second Crusade"
+    },
+    {
+      "name": "Saladin (Salah al-Din)",
+      "role": "Sultan of Egypt and Syria; retook Jerusalem in 1187"
+    },
+    {
+      "name": "Richard I of England",
+      "role": "Leader of the Third Crusade"
+    },
+    {
+      "name": "Innocent III",
+      "role": "Pope who called the Fourth Crusade and the Albigensian Crusade"
+    },
+    {
+      "name": "Enrico Dandolo",
+      "role": "Doge of Venice; led the Venetian forces of the Fourth Crusade"
+    },
+    {
+      "name": "Frederick II",
+      "role": "Holy Roman Emperor; regained Jerusalem by treaty"
+    },
+    {
+      "name": "Louis IX of France",
+      "role": "Led two crusades; died at Tunis"
+    },
+    {
+      "name": "Baybars",
+      "role": "Mamluk sultan who took most of the remaining crusader territory"
+    }
   ],
   "outcomes": [
-    {"text": "The crusader states lasted almost two centuries but were lost entirely by 1291.", "sources": ["riley-smith", "britannica"]},
-    {"text": "The sack of Constantinople in 1204 deepened the split between the Catholic and Orthodox churches; Pope John Paul II expressed regret for it to the Greek Orthodox Church in Athens in 2001.", "sources": ["phillips", "britannica"]},
-    {"text": "Crusade indulgences and their financing helped develop the system of indulgences that Luther later attacked.", "sources": ["tyerman", "riley-smith"]},
-    {"text": "Crusading brought repeated violence against European Jews, and the memory of the crusades has shaped relations between Christians, Muslims, and Jews to the present day.", "sources": ["chazan", "tyerman"]}
+    {
+      "text": "The crusader states lasted almost two centuries but were lost entirely by 1291.",
+      "sources": [
+        "riley-smith",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The sack of Constantinople in 1204 deepened the split between the Catholic and Orthodox churches; Pope John Paul II expressed regret for it to the Greek Orthodox Church in Athens in 2001.",
+      "sources": [
+        "phillips",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Crusade indulgences and their financing helped develop the system of indulgences that Luther later attacked.",
+      "sources": [
+        "tyerman",
+        "riley-smith"
+      ]
+    },
+    {
+      "text": "Crusading brought repeated violence against European Jews, and the memory of the crusades has shaped relations between Christians, Muslims, and Jews to the present day.",
+      "sources": [
+        "chazan",
+        "tyerman"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "November 1202", "by": "Pope Innocent III", "authority": "Papacy", "reason": "The Fourth Crusade excommunicated for attacking the Christian city of Zara", "status": "Lifted for the French crusaders after they sought absolution; the Venetians remained excommunicated for a time", "sources": ["phillips"]},
-    {"date": "29 September 1227", "by": "Pope Gregory IX", "authority": "Papacy", "reason": "Emperor Frederick II excommunicated for delaying his crusade; he went on crusade while still excommunicated and was excommunicated again for it", "status": "Lifted in 1230 (Treaty of San Germano); renewed in 1239", "sources": ["riley-smith", "tyerman"]}
+    {
+      "date": "November 1202",
+      "by": "Pope Innocent III",
+      "authority": "Papacy",
+      "reason": "The Fourth Crusade excommunicated for attacking the Christian city of Zara",
+      "status": "Lifted for the French crusaders after they sought absolution; the Venetians remained excommunicated for a time",
+      "sources": [
+        "phillips"
+      ]
+    },
+    {
+      "date": "29 September 1227",
+      "by": "Pope Gregory IX",
+      "authority": "Papacy",
+      "reason": "Emperor Frederick II excommunicated for delaying his crusade; he went on crusade while still excommunicated and was excommunicated again for it",
+      "status": "Lifted in 1230 (Treaty of San Germano); renewed in 1239",
+      "sources": [
+        "riley-smith",
+        "tyerman"
+      ]
+    }
   ],
   "persecution_note": "The crusades involved large-scale killing of non-combatants by crusaders and, in turn, by their Muslim opponents. The incidents below are among the best documented. Figures in medieval chronicles are often exaggerated, and modern estimates are given where possible.",
   "persecution": [
-    {"year": 1096, "date": "May–June 1096", "title": "Rhineland massacres of Jews", "summary": "Bands of crusaders on their way east attacked Jewish communities in Speyer, Worms, Mainz, Cologne, and other cities, killing thousands and forcing conversions; many Jews killed themselves and their families rather than be baptized. Some bishops, such as John of Speyer, protected Jews; others could not or did not. Urban II had not called for these attacks.", "responsible": [
-      {"name": "Count Emicho of Flonheim (Leiningen)", "role": "Leader of the band that attacked Mainz and Worms", "jurisdiction": "Holy Roman Empire", "type": "individual"},
-      {"name": "Crusader bands and townspeople", "role": "Carried out the killings", "jurisdiction": "Rhineland, Holy Roman Empire", "type": "group"}
-    ], "defended_by": [{"name": "John, Bishop of Speyer", "role": "Protected Jews and punished some attackers"}], "outcome": "Thousands of Jews killed; communities destroyed.", "sources": ["chazan", "tyerman"]},
-    {"year": 1099, "date": "15–16 July 1099", "title": "Sack of Jerusalem", "summary": "When the First Crusade took Jerusalem, the crusaders killed many of the Muslim and Jewish inhabitants. The Christian chroniclers describe a massacre, including in the area of the Temple Mount; the later Muslim historian Ibn al-Athir's figure of 70,000 is considered greatly exaggerated, and a modern estimate is about 3,000.", "responsible": [
-      {"name": "First Crusade army", "role": "Carried out the killings", "jurisdiction": "Crusader forces under papal call", "type": "group"},
-      {"name": "Godfrey of Bouillon, Raymond of Toulouse, Tancred", "role": "Commanders of the crusade", "jurisdiction": "Crusader forces", "type": "individual"}
-    ], "outcome": "Thousands killed; Jerusalem became the capital of the crusader kingdom.", "sources": ["peters", "gabrieli", "riley-smith"]},
-    {"year": 1187, "date": "July 1187", "title": "Execution of captured military monks after Hattin", "summary": "After the Battle of Hattin, Saladin had about 200 captured Templars and Hospitallers executed and personally killed Reynald of Châtillon, who had attacked Muslim caravans and pilgrims. Saladin's later capture of Jerusalem was notably less bloody: most inhabitants were allowed to ransom themselves.", "responsible": [
-      {"name": "Saladin", "role": "Sultan of Egypt and Syria; ordered the executions", "jurisdiction": "Ayyubid Sultanate", "type": "state"}
-    ], "outcome": "Prisoners executed.", "sources": ["gabrieli", "tyerman"]},
-    {"year": 1190, "date": "March 1190", "title": "Massacres of Jews in England", "summary": "As England prepared for the Third Crusade, crowds attacked Jews in several towns. At York, about 150 Jews who had taken refuge in the royal castle died, many by their own hands, on 16 March 1190. Local nobles in debt to Jewish moneylenders, including Richard Malebisse, led the attack and burned the records of their debts.", "responsible": [
-      {"name": "Richard Malebisse and other indebted local nobles", "role": "Led the attack at York", "jurisdiction": "Kingdom of England", "type": "individual"},
-      {"name": "Crowds and would-be crusaders", "role": "Carried out the attacks", "jurisdiction": "Kingdom of England", "type": "group"}
-    ], "outcome": "Jewish communities in York and other towns destroyed; the crown fined the city but no one was executed for it.", "sources": ["tyerman", "britannica"]},
-    {"year": 1191, "date": "20 August 1191", "title": "Execution of Muslim prisoners at Acre", "summary": "After taking Acre, Richard I had about 2,700 Muslim prisoners from the garrison, with women and children according to some accounts, killed outside the city when ransom negotiations with Saladin broke down.", "responsible": [
-      {"name": "Richard I of England", "role": "Ordered the killings", "jurisdiction": "Kingdom of England / crusader forces", "type": "state"}
-    ], "outcome": "About 2,700 killed.", "sources": ["gabrieli", "tyerman"]},
-    {"year": 1204, "date": "12–15 April 1204", "title": "Sack of Constantinople", "summary": "Crusaders and Venetians stormed the Christian capital of the Byzantine Empire and plundered it for three days, killing civilians, assaulting nuns, and stripping churches, including the Hagia Sophia, of relics and treasure. Innocent III had forbidden attacks on Christians and condemned the sack, but accepted the Latin empire that followed.", "responsible": [
-      {"name": "Fourth Crusade army", "role": "Carried out the sack", "jurisdiction": "Crusader forces under papal call", "type": "group"},
-      {"name": "Enrico Dandolo", "role": "Doge of Venice", "jurisdiction": "Republic of Venice", "type": "state"},
-      {"name": "Boniface of Montferrat", "role": "Leader of the crusade", "jurisdiction": "Crusader forces", "type": "individual"}
-    ], "outcome": "The city plundered; a Latin empire ruled it until 1261.", "sources": ["phillips", "riley-smith"]},
-    {"year": 1209, "date": "22 July 1209", "title": "Massacre at Béziers", "summary": "In the first major action of the crusade against the Cathars, the crusader army took Béziers and killed much of its population, Catholic and Cathar alike, in the church of the Madeleine and elsewhere. The papal legate Arnaud Amalric reported to Innocent III that about 20,000 were killed. The words 'Kill them all; God will know his own' were attributed to him by Caesarius of Heisterbach some years later, and are probably not authentic.", "responsible": [
-      {"name": "Arnaud Amalric", "role": "Abbot of Cîteaux and papal legate leading the crusade", "jurisdiction": "Papacy (Innocent III)", "type": "church"},
-      {"name": "Innocent III", "role": "Pope who proclaimed the crusade", "jurisdiction": "Papacy", "type": "church"},
-      {"name": "Crusader army", "role": "Carried out the massacre", "jurisdiction": "Northern French forces", "type": "group"}
-    ], "outcome": "Most of the town killed; the crusade continued under Simon de Montfort until 1229, followed by the Inquisition.", "sources": ["pegg", "tyerman"]},
-    {"year": 1268, "date": "May 1268", "title": "Sack of Antioch", "summary": "The Mamluk sultan Baybars took Antioch, one of the oldest Christian cities, killed or enslaved much of the population, and boasted of it in a letter to its absent prince, Bohemond VI.", "responsible": [
-      {"name": "Baybars", "role": "Mamluk sultan", "jurisdiction": "Mamluk Sultanate of Egypt", "type": "state"}
-    ], "outcome": "The Principality of Antioch ended.", "sources": ["riley-smith", "gabrieli"]}
+    {
+      "year": 1096,
+      "date": "May–June 1096",
+      "title": "Rhineland massacres of Jews",
+      "summary": "Bands of crusaders on their way east attacked Jewish communities in Speyer, Worms, Mainz, Cologne, and other cities, killing thousands and forcing conversions; many Jews killed themselves and their families rather than be baptized. Some bishops, such as John of Speyer, protected Jews; others could not or did not. Urban II had not called for these attacks.",
+      "responsible": [
+        {
+          "name": "Count Emicho of Flonheim (Leiningen)",
+          "role": "Leader of the band that attacked Mainz and Worms",
+          "jurisdiction": "Holy Roman Empire",
+          "type": "individual"
+        },
+        {
+          "name": "Crusader bands and townspeople",
+          "role": "Carried out the killings",
+          "jurisdiction": "Rhineland, Holy Roman Empire",
+          "type": "group"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "John, Bishop of Speyer",
+          "role": "Protected Jews and punished some attackers"
+        }
+      ],
+      "outcome": "Thousands of Jews killed; communities destroyed.",
+      "sources": [
+        "chazan",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1099,
+      "date": "15–16 July 1099",
+      "title": "Sack of Jerusalem",
+      "summary": "When the First Crusade took Jerusalem, the crusaders killed many of the Muslim and Jewish inhabitants. The Christian chroniclers describe a massacre, including in the area of the Temple Mount; the later Muslim historian Ibn al-Athir's figure of 70,000 is considered greatly exaggerated, and a modern estimate is about 3,000.",
+      "responsible": [
+        {
+          "name": "First Crusade army",
+          "role": "Carried out the killings",
+          "jurisdiction": "Crusader forces under papal call",
+          "type": "group"
+        },
+        {
+          "name": "Godfrey of Bouillon, Raymond of Toulouse, Tancred",
+          "role": "Commanders of the crusade",
+          "jurisdiction": "Crusader forces",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Thousands killed; Jerusalem became the capital of the crusader kingdom.",
+      "sources": [
+        "peters",
+        "gabrieli",
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1187,
+      "date": "July 1187",
+      "title": "Execution of captured military monks after Hattin",
+      "summary": "After the Battle of Hattin, Saladin had about 200 captured Templars and Hospitallers executed and personally killed Reynald of Châtillon, who had attacked Muslim caravans and pilgrims. Saladin's later capture of Jerusalem was notably less bloody: most inhabitants were allowed to ransom themselves.",
+      "responsible": [
+        {
+          "name": "Saladin",
+          "role": "Sultan of Egypt and Syria; ordered the executions",
+          "jurisdiction": "Ayyubid Sultanate",
+          "type": "state"
+        }
+      ],
+      "outcome": "Prisoners executed.",
+      "sources": [
+        "gabrieli",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1190,
+      "date": "March 1190",
+      "title": "Massacres of Jews in England",
+      "summary": "As England prepared for the Third Crusade, crowds attacked Jews in several towns. At York, about 150 Jews who had taken refuge in the royal castle died, many by their own hands, on 16 March 1190. Local nobles in debt to Jewish moneylenders, including Richard Malebisse, led the attack and burned the records of their debts.",
+      "responsible": [
+        {
+          "name": "Richard Malebisse and other indebted local nobles",
+          "role": "Led the attack at York",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Crowds and would-be crusaders",
+          "role": "Carried out the attacks",
+          "jurisdiction": "Kingdom of England",
+          "type": "group"
+        }
+      ],
+      "outcome": "Jewish communities in York and other towns destroyed; the crown fined the city but no one was executed for it.",
+      "sources": [
+        "tyerman",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1191,
+      "date": "20 August 1191",
+      "title": "Execution of Muslim prisoners at Acre",
+      "summary": "After taking Acre, Richard I had about 2,700 Muslim prisoners from the garrison, with women and children according to some accounts, killed outside the city when ransom negotiations with Saladin broke down.",
+      "responsible": [
+        {
+          "name": "Richard I of England",
+          "role": "Ordered the killings",
+          "jurisdiction": "Kingdom of England / crusader forces",
+          "type": "state"
+        }
+      ],
+      "outcome": "About 2,700 killed.",
+      "sources": [
+        "gabrieli",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1204,
+      "date": "12–15 April 1204",
+      "title": "Sack of Constantinople",
+      "summary": "Crusaders and Venetians stormed the Christian capital of the Byzantine Empire and plundered it for three days, killing civilians, assaulting nuns, and stripping churches, including the Hagia Sophia, of relics and treasure. Innocent III had forbidden attacks on Christians and condemned the sack, but accepted the Latin empire that followed.",
+      "responsible": [
+        {
+          "name": "Fourth Crusade army",
+          "role": "Carried out the sack",
+          "jurisdiction": "Crusader forces under papal call",
+          "type": "group"
+        },
+        {
+          "name": "Enrico Dandolo",
+          "role": "Doge of Venice",
+          "jurisdiction": "Republic of Venice",
+          "type": "state"
+        },
+        {
+          "name": "Boniface of Montferrat",
+          "role": "Leader of the crusade",
+          "jurisdiction": "Crusader forces",
+          "type": "individual"
+        }
+      ],
+      "outcome": "The city plundered; a Latin empire ruled it until 1261.",
+      "sources": [
+        "phillips",
+        "riley-smith"
+      ]
+    },
+    {
+      "year": 1209,
+      "date": "22 July 1209",
+      "title": "Massacre at Béziers",
+      "summary": "In the first major action of the crusade against the Cathars, the crusader army took Béziers and killed much of its population, Catholic and Cathar alike, in the church of the Madeleine and elsewhere. The papal legate Arnaud Amalric reported to Innocent III that about 20,000 were killed. The words 'Kill them all; God will know his own' were attributed to him by Caesarius of Heisterbach some years later, and are probably not authentic.",
+      "responsible": [
+        {
+          "name": "Arnaud Amalric",
+          "role": "Abbot of Cîteaux and papal legate leading the crusade",
+          "jurisdiction": "Papacy (Innocent III)",
+          "type": "church"
+        },
+        {
+          "name": "Innocent III",
+          "role": "Pope who proclaimed the crusade",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        },
+        {
+          "name": "Crusader army",
+          "role": "Carried out the massacre",
+          "jurisdiction": "Northern French forces",
+          "type": "group"
+        }
+      ],
+      "outcome": "Most of the town killed; the crusade continued under Simon de Montfort until 1229, followed by the Inquisition.",
+      "sources": [
+        "pegg",
+        "tyerman"
+      ]
+    },
+    {
+      "year": 1268,
+      "date": "May 1268",
+      "title": "Sack of Antioch",
+      "summary": "The Mamluk sultan Baybars took Antioch, one of the oldest Christian cities, killed or enslaved much of the population, and boasted of it in a letter to its absent prince, Bohemond VI.",
+      "responsible": [
+        {
+          "name": "Baybars",
+          "role": "Mamluk sultan",
+          "jurisdiction": "Mamluk Sultanate of Egypt",
+          "type": "state"
+        }
+      ],
+      "outcome": "The Principality of Antioch ended.",
+      "sources": [
+        "riley-smith",
+        "gabrieli"
+      ]
+    }
   ],
   "sources": [
-    {"id": "peters", "type": "primary", "citation": "Edward Peters (ed.), The First Crusade: The Chronicle of Fulcher of Chartres and Other Source Materials, 2nd ed. Philadelphia: University of Pennsylvania Press, 1998."},
-    {"id": "gabrieli", "type": "primary", "citation": "Francesco Gabrieli (ed. and trans.), Arab Historians of the Crusades, trans. E. J. Costello. Berkeley: University of California Press, 1969."},
-    {"id": "riley-smith", "type": "scholarly", "citation": "Jonathan Riley-Smith, The Crusades: A History, 3rd ed. London: Bloomsbury, 2014."},
-    {"id": "tyerman", "type": "scholarly", "citation": "Christopher Tyerman, God's War: A New History of the Crusades. Cambridge, MA: Belknap Press of Harvard University Press, 2006."},
-    {"id": "chazan", "type": "scholarly", "citation": "Robert Chazan, European Jewry and the First Crusade. Berkeley: University of California Press, 1987."},
-    {"id": "phillips", "type": "scholarly", "citation": "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople. London: Jonathan Cape, 2004."},
-    {"id": "pegg", "type": "scholarly", "citation": "Mark Gregory Pegg, A Most Holy War: The Albigensian Crusade and the Battle for Christendom. Oxford: Oxford University Press, 2008."},
-    {"id": "britannica", "type": "reference", "citation": "\"Crusades.\" Encyclopaedia Britannica."}
+    {
+      "id": "peters",
+      "type": "primary",
+      "citation": "Edward Peters (ed.), The First Crusade: The Chronicle of Fulcher of Chartres and Other Source Materials, 2nd ed. Philadelphia: University of Pennsylvania Press, 1998."
+    },
+    {
+      "id": "gabrieli",
+      "type": "primary",
+      "citation": "Francesco Gabrieli (ed. and trans.), Arab Historians of the Crusades, trans. E. J. Costello. Berkeley: University of California Press, 1969."
+    },
+    {
+      "id": "riley-smith",
+      "type": "scholarly",
+      "citation": "Jonathan Riley-Smith, The Crusades: A History, 3rd ed. London: Bloomsbury, 2014."
+    },
+    {
+      "id": "tyerman",
+      "type": "scholarly",
+      "citation": "Christopher Tyerman, God's War: A New History of the Crusades. Cambridge, MA: Belknap Press of Harvard University Press, 2006."
+    },
+    {
+      "id": "chazan",
+      "type": "scholarly",
+      "citation": "Robert Chazan, European Jewry and the First Crusade. Berkeley: University of California Press, 1987."
+    },
+    {
+      "id": "phillips",
+      "type": "scholarly",
+      "citation": "Jonathan Phillips, The Fourth Crusade and the Sack of Constantinople. London: Jonathan Cape, 2004."
+    },
+    {
+      "id": "pegg",
+      "type": "scholarly",
+      "citation": "Mark Gregory Pegg, A Most Holy War: The Albigensian Crusade and the Battle for Christendom. Oxford: Oxford University Press, 2008."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Crusades.\" Encyclopaedia Britannica."
+    }
   ]
 }

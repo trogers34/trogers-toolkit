@@ -6,44 +6,181 @@
   "event_type": "council",
   "summary": "Pope Gregory X's council that defined the procession of the Holy Spirit from the Father and the Son and proclaimed a short-lived reunion with the Byzantine church.",
   "place": "Lyon, France",
-  "start": {"year": 1274, "date": "7 May 1274", "sources": ["tanner", "britannica"]},
-  "end": {"year": 1274, "date": "17 July 1274", "sources": ["tanner", "britannica"]},
+  "start": {
+    "year": 1274,
+    "date": "7 May 1274",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Gregory X opens the council"
+  },
+  "end": {
+    "year": 1274,
+    "date": "17 July 1274",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Council closes after a short-lived union with the Greeks"
+  },
   "background": [
-    {"text": "The Byzantine emperor Michael VIII Palaiologos, who had retaken Constantinople from the Latins in 1261, sought union with Rome to stop Charles of Anjou from launching a Western attack on his empire.", "sources": ["geanakoplos", "papadakis"]},
-    {"text": "Gregory X, elected after a vacancy of almost three years, wanted church union, a new crusade, and reform.", "sources": ["tanner", "britannica"]}
+    {
+      "text": "The Byzantine emperor Michael VIII Palaiologos, who had retaken Constantinople from the Latins in 1261, sought union with Rome to stop Charles of Anjou from launching a Western attack on his empire.",
+      "sources": [
+        "geanakoplos",
+        "papadakis"
+      ]
+    },
+    {
+      "text": "Gregory X, elected after a vacancy of almost three years, wanted church union, a new crusade, and reform.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Thomas Aquinas, summoned to the council, died on the way at Fossanova on 7 March 1274; Bonaventure took a leading part and died during the council on 15 July.", "sources": ["britannica", "papadakis"]},
-    {"text": "On 6 July 1274 Michael VIII's envoys accepted the Roman creed, including the filioque, purgatory, seven sacraments, and papal primacy, and the union of the churches was proclaimed.", "sources": ["geanakoplos", "tanner"]},
-    {"text": "The council defined that the Holy Spirit proceeds eternally from the Father and the Son 'as from one principle' and condemned those who denied it.", "sources": ["tanner"]},
-    {"text": "The decree Ubi periculum required cardinals to be locked in conclave to elect a pope, with their food reduced if they delayed.", "sources": ["tanner", "britannica"]},
-    {"text": "The council approved a six-year tithe on church income for a crusade that never took place.", "sources": ["tanner"]}
+    {
+      "text": "Thomas Aquinas, summoned to the council, died on the way at Fossanova on 7 March 1274; Bonaventure took a leading part and died during the council on 15 July.",
+      "sources": [
+        "britannica",
+        "papadakis"
+      ]
+    },
+    {
+      "text": "On 6 July 1274 Michael VIII's envoys accepted the Roman creed, including the filioque, purgatory, seven sacraments, and papal primacy, and the union of the churches was proclaimed.",
+      "sources": [
+        "geanakoplos",
+        "tanner"
+      ]
+    },
+    {
+      "text": "The council defined that the Holy Spirit proceeds eternally from the Father and the Son 'as from one principle' and condemned those who denied it.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "The decree Ubi periculum required cardinals to be locked in conclave to elect a pope, with their food reduced if they delayed.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The council approved a six-year tithe on church income for a crusade that never took place.",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Gregory X", "role": "Pope who called and led the council"},
-    {"name": "Michael VIII Palaiologos", "role": "Byzantine emperor who sought the union"},
-    {"name": "Bonaventure", "role": "Franciscan cardinal; died during the council"},
-    {"name": "Thomas Aquinas", "role": "Summoned to the council, but died on the way", "person": "thomas-aquinas"}
+    {
+      "name": "Gregory X",
+      "role": "Pope who called and led the council"
+    },
+    {
+      "name": "Michael VIII Palaiologos",
+      "role": "Byzantine emperor who sought the union"
+    },
+    {
+      "name": "Bonaventure",
+      "role": "Franciscan cardinal; died during the council"
+    },
+    {
+      "name": "Thomas Aquinas",
+      "role": "Summoned to the council, but died on the way",
+      "person": "thomas-aquinas"
+    }
   ],
   "outcomes": [
-    {"text": "Most Byzantine clergy and people rejected the union. After Michael VIII died in 1282, his son Andronikos II repudiated it.", "sources": ["geanakoplos", "papadakis"]},
-    {"text": "The failure left the filioque and papal primacy as central points of division, revisited at the Council of Florence.", "sources": ["papadakis", "britannica"]}
+    {
+      "text": "Most Byzantine clergy and people rejected the union. After Michael VIII died in 1282, his son Andronikos II repudiated it.",
+      "sources": [
+        "geanakoplos",
+        "papadakis"
+      ]
+    },
+    {
+      "text": "The failure left the filioque and papal primacy as central points of division, revisited at the Council of Florence.",
+      "sources": [
+        "papadakis",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "1274", "by": "Second Council of Lyon", "authority": "General council under Gregory X", "reason": "Condemnation of those who deny that the Holy Spirit proceeds from the Father and the Son", "status": "In force in the Catholic Church; rejected by the Orthodox churches", "sources": ["tanner"]},
-    {"date": "18 November 1281", "by": "Pope Martin IV", "authority": "Papacy", "reason": "Michael VIII excommunicated as a supporter of schism, because the union had not been carried out", "status": "Never lifted; Michael died excommunicated, and the Orthodox church refused him a church funeral for supporting the union", "sources": ["geanakoplos", "papadakis"]}
+    {
+      "date": "1274",
+      "by": "Second Council of Lyon",
+      "authority": "General council under Gregory X",
+      "reason": "Condemnation of those who deny that the Holy Spirit proceeds from the Father and the Son",
+      "status": "In force in the Catholic Church; rejected by the Orthodox churches",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "date": "18 November 1281",
+      "by": "Pope Martin IV",
+      "authority": "Papacy",
+      "reason": "Michael VIII excommunicated as a supporter of schism, because the union had not been carried out",
+      "status": "Never lifted; Michael died excommunicated, and the Orthodox church refused him a church funeral for supporting the union",
+      "sources": [
+        "geanakoplos",
+        "papadakis"
+      ]
+    }
   ],
   "persecution_note": "The union was enforced in Byzantium by force, against strong opposition.",
   "persecution": [
-    {"year": 1275, "date": "1275–1282", "title": "Michael VIII's enforcement of the union", "summary": "Michael VIII deposed Patriarch Joseph I, who opposed the union, installed the pro-union John Bekkos, and punished opponents, including members of his own family, with imprisonment, confiscation, exile, and in some cases blinding or mutilation. Later Orthodox tradition also tells of monks on Mount Athos being killed by unionist forces, accounts that historians treat with caution.", "responsible": [
-      {"name": "Michael VIII Palaiologos", "role": "Byzantine emperor", "jurisdiction": "Byzantine Empire", "type": "state"},
-      {"name": "John XI Bekkos", "role": "Pro-union patriarch of Constantinople", "jurisdiction": "Patriarchate of Constantinople", "type": "church"}
-    ], "outcome": "Ended at Michael's death in 1282; Bekkos was deposed and imprisoned in turn.", "sources": ["geanakoplos", "papadakis"]}
+    {
+      "year": 1275,
+      "date": "1275–1282",
+      "title": "Michael VIII's enforcement of the union",
+      "summary": "Michael VIII deposed Patriarch Joseph I, who opposed the union, installed the pro-union John Bekkos, and punished opponents, including members of his own family, with imprisonment, confiscation, exile, and in some cases blinding or mutilation. Later Orthodox tradition also tells of monks on Mount Athos being killed by unionist forces, accounts that historians treat with caution.",
+      "responsible": [
+        {
+          "name": "Michael VIII Palaiologos",
+          "role": "Byzantine emperor",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "John XI Bekkos",
+          "role": "Pro-union patriarch of Constantinople",
+          "jurisdiction": "Patriarchate of Constantinople",
+          "type": "church"
+        }
+      ],
+      "outcome": "Ended at Michael's death in 1282; Bekkos was deposed and imprisoned in turn.",
+      "sources": [
+        "geanakoplos",
+        "papadakis"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "geanakoplos", "type": "scholarly", "citation": "Deno John Geanakoplos, Emperor Michael Palaeologus and the West, 1258–1282. Cambridge, MA: Harvard University Press, 1959."},
-    {"id": "papadakis", "type": "scholarly", "citation": "Aristeides Papadakis with John Meyendorff, The Christian East and the Rise of the Papacy: The Church 1071–1453 A.D. Crestwood, NY: St Vladimir's Seminary Press, 1994."},
-    {"id": "britannica", "type": "reference", "citation": "\"Second Council of Lyon.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "geanakoplos",
+      "type": "scholarly",
+      "citation": "Deno John Geanakoplos, Emperor Michael Palaeologus and the West, 1258–1282. Cambridge, MA: Harvard University Press, 1959."
+    },
+    {
+      "id": "papadakis",
+      "type": "scholarly",
+      "citation": "Aristeides Papadakis with John Meyendorff, The Christian East and the Rise of the Papacy: The Church 1071–1453 A.D. Crestwood, NY: St Vladimir's Seminary Press, 1994."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Second Council of Lyon.\" Encyclopaedia Britannica."
+    }
   ]
 }

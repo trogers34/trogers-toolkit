@@ -1,0 +1,203 @@
+{
+  "name": "Union of Brest",
+  "slug": "union-of-brest",
+  "era": "Reformation",
+  "event_type": "schism",
+  "summary": "The union of most Orthodox bishops of the Kyivan Metropolitanate in the Polish–Lithuanian Commonwealth with Rome, keeping their Byzantine rite, which split the Ruthenian church and created what is now the Ukrainian Greek Catholic Church.",
+  "place": "Brest-Litovsk, Polish–Lithuanian Commonwealth (modern Brest, Belarus); Rome",
+  "start": {
+    "year": 1595,
+    "date": "23 December 1595 (submission in Rome)",
+    "sources": [
+      "gudziak",
+      "britannica"
+    ],
+    "label": "Ruthenian bishops submit to Pope Clement VIII in Rome"
+  },
+  "end": {
+    "year": 1596,
+    "date": "October 1596 (rival synods at Brest)",
+    "sources": [
+      "gudziak",
+      "britannica"
+    ],
+    "label": "Rival synods at Brest proclaim and condemn the union"
+  },
+  "background": [
+    {
+      "text": "The Orthodox church in the Commonwealth faced Catholic pressure, Protestant competition, interference by lay brotherhoods, and the Patriarch of Constantinople's attempts to reform it; Jesuits such as Piotr Skarga promoted union with Rome.",
+      "sources": [
+        "gudziak",
+        "plokhy"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "In 1595 Metropolitan Michael Rohoza and most of his bishops agreed to accept papal authority; two of them, Hipatius Pociej and Cyril Terlecki, made the submission to Pope Clement VIII in Rome on 23 December 1595.",
+      "sources": [
+        "gudziak",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The union kept the Byzantine liturgy, the Julian calendar, and married priests, while accepting Catholic doctrine and papal primacy.",
+      "sources": [
+        "gudziak"
+      ]
+    },
+    {
+      "text": "In October 1596 two rival synods met at Brest. The union synod proclaimed it; the Orthodox synod, backed by Prince Kostiantyn Ostrozkyi and two bishops who refused the union, condemned it. Each excommunicated the other.",
+      "sources": [
+        "gudziak",
+        "plokhy"
+      ]
+    },
+    {
+      "text": "King Sigismund III recognized only the Uniate hierarchy, leaving the Orthodox without legal bishops.",
+      "sources": [
+        "gudziak",
+        "plokhy"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Michael Rohoza",
+      "role": "Metropolitan of Kyiv who led the union"
+    },
+    {
+      "name": "Hipatius Pociej",
+      "role": "Bishop of Volodymyr; envoy to Rome"
+    },
+    {
+      "name": "Cyril Terlecki",
+      "role": "Bishop of Lutsk; envoy to Rome"
+    },
+    {
+      "name": "Kostiantyn Ostrozkyi",
+      "role": "Orthodox prince who led the opposition"
+    },
+    {
+      "name": "Clement VIII",
+      "role": "Pope who received the union"
+    },
+    {
+      "name": "Sigismund III Vasa",
+      "role": "King of Poland who supported it"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "The Orthodox hierarchy was secretly restored in 1620 by Patriarch Theophanes III of Jerusalem and legally recognized in 1632, leaving two rival churches in Ukraine and Belarus.",
+      "sources": [
+        "plokhy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Russian Empire abolished the union in Belarus and Right-Bank Ukraine (1839, 1875), and the Soviet Union forcibly merged the Greek Catholic church into the Russian Orthodox Church at the 1946 Lviv synod; it survived underground and was legalized in 1989.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "Orthodox churches regard the union as a model of 'uniatism' they reject; the 1993 Balamand statement between Catholic and Orthodox theologians said it was not a method for unity today.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "October 1596",
+      "by": "Orthodox synod at Brest",
+      "authority": "Orthodox bishops and the exarch of the Patriarch of Constantinople",
+      "reason": "The bishops who joined the union deposed and anathematized",
+      "status": "Never lifted",
+      "sources": [
+        "gudziak"
+      ]
+    },
+    {
+      "date": "October 1596",
+      "by": "Union synod at Brest",
+      "authority": "Metropolitan Rohoza and the uniate bishops",
+      "reason": "The two bishops and clergy who refused the union deposed and excommunicated",
+      "status": "Never lifted",
+      "sources": [
+        "gudziak"
+      ]
+    }
+  ],
+  "persecution_note": "The union was enforced by the Polish crown and resisted by Orthodox townspeople and Cossacks, with violence on both sides.",
+  "persecution": [
+    {
+      "year": 1596,
+      "date": "1596–1632",
+      "title": "Suppression of the Orthodox hierarchy",
+      "summary": "The crown recognized only the uniate bishops, transferring Orthodox churches and property to them; Orthodox clergy and brotherhoods were penalized and their bishops consecrated in 1620 were treated as illegal.",
+      "responsible": [
+        {
+          "name": "Sigismund III Vasa",
+          "role": "King of Poland and Grand Duke of Lithuania",
+          "jurisdiction": "Polish–Lithuanian Commonwealth",
+          "type": "state"
+        },
+        {
+          "name": "Uniate hierarchy",
+          "role": "Took over Orthodox churches and property",
+          "jurisdiction": "Ruthenian Uniate Church",
+          "type": "church"
+        }
+      ],
+      "outcome": "Orthodox church legally restored in 1632.",
+      "sources": [
+        "plokhy",
+        "gudziak"
+      ]
+    },
+    {
+      "year": 1623,
+      "date": "12 November 1623",
+      "title": "Killing of Archbishop Josaphat Kuntsevych",
+      "summary": "Josaphat Kuntsevych, the uniate archbishop of Polotsk, who had pressed the union hard on his Orthodox flock, was killed by an Orthodox crowd in Vitebsk and his body thrown into the Dvina. The crown executed about 20 townspeople in reprisal.",
+      "responsible": [
+        {
+          "name": "Orthodox crowd in Vitebsk",
+          "role": "Killed him",
+          "jurisdiction": "Vitebsk, Grand Duchy of Lithuania",
+          "type": "group"
+        },
+        {
+          "name": "Royal commission",
+          "role": "Executed townspeople in reprisal",
+          "jurisdiction": "Polish–Lithuanian Commonwealth",
+          "type": "state"
+        }
+      ],
+      "outcome": "Josaphat was canonized by the Catholic Church in 1867.",
+      "sources": [
+        "plokhy",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "gudziak",
+      "type": "scholarly",
+      "citation": "Borys A. Gudziak, Crisis and Reform: The Kyivan Metropolitanate, the Patriarchate of Constantinople, and the Genesis of the Union of Brest. Cambridge, MA: Harvard Ukrainian Research Institute, 1998."
+    },
+    {
+      "id": "plokhy",
+      "type": "scholarly",
+      "citation": "Serhii Plokhy, The Cossacks and Religion in Early Modern Ukraine. Oxford: Oxford University Press, 2001."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Union of Brest-Litovsk\" and \"Ukrainian Greek Catholic Church.\" Encyclopaedia Britannica."
+    }
+  ]
+}

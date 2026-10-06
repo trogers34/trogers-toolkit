@@ -6,45 +6,173 @@
   "event_type": "document",
   "summary": "Pope Benedict XII's definition that the souls of the saved see God face to face immediately after death (or after purgatory), settling a controversy started by his predecessor John XXII's own sermons.",
   "place": "Avignon",
-  "start": {"year": 1331, "date": "1 November 1331 (John XXII's first sermon)", "sources": ["bynum", "trottmann"]},
-  "end": {"year": 1336, "date": "29 January 1336", "sources": ["denzinger", "britannica"]},
+  "start": {
+    "year": 1331,
+    "date": "1 November 1331 (John XXII's first sermon)",
+    "sources": [
+      "bynum",
+      "trottmann"
+    ],
+    "label": "John XXII preaches that the saints will not see God until the Last Judgment"
+  },
+  "end": {
+    "year": 1336,
+    "date": "29 January 1336",
+    "sources": [
+      "denzinger",
+      "britannica"
+    ],
+    "label": "Benedict XII defines that the saved see God immediately after death"
+  },
   "key_dates": [
-    {"year": 1333, "label": "Dominican Thomas Waleys preaches against the pope's view and is imprisoned", "sources": ["trottmann"]},
-    {"year": 1334, "label": "John XXII retracts on his deathbed (3 December)", "sources": ["trottmann", "bynum"]}
+    {
+      "year": 1333,
+      "label": "Dominican Thomas Waleys preaches against the pope's view and is imprisoned",
+      "sources": [
+        "trottmann"
+      ]
+    },
+    {
+      "year": 1334,
+      "label": "John XXII retracts on his deathbed (3 December)",
+      "sources": [
+        "trottmann",
+        "bynum"
+      ]
+    }
   ],
   "background": [
-    {"text": "In sermons from November 1331, Pope John XXII taught that the souls of the saints do not see the divine essence until the Last Judgment, seeing only Christ's humanity until then, and that the damned do not go to hell until then either.", "sources": ["bynum", "trottmann"]},
-    {"text": "Theologians at Paris and elsewhere objected, and John's enemies, including the dissident Franciscans Michael of Cesena and William of Ockham in Munich, used the sermons to call him a heretic.", "sources": ["trottmann", "bynum"]}
+    {
+      "text": "In sermons from November 1331, Pope John XXII taught that the souls of the saints do not see the divine essence until the Last Judgment, seeing only Christ's humanity until then, and that the damned do not go to hell until then either.",
+      "sources": [
+        "bynum",
+        "trottmann"
+      ]
+    },
+    {
+      "text": "Theologians at Paris and elsewhere objected, and John's enemies, including the dissident Franciscans Michael of Cesena and William of Ockham in Munich, used the sermons to call him a heretic.",
+      "sources": [
+        "trottmann",
+        "bynum"
+      ]
+    }
   ],
   "happened": [
-    {"text": "In December 1333 a meeting of theologians at Vincennes, called by King Philip VI of France, rejected the pope's view.", "sources": ["trottmann"]},
-    {"text": "On 3 December 1334, the day before he died, John XXII retracted, saying the purified souls see God's essence 'as far as their state and condition allow'.", "sources": ["trottmann", "bynum"]},
-    {"text": "His successor Benedict XII, a former inquisitor who had written against John's view, defined in Benedictus Deus that the souls of the saved, once purified, see the divine essence immediately, before the resurrection of the body, and that the souls of those who die in mortal sin go immediately to hell.", "sources": ["denzinger", "bynum"]}
+    {
+      "text": "In December 1333 a meeting of theologians at Vincennes, called by King Philip VI of France, rejected the pope's view.",
+      "sources": [
+        "trottmann"
+      ]
+    },
+    {
+      "text": "On 3 December 1334, the day before he died, John XXII retracted, saying the purified souls see God's essence 'as far as their state and condition allow'.",
+      "sources": [
+        "trottmann",
+        "bynum"
+      ]
+    },
+    {
+      "text": "His successor Benedict XII, a former inquisitor who had written against John's view, defined in Benedictus Deus that the souls of the saved, once purified, see the divine essence immediately, before the resurrection of the body, and that the souls of those who die in mortal sin go immediately to hell.",
+      "sources": [
+        "denzinger",
+        "bynum"
+      ]
+    }
   ],
   "participants": [
-    {"name": "John XXII", "role": "Pope whose sermons started the controversy"},
-    {"name": "Benedict XII (Jacques Fournier)", "role": "Pope who issued the definition"},
-    {"name": "William of Ockham", "role": "Franciscan philosopher who, from exile in Munich, denounced John XXII as a heretic, partly over these sermons", "person": "william-of-ockham"},
-    {"name": "Thomas Waleys", "role": "English Dominican imprisoned for preaching against the pope's view"}
+    {
+      "name": "John XXII",
+      "role": "Pope whose sermons started the controversy"
+    },
+    {
+      "name": "Benedict XII (Jacques Fournier)",
+      "role": "Pope who issued the definition"
+    },
+    {
+      "name": "William of Ockham",
+      "role": "Franciscan philosopher who, from exile in Munich, denounced John XXII as a heretic, partly over these sermons",
+      "person": "william-of-ockham"
+    },
+    {
+      "name": "Thomas Waleys",
+      "role": "English Dominican imprisoned for preaching against the pope's view"
+    }
   ],
   "outcomes": [
-    {"text": "The case is often cited in debates over papal infallibility, since a pope publicly taught a view his successor then defined as contrary to the faith; Catholic theologians note that John taught it as a private opinion and retracted.", "sources": ["bynum", "britannica"]},
-    {"text": "Eastern Orthodox teaching, which speaks of a fuller glory only after the resurrection, does not accept the definition in the same form, and the question arose again at the Council of Florence.", "sources": ["trottmann", "britannica"]}
+    {
+      "text": "The case is often cited in debates over papal infallibility, since a pope publicly taught a view his successor then defined as contrary to the faith; Catholic theologians note that John taught it as a private opinion and retracted.",
+      "sources": [
+        "bynum",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Eastern Orthodox teaching, which speaks of a fuller glory only after the resurrection, does not accept the definition in the same form, and the question arose again at the Council of Florence.",
+      "sources": [
+        "trottmann",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "29 January 1336", "by": "Pope Benedict XII", "authority": "Papacy (constitution Benedictus Deus)", "reason": "The teaching that the souls of the blessed do not see God's essence until the Last Judgment declared contrary to the faith", "status": "In force in the Catholic Church", "sources": ["denzinger"]}
+    {
+      "date": "29 January 1336",
+      "by": "Pope Benedict XII",
+      "authority": "Papacy (constitution Benedictus Deus)",
+      "reason": "The teaching that the souls of the blessed do not see God's essence until the Last Judgment declared contrary to the faith",
+      "status": "In force in the Catholic Church",
+      "sources": [
+        "denzinger"
+      ]
+    }
   ],
   "persecution_note": "The one well-documented punishment in the controversy fell on a critic of the pope.",
   "persecution": [
-    {"year": 1333, "date": "January 1333 – c. 1342", "title": "Imprisonment of Thomas Waleys", "summary": "The English Dominican Thomas Waleys preached against John XXII's view in Avignon in January 1333. He was arrested, tried by the papal inquisitor, and imprisoned; he remained in custody for years, into Benedict XII's reign, and was released only around 1342.", "responsible": [
-      {"name": "John XXII", "role": "Pope", "jurisdiction": "Papacy at Avignon", "type": "church"},
-      {"name": "Papal inquisitor at Avignon", "role": "Tried him", "jurisdiction": "Inquisition, papal curia", "type": "church"}
-    ], "outcome": "Long imprisonment, though his position was later defined as correct.", "sources": ["trottmann"]}
+    {
+      "year": 1333,
+      "date": "January 1333 – c. 1342",
+      "title": "Imprisonment of Thomas Waleys",
+      "summary": "The English Dominican Thomas Waleys preached against John XXII's view in Avignon in January 1333. He was arrested, tried by the papal inquisitor, and imprisoned; he remained in custody for years, into Benedict XII's reign, and was released only around 1342.",
+      "responsible": [
+        {
+          "name": "John XXII",
+          "role": "Pope",
+          "jurisdiction": "Papacy at Avignon",
+          "type": "church"
+        },
+        {
+          "name": "Papal inquisitor at Avignon",
+          "role": "Tried him",
+          "jurisdiction": "Inquisition, papal curia",
+          "type": "church"
+        }
+      ],
+      "outcome": "Long imprisonment, though his position was later defined as correct.",
+      "sources": [
+        "trottmann"
+      ]
+    }
   ],
   "sources": [
-    {"id": "denzinger", "type": "primary", "citation": "Heinrich Denzinger and Peter Hünermann (eds.), Compendium of Creeds, Definitions, and Declarations on Matters of Faith and Morals, 43rd ed. San Francisco: Ignatius Press, 2012."},
-    {"id": "trottmann", "type": "scholarly", "citation": "Christian Trottmann, La vision béatifique: des disputes scolastiques à sa définition par Benoît XII. Rome: École française de Rome, 1995."},
-    {"id": "bynum", "type": "scholarly", "citation": "Caroline Walker Bynum, The Resurrection of the Body in Western Christianity, 200–1336. New York: Columbia University Press, 1995."},
-    {"id": "britannica", "type": "reference", "citation": "\"Benedict XII\" and \"John XXII.\" Encyclopaedia Britannica."}
+    {
+      "id": "denzinger",
+      "type": "primary",
+      "citation": "Heinrich Denzinger and Peter Hünermann (eds.), Compendium of Creeds, Definitions, and Declarations on Matters of Faith and Morals, 43rd ed. San Francisco: Ignatius Press, 2012."
+    },
+    {
+      "id": "trottmann",
+      "type": "scholarly",
+      "citation": "Christian Trottmann, La vision béatifique: des disputes scolastiques à sa définition par Benoît XII. Rome: École française de Rome, 1995."
+    },
+    {
+      "id": "bynum",
+      "type": "scholarly",
+      "citation": "Caroline Walker Bynum, The Resurrection of the Body in Western Christianity, 200–1336. New York: Columbia University Press, 1995."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Benedict XII\" and \"John XXII.\" Encyclopaedia Britannica."
+    }
   ]
 }

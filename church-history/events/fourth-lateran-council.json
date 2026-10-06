@@ -6,49 +6,220 @@
   "event_type": "council",
   "summary": "Pope Innocent III's great reforming council, which first officially used the word 'transubstantiation', required yearly confession, organized the suppression of heresy, and imposed distinctive dress on Jews and Muslims.",
   "place": "Lateran Basilica, Rome",
-  "start": {"year": 1215, "date": "11 November 1215", "sources": ["tanner", "britannica"]},
-  "end": {"year": 1215, "date": "30 November 1215", "sources": ["tanner", "britannica"]},
+  "start": {
+    "year": 1215,
+    "date": "11 November 1215",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Innocent III opens the council"
+  },
+  "end": {
+    "year": 1215,
+    "date": "30 November 1215",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Council closes after issuing 71 canons, including transubstantiation"
+  },
   "background": [
-    {"text": "Innocent III summoned the council in 1213 to reform the church, fight heresy (especially the Cathars of southern France, already the target of the Albigensian Crusade), and launch a new crusade.", "sources": ["sayers", "britannica"]}
+    {
+      "text": "Innocent III summoned the council in 1213 to reform the church, fight heresy (especially the Cathars of southern France, already the target of the Albigensian Crusade), and launch a new crusade.",
+      "sources": [
+        "sayers",
+        "britannica"
+      ]
+    }
   ],
   "happened": [
-    {"text": "About 400 bishops and 800 abbots and priors attended, with envoys of kings and the Eastern Latin patriarchs, making it the largest council of the Middle Ages; it issued 71 constitutions in three sessions.", "sources": ["tanner", "sayers"]},
-    {"text": "Canon 1 set out a profession of faith declaring that there is one universal church 'outside which no one at all is saved', and that in the Eucharist the bread and wine are 'transubstantiated' into Christ's body and blood.", "sources": ["tanner"]},
-    {"text": "Canon 21 (Omnis utriusque sexus) required every Catholic who had reached the age of discretion to confess to their own priest and receive Communion at least once a year, at Easter.", "sources": ["tanner", "britannica"]},
-    {"text": "Canon 3 required secular rulers to expel heretics from their lands on pain of excommunication and loss of their territory, and gave those who fought heretics the same indulgence as crusaders to the Holy Land.", "sources": ["tanner"]},
-    {"text": "Canons 68 and 69 required Jews and Muslims ('Saracens') to wear clothing that distinguished them from Christians, forbade Jews to appear in public during Holy Week, and barred them from public office.", "sources": ["tanner", "chazan"]},
-    {"text": "Canon 18 forbade clergy to bless judicial ordeals, which helped end trial by ordeal in Western Europe.", "sources": ["tanner", "britannica"]},
-    {"text": "The council planned a new crusade (the Fifth Crusade, launched 1217), confirmed Frederick II as emperor, and handed most lands of Count Raymond VI of Toulouse to the crusade leader Simon de Montfort.", "sources": ["sayers", "tanner"]}
+    {
+      "text": "About 400 bishops and 800 abbots and priors attended, with envoys of kings and the Eastern Latin patriarchs, making it the largest council of the Middle Ages; it issued 71 constitutions in three sessions.",
+      "sources": [
+        "tanner",
+        "sayers"
+      ]
+    },
+    {
+      "text": "Canon 1 set out a profession of faith declaring that there is one universal church 'outside which no one at all is saved', and that in the Eucharist the bread and wine are 'transubstantiated' into Christ's body and blood.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "Canon 21 (Omnis utriusque sexus) required every Catholic who had reached the age of discretion to confess to their own priest and receive Communion at least once a year, at Easter.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Canon 3 required secular rulers to expel heretics from their lands on pain of excommunication and loss of their territory, and gave those who fought heretics the same indulgence as crusaders to the Holy Land.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "Canons 68 and 69 required Jews and Muslims ('Saracens') to wear clothing that distinguished them from Christians, forbade Jews to appear in public during Holy Week, and barred them from public office.",
+      "sources": [
+        "tanner",
+        "chazan"
+      ]
+    },
+    {
+      "text": "Canon 18 forbade clergy to bless judicial ordeals, which helped end trial by ordeal in Western Europe.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The council planned a new crusade (the Fifth Crusade, launched 1217), confirmed Frederick II as emperor, and handed most lands of Count Raymond VI of Toulouse to the crusade leader Simon de Montfort.",
+      "sources": [
+        "sayers",
+        "tanner"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Innocent III", "role": "Pope who called and led the council"},
-    {"name": "Raymond VI of Toulouse", "role": "Count whose lands were given to Simon de Montfort for failing to suppress the Cathars"}
+    {
+      "name": "Innocent III",
+      "role": "Pope who called and led the council"
+    },
+    {
+      "name": "Raymond VI of Toulouse",
+      "role": "Count whose lands were given to Simon de Montfort for failing to suppress the Cathars"
+    }
   ],
   "outcomes": [
-    {"text": "Its canons on confession, preaching, and clerical life shaped Catholic parish practice for centuries, and its profession of faith made transubstantiation the official term for the Eucharist.", "sources": ["sayers", "britannica"]},
-    {"text": "The dress rules led to compulsory badges for Jews in England (1218), France, and elsewhere; historians see the council as a turning point in the legal segregation of Jews in Christian Europe.", "sources": ["chazan", "britannica"]},
-    {"text": "Its framework for suppressing heresy fed into the inquisitions established in the 1230s.", "sources": ["sayers", "britannica"]}
+    {
+      "text": "Its canons on confession, preaching, and clerical life shaped Catholic parish practice for centuries, and its profession of faith made transubstantiation the official term for the Eucharist.",
+      "sources": [
+        "sayers",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The dress rules led to compulsory badges for Jews in England (1218), France, and elsewhere; historians see the council as a turning point in the legal segregation of Jews in Christian Europe.",
+      "sources": [
+        "chazan",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Its framework for suppressing heresy fed into the inquisitions established in the 1230s.",
+      "sources": [
+        "sayers",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "1215", "by": "Fourth Lateran Council", "authority": "General council under Innocent III", "reason": "Joachim of Fiore's treatise on the Trinity, attacking Peter Lombard, condemned (Joachim himself, who had died in 1202, was declared a Catholic)", "status": "Not reversed", "sources": ["tanner"]},
-    {"date": "1215", "by": "Fourth Lateran Council", "authority": "General council under Innocent III", "reason": "The teaching of Amalric of Bena (d. c. 1206) condemned as insane", "status": "Not reversed", "sources": ["tanner"]},
-    {"date": "1215", "by": "Fourth Lateran Council", "authority": "General council under Innocent III", "reason": "Cathars, Waldensians, and all heretics excommunicated and anathematized (canon 3)", "status": "Not reversed", "sources": ["tanner"]}
+    {
+      "date": "1215",
+      "by": "Fourth Lateran Council",
+      "authority": "General council under Innocent III",
+      "reason": "Joachim of Fiore's treatise on the Trinity, attacking Peter Lombard, condemned (Joachim himself, who had died in 1202, was declared a Catholic)",
+      "status": "Not reversed",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "date": "1215",
+      "by": "Fourth Lateran Council",
+      "authority": "General council under Innocent III",
+      "reason": "The teaching of Amalric of Bena (d. c. 1206) condemned as insane",
+      "status": "Not reversed",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "date": "1215",
+      "by": "Fourth Lateran Council",
+      "authority": "General council under Innocent III",
+      "reason": "Cathars, Waldensians, and all heretics excommunicated and anathematized (canon 3)",
+      "status": "Not reversed",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "persecution_note": "The council's decrees set rules that later bodies enforced. It named no individual for punishment but laid down how heretics and religious minorities were to be treated.",
   "persecution": [
-    {"year": 1215, "date": "1215 onward", "title": "Measures against heretics", "summary": "Canon 3 ordered that condemned heretics be handed to the secular power for punishment, that suspects who could not prove their innocence be excommunicated, and that rulers who failed to purge heretics lose their lands to Catholics who would.", "responsible": [
-      {"name": "Innocent III and the Fourth Lateran Council", "role": "Issued the decree", "jurisdiction": "Papacy and Western church", "type": "church"},
-      {"name": "Secular rulers enforcing it", "role": "Carried out punishments", "jurisdiction": "Kingdoms and lordships of Latin Christendom", "type": "state"}
-    ], "outcome": "Basis for later inquisitions and crusades against heretics.", "sources": ["tanner", "sayers"]},
-    {"year": 1215, "date": "1215 onward", "title": "Distinctive dress and restrictions for Jews and Muslims", "summary": "Canons 68–69 required Jews and Muslims to dress differently from Christians, kept Jews off the streets in Holy Week, and barred them from public office; canon 67 restricted Jewish moneylending.", "responsible": [
-      {"name": "Innocent III and the Fourth Lateran Council", "role": "Issued the canons", "jurisdiction": "Papacy and Western church", "type": "church"},
-      {"name": "Kings and bishops who enforced badges", "role": "Applied the rules, for example in England from 1218", "jurisdiction": "England, France, and other kingdoms", "type": "state"}
-    ], "outcome": "Badges and dress rules for Jews spread across Europe.", "sources": ["chazan", "tanner"]}
+    {
+      "year": 1215,
+      "date": "1215 onward",
+      "title": "Measures against heretics",
+      "summary": "Canon 3 ordered that condemned heretics be handed to the secular power for punishment, that suspects who could not prove their innocence be excommunicated, and that rulers who failed to purge heretics lose their lands to Catholics who would.",
+      "responsible": [
+        {
+          "name": "Innocent III and the Fourth Lateran Council",
+          "role": "Issued the decree",
+          "jurisdiction": "Papacy and Western church",
+          "type": "church"
+        },
+        {
+          "name": "Secular rulers enforcing it",
+          "role": "Carried out punishments",
+          "jurisdiction": "Kingdoms and lordships of Latin Christendom",
+          "type": "state"
+        }
+      ],
+      "outcome": "Basis for later inquisitions and crusades against heretics.",
+      "sources": [
+        "tanner",
+        "sayers"
+      ]
+    },
+    {
+      "year": 1215,
+      "date": "1215 onward",
+      "title": "Distinctive dress and restrictions for Jews and Muslims",
+      "summary": "Canons 68–69 required Jews and Muslims to dress differently from Christians, kept Jews off the streets in Holy Week, and barred them from public office; canon 67 restricted Jewish moneylending.",
+      "responsible": [
+        {
+          "name": "Innocent III and the Fourth Lateran Council",
+          "role": "Issued the canons",
+          "jurisdiction": "Papacy and Western church",
+          "type": "church"
+        },
+        {
+          "name": "Kings and bishops who enforced badges",
+          "role": "Applied the rules, for example in England from 1218",
+          "jurisdiction": "England, France, and other kingdoms",
+          "type": "state"
+        }
+      ],
+      "outcome": "Badges and dress rules for Jews spread across Europe.",
+      "sources": [
+        "chazan",
+        "tanner"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "chazan", "type": "primary", "citation": "Robert Chazan (ed.), Church, State, and Jew in the Middle Ages. New York: Behrman House, 1980."},
-    {"id": "sayers", "type": "scholarly", "citation": "Jane Sayers, Innocent III: Leader of Europe, 1198–1216. London: Longman, 1994."},
-    {"id": "britannica", "type": "reference", "citation": "\"Fourth Lateran Council.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "chazan",
+      "type": "primary",
+      "citation": "Robert Chazan (ed.), Church, State, and Jew in the Middle Ages. New York: Behrman House, 1980."
+    },
+    {
+      "id": "sayers",
+      "type": "scholarly",
+      "citation": "Jane Sayers, Innocent III: Leader of Europe, 1198–1216. London: Longman, 1994."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Fourth Lateran Council.\" Encyclopaedia Britannica."
+    }
   ]
 }

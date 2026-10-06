@@ -12,7 +12,8 @@
     "sources": [
       "tanner",
       "stump"
-    ]
+    ],
+    "label": "Council opens to end the Western Schism"
   },
   "end": {
     "year": 1418,
@@ -20,7 +21,8 @@
     "sources": [
       "tanner",
       "stump"
-    ]
+    ],
+    "label": "Council closes; Martin V recognized as sole pope"
   },
   "key_dates": [
     {

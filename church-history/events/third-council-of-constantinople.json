@@ -6,56 +6,259 @@
   "event_type": "council",
   "summary": "The council that condemned monothelitism, the teaching that Christ had only one will, and anathematized past patriarchs and Pope Honorius I.",
   "place": "Constantinople (the domed hall, or Trullo, of the imperial palace)",
-  "start": {"year": 680, "date": "7 November 680", "sources": ["tanner", "britannica"]},
-  "end": {"year": 681, "date": "16 September 681", "sources": ["tanner", "britannica"]},
+  "start": {
+    "year": 680,
+    "date": "7 November 680",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Constantine IV opens the council"
+  },
+  "end": {
+    "year": 681,
+    "date": "16 September 681",
+    "sources": [
+      "tanner",
+      "britannica"
+    ],
+    "label": "Council defines two wills in Christ and condemns monothelitism"
+  },
   "background": [
-    {"text": "In the 630s Patriarch Sergius of Constantinople and Emperor Heraclius promoted the formula of one 'energy' and then one will in Christ to reconcile the opponents of Chalcedon. Heraclius's Ekthesis (638) imposed it, and Pope Honorius I had written approvingly of 'one will'.", "sources": ["louth", "allen-neil"]},
-    {"text": "Constans II's Typos (648) forbade all discussion of the issue. Pope Martin I and Maximus the Confessor condemned monothelitism at the Lateran Synod of 649, and both were then arrested and punished by the emperor.", "sources": ["allen-neil", "louth"]},
-    {"text": "Constantine IV, wanting peace with Rome after the Arab conquests had taken the provinces monothelitism was meant to win over, asked Pope Agatho for delegates and summoned a council.", "sources": ["britannica", "herrin"]}
+    {
+      "text": "In the 630s Patriarch Sergius of Constantinople and Emperor Heraclius promoted the formula of one 'energy' and then one will in Christ to reconcile the opponents of Chalcedon. Heraclius's Ekthesis (638) imposed it, and Pope Honorius I had written approvingly of 'one will'.",
+      "sources": [
+        "louth",
+        "allen-neil"
+      ]
+    },
+    {
+      "text": "Constans II's Typos (648) forbade all discussion of the issue. Pope Martin I and Maximus the Confessor condemned monothelitism at the Lateran Synod of 649, and both were then arrested and punished by the emperor.",
+      "sources": [
+        "allen-neil",
+        "louth"
+      ]
+    },
+    {
+      "text": "Constantine IV, wanting peace with Rome after the Arab conquests had taken the provinces monothelitism was meant to win over, asked Pope Agatho for delegates and summoned a council.",
+      "sources": [
+        "britannica",
+        "herrin"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Constantine IV presided over many of the 18 sessions in person; attendance grew from fewer than 50 to about 150 bishops.", "sources": ["tanner", "britannica"]},
-    {"text": "The council accepted Pope Agatho's letter, which taught two wills in Christ, as it had accepted Leo's Tome at Chalcedon.", "sources": ["tanner", "herrin"]},
-    {"text": "Macarius of Antioch defended one will, refused to give way, and was deposed during the council.", "sources": ["tanner", "britannica"]},
-    {"text": "It defined that Christ has two natural wills and two natural operations, divine and human, the human will following and subject to the divine.", "sources": ["tanner"]}
+    {
+      "text": "Constantine IV presided over many of the 18 sessions in person; attendance grew from fewer than 50 to about 150 bishops.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The council accepted Pope Agatho's letter, which taught two wills in Christ, as it had accepted Leo's Tome at Chalcedon.",
+      "sources": [
+        "tanner",
+        "herrin"
+      ]
+    },
+    {
+      "text": "Macarius of Antioch defended one will, refused to give way, and was deposed during the council.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "It defined that Christ has two natural wills and two natural operations, divine and human, the human will following and subject to the divine.",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Constantine IV", "role": "Roman emperor; summoned and presided"},
-    {"name": "Agatho", "role": "Bishop of Rome; his letter set out the teaching adopted"},
-    {"name": "George I of Constantinople", "role": "Patriarch; accepted two wills"},
-    {"name": "Macarius of Antioch", "role": "Patriarch; defended monothelitism and was deposed"}
+    {
+      "name": "Constantine IV",
+      "role": "Roman emperor; summoned and presided"
+    },
+    {
+      "name": "Agatho",
+      "role": "Bishop of Rome; his letter set out the teaching adopted"
+    },
+    {
+      "name": "George I of Constantinople",
+      "role": "Patriarch; accepted two wills"
+    },
+    {
+      "name": "Macarius of Antioch",
+      "role": "Patriarch; defended monothelitism and was deposed"
+    }
   ],
   "outcomes": [
-    {"text": "Pope Leo II confirmed the council in 682, including the condemnation of Honorius, whom he described as having allowed the faith to be stained by not suppressing heresy.", "sources": ["tanner", "britannica"]},
-    {"text": "The condemnation of a pope became a central argument in the debate over papal infallibility at the First Vatican Council (1870).", "sources": ["britannica"]},
-    {"text": "Monothelitism was briefly revived by Emperor Philippikos (711–713) and lasted longer among the Maronites of Lebanon, who later entered communion with Rome.", "sources": ["britannica", "herrin"]}
+    {
+      "text": "Pope Leo II confirmed the council in 682, including the condemnation of Honorius, whom he described as having allowed the faith to be stained by not suppressing heresy.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The condemnation of a pope became a central argument in the debate over papal infallibility at the First Vatican Council (1870).",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "Monothelitism was briefly revived by Emperor Philippikos (711–713) and lasted longer among the Maronites of Lebanon, who later entered communion with Rome.",
+      "sources": [
+        "britannica",
+        "herrin"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "28 March 681", "by": "Third Council of Constantinople", "authority": "Council of bishops under Constantine IV", "reason": "Patriarchs Sergius, Pyrrhus, Paul, and Peter of Constantinople, Cyrus of Alexandria, and Theodore of Pharan anathematized posthumously as monothelites", "status": "Not reversed", "sources": ["tanner"]},
-    {"date": "28 March 681", "by": "Third Council of Constantinople", "authority": "Council of bishops under Constantine IV", "reason": "Pope Honorius I (d. 638) anathematized posthumously for following Sergius's opinions", "status": "Confirmed by Pope Leo II (682); Catholic theologians debate whether it touched his teaching authority", "sources": ["tanner", "britannica"]},
-    {"date": "March 681", "by": "Third Council of Constantinople", "authority": "Council of bishops under Constantine IV", "reason": "Macarius of Antioch and his disciple Stephen deposed and anathematized for monothelitism", "status": "Not reversed", "sources": ["tanner", "britannica"]}
+    {
+      "date": "28 March 681",
+      "by": "Third Council of Constantinople",
+      "authority": "Council of bishops under Constantine IV",
+      "reason": "Patriarchs Sergius, Pyrrhus, Paul, and Peter of Constantinople, Cyrus of Alexandria, and Theodore of Pharan anathematized posthumously as monothelites",
+      "status": "Not reversed",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "date": "28 March 681",
+      "by": "Third Council of Constantinople",
+      "authority": "Council of bishops under Constantine IV",
+      "reason": "Pope Honorius I (d. 638) anathematized posthumously for following Sergius's opinions",
+      "status": "Confirmed by Pope Leo II (682); Catholic theologians debate whether it touched his teaching authority",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    },
+    {
+      "date": "March 681",
+      "by": "Third Council of Constantinople",
+      "authority": "Council of bishops under Constantine IV",
+      "reason": "Macarius of Antioch and his disciple Stephen deposed and anathematized for monothelitism",
+      "status": "Not reversed",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    }
   ],
   "persecution_note": "The council itself deposed Macarius and sent him to Rome for confinement. The harshest persecution in the controversy came before it, under the monothelite emperor Constans II.",
   "persecution": [
-    {"year": 681, "date": "681", "title": "Deposition and confinement of Macarius of Antioch", "summary": "After his deposition, the emperor sent Macarius and his followers to Rome, where Pope Leo II placed them in monasteries.", "responsible": [
-      {"name": "Constantine IV", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Third Council of Constantinople", "role": "Deposed him", "jurisdiction": "Church of the Roman Empire", "type": "church"},
-      {"name": "Leo II", "role": "Pope; received them for confinement", "jurisdiction": "Papacy", "type": "church"}
-    ], "outcome": "Confined in Roman monasteries.", "sources": ["britannica", "herrin"]},
-    {"year": 653, "date": "653–655", "title": "Arrest and exile of Pope Martin I (before the council)", "summary": "On Constans II's orders the exarch Theodore Calliopas arrested Martin in Rome in June 653. He was taken to Constantinople, tried for treason, publicly humiliated, and exiled to Cherson in Crimea.", "responsible": [
-      {"name": "Constans II", "role": "Roman emperor; enforced the Typos", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Theodore Calliopas", "role": "Exarch of Ravenna; made the arrest", "jurisdiction": "Exarchate of Ravenna", "type": "state"}
-    ], "outcome": "Died in exile in 655; venerated as a martyr by Catholic and Orthodox churches.", "sources": ["allen-neil", "louth"]},
-    {"year": 662, "date": "653–662", "title": "Trials and mutilation of Maximus the Confessor (before the council)", "summary": "Maximus was arrested with Martin, tried and exiled, and tried again in 662 by a synod in Constantinople. His tongue and right hand were cut off so that he could no longer speak or write against monothelitism, and he was exiled to Lazica in the Caucasus.", "responsible": [
-      {"name": "Constans II", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Synod of Constantinople (662)", "role": "Condemned him", "jurisdiction": "Patriarchate of Constantinople (monothelite)", "type": "church"}
-    ], "outcome": "Died in exile in Lazica on 13 August 662; the 681 council vindicated his teaching.", "sources": ["allen-neil", "louth"]}
+    {
+      "year": 681,
+      "date": "681",
+      "title": "Deposition and confinement of Macarius of Antioch",
+      "summary": "After his deposition, the emperor sent Macarius and his followers to Rome, where Pope Leo II placed them in monasteries.",
+      "responsible": [
+        {
+          "name": "Constantine IV",
+          "role": "Roman emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Third Council of Constantinople",
+          "role": "Deposed him",
+          "jurisdiction": "Church of the Roman Empire",
+          "type": "church"
+        },
+        {
+          "name": "Leo II",
+          "role": "Pope; received them for confinement",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "Confined in Roman monasteries.",
+      "sources": [
+        "britannica",
+        "herrin"
+      ]
+    },
+    {
+      "year": 653,
+      "date": "653–655",
+      "title": "Arrest and exile of Pope Martin I (before the council)",
+      "summary": "On Constans II's orders the exarch Theodore Calliopas arrested Martin in Rome in June 653. He was taken to Constantinople, tried for treason, publicly humiliated, and exiled to Cherson in Crimea.",
+      "responsible": [
+        {
+          "name": "Constans II",
+          "role": "Roman emperor; enforced the Typos",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Theodore Calliopas",
+          "role": "Exarch of Ravenna; made the arrest",
+          "jurisdiction": "Exarchate of Ravenna",
+          "type": "state"
+        }
+      ],
+      "outcome": "Died in exile in 655; venerated as a martyr by Catholic and Orthodox churches.",
+      "sources": [
+        "allen-neil",
+        "louth"
+      ]
+    },
+    {
+      "year": 662,
+      "date": "653–662",
+      "title": "Trials and mutilation of Maximus the Confessor (before the council)",
+      "summary": "Maximus was arrested with Martin, tried and exiled, and tried again in 662 by a synod in Constantinople. His tongue and right hand were cut off so that he could no longer speak or write against monothelitism, and he was exiled to Lazica in the Caucasus.",
+      "responsible": [
+        {
+          "name": "Constans II",
+          "role": "Roman emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Synod of Constantinople (662)",
+          "role": "Condemned him",
+          "jurisdiction": "Patriarchate of Constantinople (monothelite)",
+          "type": "church"
+        }
+      ],
+      "outcome": "Died in exile in Lazica on 13 August 662; the 681 council vindicated his teaching.",
+      "sources": [
+        "allen-neil",
+        "louth"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "allen-neil", "type": "primary", "citation": "Pauline Allen and Bronwen Neil (eds. and trans.), Maximus the Confessor and His Companions: Documents from Exile. Oxford: Oxford University Press, 2002."},
-    {"id": "louth", "type": "scholarly", "citation": "Andrew Louth, Maximus the Confessor. London: Routledge, 1996."},
-    {"id": "herrin", "type": "scholarly", "citation": "Judith Herrin, The Formation of Christendom. Princeton: Princeton University Press, 1987."},
-    {"id": "britannica", "type": "reference", "citation": "\"Third Council of Constantinople.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "allen-neil",
+      "type": "primary",
+      "citation": "Pauline Allen and Bronwen Neil (eds. and trans.), Maximus the Confessor and His Companions: Documents from Exile. Oxford: Oxford University Press, 2002."
+    },
+    {
+      "id": "louth",
+      "type": "scholarly",
+      "citation": "Andrew Louth, Maximus the Confessor. London: Routledge, 1996."
+    },
+    {
+      "id": "herrin",
+      "type": "scholarly",
+      "citation": "Judith Herrin, The Formation of Christendom. Princeton: Princeton University Press, 1987."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Third Council of Constantinople.\" Encyclopaedia Britannica."
+    }
   ]
 }

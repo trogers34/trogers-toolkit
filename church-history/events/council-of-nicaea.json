@@ -6,50 +6,211 @@
   "event_type": "council",
   "summary": "The first council of bishops from across the Roman Empire, called by Emperor Constantine, which condemned Arius and issued the original Nicene Creed.",
   "place": "Nicaea, Bithynia (modern İznik, Turkey)",
-  "start": {"year": 325, "date": "Opened c. May–June 325", "sources": ["tanner", "hanson"]},
-  "end": {"year": 325, "date": "Closed c. late July 325", "sources": ["tanner", "hanson"]},
+  "start": {
+    "year": 325,
+    "date": "Opened c. May–June 325",
+    "sources": [
+      "tanner",
+      "hanson"
+    ],
+    "label": "Constantine opens the first ecumenical council"
+  },
+  "end": {
+    "year": 325,
+    "date": "Closed c. late July 325",
+    "sources": [
+      "tanner",
+      "hanson"
+    ],
+    "label": "Council closes after issuing the Nicene Creed"
+  },
   "background": [
-    {"text": "From about 318, Arius, a presbyter in Alexandria, taught that the Son of God was created and had a beginning; his bishop Alexander condemned and deposed him, and the dispute spread across the eastern churches.", "sources": ["hanson", "ayres"]},
-    {"text": "Constantine, sole emperor from 324, wanted unity in the church and first tried to settle the dispute by letter through Ossius (Hosius) of Córdoba before summoning a council.", "sources": ["eusebius-vc", "hanson"]}
+    {
+      "text": "From about 318, Arius, a presbyter in Alexandria, taught that the Son of God was created and had a beginning; his bishop Alexander condemned and deposed him, and the dispute spread across the eastern churches.",
+      "sources": [
+        "hanson",
+        "ayres"
+      ]
+    },
+    {
+      "text": "Constantine, sole emperor from 324, wanted unity in the church and first tried to settle the dispute by letter through Ossius (Hosius) of Córdoba before summoning a council.",
+      "sources": [
+        "eusebius-vc",
+        "hanson"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Constantine summoned the bishops, paid for their travel through the imperial post, opened the council in person, and took part in its sessions.", "sources": ["eusebius-vc", "britannica"]},
-    {"text": "About 250–300 bishops attended, almost all from the eastern provinces; the traditional number 318 comes from later writers. The bishop of Rome, Sylvester, sent two presbyters rather than attending.", "sources": ["tanner", "hanson", "britannica"]},
-    {"text": "The council issued a creed declaring the Son 'of one substance' (homoousios) with the Father and attached anathemas against those who said 'there was when he was not'.", "sources": ["tanner", "ayres"]},
-    {"text": "It settled that Easter should be celebrated on the same Sunday by all churches, independent of the Jewish calculation of Passover.", "sources": ["tanner", "eusebius-vc"]},
-    {"text": "It issued 20 canons on church order, including the rights of the bishops of Alexandria, Rome, and Antioch over their regions (canon 6), the readmission of those who had lapsed in persecution, and the Melitian schism in Egypt.", "sources": ["tanner"]}
+    {
+      "text": "Constantine summoned the bishops, paid for their travel through the imperial post, opened the council in person, and took part in its sessions.",
+      "sources": [
+        "eusebius-vc",
+        "britannica"
+      ]
+    },
+    {
+      "text": "About 250–300 bishops attended, almost all from the eastern provinces; the traditional number 318 comes from later writers. The bishop of Rome, Sylvester, sent two presbyters rather than attending.",
+      "sources": [
+        "tanner",
+        "hanson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The council issued a creed declaring the Son 'of one substance' (homoousios) with the Father and attached anathemas against those who said 'there was when he was not'.",
+      "sources": [
+        "tanner",
+        "ayres"
+      ]
+    },
+    {
+      "text": "It settled that Easter should be celebrated on the same Sunday by all churches, independent of the Jewish calculation of Passover.",
+      "sources": [
+        "tanner",
+        "eusebius-vc"
+      ]
+    },
+    {
+      "text": "It issued 20 canons on church order, including the rights of the bishops of Alexandria, Rome, and Antioch over their regions (canon 6), the readmission of those who had lapsed in persecution, and the Melitian schism in Egypt.",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Constantine I", "role": "Roman emperor; summoned the council and attended it"},
-    {"name": "Ossius (Hosius) of Córdoba", "role": "Bishop and Constantine's adviser; probably presided"},
-    {"name": "Alexander of Alexandria", "role": "Bishop who had condemned Arius"},
-    {"name": "Athanasius of Alexandria", "role": "Attended as a deacon and secretary to Bishop Alexander", "person": "athanasius-of-alexandria"},
-    {"name": "Arius", "role": "Presbyter of Alexandria whose teaching was condemned"},
-    {"name": "Eusebius of Nicomedia", "role": "Bishop and Arius's chief supporter; signed the creed but was exiled soon after"},
-    {"name": "Eusebius of Caesarea", "role": "Bishop and historian; signed the creed and wrote an account of the council"},
-    {"name": "Nicholas of Myra", "role": "Present by later tradition only; his name is not on the earliest lists of bishops, and the story that he struck Arius is a late legend", "person": "nicholas-of-myra"}
+    {
+      "name": "Constantine I",
+      "role": "Roman emperor; summoned the council and attended it"
+    },
+    {
+      "name": "Ossius (Hosius) of Córdoba",
+      "role": "Bishop and Constantine's adviser; probably presided"
+    },
+    {
+      "name": "Alexander of Alexandria",
+      "role": "Bishop who had condemned Arius"
+    },
+    {
+      "name": "Athanasius of Alexandria",
+      "role": "Attended as a deacon and secretary to Bishop Alexander",
+      "person": "athanasius-of-alexandria"
+    },
+    {
+      "name": "Arius",
+      "role": "Presbyter of Alexandria whose teaching was condemned"
+    },
+    {
+      "name": "Eusebius of Nicomedia",
+      "role": "Bishop and Arius's chief supporter; signed the creed but was exiled soon after"
+    },
+    {
+      "name": "Eusebius of Caesarea",
+      "role": "Bishop and historian; signed the creed and wrote an account of the council"
+    },
+    {
+      "name": "Nicholas of Myra",
+      "role": "Present by later tradition only; his name is not on the earliest lists of bishops, and the story that he struck Arius is a late legend",
+      "person": "nicholas-of-myra"
+    }
   ],
   "outcomes": [
-    {"text": "The Nicene faith did not end the controversy: for the next 56 years emperors and councils swung between Nicene and anti-Nicene positions until the Council of Constantinople (381) reaffirmed and expanded the creed.", "sources": ["hanson", "ayres"]},
-    {"text": "It set the model of an empire-wide (ecumenical) council called by the emperor, with the state enforcing its decisions; it is counted as the first ecumenical council by Catholic, Orthodox, and most Protestant churches.", "sources": ["britannica", "tanner"]},
-    {"text": "The Nicene-Constantinopolitan Creed that grew from it remains the most widely used creed in Christianity.", "sources": ["britannica"]}
+    {
+      "text": "The Nicene faith did not end the controversy: for the next 56 years emperors and councils swung between Nicene and anti-Nicene positions until the Council of Constantinople (381) reaffirmed and expanded the creed.",
+      "sources": [
+        "hanson",
+        "ayres"
+      ]
+    },
+    {
+      "text": "It set the model of an empire-wide (ecumenical) council called by the emperor, with the state enforcing its decisions; it is counted as the first ecumenical council by Catholic, Orthodox, and most Protestant churches.",
+      "sources": [
+        "britannica",
+        "tanner"
+      ]
+    },
+    {
+      "text": "The Nicene-Constantinopolitan Creed that grew from it remains the most widely used creed in Christianity.",
+      "sources": [
+        "britannica"
+      ]
+    }
   ],
   "condemnations_note": "The council's condemnations were enforced by imperial exile, the first time the Roman state punished Christians for heresy after a church council.",
   "condemnations": [
-    {"date": "325", "by": "Council of Nicaea", "authority": "Council of bishops, enforced by Emperor Constantine", "reason": "Arius condemned and anathematized for teaching that the Son was created", "status": "Constantine later readmitted Arius (c. 327–336); he died in 336 before being received back in Alexandria. The condemnation of his teaching stands in all major churches.", "sources": ["hanson", "ayres"]},
-    {"date": "325", "by": "Council of Nicaea", "authority": "Council of bishops, enforced by Emperor Constantine", "reason": "Secundus of Ptolemais and Theonas of Marmarica deposed and anathematized for refusing to sign the creed", "status": "Not reversed", "sources": ["hanson"]}
+    {
+      "date": "325",
+      "by": "Council of Nicaea",
+      "authority": "Council of bishops, enforced by Emperor Constantine",
+      "reason": "Arius condemned and anathematized for teaching that the Son was created",
+      "status": "Constantine later readmitted Arius (c. 327–336); he died in 336 before being received back in Alexandria. The condemnation of his teaching stands in all major churches.",
+      "sources": [
+        "hanson",
+        "ayres"
+      ]
+    },
+    {
+      "date": "325",
+      "by": "Council of Nicaea",
+      "authority": "Council of bishops, enforced by Emperor Constantine",
+      "reason": "Secundus of Ptolemais and Theonas of Marmarica deposed and anathematized for refusing to sign the creed",
+      "status": "Not reversed",
+      "sources": [
+        "hanson"
+      ]
+    }
   ],
   "persecution": [
-    {"year": 325, "date": "325, and c. 325–328", "title": "Exile of Arius and his supporters", "summary": "After the council, Constantine exiled Arius and the two bishops who refused to sign to Illyricum and ordered Arius's books burned, with death threatened for hiding them. Shortly after, Eusebius of Nicomedia and Theognis of Nicaea were also exiled for supporting Arius; they were recalled around 328.", "responsible": [
-      {"name": "Constantine I", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "First Council of Nicaea", "role": "Council of bishops that condemned them", "jurisdiction": "Church of the Roman Empire", "type": "church"}
-    ], "outcome": "Exile; Arius and Eusebius later returned to imperial favor and Eusebius's party went on to secure the exile of Athanasius and other Nicene bishops.", "sources": ["hanson", "ayres"]}
+    {
+      "year": 325,
+      "date": "325, and c. 325–328",
+      "title": "Exile of Arius and his supporters",
+      "summary": "After the council, Constantine exiled Arius and the two bishops who refused to sign to Illyricum and ordered Arius's books burned, with death threatened for hiding them. Shortly after, Eusebius of Nicomedia and Theognis of Nicaea were also exiled for supporting Arius; they were recalled around 328.",
+      "responsible": [
+        {
+          "name": "Constantine I",
+          "role": "Roman emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "First Council of Nicaea",
+          "role": "Council of bishops that condemned them",
+          "jurisdiction": "Church of the Roman Empire",
+          "type": "church"
+        }
+      ],
+      "outcome": "Exile; Arius and Eusebius later returned to imperial favor and Eusebius's party went on to secure the exile of Athanasius and other Nicene bishops.",
+      "sources": [
+        "hanson",
+        "ayres"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "eusebius-vc", "type": "primary", "citation": "Eusebius of Caesarea, Life of Constantine, book 3, trans. Averil Cameron and Stuart G. Hall. Oxford: Clarendon Press, 1999."},
-    {"id": "hanson", "type": "scholarly", "citation": "R. P. C. Hanson, The Search for the Christian Doctrine of God: The Arian Controversy 318–381. Edinburgh: T&T Clark, 1988."},
-    {"id": "ayres", "type": "scholarly", "citation": "Lewis Ayres, Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004."},
-    {"id": "britannica", "type": "reference", "citation": "\"Council of Nicaea.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1: Nicaea I to Lateran V. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "eusebius-vc",
+      "type": "primary",
+      "citation": "Eusebius of Caesarea, Life of Constantine, book 3, trans. Averil Cameron and Stuart G. Hall. Oxford: Clarendon Press, 1999."
+    },
+    {
+      "id": "hanson",
+      "type": "scholarly",
+      "citation": "R. P. C. Hanson, The Search for the Christian Doctrine of God: The Arian Controversy 318–381. Edinburgh: T&T Clark, 1988."
+    },
+    {
+      "id": "ayres",
+      "type": "scholarly",
+      "citation": "Lewis Ayres, Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology. Oxford: Oxford University Press, 2004."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Nicaea.\" Encyclopaedia Britannica."
+    }
   ]
 }

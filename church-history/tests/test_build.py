@@ -30,8 +30,8 @@ VALID_EVENT = {
     "era": "Early Church",
     "event_type": "council",
     "summary": "A test council.",
-    "start": {"year": 325, "sources": ["s1"]},
-    "end": {"year": 326, "sources": ["s1"]},
+    "start": {"year": 325, "label": "Council opens", "sources": ["s1"]},
+    "end": {"year": 326, "label": "Council closes", "sources": ["s1"]},
     "key_dates": [{"year": 325, "label": "Creed issued", "sources": ["s1"]}],
     "happened": [{"text": "Bishops met.", "sources": ["s1"]}],
     "outcomes": [{"text": "A creed.", "sources": ["s1"]}],
@@ -240,6 +240,8 @@ class EventTest(unittest.TestCase):
         self.assertTrue(any("unknown person 'nobody'" in e
                             for e in self.errors_for(lambda e: e["participants"][0].update(person="nobody"))))
         self.assertIn("'outcomes' needs at least one item", self.errors_for(lambda e: e.update(outcomes=[])))
+        self.assertTrue(any("'start' needs a 'label'" in e
+                            for e in self.errors_for(lambda e: e["start"].pop("label"))))
 
     def test_events_share_the_timeline_and_link_to_people(self):
         person, event = copy.deepcopy(VALID), copy.deepcopy(VALID_EVENT)
@@ -248,6 +250,8 @@ class EventTest(unittest.TestCase):
         self.assertIn('class="row person-row" data-born="300"', index)
         self.assertLess(index.index("person-row"), index.index("event-row"))
         self.assertIn("Creed issued", index)
+        self.assertIn("Council opens", index)
+        self.assertNotIn(">Began<", index)
         self.assertIn('href="events/test-council.html"', index)
         page = build.render_person(person, [event])
         self.assertIn('<h2>Events</h2>', page)

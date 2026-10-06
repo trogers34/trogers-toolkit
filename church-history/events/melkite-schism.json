@@ -1,0 +1,156 @@
+{
+  "name": "Melkite Schism of 1724",
+  "slug": "melkite-schism",
+  "also_known_as": "Split of the Patriarchate of Antioch",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The division of the Orthodox Patriarchate of Antioch into the Greek Orthodox Church and the Melkite Greek Catholic Church, after rival patriarchs were chosen in 1724.",
+  "place": "Damascus and Aleppo, Ottoman Syria",
+  "start": {
+    "year": 1724,
+    "date": "September 1724",
+    "sources": [
+      "haddad",
+      "britannica"
+    ],
+    "label": "Rival patriarchs chosen for Antioch: Cyril VI (pro-Rome) and Sylvester"
+  },
+  "end": {
+    "year": 1729,
+    "date": "1729 (Rome recognizes Cyril VI)",
+    "sources": [
+      "haddad",
+      "britannica"
+    ],
+    "label": "Rome recognizes Cyril VI as Melkite Catholic patriarch"
+  },
+  "background": [
+    {
+      "text": "Catholic missionaries, especially Jesuits and Capuchins, had been active in Aleppo and Damascus since the 17th century, and a pro-Catholic party had grown among the Arabic-speaking Orthodox of the patriarchate.",
+      "sources": [
+        "haddad",
+        "masters"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "When Patriarch Athanasios III Dabbas died in 1724, the clergy and people of Damascus elected Cyril VI Tanas, who favored union with Rome.",
+      "sources": [
+        "haddad",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Patriarch of Constantinople and his synod instead appointed Sylvester, a Greek monk from Cyprus, as patriarch of Antioch, and obtained Ottoman recognition for him.",
+      "sources": [
+        "haddad",
+        "masters"
+      ]
+    },
+    {
+      "text": "Cyril was excommunicated by Constantinople and fled to the Shuwayr monastery in Lebanon; Pope Benedict XIII recognized him in 1729.",
+      "sources": [
+        "haddad",
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Cyril VI Tanas",
+      "role": "First patriarch of the Melkite Greek Catholic Church"
+    },
+    {
+      "name": "Sylvester of Antioch",
+      "role": "Greek Orthodox patriarch appointed from Constantinople"
+    },
+    {
+      "name": "Jeremias III",
+      "role": "Patriarch of Constantinople who backed Sylvester"
+    },
+    {
+      "name": "Benedict XIII",
+      "role": "Pope who recognized Cyril"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Two churches claim the patriarchate of Antioch to this day: the Greek Orthodox Patriarchate of Antioch and the Melkite Greek Catholic Patriarchate.",
+      "sources": [
+        "britannica",
+        "haddad"
+      ]
+    },
+    {
+      "text": "The Ottoman government recognized the Melkite Catholics as a separate community (millet) only in 1848.",
+      "sources": [
+        "masters",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Greek-dominated hierarchy of the Orthodox patriarchate was replaced by Arab hierarchs in 1899.",
+      "sources": [
+        "haddad"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "1724",
+      "by": "Patriarchate of Constantinople",
+      "authority": "Ecumenical Patriarch and synod",
+      "reason": "Cyril VI Tanas excommunicated and declared deposed as a uniate",
+      "status": "Never lifted",
+      "sources": [
+        "haddad"
+      ]
+    }
+  ],
+  "persecution_note": "With Ottoman backing, the Orthodox patriarch's party pressed hard against the Catholic Melkites for over a century.",
+  "persecution": [
+    {
+      "year": 1725,
+      "date": "1724–1830s",
+      "title": "Pressure on the Catholic Melkites",
+      "summary": "Patriarch Sylvester used Ottoman decrees to have Catholic clergy arrested, churches taken, and Catholics forced to accept Orthodox clergy, especially in Aleppo; Catholic Melkites could not legally have their own churches in many cities until the 19th century.",
+      "responsible": [
+        {
+          "name": "Sylvester of Antioch",
+          "role": "Greek Orthodox patriarch",
+          "jurisdiction": "Greek Orthodox Patriarchate of Antioch",
+          "type": "church"
+        },
+        {
+          "name": "Ottoman authorities",
+          "role": "Issued and enforced decrees for the Orthodox patriarch",
+          "jurisdiction": "Ottoman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Many Catholics moved to Lebanon; legal recognition came in 1848.",
+      "sources": [
+        "haddad",
+        "masters"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "haddad",
+      "type": "scholarly",
+      "citation": "Robert M. Haddad, Syrian Christians in Muslim Society: An Interpretation. Princeton: Princeton University Press, 1970."
+    },
+    {
+      "id": "masters",
+      "type": "scholarly",
+      "citation": "Bruce Masters, Christians and Jews in the Ottoman Arab World: The Roots of Sectarianism. Cambridge: Cambridge University Press, 2001."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Melchite\" and \"Antioch, Orthodox Church of.\" Encyclopaedia Britannica."
+    }
+  ]
+}

@@ -6,55 +6,259 @@
   "event_type": "council",
   "summary": "Pope Clement V's council, held under pressure from Philip IV of France, which suppressed the Knights Templar and defined that the rational soul is the form of the human body.",
   "place": "Vienne, Dauphiné (modern France)",
-  "start": {"year": 1311, "date": "16 October 1311", "sources": ["tanner", "barber"]},
-  "end": {"year": 1312, "date": "6 May 1312", "sources": ["tanner", "barber"]},
+  "start": {
+    "year": 1311,
+    "date": "16 October 1311",
+    "sources": [
+      "tanner",
+      "barber"
+    ],
+    "label": "Council opens under pressure from Philip IV"
+  },
+  "end": {
+    "year": 1312,
+    "date": "6 May 1312",
+    "sources": [
+      "tanner",
+      "barber"
+    ],
+    "label": "Council closes after suppressing the Templars"
+  },
   "key_dates": [
-    {"year": 1312, "label": "Vox in excelso suppresses the Templars (22 March)", "sources": ["tanner", "barber"]}
+    {
+      "year": 1312,
+      "label": "Vox in excelso suppresses the Templars (22 March)",
+      "sources": [
+        "tanner",
+        "barber"
+      ]
+    }
   ],
   "background": [
-    {"text": "On 13 October 1307 Philip IV had every Templar in France arrested on charges of heresy, idolatry, and sodomy; under torture by royal agents and the French inquisitor, most, including the Grand Master Jacques de Molay, confessed to some charges.", "sources": ["barber", "britannica"]},
-    {"text": "Clement V, who lived in France, first protested, then ordered all Christian rulers to arrest the Templars and set up papal commissions; in the Chinon parchment (1308) his cardinals absolved the Templar leaders.", "sources": ["barber"]},
-    {"text": "In May 1310 the provincial council of Sens, under Archbishop Philippe de Marigny, had 54 Templars burned as relapsed heretics after they withdrew their confessions to defend the order.", "sources": ["barber"]}
+    {
+      "text": "On 13 October 1307 Philip IV had every Templar in France arrested on charges of heresy, idolatry, and sodomy; under torture by royal agents and the French inquisitor, most, including the Grand Master Jacques de Molay, confessed to some charges.",
+      "sources": [
+        "barber",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Clement V, who lived in France, first protested, then ordered all Christian rulers to arrest the Templars and set up papal commissions; in the Chinon parchment (1308) his cardinals absolved the Templar leaders.",
+      "sources": [
+        "barber"
+      ]
+    },
+    {
+      "text": "In May 1310 the provincial council of Sens, under Archbishop Philippe de Marigny, had 54 Templars burned as relapsed heretics after they withdrew their confessions to defend the order.",
+      "sources": [
+        "barber"
+      ]
+    }
   ],
   "happened": [
-    {"text": "Most bishops at the council wanted the Templars allowed to defend themselves, but under Philip's pressure (he arrived in Vienne with an armed escort in March 1312) Clement suppressed the order on 22 March 1312 'not by judicial sentence but by apostolic provision'.", "sources": ["barber", "tanner"]},
-    {"text": "The bull Ad providam gave the Templars' property to the Knights Hospitaller, though much of it in France and Spain went to the crown or to new orders.", "sources": ["tanner", "barber"]},
-    {"text": "The decree Fidei catholicae defined that the rational soul is of itself and essentially the form of the human body, against views attributed to the Franciscan Peter John Olivi.", "sources": ["tanner"]},
-    {"text": "The council condemned eight errors attributed to the Beghards and Beguines, regulated Franciscan poverty (Exivi de paradiso), and ordered chairs of Hebrew, Arabic, Greek, and Syriac at leading universities.", "sources": ["tanner", "britannica"]}
+    {
+      "text": "Most bishops at the council wanted the Templars allowed to defend themselves, but under Philip's pressure (he arrived in Vienne with an armed escort in March 1312) Clement suppressed the order on 22 March 1312 'not by judicial sentence but by apostolic provision'.",
+      "sources": [
+        "barber",
+        "tanner"
+      ]
+    },
+    {
+      "text": "The bull Ad providam gave the Templars' property to the Knights Hospitaller, though much of it in France and Spain went to the crown or to new orders.",
+      "sources": [
+        "tanner",
+        "barber"
+      ]
+    },
+    {
+      "text": "The decree Fidei catholicae defined that the rational soul is of itself and essentially the form of the human body, against views attributed to the Franciscan Peter John Olivi.",
+      "sources": [
+        "tanner"
+      ]
+    },
+    {
+      "text": "The council condemned eight errors attributed to the Beghards and Beguines, regulated Franciscan poverty (Exivi de paradiso), and ordered chairs of Hebrew, Arabic, Greek, and Syriac at leading universities.",
+      "sources": [
+        "tanner",
+        "britannica"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Clement V", "role": "Pope who called the council"},
-    {"name": "Philip IV of France", "role": "King who pressed for the Templars' condemnation"},
-    {"name": "Jacques de Molay", "role": "Last Grand Master of the Templars"}
+    {
+      "name": "Clement V",
+      "role": "Pope who called the council"
+    },
+    {
+      "name": "Philip IV of France",
+      "role": "King who pressed for the Templars' condemnation"
+    },
+    {
+      "name": "Jacques de Molay",
+      "role": "Last Grand Master of the Templars"
+    }
   ],
   "outcomes": [
-    {"text": "The Templar order ended. Most surviving members were pensioned or joined other orders; only in France did the persecution end in mass executions.", "sources": ["barber", "britannica"]},
-    {"text": "Most historians now consider the charges against the Templars false, driven largely by Philip IV's need for money and control over the church.", "sources": ["barber", "britannica"]}
+    {
+      "text": "The Templar order ended. Most surviving members were pensioned or joined other orders; only in France did the persecution end in mass executions.",
+      "sources": [
+        "barber",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Most historians now consider the charges against the Templars false, driven largely by Philip IV's need for money and control over the church.",
+      "sources": [
+        "barber",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "22 March 1312", "by": "Clement V at the Council of Vienne", "authority": "Papacy (bull Vox in excelso)", "reason": "The Order of the Knights Templar suppressed, without a judicial finding of guilt", "status": "Never reversed; the Vatican published the Chinon parchment, showing the leaders' 1308 absolution, in 2007", "sources": ["barber", "tanner"]},
-    {"date": "1311–1312", "by": "Council of Vienne", "authority": "General council", "reason": "Eight errors attributed to the Beghards and Beguines condemned (Ad nostrum)", "status": "Not reversed", "sources": ["tanner"]}
+    {
+      "date": "22 March 1312",
+      "by": "Clement V at the Council of Vienne",
+      "authority": "Papacy (bull Vox in excelso)",
+      "reason": "The Order of the Knights Templar suppressed, without a judicial finding of guilt",
+      "status": "Never reversed; the Vatican published the Chinon parchment, showing the leaders' 1308 absolution, in 2007",
+      "sources": [
+        "barber",
+        "tanner"
+      ]
+    },
+    {
+      "date": "1311–1312",
+      "by": "Council of Vienne",
+      "authority": "General council",
+      "reason": "Eight errors attributed to the Beghards and Beguines condemned (Ad nostrum)",
+      "status": "Not reversed",
+      "sources": [
+        "tanner"
+      ]
+    }
   ],
   "persecution_note": "The council itself condemned no Templar to death, but it ended the order after years of torture and executions in France and left its leaders to their fate.",
   "persecution": [
-    {"year": 1307, "date": "1307–1314", "title": "Arrest, torture, and burning of the Templars in France", "summary": "Templars were arrested, tortured into confessions, and in 1310 burned in groups. In March 1314, after a papal commission sentenced Jacques de Molay and Geoffroi de Charney to life imprisonment, both retracted their confessions and Philip IV had them burned that evening on an island in the Seine.", "responsible": [
-      {"name": "Philip IV of France", "role": "Ordered the arrests and the 1314 burnings", "jurisdiction": "Kingdom of France", "type": "state"},
-      {"name": "Guillaume de Nogaret", "role": "Royal minister who organized the case", "jurisdiction": "Kingdom of France", "type": "state"},
-      {"name": "Guillaume de Paris", "role": "Inquisitor of France; conducted interrogations", "jurisdiction": "Inquisition in France", "type": "church"},
-      {"name": "Philippe de Marigny", "role": "Archbishop of Sens; condemned 54 Templars in 1310", "jurisdiction": "Province of Sens", "type": "church"},
-      {"name": "Clement V", "role": "Pope who ordered arrests across Christendom and suppressed the order", "jurisdiction": "Papacy", "type": "church"}
-    ], "outcome": "Dozens burned in France; the order dissolved.", "sources": ["barber", "britannica"]}
+    {
+      "year": 1307,
+      "date": "1307–1314",
+      "title": "Arrest, torture, and burning of the Templars in France",
+      "summary": "Templars were arrested, tortured into confessions, and in 1310 burned in groups. In March 1314, after a papal commission sentenced Jacques de Molay and Geoffroi de Charney to life imprisonment, both retracted their confessions and Philip IV had them burned that evening on an island in the Seine.",
+      "responsible": [
+        {
+          "name": "Philip IV of France",
+          "role": "Ordered the arrests and the 1314 burnings",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        },
+        {
+          "name": "Guillaume de Nogaret",
+          "role": "Royal minister who organized the case",
+          "jurisdiction": "Kingdom of France",
+          "type": "state"
+        },
+        {
+          "name": "Guillaume de Paris",
+          "role": "Inquisitor of France; conducted interrogations",
+          "jurisdiction": "Inquisition in France",
+          "type": "church"
+        },
+        {
+          "name": "Philippe de Marigny",
+          "role": "Archbishop of Sens; condemned 54 Templars in 1310",
+          "jurisdiction": "Province of Sens",
+          "type": "church"
+        },
+        {
+          "name": "Clement V",
+          "role": "Pope who ordered arrests across Christendom and suppressed the order",
+          "jurisdiction": "Papacy",
+          "type": "church"
+        }
+      ],
+      "outcome": "Dozens burned in France; the order dissolved.",
+      "sources": [
+        "barber",
+        "britannica"
+      ]
+    }
   ],
   "victims_title": "Templars executed",
   "victims_subject": "the Templar trials",
   "victims": [
-    {"name": "Jacques de Molay", "executed": "Burned in Paris, 18 March 1314", "condemned_by": "Philip IV, after Molay retracted his confession before the papal commission", "allegation": "Executed on the king's order the same day he declared the order innocent.", "verification": {"execution": "verified", "link": "verified"}, "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Jacques+de+Molay"}], "sources": ["barber"]},
-    {"name": "Geoffroi de Charney", "executed": "Burned in Paris, 18 March 1314", "condemned_by": "Philip IV", "allegation": "Preceptor of Normandy, executed with Molay after also retracting.", "verification": {"execution": "verified", "link": "verified"}, "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Geoffroi+de+Charney"}], "sources": ["barber"]},
-    {"name": "54 Templars burned near Paris", "executed": "Burned, 12 May 1310", "condemned_by": "Provincial council of Sens under Archbishop Philippe de Marigny", "allegation": "Condemned as relapsed heretics after withdrawing confessions to defend the order.", "verification": {"execution": "verified", "link": "verified"}, "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Trials+of+the+Knights+Templar"}], "sources": ["barber"]}
+    {
+      "name": "Jacques de Molay",
+      "executed": "Burned in Paris, 18 March 1314",
+      "condemned_by": "Philip IV, after Molay retracted his confession before the papal commission",
+      "allegation": "Executed on the king's order the same day he declared the order innocent.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Jacques+de+Molay"
+        }
+      ],
+      "sources": [
+        "barber"
+      ]
+    },
+    {
+      "name": "Geoffroi de Charney",
+      "executed": "Burned in Paris, 18 March 1314",
+      "condemned_by": "Philip IV",
+      "allegation": "Preceptor of Normandy, executed with Molay after also retracting.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Geoffroi+de+Charney"
+        }
+      ],
+      "sources": [
+        "barber"
+      ]
+    },
+    {
+      "name": "54 Templars burned near Paris",
+      "executed": "Burned, 12 May 1310",
+      "condemned_by": "Provincial council of Sens under Archbishop Philippe de Marigny",
+      "allegation": "Condemned as relapsed heretics after withdrawing confessions to defend the order.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Trials+of+the+Knights+Templar"
+        }
+      ],
+      "sources": [
+        "barber"
+      ]
+    }
   ],
   "sources": [
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "barber", "type": "scholarly", "citation": "Malcolm Barber, The Trial of the Templars, 2nd ed. Cambridge: Cambridge University Press, 2006."},
-    {"id": "britannica", "type": "reference", "citation": "\"Council of Vienne\" and \"Templars.\" Encyclopaedia Britannica."}
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "barber",
+      "type": "scholarly",
+      "citation": "Malcolm Barber, The Trial of the Templars, 2nd ed. Cambridge: Cambridge University Press, 2006."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Council of Vienne\" and \"Templars.\" Encyclopaedia Britannica."
+    }
   ]
 }

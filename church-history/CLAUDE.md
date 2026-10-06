@@ -38,6 +38,12 @@ the user has set and the list of everyone on the site.
 13. Catholic dogmatic definitions are on the site as events too (the user: "Do them all" after a
     list of later councils and bulls). Councils counted ecumenical only by the Catholic Church carry
     their Catholic number, e.g. "twelfth ecumenical council (Catholic count)".
+14. Every event's `start` and `end` need a `label`: a short summary of what happened on that
+    date (the user: "make sure to have a brief summary other than 'Began'"). These appear in
+    the timeline table and on event pages instead of "Began"/"Ended". The build enforces it.
+15. Church splits and denominational histories are wanted: Orthodox splits are done; Baptist,
+    Presbyterian, Anglican, Methodist, Lutheran, and Calvary Chapel "beginnings and splits" were requested next
+    (list them for approval first, as group requests).
 
 ## Adding a person
 
@@ -142,6 +148,7 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Third Council of Constantinople, 680–681, 6th ecumenical (event: `third-council-of-constantinople`)
 - Second Council of Nicaea, 787, 7th ecumenical (event: `second-council-of-nicaea`)
 - Great Schism of 1054 (event: `great-schism`)
+- Arsenite Schism, 1262–1310 (event: `arsenite-schism`)
 - Marian Dogmas of the Catholic Church, 431–1950 (event: `marian-dogmas`): the user chose one combined event for all four dogmas
 - The Crusades, 1095–1291 (event: `the-crusades`): one event with each major crusade as a key date
 - Fourth Lateran Council, 1215 (event: `fourth-lateran-council`)
@@ -152,12 +159,20 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
 - Council of Florence, 1438–1445 (event: `council-of-florence`)
 - Fifth Lateran Council, 1512–1517 (event: `fifth-lateran-council`)
+- Union of Brest, 1595–1596 (event: `union-of-brest`)
+- Old Believers Schism, 1652–1667 (event: `old-believers-schism`)
+- Melkite Schism, 1724–1729 (event: `melkite-schism`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
 - First Vatican Council, 1869–1870 (event: `first-vatican-council`)
+- Bulgarian Schism, 1872–1945 (event: `bulgarian-schism`)
+- Old Calendarist Schism, 1924–1935 (event: `old-calendarist-schism`)
+- Russian Church Abroad Split, 1927–2007 (event: `russian-church-abroad-split`)
 - Second Vatican Council, 1962–1965 (event: `second-vatican-council`)
+- Macedonian Orthodox Church Schism, 1967–2022 (event: `macedonian-church-schism`)
+- Moscow–Constantinople Schism, 2018–present (event: `moscow-constantinople-schism`)
 
 ## AI disclosure
 
@@ -254,7 +269,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- St Monica (all from the Confessions; her role in Augustine sending away his partner). 43 people,
+- Nine Orthodox splits (Arsenite, Brest, Old Believers, Melkite, Bulgarian, Old Calendarist,
+  Church Abroad, Macedonian, Moscow–Constantinople); every event's start and end now carry a
+  summary label instead of "Began"/"Ended". 43 people, 33 events.
+- **PR #75**: St Monica (all from the Confessions; her role in Augustine sending away his partner). 43 people,
   24 events. Orthodox church splits requested next; options listed for approval first.
 - **PR #74**: Nine Catholic dogma events ("Do them all"): Lateran IV, Lyon II, Unam Sanctam, Vienne, Benedictus
   Deus, Florence, Lateran V, Vatican I, Vatican II; Catholic council numbers added to Constance and

@@ -1,0 +1,127 @@
+{
+  "name": "Bulgarian Schism",
+  "slug": "bulgarian-schism",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The break between the Patriarchate of Constantinople and the Bulgarian Exarchate, which Constantinople declared schismatic in 1872 for organizing the church by nationality ('ethnophyletism').",
+  "place": "Constantinople and Bulgarian lands of the Ottoman Empire",
+  "start": {
+    "year": 1872,
+    "date": "September 1872 (exarchate declared schismatic)",
+    "sources": [
+      "ware",
+      "britannica"
+    ],
+    "label": "Constantinople declares the Bulgarian Exarchate schismatic and condemns ethnophyletism"
+  },
+  "end": {
+    "year": 1945,
+    "date": "22 February 1945 (schism lifted)",
+    "sources": [
+      "ware",
+      "britannica"
+    ],
+    "label": "Constantinople lifts the schism and recognizes the Bulgarian church"
+  },
+  "background": [
+    {
+      "text": "Bulgarians under Ottoman rule resented the Greek-speaking higher clergy appointed by Constantinople and campaigned for their own church as part of a national revival.",
+      "sources": [
+        "kitromilides",
+        "britannica"
+      ]
+    },
+    {
+      "text": "In 1870 Sultan Abdülaziz issued a decree (firman) creating a Bulgarian Exarchate with authority over Bulgarian dioceses, without the Patriarch's agreement.",
+      "sources": [
+        "britannica",
+        "kitromilides"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "In 1872 the Bulgarians elected Antim I as exarch, and he declared the exarchate's independence from the Patriarchate in May.",
+      "sources": [
+        "britannica",
+        "ware"
+      ]
+    },
+    {
+      "text": "A council in Constantinople in September 1872 condemned 'phyletism' or ethnophyletism (organizing the church by ethnic group) as heresy and declared the exarchate schismatic.",
+      "sources": [
+        "ware",
+        "kitromilides"
+      ]
+    },
+    {
+      "text": "The Russian Orthodox Church and some others did not break communion with the Bulgarians, and the schism became tied to rivalry between Greek and Bulgarian nationalism in Macedonia and Thrace.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Antim I",
+      "role": "First Bulgarian exarch"
+    },
+    {
+      "name": "Anthimos VI",
+      "role": "Patriarch of Constantinople at the 1872 council"
+    },
+    {
+      "name": "Abdülaziz",
+      "role": "Ottoman sultan who created the exarchate"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Constantinople lifted the schism in 1945, recognizing the Bulgarian church as autocephalous, and recognized its patriarchate in 1961.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The 1872 condemnation of ethnophyletism is still cited in Orthodox debates about national churches and diaspora jurisdictions.",
+      "sources": [
+        "ware",
+        "kitromilides"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "September 1872",
+      "by": "Council in Constantinople",
+      "authority": "Ecumenical Patriarchate with other Eastern patriarchs",
+      "reason": "The Bulgarian Exarchate declared schismatic; ethnophyletism condemned; Exarch Antim I and his bishops deposed and excommunicated",
+      "status": "Lifted 22 February 1945",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    }
+  ],
+  "persecution_note": "The church dispute fed violent competition between Greek and Bulgarian nationalists over parishes and schools in Ottoman Macedonia, especially around 1900–1908, in which priests and teachers on both sides were killed.",
+  "persecution": [],
+  "sources": [
+    {
+      "id": "ware",
+      "type": "scholarly",
+      "citation": "Timothy (Kallistos) Ware, The Orthodox Church, new ed. London: Penguin, 1993."
+    },
+    {
+      "id": "kitromilides",
+      "type": "scholarly",
+      "citation": "Paschalis M. Kitromilides, \"'Imagined Communities' and the Origins of the National Question in the Balkans,\" European History Quarterly 19 (1989)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Bulgarian Orthodox Church.\" Encyclopaedia Britannica."
+    }
+  ]
+}

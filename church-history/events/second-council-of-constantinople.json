@@ -6,50 +6,227 @@
   "event_type": "council",
   "summary": "The council called by Emperor Justinian I to condemn the 'Three Chapters', held over the refusal of Pope Vigilius, who was in the city under imperial pressure.",
   "place": "Constantinople",
-  "start": {"year": 553, "date": "5 May 553", "sources": ["price", "tanner"]},
-  "end": {"year": 553, "date": "2 June 553", "sources": ["price", "tanner"]},
+  "start": {
+    "year": 553,
+    "date": "5 May 553",
+    "sources": [
+      "price",
+      "tanner"
+    ],
+    "label": "Justinian's council opens without Pope Vigilius"
+  },
+  "end": {
+    "year": 553,
+    "date": "2 June 553",
+    "sources": [
+      "price",
+      "tanner"
+    ],
+    "label": "Council condemns the Three Chapters"
+  },
   "background": [
-    {"text": "Justinian hoped to win back the opponents of Chalcedon by condemning three things they hated: the person and writings of Theodore of Mopsuestia (d. 428), Theodoret of Cyrrhus's writings against Cyril, and a letter of Ibas of Edessa. These became known as the Three Chapters.", "sources": ["price", "britannica"]},
-    {"text": "Justinian condemned them by edict around 544. Western bishops objected that this attacked Chalcedon, which had restored Theodoret and Ibas.", "sources": ["price", "chazelle-cubitt"]},
-    {"text": "Pope Vigilius was brought to Constantinople in 547, condemned the Chapters in his Iudicatum (548), then withdrew it under Western protest. In 551 imperial soldiers tried to drag him from the altar of the church where he had taken refuge, and he fled to Chalcedon.", "sources": ["price", "chazelle-cubitt"]}
+    {
+      "text": "Justinian hoped to win back the opponents of Chalcedon by condemning three things they hated: the person and writings of Theodore of Mopsuestia (d. 428), Theodoret of Cyrrhus's writings against Cyril, and a letter of Ibas of Edessa. These became known as the Three Chapters.",
+      "sources": [
+        "price",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Justinian condemned them by edict around 544. Western bishops objected that this attacked Chalcedon, which had restored Theodoret and Ibas.",
+      "sources": [
+        "price",
+        "chazelle-cubitt"
+      ]
+    },
+    {
+      "text": "Pope Vigilius was brought to Constantinople in 547, condemned the Chapters in his Iudicatum (548), then withdrew it under Western protest. In 551 imperial soldiers tried to drag him from the altar of the church where he had taken refuge, and he fled to Chalcedon.",
+      "sources": [
+        "price",
+        "chazelle-cubitt"
+      ]
+    }
   ],
   "happened": [
-    {"text": "About 150–165 bishops attended, almost all eastern, under Patriarch Eutychius of Constantinople; Vigilius, though in the city, refused to attend.", "sources": ["price", "tanner"]},
-    {"text": "On 14 May 553 Vigilius issued his first Constitutum, condemning some of Theodore's propositions but refusing to condemn the persons of Theodore, Theodoret, or Ibas, who had died in the peace of the church.", "sources": ["price"]},
-    {"text": "On Justinian's orders the council struck Vigilius's name from the diptychs (the list of bishops prayed for), while claiming to stay in communion with the see of Rome.", "sources": ["price", "chazelle-cubitt"]},
-    {"text": "In its final session on 2 June the council issued 14 anathemas condemning the Three Chapters and affirming the faith of the first four councils as read through Cyril of Alexandria.", "sources": ["tanner", "price"]},
-    {"text": "Fifteen anathemas against Origen and the Origenists were approved by bishops gathered in Constantinople around the same time; scholars disagree on whether they were formally part of the council.", "sources": ["price", "britannica"]}
+    {
+      "text": "About 150–165 bishops attended, almost all eastern, under Patriarch Eutychius of Constantinople; Vigilius, though in the city, refused to attend.",
+      "sources": [
+        "price",
+        "tanner"
+      ]
+    },
+    {
+      "text": "On 14 May 553 Vigilius issued his first Constitutum, condemning some of Theodore's propositions but refusing to condemn the persons of Theodore, Theodoret, or Ibas, who had died in the peace of the church.",
+      "sources": [
+        "price"
+      ]
+    },
+    {
+      "text": "On Justinian's orders the council struck Vigilius's name from the diptychs (the list of bishops prayed for), while claiming to stay in communion with the see of Rome.",
+      "sources": [
+        "price",
+        "chazelle-cubitt"
+      ]
+    },
+    {
+      "text": "In its final session on 2 June the council issued 14 anathemas condemning the Three Chapters and affirming the faith of the first four councils as read through Cyril of Alexandria.",
+      "sources": [
+        "tanner",
+        "price"
+      ]
+    },
+    {
+      "text": "Fifteen anathemas against Origen and the Origenists were approved by bishops gathered in Constantinople around the same time; scholars disagree on whether they were formally part of the council.",
+      "sources": [
+        "price",
+        "britannica"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Justinian I", "role": "Roman emperor; drove the condemnation of the Three Chapters"},
-    {"name": "Eutychius of Constantinople", "role": "Patriarch; presided"},
-    {"name": "Vigilius", "role": "Bishop of Rome; refused to attend, then accepted the council"}
+    {
+      "name": "Justinian I",
+      "role": "Roman emperor; drove the condemnation of the Three Chapters"
+    },
+    {
+      "name": "Eutychius of Constantinople",
+      "role": "Patriarch; presided"
+    },
+    {
+      "name": "Vigilius",
+      "role": "Bishop of Rome; refused to attend, then accepted the council"
+    }
   ],
   "outcomes": [
-    {"text": "In December 553 and in a second Constitutum (February 554) Vigilius accepted the council's condemnations. He died at Syracuse in 555 on his way back to Rome.", "sources": ["price", "chazelle-cubitt"]},
-    {"text": "The council did not win back the opponents of Chalcedon, who continued to build their own churches in Egypt and Syria.", "sources": ["price", "britannica"]},
-    {"text": "Bishops of northern Italy, led by Aquileia and Milan, broke communion with Rome over it; this Schism of the Three Chapters lasted until a synod at Pavia around 698–700.", "sources": ["chazelle-cubitt", "britannica"]}
+    {
+      "text": "In December 553 and in a second Constitutum (February 554) Vigilius accepted the council's condemnations. He died at Syracuse in 555 on his way back to Rome.",
+      "sources": [
+        "price",
+        "chazelle-cubitt"
+      ]
+    },
+    {
+      "text": "The council did not win back the opponents of Chalcedon, who continued to build their own churches in Egypt and Syria.",
+      "sources": [
+        "price",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Bishops of northern Italy, led by Aquileia and Milan, broke communion with Rome over it; this Schism of the Three Chapters lasted until a synod at Pavia around 698–700.",
+      "sources": [
+        "chazelle-cubitt",
+        "britannica"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "2 June 553", "by": "Second Council of Constantinople", "authority": "Council of bishops under Justinian I", "reason": "Theodore of Mopsuestia anathematized as a heretic 125 years after his death, in good standing, along with his writings", "status": "Not reversed; the Church of the East honors him as 'the Interpreter'", "sources": ["tanner", "price"]},
-    {"date": "2 June 553", "by": "Second Council of Constantinople", "authority": "Council of bishops under Justinian I", "reason": "Theodoret's writings against Cyril and the letter of Ibas to Mari condemned (the men themselves, restored at Chalcedon, were not)", "status": "Not reversed", "sources": ["tanner", "price"]},
-    {"date": "26 May 553", "by": "Second Council of Constantinople", "authority": "Council of bishops, on Justinian's orders", "reason": "Pope Vigilius's name removed from the diptychs for refusing to condemn the Three Chapters", "status": "Restored after Vigilius accepted the council (553–554)", "sources": ["price"]}
+    {
+      "date": "2 June 553",
+      "by": "Second Council of Constantinople",
+      "authority": "Council of bishops under Justinian I",
+      "reason": "Theodore of Mopsuestia anathematized as a heretic 125 years after his death, in good standing, along with his writings",
+      "status": "Not reversed; the Church of the East honors him as 'the Interpreter'",
+      "sources": [
+        "tanner",
+        "price"
+      ]
+    },
+    {
+      "date": "2 June 553",
+      "by": "Second Council of Constantinople",
+      "authority": "Council of bishops under Justinian I",
+      "reason": "Theodoret's writings against Cyril and the letter of Ibas to Mari condemned (the men themselves, restored at Chalcedon, were not)",
+      "status": "Not reversed",
+      "sources": [
+        "tanner",
+        "price"
+      ]
+    },
+    {
+      "date": "26 May 553",
+      "by": "Second Council of Constantinople",
+      "authority": "Council of bishops, on Justinian's orders",
+      "reason": "Pope Vigilius's name removed from the diptychs for refusing to condemn the Three Chapters",
+      "status": "Restored after Vigilius accepted the council (553–554)",
+      "sources": [
+        "price"
+      ]
+    }
   ],
   "persecution_note": "The campaign against the Three Chapters used force against bishops who opposed it, above all the pope and the bishops of North Africa.",
   "persecution": [
-    {"year": 547, "date": "547–555", "title": "Coercion of Pope Vigilius", "summary": "Vigilius was taken from Rome to Constantinople and kept there for about eight years. In August 551 soldiers sent to arrest him in the church of St Peter in Hormisdas pulled at him so that the altar he was clinging to collapsed; he fled to the church of St Euphemia in Chalcedon. His clergy were pressured and some of his deacons arrested.", "responsible": [
-      {"name": "Justinian I", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Imperial soldiers and officials", "role": "Carried out the arrest attempt", "jurisdiction": "Roman Empire", "type": "state"}
-    ], "outcome": "Vigilius gave way in 553–554 and died on his way home in 555.", "sources": ["chazelle-cubitt", "price"]},
-    {"year": 551, "date": "c. 550–555", "title": "Exile of bishops who opposed the condemnation", "summary": "North African bishops who defended the Three Chapters were deposed and exiled, including Reparatus of Carthage and the chronicler Victor of Tunnuna, who described the persecution; others were imprisoned in Constantinople.", "responsible": [
-      {"name": "Justinian I", "role": "Roman emperor", "jurisdiction": "Roman Empire", "type": "state"},
-      {"name": "Bishops supporting the condemnation", "role": "Replaced the exiled bishops", "jurisdiction": "Church in North Africa and Constantinople", "type": "church"}
-    ], "outcome": "Exile; Reparatus died in exile.", "sources": ["chazelle-cubitt", "britannica"]}
+    {
+      "year": 547,
+      "date": "547–555",
+      "title": "Coercion of Pope Vigilius",
+      "summary": "Vigilius was taken from Rome to Constantinople and kept there for about eight years. In August 551 soldiers sent to arrest him in the church of St Peter in Hormisdas pulled at him so that the altar he was clinging to collapsed; he fled to the church of St Euphemia in Chalcedon. His clergy were pressured and some of his deacons arrested.",
+      "responsible": [
+        {
+          "name": "Justinian I",
+          "role": "Roman emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Imperial soldiers and officials",
+          "role": "Carried out the arrest attempt",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Vigilius gave way in 553–554 and died on his way home in 555.",
+      "sources": [
+        "chazelle-cubitt",
+        "price"
+      ]
+    },
+    {
+      "year": 551,
+      "date": "c. 550–555",
+      "title": "Exile of bishops who opposed the condemnation",
+      "summary": "North African bishops who defended the Three Chapters were deposed and exiled, including Reparatus of Carthage and the chronicler Victor of Tunnuna, who described the persecution; others were imprisoned in Constantinople.",
+      "responsible": [
+        {
+          "name": "Justinian I",
+          "role": "Roman emperor",
+          "jurisdiction": "Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Bishops supporting the condemnation",
+          "role": "Replaced the exiled bishops",
+          "jurisdiction": "Church in North Africa and Constantinople",
+          "type": "church"
+        }
+      ],
+      "outcome": "Exile; Reparatus died in exile.",
+      "sources": [
+        "chazelle-cubitt",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "price", "type": "primary", "citation": "Richard Price (trans.), The Acts of the Council of Constantinople of 553, with Related Texts on the Three Chapters Controversy, 2 vols. Translated Texts for Historians 51. Liverpool: Liverpool University Press, 2009."},
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "chazelle-cubitt", "type": "scholarly", "citation": "Celia Chazelle and Catherine Cubitt (eds.), The Crisis of the Oikoumene: The Three Chapters and the Failed Quest for Unity in the Sixth-Century Mediterranean. Turnhout: Brepols, 2007."},
-    {"id": "britannica", "type": "reference", "citation": "\"Second Council of Constantinople.\" Encyclopaedia Britannica."}
+    {
+      "id": "price",
+      "type": "primary",
+      "citation": "Richard Price (trans.), The Acts of the Council of Constantinople of 553, with Related Texts on the Three Chapters Controversy, 2 vols. Translated Texts for Historians 51. Liverpool: Liverpool University Press, 2009."
+    },
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "chazelle-cubitt",
+      "type": "scholarly",
+      "citation": "Celia Chazelle and Catherine Cubitt (eds.), The Crisis of the Oikoumene: The Three Chapters and the Failed Quest for Unity in the Sixth-Century Mediterranean. Turnhout: Brepols, 2007."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Second Council of Constantinople.\" Encyclopaedia Britannica."
+    }
   ]
 }

@@ -6,52 +6,232 @@
   "event_type": "council",
   "summary": "The council called by Empress Irene that ended the first period of Byzantine iconoclasm and approved the veneration of icons.",
   "place": "Nicaea (final session at the Magnaura palace, Constantinople)",
-  "start": {"year": 787, "date": "24 September 787", "sources": ["price", "tanner"]},
-  "end": {"year": 787, "date": "23 October 787", "sources": ["price", "tanner"]},
+  "start": {
+    "year": 787,
+    "date": "24 September 787",
+    "sources": [
+      "price",
+      "tanner"
+    ],
+    "label": "Council opens under Empress Irene to restore icons"
+  },
+  "end": {
+    "year": 787,
+    "date": "23 October 787",
+    "sources": [
+      "price",
+      "tanner"
+    ],
+    "label": "Final session at the Magnaura palace approves icon veneration"
+  },
   "background": [
-    {"text": "From the 720s or 730s Byzantine emperors opposed religious images; the extent of Leo III's policy is debated, but his son Constantine V attacked icons openly and wrote against them.", "sources": ["brubaker-haldon", "britannica"]},
-    {"text": "The Council of Hieria (754), called by Constantine V with 338 bishops, condemned the making and veneration of icons as idolatry.", "sources": ["brubaker-haldon", "price"]},
-    {"text": "Empress Irene, regent for her son Constantine VI, called a council in Constantinople in August 786, but iconoclast soldiers of the imperial guard broke it up; she transferred those troops away and reconvened the council at Nicaea.", "sources": ["brubaker-haldon", "price"]}
+    {
+      "text": "From the 720s or 730s Byzantine emperors opposed religious images; the extent of Leo III's policy is debated, but his son Constantine V attacked icons openly and wrote against them.",
+      "sources": [
+        "brubaker-haldon",
+        "britannica"
+      ]
+    },
+    {
+      "text": "The Council of Hieria (754), called by Constantine V with 338 bishops, condemned the making and veneration of icons as idolatry.",
+      "sources": [
+        "brubaker-haldon",
+        "price"
+      ]
+    },
+    {
+      "text": "Empress Irene, regent for her son Constantine VI, called a council in Constantinople in August 786, but iconoclast soldiers of the imperial guard broke it up; she transferred those troops away and reconvened the council at Nicaea.",
+      "sources": [
+        "brubaker-haldon",
+        "price"
+      ]
+    }
   ],
   "happened": [
-    {"text": "About 350 bishops attended under Patriarch Tarasios, with legates of Pope Hadrian I and representatives claiming to speak for the eastern patriarchs.", "sources": ["price", "tanner"]},
-    {"text": "Iconoclast bishops who repented were readmitted after making confessions; the council debated how to treat them.", "sources": ["price"]},
-    {"text": "The council read texts from the church fathers in support of images and refuted the definition of Hieria point by point.", "sources": ["price"]},
-    {"text": "It defined that icons of Christ, Mary, angels, and saints may be honored with veneration (proskynesis) but not the worship (latreia) owed to God alone, since 'the honor given to the image passes to its original'.", "sources": ["tanner", "price"]},
-    {"text": "The final session was held before Irene and Constantine VI at the Magnaura palace in Constantinople, where the definition was signed.", "sources": ["price", "brubaker-haldon"]}
+    {
+      "text": "About 350 bishops attended under Patriarch Tarasios, with legates of Pope Hadrian I and representatives claiming to speak for the eastern patriarchs.",
+      "sources": [
+        "price",
+        "tanner"
+      ]
+    },
+    {
+      "text": "Iconoclast bishops who repented were readmitted after making confessions; the council debated how to treat them.",
+      "sources": [
+        "price"
+      ]
+    },
+    {
+      "text": "The council read texts from the church fathers in support of images and refuted the definition of Hieria point by point.",
+      "sources": [
+        "price"
+      ]
+    },
+    {
+      "text": "It defined that icons of Christ, Mary, angels, and saints may be honored with veneration (proskynesis) but not the worship (latreia) owed to God alone, since 'the honor given to the image passes to its original'.",
+      "sources": [
+        "tanner",
+        "price"
+      ]
+    },
+    {
+      "text": "The final session was held before Irene and Constantine VI at the Magnaura palace in Constantinople, where the definition was signed.",
+      "sources": [
+        "price",
+        "brubaker-haldon"
+      ]
+    }
   ],
   "participants": [
-    {"name": "Irene", "role": "Empress and regent; called the council"},
-    {"name": "Constantine VI", "role": "Emperor, in whose name the council was summoned"},
-    {"name": "Tarasios", "role": "Patriarch of Constantinople; presided"},
-    {"name": "Hadrian I", "role": "Bishop of Rome; sent legates"}
+    {
+      "name": "Irene",
+      "role": "Empress and regent; called the council"
+    },
+    {
+      "name": "Constantine VI",
+      "role": "Emperor, in whose name the council was summoned"
+    },
+    {
+      "name": "Tarasios",
+      "role": "Patriarch of Constantinople; presided"
+    },
+    {
+      "name": "Hadrian I",
+      "role": "Bishop of Rome; sent legates"
+    }
   ],
   "outcomes": [
-    {"text": "Charlemagne's court, working from a poor Latin translation, rejected the council in the Opus Caroli regis (Libri Carolini), and the Council of Frankfurt (794) condemned it; Rome accepted it.", "sources": ["brubaker-haldon", "britannica"]},
-    {"text": "Emperor Leo V restored iconoclasm in 815; icons were restored for good in 843 under Empress Theodora, an event the Orthodox Church celebrates as the 'Triumph of Orthodoxy'.", "sources": ["brubaker-haldon", "britannica"]},
-    {"text": "It is the last council counted as ecumenical by both the Catholic and Eastern Orthodox churches.", "sources": ["britannica", "tanner"]}
+    {
+      "text": "Charlemagne's court, working from a poor Latin translation, rejected the council in the Opus Caroli regis (Libri Carolini), and the Council of Frankfurt (794) condemned it; Rome accepted it.",
+      "sources": [
+        "brubaker-haldon",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Emperor Leo V restored iconoclasm in 815; icons were restored for good in 843 under Empress Theodora, an event the Orthodox Church celebrates as the 'Triumph of Orthodoxy'.",
+      "sources": [
+        "brubaker-haldon",
+        "britannica"
+      ]
+    },
+    {
+      "text": "It is the last council counted as ecumenical by both the Catholic and Eastern Orthodox churches.",
+      "sources": [
+        "britannica",
+        "tanner"
+      ]
+    }
   ],
   "condemnations": [
-    {"date": "754", "by": "Council of Hieria", "authority": "Iconoclast council under Constantine V", "reason": "Anathematized defenders of icons, including Patriarch Germanus I, George of Cyprus, and John of Damascus", "status": "Reversed by the Second Council of Nicaea, which praised them", "sources": ["price", "brubaker-haldon"]},
-    {"date": "787", "by": "Second Council of Nicaea", "authority": "Council of bishops under Irene and Constantine VI", "reason": "Council of Hieria rejected and iconoclasm anathematized, including the leaders of Hieria (Theodosius of Ephesus, Sisinnius Pastillas, and Basil Tricaccabus)", "status": "Not reversed (the iconoclast council of 815 annulled it, but icons were restored in 843)", "sources": ["price", "tanner"]}
+    {
+      "date": "754",
+      "by": "Council of Hieria",
+      "authority": "Iconoclast council under Constantine V",
+      "reason": "Anathematized defenders of icons, including Patriarch Germanus I, George of Cyprus, and John of Damascus",
+      "status": "Reversed by the Second Council of Nicaea, which praised them",
+      "sources": [
+        "price",
+        "brubaker-haldon"
+      ]
+    },
+    {
+      "date": "787",
+      "by": "Second Council of Nicaea",
+      "authority": "Council of bishops under Irene and Constantine VI",
+      "reason": "Council of Hieria rejected and iconoclasm anathematized, including the leaders of Hieria (Theodosius of Ephesus, Sisinnius Pastillas, and Basil Tricaccabus)",
+      "status": "Not reversed (the iconoclast council of 815 annulled it, but icons were restored in 843)",
+      "sources": [
+        "price",
+        "tanner"
+      ]
+    }
   ],
   "persecution_note": "The council itself readmitted repentant iconoclast bishops rather than punishing them. The violence of the controversy came under the iconoclast emperors before and after it.",
   "persecution": [
-    {"year": 765, "date": "c. 760s", "title": "Persecution of monks under Constantine V (before the council)", "summary": "Constantine V's government attacked monasteries, which defended icons. The monk Stephen the Younger was killed by a mob in Constantinople in 765; monks were forced to parade in the Hippodrome with women, and the governor Michael Lachanodrakon closed monasteries in the Thrakesion theme and seized their property. Some of these accounts come from later, hostile iconophile sources.", "responsible": [
-      {"name": "Constantine V", "role": "Byzantine emperor", "jurisdiction": "Byzantine Empire", "type": "state"},
-      {"name": "Michael Lachanodrakon", "role": "Military governor of the Thrakesion theme", "jurisdiction": "Byzantine Empire", "type": "state"},
-      {"name": "Crowds in Constantinople", "role": "Killed Stephen the Younger", "jurisdiction": "Constantinople", "type": "group"}
-    ], "outcome": "Deaths, mutilations, exile, and closure of monasteries; the scale is debated.", "sources": ["brubaker-haldon", "britannica"]},
-    {"year": 836, "date": "815–843", "title": "Second iconoclasm (after the council)", "summary": "After Leo V restored iconoclasm in 815, iconophile leaders were exiled, including Patriarch Nikephoros and Theodore the Studite. Under Theophilos the brothers Theodore and Theophanes, called the Graptoi ('the written-upon'), had iconoclast verses tattooed on their faces.", "responsible": [
-      {"name": "Leo V and Michael II", "role": "Byzantine emperors", "jurisdiction": "Byzantine Empire", "type": "state"},
-      {"name": "Theophilos", "role": "Byzantine emperor", "jurisdiction": "Byzantine Empire", "type": "state"},
-      {"name": "Iconoclast council of 815", "role": "Annulled Nicaea II", "jurisdiction": "Patriarchate of Constantinople", "type": "church"}
-    ], "outcome": "Ended in 843 when Empress Theodora restored icons.", "sources": ["brubaker-haldon", "britannica"]}
+    {
+      "year": 765,
+      "date": "c. 760s",
+      "title": "Persecution of monks under Constantine V (before the council)",
+      "summary": "Constantine V's government attacked monasteries, which defended icons. The monk Stephen the Younger was killed by a mob in Constantinople in 765; monks were forced to parade in the Hippodrome with women, and the governor Michael Lachanodrakon closed monasteries in the Thrakesion theme and seized their property. Some of these accounts come from later, hostile iconophile sources.",
+      "responsible": [
+        {
+          "name": "Constantine V",
+          "role": "Byzantine emperor",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "Michael Lachanodrakon",
+          "role": "Military governor of the Thrakesion theme",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "Crowds in Constantinople",
+          "role": "Killed Stephen the Younger",
+          "jurisdiction": "Constantinople",
+          "type": "group"
+        }
+      ],
+      "outcome": "Deaths, mutilations, exile, and closure of monasteries; the scale is debated.",
+      "sources": [
+        "brubaker-haldon",
+        "britannica"
+      ]
+    },
+    {
+      "year": 836,
+      "date": "815–843",
+      "title": "Second iconoclasm (after the council)",
+      "summary": "After Leo V restored iconoclasm in 815, iconophile leaders were exiled, including Patriarch Nikephoros and Theodore the Studite. Under Theophilos the brothers Theodore and Theophanes, called the Graptoi ('the written-upon'), had iconoclast verses tattooed on their faces.",
+      "responsible": [
+        {
+          "name": "Leo V and Michael II",
+          "role": "Byzantine emperors",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "Theophilos",
+          "role": "Byzantine emperor",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "Iconoclast council of 815",
+          "role": "Annulled Nicaea II",
+          "jurisdiction": "Patriarchate of Constantinople",
+          "type": "church"
+        }
+      ],
+      "outcome": "Ended in 843 when Empress Theodora restored icons.",
+      "sources": [
+        "brubaker-haldon",
+        "britannica"
+      ]
+    }
   ],
   "sources": [
-    {"id": "price", "type": "primary", "citation": "Richard Price (trans.), The Acts of the Second Council of Nicaea (787). Translated Texts for Historians 68. Liverpool: Liverpool University Press, 2018."},
-    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
-    {"id": "brubaker-haldon", "type": "scholarly", "citation": "Leslie Brubaker and John Haldon, Byzantium in the Iconoclast Era, c. 680–850: A History. Cambridge: Cambridge University Press, 2011."},
-    {"id": "britannica", "type": "reference", "citation": "\"Second Council of Nicaea.\" Encyclopaedia Britannica."}
+    {
+      "id": "price",
+      "type": "primary",
+      "citation": "Richard Price (trans.), The Acts of the Second Council of Nicaea (787). Translated Texts for Historians 68. Liverpool: Liverpool University Press, 2018."
+    },
+    {
+      "id": "tanner",
+      "type": "primary",
+      "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 1. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."
+    },
+    {
+      "id": "brubaker-haldon",
+      "type": "scholarly",
+      "citation": "Leslie Brubaker and John Haldon, Byzantium in the Iconoclast Era, c. 680–850: A History. Cambridge: Cambridge University Press, 2011."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Second Council of Nicaea.\" Encyclopaedia Britannica."
+    }
   ]
 }

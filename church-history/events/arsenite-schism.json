@@ -1,0 +1,218 @@
+{
+  "name": "Arsenite Schism",
+  "slug": "arsenite-schism",
+  "era": "Medieval",
+  "event_type": "schism",
+  "summary": "A split in the Byzantine church after Patriarch Arsenios excommunicated Emperor Michael VIII for blinding the boy emperor John IV, and was deposed for it; his followers refused communion with the official patriarchs for over 40 years.",
+  "place": "Constantinople and the Byzantine Empire",
+  "start": {
+    "year": 1262,
+    "circa": true,
+    "date": "c. 1262 (excommunication of Michael VIII)",
+    "sources": [
+      "nicol",
+      "papadakis"
+    ],
+    "label": "Patriarch Arsenios excommunicates Michael VIII for blinding John IV"
+  },
+  "end": {
+    "year": 1310,
+    "date": "September 1310 (reconciliation)",
+    "sources": [
+      "nicol",
+      "papadakis"
+    ],
+    "label": "Arsenites reconciled with the official church under Andronikos II"
+  },
+  "key_dates": [
+    {
+      "year": 1265,
+      "label": "Arsenios deposed and exiled by a synod at Michael VIII's demand",
+      "sources": [
+        "nicol",
+        "papadakis"
+      ]
+    },
+    {
+      "year": 1267,
+      "label": "Patriarch Joseph I absolves Michael VIII",
+      "sources": [
+        "papadakis"
+      ]
+    },
+    {
+      "year": 1284,
+      "label": "Arsenios's remains brought back to Constantinople under Andronikos II",
+      "sources": [
+        "nicol"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "Michael VIII Palaiologos, co-emperor and regent for the child John IV Laskaris, recaptured Constantinople in 1261 and then had John IV, aged 11, blinded on Christmas Day 1261 to remove him as a rival.",
+      "sources": [
+        "nicol",
+        "geanakoplos"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "Patriarch Arsenios Autoreianos excommunicated Michael VIII for the crime.",
+      "sources": [
+        "papadakis",
+        "nicol"
+      ]
+    },
+    {
+      "text": "Michael had a synod depose Arsenios in 1265 on charges including communion with the sultan of Iconium, and exiled him to the island of Proconnesus, where he died in 1273.",
+      "sources": [
+        "nicol",
+        "papadakis"
+      ]
+    },
+    {
+      "text": "Many monks and laypeople, the 'Arsenites', refused to recognize his successors Germanos III and Joseph I, who absolved the emperor in 1267, and formed a separate party in church and politics.",
+      "sources": [
+        "papadakis",
+        "nicol"
+      ]
+    },
+    {
+      "text": "The split overlapped with resistance to Michael VIII's union with Rome at the Second Council of Lyon (1274).",
+      "sources": [
+        "papadakis",
+        "geanakoplos"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Arsenios Autoreianos",
+      "role": "Patriarch of Constantinople who excommunicated the emperor"
+    },
+    {
+      "name": "Michael VIII Palaiologos",
+      "role": "Byzantine emperor who blinded John IV"
+    },
+    {
+      "name": "John IV Laskaris",
+      "role": "Boy emperor blinded and imprisoned"
+    },
+    {
+      "name": "Joseph I",
+      "role": "Patriarch who absolved Michael VIII"
+    },
+    {
+      "name": "Andronikos II Palaiologos",
+      "role": "Emperor who worked to reconcile the Arsenites"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "Andronikos II, Michael's son, brought Arsenios's remains back to the capital (1284), visited the blind John IV to seek forgiveness (1290), and finally reconciled the Arsenites in 1310.",
+      "sources": [
+        "nicol"
+      ]
+    },
+    {
+      "text": "The schism showed a patriarch using excommunication against an emperor and the emperor using a synod to remove him, a recurring pattern in Byzantium.",
+      "sources": [
+        "papadakis"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "c. 1262",
+      "by": "Patriarch Arsenios",
+      "authority": "Patriarchate of Constantinople",
+      "reason": "Michael VIII excommunicated for blinding John IV",
+      "status": "Lifted by Patriarch Joseph I in 1267 after the emperor did penance",
+      "sources": [
+        "papadakis",
+        "nicol"
+      ]
+    },
+    {
+      "date": "1265",
+      "by": "Synod in Constantinople",
+      "authority": "Patriarchate of Constantinople, at the emperor's demand",
+      "reason": "Patriarch Arsenios deposed",
+      "status": "His memory was restored when his remains were honored in 1284",
+      "sources": [
+        "nicol"
+      ]
+    }
+  ],
+  "persecution_note": "",
+  "persecution": [
+    {
+      "year": 1261,
+      "date": "25 December 1261 onward",
+      "title": "Blinding and imprisonment of John IV",
+      "summary": "On Michael VIII's orders the 11-year-old emperor John IV Laskaris was blinded and imprisoned in a fortress in Bithynia, where he lived for decades.",
+      "responsible": [
+        {
+          "name": "Michael VIII Palaiologos",
+          "role": "Byzantine emperor",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "John IV lived in confinement until about 1305.",
+      "sources": [
+        "nicol",
+        "geanakoplos"
+      ]
+    },
+    {
+      "year": 1265,
+      "date": "1265–1273",
+      "title": "Deposition and exile of Arsenios",
+      "summary": "The patriarch was deposed by a synod packed with the emperor's supporters and exiled; Arsenite clergy and monks who refused communion with his successors were harassed, imprisoned, or exiled.",
+      "responsible": [
+        {
+          "name": "Michael VIII Palaiologos",
+          "role": "Byzantine emperor",
+          "jurisdiction": "Byzantine Empire",
+          "type": "state"
+        },
+        {
+          "name": "Synod of Constantinople (1265)",
+          "role": "Deposed Arsenios",
+          "jurisdiction": "Patriarchate of Constantinople",
+          "type": "church"
+        }
+      ],
+      "outcome": "Arsenios died in exile in 1273.",
+      "sources": [
+        "nicol",
+        "papadakis"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "geanakoplos",
+      "type": "scholarly",
+      "citation": "Deno John Geanakoplos, Emperor Michael Palaeologus and the West, 1258–1282. Cambridge, MA: Harvard University Press, 1959."
+    },
+    {
+      "id": "nicol",
+      "type": "scholarly",
+      "citation": "Donald M. Nicol, The Last Centuries of Byzantium, 1261–1453, 2nd ed. Cambridge: Cambridge University Press, 1993."
+    },
+    {
+      "id": "papadakis",
+      "type": "scholarly",
+      "citation": "Aristeides Papadakis with John Meyendorff, The Christian East and the Rise of the Papacy: The Church 1071–1453 A.D. Crestwood, NY: St Vladimir's Seminary Press, 1994."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Michael VIII Palaeologus.\" Encyclopaedia Britannica."
+    }
+  ]
+}

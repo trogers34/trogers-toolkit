@@ -1,0 +1,148 @@
+{
+  "name": "Russian Church Abroad Split",
+  "slug": "russian-church-abroad-split",
+  "also_known_as": "Russian Orthodox Church Outside of Russia (ROCOR) and the Moscow Patriarchate, 1927–2007",
+  "era": "Modern",
+  "event_type": "schism",
+  "summary": "The 80-year separation between the Russian Orthodox Church in the Soviet Union and the émigré Russian Church Abroad, which broke with Moscow over its loyalty to the Soviet state and reunited in 2007.",
+  "place": "Sremski Karlovci (Serbia), later New York; Moscow",
+  "start": {
+    "year": 1927,
+    "date": "1927 (Metropolitan Sergius's declaration of loyalty)",
+    "sources": [
+      "pospielovsky",
+      "ware"
+    ],
+    "label": "Metropolitan Sergius pledges loyalty to the Soviet state; the Church Abroad breaks with Moscow"
+  },
+  "end": {
+    "year": 2007,
+    "date": "17 May 2007 (Act of Canonical Communion)",
+    "sources": [
+      "ware",
+      "britannica"
+    ],
+    "label": "Act of Canonical Communion reunites the two churches"
+  },
+  "background": [
+    {
+      "text": "Bishops who fled the Russian Civil War formed a church administration abroad, holding their first council at Sremski Karlovci in Yugoslavia in 1921.",
+      "sources": [
+        "pospielovsky",
+        "ware"
+      ]
+    },
+    {
+      "text": "In the Soviet Union the church was persecuted: Patriarch Tikhon was arrested in 1922, and thousands of bishops, priests, and believers were imprisoned or killed in the following decades.",
+      "sources": [
+        "pospielovsky",
+        "britannica"
+      ]
+    }
+  ],
+  "happened": [
+    {
+      "text": "In 1927 Metropolitan Sergius (Stragorodsky), acting head of the Moscow church, declared its loyalty to the Soviet government; the Church Abroad rejected the declaration and broke with Moscow.",
+      "sources": [
+        "pospielovsky",
+        "ware"
+      ]
+    },
+    {
+      "text": "The Church Abroad moved its headquarters to the United States in 1950 and canonized the 'New Martyrs' of the Soviet era, including the family of Nicholas II, in 1981; the Moscow church canonized them in 2000.",
+      "sources": [
+        "ware",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After the fall of the Soviet Union, talks led to the Act of Canonical Communion, signed in Moscow's Cathedral of Christ the Saviour on 17 May 2007 by Patriarch Alexy II and Metropolitan Laurus.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "participants": [
+    {
+      "name": "Metropolitan Sergius (Stragorodsky)",
+      "role": "Acting head of the Moscow church; issued the 1927 declaration"
+    },
+    {
+      "name": "Metropolitan Antony (Khrapovitsky)",
+      "role": "First head of the Church Abroad"
+    },
+    {
+      "name": "Alexy II",
+      "role": "Patriarch of Moscow who signed the 2007 reunion"
+    },
+    {
+      "name": "Metropolitan Laurus (Škurla)",
+      "role": "First hierarch of the Church Abroad who signed the 2007 reunion"
+    }
+  ],
+  "outcomes": [
+    {
+      "text": "The Church Abroad became a self-governing part of the Moscow Patriarchate; a minority rejected the reunion and formed separate groups.",
+      "sources": [
+        "britannica"
+      ]
+    }
+  ],
+  "condemnations": [
+    {
+      "date": "1928",
+      "by": "Metropolitan Sergius and his synod",
+      "authority": "Moscow Patriarchate (acting)",
+      "reason": "The bishops of the Church Abroad suspended and declared outside the church for refusing loyalty to the Soviet government",
+      "status": "Lifted by the 2007 reunion",
+      "sources": [
+        "pospielovsky"
+      ]
+    }
+  ],
+  "persecution_note": "The split arose from the Soviet state's persecution of the church, which killed many thousands of clergy and believers.",
+  "persecution": [
+    {
+      "year": 1937,
+      "date": "1918–1941, especially 1937–38",
+      "title": "Soviet persecution of the Russian church",
+      "summary": "The Soviet government confiscated church property, closed most churches and monasteries, and arrested, imprisoned, and executed bishops, priests, monks, and laypeople, above all in the Great Terror of 1937–38. The Church Abroad's refusal of loyalty to this state was the root of the split.",
+      "responsible": [
+        {
+          "name": "Soviet government and Communist Party",
+          "role": "Directed the persecution",
+          "jurisdiction": "Union of Soviet Socialist Republics",
+          "type": "state"
+        },
+        {
+          "name": "OGPU and NKVD",
+          "role": "Secret police who carried out arrests and executions",
+          "jurisdiction": "Union of Soviet Socialist Republics",
+          "type": "state"
+        }
+      ],
+      "outcome": "By 1939 only a few hundred churches remained open in the Soviet Union.",
+      "sources": [
+        "pospielovsky",
+        "britannica"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "pospielovsky",
+      "type": "scholarly",
+      "citation": "Dimitry Pospielovsky, The Russian Church under the Soviet Regime, 1917–1982, 2 vols. Crestwood, NY: St Vladimir's Seminary Press, 1984."
+    },
+    {
+      "id": "ware",
+      "type": "scholarly",
+      "citation": "Timothy (Kallistos) Ware, The Orthodox Church, new ed. London: Penguin, 1993."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Russian Orthodox Church Outside of Russia\" and \"Russian Orthodox Church.\" Encyclopaedia Britannica."
+    }
+  ]
+}

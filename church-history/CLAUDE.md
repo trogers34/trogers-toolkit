@@ -117,6 +117,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - George Whitefield (`george-whitefield`): the user wrote "Whitfield" (the pronunciation)
 - John Wesley (`john-wesley`): starter example
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
+- John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
@@ -239,7 +240,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Anselm of Canterbury (ontological argument, Cur Deus Homo, two exiles under William II and
+- John Henry Newman (Tract 90 censure, the Achilli libel conviction, suspicion in Rome).
+  42 people, 14 events.
+- **PR #71**: Anselm of Canterbury (ontological argument, Cur Deus Homo, two exiles under William II and
   Henry I) and Richard Hooker (Laws of Ecclesiastical Polity, the Travers dispute). 41 people, 14 events.
 - **PR #70**: George Whitefield (his campaign for slavery in Georgia, the 1740 Charleston suspension, mobs)
   and G. K. Chesterton (Marconi affair and antisemitism charges; misattributed quotations).

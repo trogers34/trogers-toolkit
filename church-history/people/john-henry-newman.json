@@ -1,0 +1,69 @@
+{
+  "name": "John Henry Newman",
+  "slug": "john-henry-newman",
+  "also_known_as": "Saint John Henry Newman; Cardinal Newman",
+  "era": "Modern",
+  "role": "Anglican priest and leader of the Oxford Movement; later Catholic priest and cardinal",
+  "born": {"year": 1801, "date": "21 February 1801", "place": "London, England", "sources": ["ker", "britannica"]},
+  "died": {"year": 1890, "date": "11 August 1890", "place": "Edgbaston, Birmingham, England", "sources": ["ker", "britannica"]},
+  "summary": "Leader of the Oxford Movement in the Church of England who became a Catholic in 1845, wrote the Apologia Pro Vita Sua and The Idea of a University, was made a cardinal, and was canonized in 2019.",
+  "key_dates": [
+    {"year": 1822, "label": "Elected fellow of Oriel College, Oxford", "sources": ["ker", "apologia"]},
+    {"year": 1828, "label": "Becomes vicar of the University Church of St Mary the Virgin, Oxford", "sources": ["ker", "britannica"]},
+    {"year": 1833, "label": "Writes \"Lead, Kindly Light\"; the Oxford Movement begins and he starts the Tracts for the Times", "sources": ["apologia", "ker"]},
+    {"year": 1841, "label": "Tract 90 is censured by the Oxford heads of houses; the Tracts end", "sources": ["apologia", "ker"]},
+    {"year": 1845, "label": "Received into the Catholic Church at Littlemore (9 October); publishes An Essay on the Development of Christian Doctrine", "sources": ["apologia", "ker"]},
+    {"year": 1848, "label": "Founds the Birmingham Oratory, after his ordination as a Catholic priest in Rome (1847)", "sources": ["ker", "britannica"]},
+    {"year": 1853, "label": "Fined for libelling Giacinto Achilli (January)", "sources": ["ker", "gilley"]},
+    {"year": 1854, "label": "Becomes rector of the Catholic University of Ireland in Dublin (to 1858)", "sources": ["idea", "ker"]},
+    {"year": 1864, "label": "Publishes the Apologia Pro Vita Sua, in reply to Charles Kingsley", "sources": ["apologia", "ker"]},
+    {"year": 1879, "label": "Made a cardinal by Pope Leo XIII", "sources": ["ker", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Led the Oxford Movement, which sought to recover the Catholic heritage of the Church of England, writing many of the Tracts for the Times (1833–41) and preaching influential Parochial and Plain Sermons at St Mary's.", "sources": ["apologia", "ker"]},
+    {"text": "Argued in Tract 90 (1841) that the Thirty-Nine Articles could be read in harmony with Catholic teaching, which caused an uproar and was officially censured at Oxford.", "sources": ["apologia", "ker"]},
+    {"text": "Left the Church of England for the Catholic Church in 1845, a conversion that shocked Victorian England and was followed by many others.", "sources": ["apologia", "britannica"]},
+    {"text": "Wrote An Essay on the Development of Christian Doctrine (1845), arguing that doctrine develops over time while remaining faithful to its origins.", "sources": ["ker", "britannica"]},
+    {"text": "Wrote the Apologia Pro Vita Sua (1864), an account of his religious life in answer to Charles Kingsley's charge that he did not value truth; it restored his reputation in England.", "sources": ["apologia", "ker"]},
+    {"text": "Set out an ideal of liberal education in the lectures published as The Idea of a University, given as rector of the new Catholic University of Ireland.", "sources": ["idea", "ker"]},
+    {"text": "Wrote the hymn \"Lead, Kindly Light\", the poem The Dream of Gerontius (1865), later set to music by Edward Elgar, and An Essay in Aid of a Grammar of Assent (1870).", "sources": ["ker", "britannica"]},
+    {"text": "Thought the definition of papal infallibility in 1870 unwise but accepted it, and defended the rights of conscience in his Letter to the Duke of Norfolk (1875).", "sources": ["ker", "gilley"]},
+    {"text": "Was distrusted by some Catholic authorities for years, including Cardinal Henry Manning, who opposed his plans for an Oratory at Oxford; Leo XIII's choice to make him a cardinal in 1879 was seen as vindication.", "sources": ["ker", "gilley"]},
+    {"text": "Was beatified by Benedict XVI in 2010 and canonized by Francis on 13 October 2019. He had asked to be buried in the grave of his close friend Ambrose St John; when the grave was opened in 2008 to move his remains, none were found.", "sources": ["britannica", "ker"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "Lead, Kindly Light, amid the encircling gloom, lead thou me on!", "reference": "\"The Pillar of the Cloud\" (1833)", "sources": ["ker"]},
+      {"phrase": "To live is to change, and to be perfect is to have changed often.", "reference": "An Essay on the Development of Christian Doctrine (1845), chapter 1", "sources": ["britannica"]},
+      {"phrase": "Ten thousand difficulties do not make one doubt.", "reference": "Apologia Pro Vita Sua (1864), chapter 5", "sources": ["apologia"]},
+      {"phrase": "I shall drink—to the Pope, if you please,—still, to Conscience first, and to the Pope afterwards.", "reference": "Letter to the Duke of Norfolk (1875), section 5", "sources": ["gilley", "ker"]}
+    ]
+  },
+  "persecution_note": "Newman was never imprisoned. He was officially censured at Oxford over Tract 90, convicted of criminal libel in 1852 in a case backed by anti-Catholic campaigners, and for years viewed with suspicion by some Catholic authorities.",
+  "persecution": [
+    {"year": 1841, "date": "March 1841", "title": "Censure of Tract 90", "summary": "The Hebdomadal Board of Oxford's heads of houses condemned Tract 90 as evading the meaning of the Thirty-Nine Articles. Newman's bishop, Richard Bagot of Oxford, asked him to stop the Tracts, and over the following years many bishops attacked him in their charges.", "responsible": [
+      {"name": "Hebdomadal Board (heads of houses), University of Oxford", "role": "Censured Tract 90", "jurisdiction": "University of Oxford", "type": "group"},
+      {"name": "Richard Bagot", "role": "Bishop of Oxford; had the Tracts stopped", "jurisdiction": "Diocese of Oxford, Church of England", "type": "church"},
+      {"name": "Church of England bishops", "role": "Condemned Tract 90 in their charges", "jurisdiction": "Church of England", "type": "church"}
+    ], "outcome": "The Tracts ended; Newman withdrew to Littlemore and left the Church of England in 1845.", "sources": ["apologia", "ker"]},
+    {"year": 1852, "date": "June 1852 – January 1853", "title": "The Achilli libel trial", "summary": "In a public lecture Newman repeated charges of sexual misconduct against Giacinto Achilli, a former Dominican friar touring England as an anti-Catholic speaker. Achilli, supported by evangelical anti-Catholic campaigners, sued for criminal libel. The jury convicted Newman in June 1852 although he had gathered witnesses to support the charges; he was fined £100 and lectured from the bench by Justice John Taylor Coleridge. The Times criticized the conduct of the trial.", "responsible": [
+      {"name": "Giacinto Achilli", "role": "Brought the prosecution", "jurisdiction": "England", "type": "individual"},
+      {"name": "Court of Queen's Bench (Lord Chief Justice Lord Campbell; Justice Coleridge at sentencing)", "role": "Tried and sentenced him", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Evangelical anti-Catholic supporters of Achilli", "role": "Backed the prosecution", "jurisdiction": "England", "type": "group"}
+    ], "outcome": "Convicted and fined; Catholics worldwide raised money to pay his costs of about £12,000.", "sources": ["ker", "gilley"]},
+    {"year": 1859, "date": "1859–1867", "title": "Reported to Rome by a fellow Catholic bishop", "summary": "After Newman's article 'On Consulting the Faithful in Matters of Doctrine' (1859), Bishop Thomas Brown of Newport reported him to Rome for heresy. Newman offered to explain himself, but the questions Rome sent never reached him, and he remained under suspicion in Rome for years.", "responsible": [
+      {"name": "Thomas Joseph Brown", "role": "Bishop of Newport and Menevia; reported him to Rome", "jurisdiction": "Catholic Church in Wales", "type": "church"},
+      {"name": "Henry Edward Manning and others in Rome and England", "role": "Opposed and distrusted him", "jurisdiction": "Catholic Church", "type": "church"}
+    ], "outcome": "No formal action; the matter ended with his elevation to cardinal in 1879.", "sources": ["ker", "gilley"]}
+  ],
+  "excommunication_note": "Newman was never excommunicated by either church. By becoming a Catholic he left the Church of England, which deprived him of nothing formally since he had already resigned his living. The censure of Tract 90 and the Roman complaint are covered above.",
+  "excommunications": [],
+  "sources": [
+    {"id": "apologia", "type": "primary", "citation": "John Henry Newman, Apologia Pro Vita Sua. London: Longman, 1864."},
+    {"id": "idea", "type": "primary", "citation": "John Henry Newman, The Idea of a University Defined and Illustrated. London: Basil Montagu Pickering, 1873."},
+    {"id": "ker", "type": "scholarly", "citation": "Ian Ker, John Henry Newman: A Biography. Oxford: Clarendon Press, 1988."},
+    {"id": "gilley", "type": "scholarly", "citation": "Sheridan Gilley, Newman and His Age. London: Darton, Longman & Todd, 1990."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint John Henry Newman.\" Encyclopaedia Britannica."}
+  ]
+}

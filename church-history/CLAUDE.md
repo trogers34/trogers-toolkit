@@ -133,6 +133,7 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Third Council of Constantinople, 680–681, 6th ecumenical (event: `third-council-of-constantinople`)
 - Second Council of Nicaea, 787, 7th ecumenical (event: `second-council-of-nicaea`)
 - Great Schism of 1054 (event: `great-schism`)
+- The Crusades, 1095–1291 (event: `the-crusades`): one event with each major crusade as a key date
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
@@ -234,7 +235,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- John Calvin (Servetus, Gruet, and the 1545 plague trials in a victims list; linked to the Council
+- The Crusades (1095–1291) as one event, with violence on all sides and who was responsible
+  (Rhineland 1096, Jerusalem 1099, Hattin 1187, York 1190, Acre 1191, Constantinople 1204,
+  Béziers 1209, Antioch 1268). 37 people, 14 events.
+- **PR #68**: John Calvin (Servetus, Gruet, and the 1545 plague trials in a victims list; linked to the Council
   of Trent) and Huldrych Zwingli (Felix Manz in a victims list; death at Kappel). 37 people, 13 events.
 - **PR #67**: J. Gresham Machen (assumed for "J Gresham Mencken"), with his 1935–36 suspension from the
   PCUSA ministry. 35 people, 13 events.

@@ -15,11 +15,12 @@
   "died": {
     "year": 1556,
     "date": "21 March 1556",
-    "place": "Oxford, England; burned at the stake for heresy",
+    "place": "Oxford, England",
     "sources": [
       "foxe",
       "macculloch"
-    ]
+    ],
+    "cause": "Burned at the stake for heresy"
   },
   "summary": "Archbishop of Canterbury under Henry VIII and Edward VI who annulled Henry's first marriage, led the English Reformation's changes to worship, and wrote the Book of Common Prayer. Under Mary I he was tried for heresy, recanted, then withdrew his recantations and was burned.",
   "key_dates": [

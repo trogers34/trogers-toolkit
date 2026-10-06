@@ -8,34 +8,142 @@
     "year": 354,
     "date": "13 November 354",
     "place": "Thagaste, Numidia (modern Souk Ahras, Algeria)",
-    "sources": ["brown", "britannica"]
+    "sources": [
+      "brown",
+      "britannica"
+    ]
   },
   "died": {
     "year": 430,
     "date": "28 August 430",
     "place": "Hippo Regius (modern Annaba, Algeria), during the Vandal siege",
-    "sources": ["possidius", "brown"]
+    "sources": [
+      "possidius",
+      "brown"
+    ],
+    "cause": "Fever (illness), during the Vandal siege of Hippo"
   },
   "summary": "North African bishop whose writings on grace, sin, the Church, and the two cities shaped Western theology more than any other author after the apostle Paul.",
   "key_dates": [
-    {"year": 373, "label": "Reads Cicero's Hortensius and turns to the search for wisdom", "sources": ["confessions"]},
-    {"year": 384, "label": "Appointed professor of rhetoric at Milan", "sources": ["confessions", "brown"]},
-    {"year": 386, "label": "Conversion in a garden in Milan (\"take up and read\")", "sources": ["confessions"]},
-    {"year": 387, "label": "Baptized by Ambrose of Milan at Easter", "sources": ["confessions", "brown"]},
-    {"year": 391, "label": "Ordained priest at Hippo Regius", "sources": ["possidius", "brown"]},
-    {"year": 396, "label": "Becomes bishop of Hippo", "sources": ["possidius", "brown"]},
-    {"year": 397, "label": "Begins writing the Confessions (c. 397–400)", "circa": true, "sources": ["brown"]},
-    {"year": 413, "label": "Begins The City of God (completed 426)", "sources": ["brown", "britannica"]}
+    {
+      "year": 373,
+      "label": "Reads Cicero's Hortensius and turns to the search for wisdom",
+      "sources": [
+        "confessions"
+      ]
+    },
+    {
+      "year": 384,
+      "label": "Appointed professor of rhetoric at Milan",
+      "sources": [
+        "confessions",
+        "brown"
+      ]
+    },
+    {
+      "year": 386,
+      "label": "Conversion in a garden in Milan (\"take up and read\")",
+      "sources": [
+        "confessions"
+      ]
+    },
+    {
+      "year": 387,
+      "label": "Baptized by Ambrose of Milan at Easter",
+      "sources": [
+        "confessions",
+        "brown"
+      ]
+    },
+    {
+      "year": 391,
+      "label": "Ordained priest at Hippo Regius",
+      "sources": [
+        "possidius",
+        "brown"
+      ]
+    },
+    {
+      "year": 396,
+      "label": "Becomes bishop of Hippo",
+      "sources": [
+        "possidius",
+        "brown"
+      ]
+    },
+    {
+      "year": 397,
+      "label": "Begins writing the Confessions (c. 397–400)",
+      "circa": true,
+      "sources": [
+        "brown"
+      ]
+    },
+    {
+      "year": 413,
+      "label": "Begins The City of God (completed 426)",
+      "sources": [
+        "brown",
+        "britannica"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Wrote the Confessions, an autobiographical prayer to God often called the first Western autobiography, tracing his restless search ending in conversion.", "sources": ["confessions", "brown"]},
-    {"text": "Wrote The City of God (413–426) in response to pagan claims that Christianity caused the sack of Rome by the Goths in 410, contrasting the earthly city with the city of God.", "sources": ["brown", "britannica"]},
-    {"text": "Served about 35 years as bishop of Hippo, preaching, judging disputes, and living in community with his clergy under a common rule.", "sources": ["possidius", "brown"]},
-    {"text": "Opposed the Manichaeans, whose sect he had followed for about nine years before his conversion, writing several works against their dualism.", "sources": ["confessions", "brown"]},
-    {"text": "Led the Catholic side against the Donatist schism in North Africa, including the conference of Carthage in 411.", "sources": ["brown", "britannica"]},
-    {"text": "Defended the priority of God's grace against Pelagius and his followers, whose teaching was condemned by African councils (Carthage, 418).", "sources": ["brown", "britannica"]},
-    {"text": "Wrote On the Trinity, a major work of Latin theology on the doctrine of God.", "sources": ["britannica"]},
-    {"text": "Near the end of his life wrote the Retractations (c. 426–427), reviewing and correcting his own earlier works.", "sources": ["brown", "possidius"]}
+    {
+      "text": "Wrote the Confessions, an autobiographical prayer to God often called the first Western autobiography, tracing his restless search ending in conversion.",
+      "sources": [
+        "confessions",
+        "brown"
+      ]
+    },
+    {
+      "text": "Wrote The City of God (413–426) in response to pagan claims that Christianity caused the sack of Rome by the Goths in 410, contrasting the earthly city with the city of God.",
+      "sources": [
+        "brown",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Served about 35 years as bishop of Hippo, preaching, judging disputes, and living in community with his clergy under a common rule.",
+      "sources": [
+        "possidius",
+        "brown"
+      ]
+    },
+    {
+      "text": "Opposed the Manichaeans, whose sect he had followed for about nine years before his conversion, writing several works against their dualism.",
+      "sources": [
+        "confessions",
+        "brown"
+      ]
+    },
+    {
+      "text": "Led the Catholic side against the Donatist schism in North Africa, including the conference of Carthage in 411.",
+      "sources": [
+        "brown",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Defended the priority of God's grace against Pelagius and his followers, whose teaching was condemned by African councils (Carthage, 418).",
+      "sources": [
+        "brown",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On the Trinity, a major work of Latin theology on the doctrine of God.",
+      "sources": [
+        "britannica"
+      ]
+    },
+    {
+      "text": "Near the end of his life wrote the Retractations (c. 426–427), reviewing and correcting his own earlier works.",
+      "sources": [
+        "brown",
+        "possidius"
+      ]
+    }
   ],
   "persecution_note": "Augustine was never arrested, tried, or executed. The one recorded attempt on his life came from Donatist militants during the Donatist controversy. He died of a fever during the Vandal siege of Hippo, not by violence.",
   "persecution": [
@@ -79,9 +187,27 @@
   "excommunication_note": "Augustine was never excommunicated. He remained a bishop in full communion with the Catholic Church in North Africa and with Rome until his death. (The Donatist and Catholic churches each rejected the other's clergy, but no sentence against Augustine personally is recorded.)",
   "excommunications": [],
   "sources": [
-    {"id": "confessions", "type": "primary", "citation": "Augustine, Confessions, trans. Henry Chadwick (Oxford: Oxford University Press, 1991).", "url": "https://ccel.org/ccel/augustine/confessions"},
-    {"id": "possidius", "type": "primary", "citation": "Possidius, The Life of Saint Augustine (Vita Augustini), c. 432. Written by Augustine's friend and fellow bishop."},
-    {"id": "brown", "type": "scholarly", "citation": "Peter Brown, Augustine of Hippo: A Biography, new ed. (Berkeley: University of California Press, 2000)."},
-    {"id": "britannica", "type": "reference", "citation": "\"Saint Augustine,\" Encyclopaedia Britannica.", "url": "https://www.britannica.com/biography/Saint-Augustine"}
+    {
+      "id": "confessions",
+      "type": "primary",
+      "citation": "Augustine, Confessions, trans. Henry Chadwick (Oxford: Oxford University Press, 1991).",
+      "url": "https://ccel.org/ccel/augustine/confessions"
+    },
+    {
+      "id": "possidius",
+      "type": "primary",
+      "citation": "Possidius, The Life of Saint Augustine (Vita Augustini), c. 432. Written by Augustine's friend and fellow bishop."
+    },
+    {
+      "id": "brown",
+      "type": "scholarly",
+      "citation": "Peter Brown, Augustine of Hippo: A Biography, new ed. (Berkeley: University of California Press, 2000)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Augustine,\" Encyclopaedia Britannica.",
+      "url": "https://www.britannica.com/biography/Saint-Augustine"
+    }
   ]
 }

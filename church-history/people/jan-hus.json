@@ -17,11 +17,12 @@
   "died": {
     "year": 1415,
     "date": "6 July 1415",
-    "place": "Constance (Konstanz), burned at the stake by order of the Council of Constance",
+    "place": "Constance (Konstanz), Holy Roman Empire",
     "sources": [
       "mladonovice",
       "fudge"
-    ]
+    ],
+    "cause": "Burned at the stake as a heretic"
   },
   "summary": "Czech priest and university master who preached church reform in Prague, drawing on Wycliffe's ideas. Despite a promise of safe conduct, he was arrested at the Council of Constance and burned as a heretic, and his death set off the Hussite movement.",
   "key_dates": [
@@ -387,10 +388,50 @@
   ],
   "excommunication_note": "Hus was excommunicated three times before his trial, each time more severely, and was finally condemned as a heretic and degraded from the priesthood by the Council of Constance. The sentences were never lifted. In 1999 Pope John Paul II expressed \"deep regret\" for Hus's cruel death, but did not formally revoke the condemnation.",
   "excommunications": [
-    {"date": "July 1410", "by": "Archbishop Zbyněk Zajíc of Hazmburk", "authority": "Archdiocese of Prague", "reason": "Continued preaching in the Bethlehem Chapel against Pope Alexander V's ban, and defended Wycliffe's books", "status": "Not lifted; Zbyněk died in 1411", "sources": ["spinka-bio", "fudge"]},
-    {"date": "February 1411", "by": "Cardinal Odo Colonna (later Pope Martin V)", "authority": "Papal curia of Pope John XXIII", "reason": "Did not appear in person when summoned to the papal court", "status": "Not lifted", "sources": ["spinka-bio", "fudge"]},
-    {"date": "1412", "by": "Cardinal Peter degli Stefaneschi", "authority": "Papal curia of Pope John XXIII", "reason": "Aggravated (major) excommunication after his opposition to the indulgence; Prague placed under interdict while he stayed there", "status": "Not lifted; he left Prague", "sources": ["spinka-bio", "fudge"]},
-    {"date": "6 July 1415", "by": "Council of Constance", "authority": "General council of the Western Church", "reason": "Condemned as a heretic; ritually degraded from the priesthood and handed to the secular power", "status": "Burned the same day. Never formally revoked; John Paul II expressed regret in 1999", "sources": ["mladonovice", "fudge"]}
+    {
+      "date": "July 1410",
+      "by": "Archbishop Zbyněk Zajíc of Hazmburk",
+      "authority": "Archdiocese of Prague",
+      "reason": "Continued preaching in the Bethlehem Chapel against Pope Alexander V's ban, and defended Wycliffe's books",
+      "status": "Not lifted; Zbyněk died in 1411",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "date": "February 1411",
+      "by": "Cardinal Odo Colonna (later Pope Martin V)",
+      "authority": "Papal curia of Pope John XXIII",
+      "reason": "Did not appear in person when summoned to the papal court",
+      "status": "Not lifted",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "date": "1412",
+      "by": "Cardinal Peter degli Stefaneschi",
+      "authority": "Papal curia of Pope John XXIII",
+      "reason": "Aggravated (major) excommunication after his opposition to the indulgence; Prague placed under interdict while he stayed there",
+      "status": "Not lifted; he left Prague",
+      "sources": [
+        "spinka-bio",
+        "fudge"
+      ]
+    },
+    {
+      "date": "6 July 1415",
+      "by": "Council of Constance",
+      "authority": "General council of the Western Church",
+      "reason": "Condemned as a heretic; ritually degraded from the priesthood and handed to the secular power",
+      "status": "Burned the same day. Never formally revoked; John Paul II expressed regret in 1999",
+      "sources": [
+        "mladonovice",
+        "fudge"
+      ]
+    }
   ],
   "sources": [
     {

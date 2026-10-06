@@ -55,7 +55,7 @@ To add one by hand, copy an existing file in `people/` and edit it. Field refere
 | `also_known_as`, `role` | optional |
 | `era` | groups people into the timeline zoom buttons: `Early Church`, `Medieval`, `Reformation`, `Modern` |
 | `summary` | one sentence |
-| `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources`, optional `circa: true` |
+| `born` / `died` | `year` (integer; negative for BC), `date` (display text), `place`, `sources`, optional `circa: true`. `died` also needs `cause` (how they died; "Unknown" if it is). The home page shows date, place, and cause |
 | `key_dates` | `year`, `label`, `sources`, optional `circa: true`. Shown on the home-page timeline |
 | `accomplishments` | `text`, `sources`. The bullet points on the person's page |
 | `sayings` | optional. `{"original": [...], "popularized": [...], "misattributed": [...]}`, each item `phrase`, `reference`, `note`, `sources`. Shown as "Words and sayings". `sayings_intro` adds a lead-in paragraph |

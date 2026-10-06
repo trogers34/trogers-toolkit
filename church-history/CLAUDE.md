@@ -48,6 +48,9 @@ the user has set and the list of everyone on the site.
     especially dogmas, shown as "Agreed:" in the home page's All key dates table and on the
     event page (the user: "put a small note on the second timeline about what the councils
     agreed to, especially dogmas"). The build requires it for councils.
+17. On the home page's key-dates table, births show the date and place of birth, and deaths the
+    date, place, and how they died (`died.cause`, required by the build; "Unknown" when it is).
+    Dates are exact where known and marked approximate (c.) where not.
 
 ## Adding a person
 
@@ -289,7 +292,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Denomination histories, option C chosen by the user: overview events for Baptist, Presbyterian,
+- Birth and death rows on the home page now show date, place, and (for deaths) cause; `died.cause`
+  added for all 44 people and required by the build.
+- **PR #78**: Denomination histories, option C chosen by the user: overview events for Baptist, Presbyterian,
   Anglican, Methodist, Lutheran, and Calvary Chapel ("denomination" event type), plus the Southern
   Baptist split, Disruption of 1843, Great Ejection, Methodist split of 1844, Prussian Union, and
   Vineyard split. Councils and dogma documents get an "Agreed:" note in the key-dates table.

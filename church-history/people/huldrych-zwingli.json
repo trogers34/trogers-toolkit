@@ -4,57 +4,291 @@
   "also_known_as": "Ulrich Zwingli",
   "era": "Reformation",
   "role": "Swiss Reformer, people's priest of the Grossmünster in Zürich",
-  "born": {"year": 1484, "date": "1 January 1484", "place": "Wildhaus, Toggenburg (modern Switzerland)", "sources": ["potter", "britannica"]},
-  "died": {"year": 1531, "date": "11 October 1531", "place": "Kappel am Albis, near Zürich (killed in battle)", "sources": ["potter", "britannica"]},
+  "born": {
+    "year": 1484,
+    "date": "1 January 1484",
+    "place": "Wildhaus, Toggenburg (modern Switzerland)",
+    "sources": [
+      "potter",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1531,
+    "date": "11 October 1531",
+    "place": "Kappel am Albis, near Zürich",
+    "sources": [
+      "potter",
+      "britannica"
+    ],
+    "cause": "Killed in battle at the Second Battle of Kappel"
+  },
   "summary": "Leader of the Reformation in Zürich, founder of the Reformed tradition, and opponent of Luther on the Lord's Supper, who was killed in battle against the Catholic Swiss cantons.",
   "key_dates": [
-    {"year": 1506, "label": "Ordained; becomes priest at Glarus", "sources": ["potter", "britannica"]},
-    {"year": 1515, "label": "With Glarus troops as chaplain at the Battle of Marignano; turns against mercenary service", "sources": ["potter"]},
-    {"year": 1519, "label": "Becomes people's priest at the Grossmünster, Zürich (1 January); preaches through Matthew", "sources": ["potter", "gordon"]},
-    {"year": 1522, "label": "Defends breaking the Lenten fast in the 'Affair of the Sausages'", "sources": ["gordon", "potter"]},
-    {"year": 1523, "label": "First Zürich Disputation (29 January) on his 67 Articles; the council backs him", "sources": ["writings", "gordon"]},
-    {"year": 1525, "label": "Mass abolished in Zürich; a simple Lord's Supper held at Easter", "sources": ["gordon", "potter"]},
-    {"year": 1527, "label": "Felix Manz, a former follower turned Anabaptist, drowned by the Zürich authorities (5 January)", "sources": ["harder", "gordon"]},
-    {"year": 1529, "label": "Marburg Colloquy with Luther (October) fails to agree on the Lord's Supper", "sources": ["stephens", "gordon"]},
-    {"year": 1531, "label": "Zürich's food blockade of the Catholic cantons leads to war; killed at the Second Battle of Kappel", "sources": ["gordon", "potter"]}
+    {
+      "year": 1506,
+      "label": "Ordained; becomes priest at Glarus",
+      "sources": [
+        "potter",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1515,
+      "label": "With Glarus troops as chaplain at the Battle of Marignano; turns against mercenary service",
+      "sources": [
+        "potter"
+      ]
+    },
+    {
+      "year": 1519,
+      "label": "Becomes people's priest at the Grossmünster, Zürich (1 January); preaches through Matthew",
+      "sources": [
+        "potter",
+        "gordon"
+      ]
+    },
+    {
+      "year": 1522,
+      "label": "Defends breaking the Lenten fast in the 'Affair of the Sausages'",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "year": 1523,
+      "label": "First Zürich Disputation (29 January) on his 67 Articles; the council backs him",
+      "sources": [
+        "writings",
+        "gordon"
+      ]
+    },
+    {
+      "year": 1525,
+      "label": "Mass abolished in Zürich; a simple Lord's Supper held at Easter",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "year": 1527,
+      "label": "Felix Manz, a former follower turned Anabaptist, drowned by the Zürich authorities (5 January)",
+      "sources": [
+        "harder",
+        "gordon"
+      ]
+    },
+    {
+      "year": 1529,
+      "label": "Marburg Colloquy with Luther (October) fails to agree on the Lord's Supper",
+      "sources": [
+        "stephens",
+        "gordon"
+      ]
+    },
+    {
+      "year": 1531,
+      "label": "Zürich's food blockade of the Catholic cantons leads to war; killed at the Second Battle of Kappel",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Led the Reformation in Zürich through preaching and public disputations, persuading the city council to adopt reform; it became the model for other Swiss cities.", "sources": ["gordon", "potter"]},
-    {"text": "Began preaching straight through books of the Bible (lectio continua) at the Grossmünster in 1519, rather than following the set readings.", "sources": ["potter", "gordon"]},
-    {"text": "Set out his program in 67 Articles for the First Zürich Disputation (1523), teaching that Scripture alone is authoritative.", "sources": ["writings", "stephens"]},
-    {"text": "Oversaw the removal of images from Zürich's churches (1524) and the replacement of the Mass with a simple Lord's Supper (1525).", "sources": ["gordon", "potter"]},
-    {"text": "Taught that the Lord's Supper is a memorial in which Christ's body is not physically present ('this signifies my body'), against Luther, which divided the Lutheran and Reformed churches.", "sources": ["stephens", "britannica"]},
-    {"text": "Founded the Prophezei (1525), a daily Bible study school that produced the Zürich Bible, published complete by Christoph Froschauer in 1531.", "sources": ["gordon"]},
-    {"text": "Opposed Swiss mercenary service after serving as a chaplain at Swiss defeats in Italy.", "sources": ["potter", "britannica"]},
-    {"text": "Married Anna Reinhart secretly in 1522 and publicly in 1524, in defiance of the rule of clerical celibacy.", "sources": ["potter"]},
-    {"text": "Supported the Zürich council's persecution of the Anabaptists, including his former followers Conrad Grebel and Felix Manz, which led to Manz's execution in 1527.", "sources": ["harder", "gordon"]},
-    {"text": "Pushed Zürich toward force against the Catholic cantons, backing the food blockade of 1531 that provoked the Second Kappel War, in which he was killed.", "sources": ["gordon", "potter"]}
+    {
+      "text": "Led the Reformation in Zürich through preaching and public disputations, persuading the city council to adopt reform; it became the model for other Swiss cities.",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "text": "Began preaching straight through books of the Bible (lectio continua) at the Grossmünster in 1519, rather than following the set readings.",
+      "sources": [
+        "potter",
+        "gordon"
+      ]
+    },
+    {
+      "text": "Set out his program in 67 Articles for the First Zürich Disputation (1523), teaching that Scripture alone is authoritative.",
+      "sources": [
+        "writings",
+        "stephens"
+      ]
+    },
+    {
+      "text": "Oversaw the removal of images from Zürich's churches (1524) and the replacement of the Mass with a simple Lord's Supper (1525).",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "text": "Taught that the Lord's Supper is a memorial in which Christ's body is not physically present ('this signifies my body'), against Luther, which divided the Lutheran and Reformed churches.",
+      "sources": [
+        "stephens",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Founded the Prophezei (1525), a daily Bible study school that produced the Zürich Bible, published complete by Christoph Froschauer in 1531.",
+      "sources": [
+        "gordon"
+      ]
+    },
+    {
+      "text": "Opposed Swiss mercenary service after serving as a chaplain at Swiss defeats in Italy.",
+      "sources": [
+        "potter",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Married Anna Reinhart secretly in 1522 and publicly in 1524, in defiance of the rule of clerical celibacy.",
+      "sources": [
+        "potter"
+      ]
+    },
+    {
+      "text": "Supported the Zürich council's persecution of the Anabaptists, including his former followers Conrad Grebel and Felix Manz, which led to Manz's execution in 1527.",
+      "sources": [
+        "harder",
+        "gordon"
+      ]
+    },
+    {
+      "text": "Pushed Zürich toward force against the Catholic cantons, backing the food blockade of 1531 that provoked the Second Kappel War, in which he was killed.",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    }
   ],
   "victims_title": "Anabaptists executed in Zürich in Zwingli's lifetime",
   "victims_intro": "The Zürich city council, not Zwingli, passed the sentences, but Zwingli led the disputations against the Anabaptists and supported the council's policy.",
   "victims": [
-    {"name": "Felix Manz", "executed": "Drowned in the Limmat, Zürich, 5 January 1527", "condemned_by": "Zürich city council", "allegation": "A co-founder of the Swiss Brethren and former student of Zwingli, he was executed under the council's 1526 decree making rebaptism punishable by drowning; Zwingli backed the decree and wrote against the Anabaptists.", "verification": {"execution": "verified", "link": "partial"}, "verification_note": "The execution is documented in the council's records; Zwingli's support for the policy is documented, but no record shows him calling for this sentence.", "links": [{"label": "Wikipedia search", "url": "https://en.wikipedia.org/wiki/Special:Search?search=Felix+Manz"}], "sources": ["harder", "gordon"]}
+    {
+      "name": "Felix Manz",
+      "executed": "Drowned in the Limmat, Zürich, 5 January 1527",
+      "condemned_by": "Zürich city council",
+      "allegation": "A co-founder of the Swiss Brethren and former student of Zwingli, he was executed under the council's 1526 decree making rebaptism punishable by drowning; Zwingli backed the decree and wrote against the Anabaptists.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "The execution is documented in the council's records; Zwingli's support for the policy is documented, but no record shows him calling for this sentence.",
+      "links": [
+        {
+          "label": "Wikipedia search",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Felix+Manz"
+        }
+      ],
+      "sources": [
+        "harder",
+        "gordon"
+      ]
+    }
   ],
   "persecution_note": "Zwingli was never arrested. His reforms were opposed by the bishop of Constance and the Catholic Swiss cantons, and he was killed in battle against them.",
   "persecution": [
-    {"year": 1522, "date": "1522–1523", "title": "Opposition from the bishop of Constance", "summary": "After the Lenten fast was broken in Zürich, Bishop Hugo von Hohenlandenberg of Constance sent a delegation to the city to stop the innovations; at the First Disputation in 1523 his vicar general, Johann Fabri, argued against Zwingli. The city council rejected the bishop's authority.", "responsible": [
-      {"name": "Hugo von Hohenlandenberg", "role": "Bishop of Constance", "jurisdiction": "Diocese of Constance", "type": "church"},
-      {"name": "Johann Fabri", "role": "Vicar general of Constance", "jurisdiction": "Diocese of Constance", "type": "church"}
-    ], "defended_by": [{"name": "Zürich city council", "role": "Backed Zwingli at the 1523 disputation"}], "outcome": "Zürich broke with the bishop's authority.", "sources": ["gordon", "potter"]},
-    {"year": 1531, "date": "11 October 1531", "title": "Death at Kappel and the treatment of his body", "summary": "Zwingli went with Zürich's army as chaplain and was killed when the forces of the five Catholic cantons defeated it. His successor Heinrich Bullinger reported that the victors quartered and burned his body and mixed the ashes with dung.", "responsible": [
-      {"name": "Army of the Five Catholic Cantons (Lucerne, Uri, Schwyz, Unterwalden, Zug)", "role": "Defeated Zürich and killed Zwingli", "jurisdiction": "Swiss Confederation (Catholic cantons)", "type": "state"}
-    ], "outcome": "Killed in battle; his body burned. The Second Peace of Kappel let each canton keep its religion.", "sources": ["gordon", "potter"]}
+    {
+      "year": 1522,
+      "date": "1522–1523",
+      "title": "Opposition from the bishop of Constance",
+      "summary": "After the Lenten fast was broken in Zürich, Bishop Hugo von Hohenlandenberg of Constance sent a delegation to the city to stop the innovations; at the First Disputation in 1523 his vicar general, Johann Fabri, argued against Zwingli. The city council rejected the bishop's authority.",
+      "responsible": [
+        {
+          "name": "Hugo von Hohenlandenberg",
+          "role": "Bishop of Constance",
+          "jurisdiction": "Diocese of Constance",
+          "type": "church"
+        },
+        {
+          "name": "Johann Fabri",
+          "role": "Vicar general of Constance",
+          "jurisdiction": "Diocese of Constance",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "Zürich city council",
+          "role": "Backed Zwingli at the 1523 disputation"
+        }
+      ],
+      "outcome": "Zürich broke with the bishop's authority.",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    },
+    {
+      "year": 1531,
+      "date": "11 October 1531",
+      "title": "Death at Kappel and the treatment of his body",
+      "summary": "Zwingli went with Zürich's army as chaplain and was killed when the forces of the five Catholic cantons defeated it. His successor Heinrich Bullinger reported that the victors quartered and burned his body and mixed the ashes with dung.",
+      "responsible": [
+        {
+          "name": "Army of the Five Catholic Cantons (Lucerne, Uri, Schwyz, Unterwalden, Zug)",
+          "role": "Defeated Zürich and killed Zwingli",
+          "jurisdiction": "Swiss Confederation (Catholic cantons)",
+          "type": "state"
+        }
+      ],
+      "outcome": "Killed in battle; his body burned. The Second Peace of Kappel let each canton keep its religion.",
+      "sources": [
+        "gordon",
+        "potter"
+      ]
+    }
   ],
   "excommunication_note": "No papal excommunication of Zwingli by name is recorded. Pope Adrian VI even wrote to him courteously in 1523. Like Calvin's, all his works were later forbidden to Catholics.",
   "excommunications": [
-    {"date": "1559", "by": "Pope Paul IV", "authority": "Papacy (Index of Prohibited Books)", "reason": "Zwingli listed among authors all of whose works were forbidden to Catholics", "status": "The Index was abolished in 1966", "sources": ["britannica", "gordon"]}
+    {
+      "date": "1559",
+      "by": "Pope Paul IV",
+      "authority": "Papacy (Index of Prohibited Books)",
+      "reason": "Zwingli listed among authors all of whose works were forbidden to Catholics",
+      "status": "The Index was abolished in 1966",
+      "sources": [
+        "britannica",
+        "gordon"
+      ]
+    }
   ],
   "sources": [
-    {"id": "writings", "type": "primary", "citation": "Huldrych Zwingli, Writings, trans. E. J. Furcha and H. Wayne Pipkin, 2 vols. Allison Park, PA: Pickwick Publications, 1984."},
-    {"id": "harder", "type": "primary", "citation": "Leland Harder (ed.), The Sources of Swiss Anabaptism: The Grebel Letters and Related Documents. Scottdale, PA: Herald Press, 1985."},
-    {"id": "potter", "type": "scholarly", "citation": "G. R. Potter, Zwingli. Cambridge: Cambridge University Press, 1976."},
-    {"id": "stephens", "type": "scholarly", "citation": "W. P. Stephens, Zwingli: An Introduction to His Thought. Oxford: Clarendon Press, 1992."},
-    {"id": "gordon", "type": "scholarly", "citation": "Bruce Gordon, The Swiss Reformation. Manchester: Manchester University Press, 2002."},
-    {"id": "britannica", "type": "reference", "citation": "\"Huldrych Zwingli.\" Encyclopaedia Britannica."}
+    {
+      "id": "writings",
+      "type": "primary",
+      "citation": "Huldrych Zwingli, Writings, trans. E. J. Furcha and H. Wayne Pipkin, 2 vols. Allison Park, PA: Pickwick Publications, 1984."
+    },
+    {
+      "id": "harder",
+      "type": "primary",
+      "citation": "Leland Harder (ed.), The Sources of Swiss Anabaptism: The Grebel Letters and Related Documents. Scottdale, PA: Herald Press, 1985."
+    },
+    {
+      "id": "potter",
+      "type": "scholarly",
+      "citation": "G. R. Potter, Zwingli. Cambridge: Cambridge University Press, 1976."
+    },
+    {
+      "id": "stephens",
+      "type": "scholarly",
+      "citation": "W. P. Stephens, Zwingli: An Introduction to His Thought. Oxford: Clarendon Press, 1992."
+    },
+    {
+      "id": "gordon",
+      "type": "scholarly",
+      "citation": "Bruce Gordon, The Swiss Reformation. Manchester: Manchester University Press, 2002."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Huldrych Zwingli.\" Encyclopaedia Britannica."
+    }
   ]
 }

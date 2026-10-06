@@ -1,0 +1,50 @@
+{
+  "name": "Bernard of Clairvaux",
+  "slug": "bernard-of-clairvaux",
+  "also_known_as": "Saint Bernard; the Mellifluous Doctor",
+  "era": "Medieval",
+  "role": "Cistercian abbot, preacher, mystical writer, and the most influential churchman of his age",
+  "born": {"year": 1090, "date": "1090", "place": "Fontaine-lès-Dijon, Burgundy", "sources": ["evans", "britannica"]},
+  "died": {"year": 1153, "date": "20 August 1153", "place": "Clairvaux Abbey, Champagne, France", "cause": "Illness (a long stomach ailment), in old age", "sources": ["evans", "britannica"]},
+  "summary": "Founding abbot of Clairvaux who made the Cistercians the most dynamic order in Europe, preached the Second Crusade, prosecuted Peter Abelard, and wrote sermons on the love of God that made him a Doctor of the Church.",
+  "key_dates": [
+    {"year": 1113, "label": "Enters the new monastery of Cîteaux with about 30 relatives and friends", "sources": ["evans", "britannica"]},
+    {"year": 1115, "label": "Founds Clairvaux and becomes its abbot", "sources": ["evans", "britannica"]},
+    {"year": 1129, "label": "Helps win approval of the Knights Templar's rule at the Council of Troyes", "sources": ["evans"]},
+    {"year": 1130, "label": "Backs Innocent II in the papal schism against Anacletus II (1130–38)", "sources": ["evans", "britannica"]},
+    {"year": 1135, "label": "Begins his Sermons on the Song of Songs", "sources": ["works", "evans"]},
+    {"year": 1141, "label": "Prosecutes Peter Abelard at the Council of Sens", "sources": ["evans", "britannica"]},
+    {"year": 1145, "label": "His former monk becomes Pope Eugene III", "sources": ["evans", "britannica"]},
+    {"year": 1146, "label": "Preaches the Second Crusade at Vézelay (31 March); stops anti-Jewish preaching in the Rhineland", "sources": ["evans", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Made Clairvaux the center of the Cistercian expansion; by his death the order had over 300 houses, about 70 founded from Clairvaux.", "sources": ["evans", "britannica"]},
+    {"text": "Wrote On Loving God, the Sermons on the Song of Songs, and other works on the soul's love for God that made him one of the most influential spiritual writers of the Middle Ages; he was declared a Doctor of the Church in 1830.", "sources": ["works", "britannica"]},
+    {"text": "Criticized the wealth of Cluniac monasteries and church art in his Apologia (c. 1125).", "sources": ["works", "evans"]},
+    {"text": "Promoted the Knights Templar and wrote In Praise of the New Knighthood, defending monks who fought.", "sources": ["evans"]},
+    {"text": "Ended the papal schism of 1130 in Innocent II's favor by persuading kings and bishops to recognize him.", "sources": ["evans", "britannica"]},
+    {"text": "Preached the Second Crusade (1146–47) across France and Germany; when it failed in 1148 he was widely blamed and defended himself in On Consideration.", "sources": ["evans", "britannica"]},
+    {"text": "Intervened in 1146 to stop the monk Radulf from inciting massacres of Jews in the Rhineland, arguing that Jews must not be killed.", "sources": ["evans", "britannica"]},
+    {"text": "Pursued teachers and preachers he judged heretical, including Peter Abelard (1141), Henry of Lausanne (1145), and Gilbert de la Porrée (1148).", "sources": ["evans", "britannica"]},
+    {"text": "Opposed the new feast of Mary's Conception at Lyon (c. 1140), while being known for deep devotion to Mary.", "sources": ["evans"]}
+  ],
+  "sayings_intro": "A short selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "You will find more in woods than in books. Trees and stones will teach you what you cannot learn from masters.", "reference": "Letter 106, to Henry Murdac", "sources": ["works"]},
+      {"phrase": "The reason for loving God is God himself; the measure is to love him without measure.", "reference": "On Loving God, chapter 1", "sources": ["works"]}
+    ],
+    "misattributed": [
+      {"phrase": "The road to hell is paved with good intentions.", "reference": "Proverb", "note": "Often credited to Bernard, but no such line is found in his works; it developed from a later proverb ('hell is full of good intentions').", "sources": ["evans"]}
+    ]
+  },
+  "persecution_note": "Bernard was never persecuted; he was among the most powerful figures of his time. He used that power against those he judged heretics, notably Abelard.",
+  "persecution": [],
+  "excommunication_note": "Bernard was never excommunicated. He was canonized by Pope Alexander III in 1174.",
+  "excommunications": [],
+  "sources": [
+    {"id": "works", "type": "primary", "citation": "Bernard of Clairvaux, Selected Works, trans. G. R. Evans. Classics of Western Spirituality. New York: Paulist Press, 1987."},
+    {"id": "evans", "type": "scholarly", "citation": "G. R. Evans, Bernard of Clairvaux. Great Medieval Thinkers. New York: Oxford University Press, 2000."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Bernard de Clairvaux.\" Encyclopaedia Britannica."}
+  ]
+}

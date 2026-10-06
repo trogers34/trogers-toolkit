@@ -1,0 +1,51 @@
+{
+  "name": "Boethius",
+  "slug": "boethius",
+  "also_known_as": "Anicius Manlius Severinus Boethius; Saint Severinus Boethius",
+  "era": "Early Church",
+  "role": "Roman senator, philosopher, and Christian theologian",
+  "born": {"year": 477, "circa": true, "date": "c. 475–480", "place": "Rome, Italy", "sources": ["chadwick", "britannica"]},
+  "died": {"year": 524, "circa": true, "date": "c. 524 (some date it 525–526)", "place": "Near Pavia (Ticinum), Ostrogothic Italy", "cause": "Executed on King Theodoric's orders for alleged treason; a near-contemporary account says he was tortured and clubbed to death", "sources": ["anon-valesianus", "chadwick"]},
+  "summary": "Roman aristocrat whose translations of Aristotle shaped medieval logic, who wrote short theological treatises on the Trinity, and who composed The Consolation of Philosophy in prison before his execution by the Ostrogothic king Theodoric.",
+  "key_dates": [
+    {"year": 510, "label": "Consul of Rome", "sources": ["chadwick", "britannica"]},
+    {"year": 520, "circa": true, "label": "Theological tractates on the Trinity and the person of Christ (c. 512–522)", "sources": ["chadwick", "marenbon"]},
+    {"year": 522, "label": "His two sons made joint consuls; he becomes master of offices to Theodoric", "sources": ["consolation", "chadwick"]},
+    {"year": 523, "circa": true, "label": "Arrested after defending the senator Albinus against a charge of treason", "sources": ["consolation", "anon-valesianus"]},
+    {"year": 524, "circa": true, "label": "Writes The Consolation of Philosophy in prison", "sources": ["consolation", "marenbon"]}
+  ],
+  "accomplishments": [
+    {"text": "Planned to translate all of Plato and Aristotle into Latin; his translations of and commentaries on Aristotle's logical works and Porphyry's Isagoge were the main source of logic in the Latin West for some 600 years.", "sources": ["chadwick", "marenbon"]},
+    {"text": "Wrote short theological treatises (Opuscula sacra) applying logic to the Trinity and the two natures of Christ, which later scholastics commented on.", "sources": ["chadwick", "marenbon"]},
+    {"text": "Wrote The Consolation of Philosophy in prison, a dialogue in prose and verse in which Lady Philosophy consoles him on fortune, providence, and free will; it was one of the most widely read books of the Middle Ages, translated by Alfred the Great, Chaucer, and Elizabeth I.", "sources": ["consolation", "britannica"]},
+    {"text": "Wrote textbooks on arithmetic and music that were standard in medieval schools.", "sources": ["chadwick"]},
+    {"text": "Served as consul (510) and master of offices (522) under the Arian Ostrogothic king Theodoric.", "sources": ["chadwick", "britannica"]},
+    {"text": "Is venerated as a martyr at Pavia, as Saint Severinus Boethius, on the view that he died as a Catholic at the hands of an Arian king; historians generally see his death as political.", "sources": ["chadwick", "britannica"]}
+  ],
+  "sayings_intro": "A short selection from The Consolation of Philosophy.",
+  "sayings": {
+    "popularized": [
+      {"phrase": "The Wheel of Fortune", "reference": "The Consolation of Philosophy, book 2", "note": "The image of Fortune turning her wheel was ancient, but Boethius's use made it a commonplace of medieval literature and art.", "sources": ["consolation", "britannica"]}
+    ],
+    "original": [
+      {"phrase": "In all adversity of fortune the worst sort of misery is to have been happy.", "reference": "The Consolation of Philosophy, book 2, prose 4", "sources": ["consolation"]}
+    ]
+  },
+  "persecution_note": "Boethius was arrested, condemned, and executed by the Ostrogothic regime. The Consolation gives his own account of the charges.",
+  "persecution": [
+    {"year": 524, "date": "c. 523–524", "title": "Arrest, condemnation, and execution", "summary": "When the senator Albinus was accused of treasonable correspondence with the Byzantine emperor Justin, Boethius defended him and was himself accused, on evidence he called forged, of treason and of sacrilege (practicing magic). He was imprisoned, condemned by the Senate without being heard, and executed; his father-in-law Symmachus was executed soon after.", "responsible": [
+      {"name": "Theodoric the Great", "role": "Ostrogothic king of Italy who ordered his execution", "jurisdiction": "Ostrogothic Kingdom", "type": "state"},
+      {"name": "Cyprian, Basilius, Opilio, and Gaudentius", "role": "Officials and informers who brought the accusations, as named by Boethius", "jurisdiction": "Ostrogothic court and Roman Senate", "type": "individual"},
+      {"name": "Roman Senate", "role": "Condemned him in his absence", "jurisdiction": "Rome", "type": "state"}
+    ], "outcome": "Executed; Symmachus was executed in 525.", "sources": ["consolation", "anon-valesianus", "chadwick"]}
+  ],
+  "excommunication_note": "Boethius was never excommunicated or condemned by any church; he died a Catholic under an Arian king.",
+  "excommunications": [],
+  "sources": [
+    {"id": "consolation", "type": "primary", "citation": "Boethius, The Consolation of Philosophy, trans. V. E. Watts. Harmondsworth: Penguin, 1969."},
+    {"id": "anon-valesianus", "type": "primary", "citation": "Anonymus Valesianus, part 2 (6th century), in Ammianus Marcellinus, vol. 3, trans. J. C. Rolfe. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1939."},
+    {"id": "chadwick", "type": "scholarly", "citation": "Henry Chadwick, Boethius: The Consolations of Music, Logic, Theology, and Philosophy. Oxford: Clarendon Press, 1981."},
+    {"id": "marenbon", "type": "scholarly", "citation": "John Marenbon, Boethius. Great Medieval Thinkers. New York: Oxford University Press, 2003."},
+    {"id": "britannica", "type": "reference", "citation": "\"Boethius.\" Encyclopaedia Britannica."}
+  ]
+}

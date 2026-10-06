@@ -108,10 +108,13 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
+- Boethius (`boethius`)
 - Gregory the Great (`gregory-the-great`)
 
 **Medieval**
 - Anselm of Canterbury (`anselm-of-canterbury`)
+- Peter Abelard (`peter-abelard`): the user wrote "Abelard"
+- Bernard of Clairvaux (`bernard-of-clairvaux`)
 - Thomas Aquinas (`thomas-aquinas`)
 - John Duns Scotus (`john-duns-scotus`): the user wrote "Dun Scotus"
 - William of Ockham (`william-of-ockham`)
@@ -305,6 +308,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
+- Boethius (execution by Theodoric), Peter Abelard (castration; condemned at Soissons 1121 and Sens
+  1141), Bernard of Clairvaux (Second Crusade, prosecution of Abelard; linked from the Crusades and
+  Marian dogmas). 51 people, 55 events. Queued: Henry VIII, Ignatius of Loyola, Jerome, Bullinger,
+  Elizabeth I, Mary I, and a Stuart England event.
 - William Carey (the Enquiry, the BMS, Serampore translations, sati, his wife Dorothy's suffering,
   East India Company restrictions); linked from the Baptist history. 48 people, 55 events.
 - **PR #83**: John Duns Scotus (Immaculate Conception, univocity, haecceity; expelled from France in 1303);

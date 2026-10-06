@@ -1,0 +1,51 @@
+{
+  "name": "Unam Sanctam",
+  "slug": "unam-sanctam",
+  "also_known_as": "Bull of Pope Boniface VIII, 1302",
+  "era": "Medieval",
+  "event_type": "document",
+  "summary": "Pope Boniface VIII's bull, issued in his struggle with King Philip IV of France, declaring that it is necessary for salvation for every human being to be subject to the Roman pontiff.",
+  "place": "Rome",
+  "start": {"year": 1302, "date": "18 November 1302", "sources": ["tierney", "britannica"]},
+  "end": {"year": 1303, "date": "11 October 1303 (death of Boniface VIII)", "sources": ["boase", "britannica"]},
+  "key_dates": [
+    {"year": 1303, "label": "Boniface VIII seized at Anagni by Philip IV's agents (7 September); dies a month later", "sources": ["boase", "tierney"]}
+  ],
+  "background": [
+    {"text": "Boniface VIII and Philip IV of France had clashed since 1296 over the king's taxation of the clergy and, in 1301, over Philip's arrest and trial of the bishop of Pamiers, Bernard Saisset.", "sources": ["tierney", "boase"]},
+    {"text": "In 1302 Philip summoned the first Estates-General, which backed him against the pope.", "sources": ["tierney", "britannica"]}
+  ],
+  "happened": [
+    {"text": "The bull declared that there is one holy, catholic, and apostolic church, outside which there is no salvation or remission of sins.", "sources": ["denzinger", "tierney"]},
+    {"text": "Using the image of 'two swords', it taught that both spiritual and temporal power belong to the church: the temporal sword is wielded by kings for the church and at the priest's direction.", "sources": ["denzinger", "tierney"]},
+    {"text": "It ended: 'We declare, say, define, and pronounce that it is absolutely necessary for salvation that every human creature be subject to the Roman pontiff.'", "sources": ["denzinger"]}
+  ],
+  "participants": [
+    {"name": "Boniface VIII", "role": "Pope who issued the bull"},
+    {"name": "Philip IV of France", "role": "King against whom it was directed"},
+    {"name": "Guillaume de Nogaret", "role": "Philip's minister; led the seizure of the pope at Anagni"},
+    {"name": "Sciarra Colonna", "role": "Roman noble and enemy of Boniface; joined the attack at Anagni"}
+  ],
+  "outcomes": [
+    {"text": "Philip's agents seized Boniface at Anagni in September 1303; he was freed by the townspeople after three days but died in Rome on 11 October.", "sources": ["boase", "tierney"]},
+    {"text": "Clement V, a Frenchman, declared in the bull Meruit (1306) that Unam Sanctam brought no prejudice to the king and kingdom of France, and moved the papacy to Avignon.", "sources": ["tierney", "britannica"]},
+    {"text": "Catholic theologians generally treat only the final sentence as a dogmatic definition; the claims about temporal power are not regarded as binding today.", "sources": ["britannica"]}
+  ],
+  "condemnations": [
+    {"date": "1302–1303", "by": "Boniface VIII", "authority": "Papacy", "reason": "Philip IV's counsellors excommunicated, and a bull excommunicating Philip himself (Super Petri solio) prepared for 8 September 1303", "status": "The bull was never published because the pope was seized the day before; Boniface's successor Benedict XI absolved Philip", "sources": ["boase", "tierney"]}
+  ],
+  "persecution_note": "The violence in this conflict was directed at the pope himself.",
+  "persecution": [
+    {"year": 1303, "date": "7–9 September 1303", "title": "The 'outrage of Anagni'", "summary": "Guillaume de Nogaret and Sciarra Colonna, with armed men, broke into the papal palace at Anagni, seized the elderly pope, and held him, intending to bring him to France to be tried by a council for heresy and other crimes. The townspeople freed him after three days.", "responsible": [
+      {"name": "Philip IV of France", "role": "King who sent Nogaret", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Guillaume de Nogaret", "role": "Royal minister who led the attack", "jurisdiction": "Kingdom of France", "type": "state"},
+      {"name": "Sciarra Colonna", "role": "Roman noble whose family Boniface had attacked", "jurisdiction": "Colonna family", "type": "individual"}
+    ], "outcome": "Boniface was freed but died a month later. Philip later pressed a posthumous heresy trial of Boniface, which was dropped in 1311.", "sources": ["boase", "tierney"]}
+  ],
+  "sources": [
+    {"id": "denzinger", "type": "primary", "citation": "Heinrich Denzinger and Peter Hünermann (eds.), Compendium of Creeds, Definitions, and Declarations on Matters of Faith and Morals, 43rd ed. San Francisco: Ignatius Press, 2012."},
+    {"id": "tierney", "type": "primary", "citation": "Brian Tierney (ed.), The Crisis of Church and State, 1050–1300. Englewood Cliffs, NJ: Prentice-Hall, 1964."},
+    {"id": "boase", "type": "scholarly", "citation": "T. S. R. Boase, Boniface VIII. London: Constable, 1933."},
+    {"id": "britannica", "type": "reference", "citation": "\"Unam Sanctam.\" Encyclopaedia Britannica."}
+  ]
+}

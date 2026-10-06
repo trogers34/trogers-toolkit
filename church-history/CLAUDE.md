@@ -35,6 +35,9 @@ the user has set and the list of everyone on the site.
 12. All seven ecumenical councils (accepted by both the Catholic and Orthodox churches) are
     on the site; each is labeled with its number ("Third Ecumenical Council") in
     `also_known_as`. Keep the set complete.
+13. Catholic dogmatic definitions are on the site as events too (the user: "Do them all" after a
+    list of later councils and bulls). Councils counted ecumenical only by the Catholic Church carry
+    their Catholic number, e.g. "twelfth ecumenical council (Catholic count)".
 
 ## Adding a person
 
@@ -140,11 +143,20 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Great Schism of 1054 (event: `great-schism`)
 - Marian Dogmas of the Catholic Church, 431–1950 (event: `marian-dogmas`): the user chose one combined event for all four dogmas
 - The Crusades, 1095–1291 (event: `the-crusades`): one event with each major crusade as a key date
+- Fourth Lateran Council, 1215 (event: `fourth-lateran-council`)
+- Second Council of Lyon, 1274 (event: `second-council-of-lyon`)
+- Unam Sanctam, 1302–1303 (event: `unam-sanctam`)
+- Council of Vienne, 1311–1312 (event: `council-of-vienne`): with the Templars' executions
+- Benedictus Deus, 1331–1336 (event: `benedictus-deus`)
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
+- Council of Florence, 1438–1445 (event: `council-of-florence`)
+- Fifth Lateran Council, 1512–1517 (event: `fifth-lateran-council`)
 - Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
+- First Vatican Council, 1869–1870 (event: `first-vatican-council`)
+- Second Vatican Council, 1962–1965 (event: `second-vatican-council`)
 
 ## AI disclosure
 
@@ -241,7 +253,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Marian Dogmas (431–1950) as one combined event, at the user's choice, after listing the four
+- Nine Catholic dogma events ("Do them all"): Lateran IV, Lyon II, Unam Sanctam, Vienne, Benedictus
+  Deus, Florence, Lateran V, Vatican I, Vatican II; Catholic council numbers added to Constance and
+  Trent. 42 people, 24 events.
+- **PR #73**: Marian Dogmas (431–1950) as one combined event, at the user's choice, after listing the four
   dogmas for approval; linked to Augustine, Anselm, Aquinas, Luther, and Newman. 42 people, 15 events.
 - **PR #72**: John Henry Newman (Tract 90 censure, the Achilli libel conviction, suspicion in Rome).
   42 people, 14 events.

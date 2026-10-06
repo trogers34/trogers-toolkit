@@ -1,0 +1,53 @@
+{
+  "name": "Second Vatican Council",
+  "slug": "second-vatican-council",
+  "also_known_as": "Vatican II; twenty-first ecumenical council (Catholic count)",
+  "era": "Modern",
+  "event_type": "council",
+  "summary": "The council called by John XXIII that defined no new dogma but reshaped Catholic worship, teaching on the church, and relations with other Christians, Jews, and other religions.",
+  "place": "St Peter's Basilica, Vatican",
+  "start": {"year": 1962, "date": "11 October 1962", "sources": ["tanner", "omalley"]},
+  "end": {"year": 1965, "date": "8 December 1965", "sources": ["tanner", "omalley"]},
+  "key_dates": [
+    {"year": 1963, "label": "Constitution on the liturgy (Sacrosanctum Concilium); John XXIII dies, Paul VI continues the council", "sources": ["tanner", "omalley"]},
+    {"year": 1964, "label": "Constitution on the church (Lumen Gentium) and decree on ecumenism", "sources": ["tanner"]},
+    {"year": 1965, "label": "Nostra Aetate, religious liberty, Dei Verbum, Gaudium et Spes; 1054 excommunications lifted (7 December)", "sources": ["tanner", "omalley"]}
+  ],
+  "background": [
+    {"text": "John XXIII announced the council on 25 January 1959, speaking of the church's need for aggiornamento (bringing up to date).", "sources": ["omalley", "britannica"]}
+  ],
+  "happened": [
+    {"text": "About 2,400 bishops attended its four sessions, along with Protestant and Orthodox observers.", "sources": ["omalley", "britannica"]},
+    {"text": "Sacrosanctum Concilium (1963) allowed the Mass and sacraments in local languages and called for full and active participation of the laity.", "sources": ["tanner", "omalley"]},
+    {"text": "Lumen Gentium (1964) taught that the church of Christ 'subsists in' the Catholic Church, stressed the collegiality of bishops, and described Mary within its teaching on the church.", "sources": ["tanner"]},
+    {"text": "Nostra Aetate (1965) stated that the death of Christ cannot be blamed on all Jews then living or on Jews today, deplored antisemitism, and spoke with respect of Muslims, Hindus, and Buddhists; Dignitatis Humanae (1965) affirmed religious liberty as a civil right.", "sources": ["tanner", "omalley"]},
+    {"text": "The council defined no new dogmas and pronounced no anathemas.", "sources": ["omalley", "britannica"]}
+  ],
+  "participants": [
+    {"name": "John XXIII", "role": "Pope who called the council; died in June 1963"},
+    {"name": "Paul VI", "role": "Pope who continued and closed it"},
+    {"name": "Marcel Lefebvre", "role": "Archbishop who led the conservative minority and later rejected parts of the council"},
+    {"name": "Josyf Slipyj", "role": "Ukrainian Greek Catholic archbishop freed from Soviet prison camps in 1963 and brought to the council"},
+    {"name": "John Henry Newman", "role": "Often called the council's 'absent father' for the influence of his ideas on development of doctrine and the laity", "person": "john-henry-newman"}
+  ],
+  "outcomes": [
+    {"text": "Catholic worship changed dramatically with the new order of Mass (1969–70) in local languages.", "sources": ["omalley", "britannica"]},
+    {"text": "Catholic ecumenical dialogues with Protestant and Orthodox churches followed, including the lifting of the 1054 excommunications and later agreements such as the 1999 Joint Declaration on justification.", "sources": ["omalley", "britannica"]},
+    {"text": "How to interpret the council remains disputed: as a break with the past, or as reform in continuity, as Benedict XVI argued in 2005.", "sources": ["omalley"]}
+  ],
+  "condemnations_note": "The council itself condemned no one. The main formal break connected with it came later.",
+  "condemnations": [
+    {"date": "30 June – 2 July 1988", "by": "Pope John Paul II", "authority": "Papacy (motu proprio Ecclesia Dei)", "reason": "Archbishop Marcel Lefebvre, founder of the Society of St Pius X, which rejected parts of the council, declared excommunicated for consecrating four bishops without papal mandate, with the four bishops and co-consecrator Antônio de Castro Mayer", "status": "Lifted for the four surviving bishops by Benedict XVI on 21 January 2009; Lefebvre died in 1991 excommunicated", "sources": ["omalley", "britannica"]}
+  ],
+  "persecution_note": "Several bishops from communist countries could not attend or came only after release from prison.",
+  "persecution": [
+    {"year": 1963, "date": "1945–1963", "title": "Imprisonment of Josyf Slipyj", "summary": "Archbishop Josyf Slipyj of Lviv, head of the Ukrainian Greek Catholic Church, was arrested by the Soviet authorities in 1945 and spent 18 years in prisons and labor camps after his church was forcibly merged into the Russian Orthodox Church. John XXIII's diplomacy with Nikita Khrushchev won his release in February 1963.", "responsible": [
+      {"name": "Soviet government", "role": "Imprisoned him and suppressed his church", "jurisdiction": "Union of Soviet Socialist Republics", "type": "state"}
+    ], "outcome": "Released to Rome in 1963; took part in the council; made a cardinal in 1965.", "sources": ["omalley", "britannica"]}
+  ],
+  "sources": [
+    {"id": "tanner", "type": "primary", "citation": "Norman P. Tanner (ed.), Decrees of the Ecumenical Councils, vol. 2: Trent to Vatican II. London: Sheed & Ward; Washington, DC: Georgetown University Press, 1990."},
+    {"id": "omalley", "type": "scholarly", "citation": "John W. O'Malley, What Happened at Vatican II. Cambridge, MA: Belknap Press of Harvard University Press, 2008."},
+    {"id": "britannica", "type": "reference", "citation": "\"Second Vatican Council.\" Encyclopaedia Britannica."}
+  ]
+}

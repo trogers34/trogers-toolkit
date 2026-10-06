@@ -182,6 +182,9 @@ def validate_person(person, file_stem):
             errors.append(f"'{key}.year' must be an integer")
         check_refs(key, life)
 
+    if not person["died"].get("cause"):
+        errors.append("'died' needs a 'cause' saying how they died (say 'Unknown' if it is)")
+
     born, died = person["born"].get("year"), person["died"].get("year")
     if isinstance(born, int) and isinstance(died, int) and born > died:
         errors.append("born year is after died year")
@@ -504,8 +507,9 @@ def render_person(person, events=()):
 
     def life_row(label, life):
         place = f' &middot; {esc(life["place"])}' if life.get("place") else ""
+        cause = f'<br><span class="cause">{esc(life["cause"])}</span>' if life.get("cause") else ""
         return (f'<div><dt>{label}</dt><dd>{esc(life.get("date") or life_year(life))}'
-                f'{place}{cite(life["sources"], numbers)}</dd></div>')
+                f'{place}{cite(life["sources"], numbers)}{cause}</dd></div>')
 
     dates = [{"year": born["year"], "label": "Born", "sources": born["sources"], "kind": "life", "circa": born.get("circa")}]
     dates += [dict(kd, kind="event") for kd in person["key_dates"]]
@@ -828,6 +832,17 @@ def render_timeline(people, events=()):
 {TIMELINE_JS}"""
 
 
+def life_event(label, life):
+    """'Born' or 'Died' with the date, the place, and for deaths the cause, for the key-dates table."""
+    date = life.get("date") or life_year(life)
+    parts = [f'<strong>{label}</strong> {esc(date)}']
+    if life.get("place"):
+        parts.append(f'<span class="where">{esc(life["place"])}</span>')
+    if life.get("cause"):
+        parts.append(f'<span class="cause">How: {esc(life["cause"])}</span>')
+    return "".join(parts)
+
+
 def render_index(people, events=()):
     if not people:
         return page("Church History", "<h1>Church History</h1><p>No people added yet.</p>")
@@ -835,10 +850,10 @@ def render_index(people, events=()):
     entries = []
     for p in people:
         link = f'<a href="people/{esc(p["slug"])}.html">{esc(p["name"])}</a>'
-        entries.append((p["born"]["year"], 0, p["name"], link, "Born", p["born"].get("circa", False), "life"))
+        entries.append((p["born"]["year"], 0, p["name"], link, life_event("Born", p["born"]), p["born"].get("circa", False), "life"))
         for kd in p["key_dates"]:
             entries.append((kd["year"], 1, p["name"], link, esc(kd["label"]), kd.get("circa", False), "event"))
-        entries.append((p["died"]["year"], 2, p["name"], link, "Died", p["died"].get("circa", False), "life"))
+        entries.append((p["died"]["year"], 2, p["name"], link, life_event("Died", p["died"]), p["died"].get("circa", False), "life"))
     for e in events:
         link = f'<span class="event-tag">Event</span><a href="events/{esc(e["slug"])}.html">{esc(e["name"])}</a>'
         end = e.get("end")

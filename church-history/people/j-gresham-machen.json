@@ -4,58 +4,273 @@
   "also_known_as": "John Gresham Machen",
   "era": "Modern",
   "role": "Presbyterian New Testament scholar; founder of Westminster Theological Seminary and the Orthodox Presbyterian Church",
-  "born": {"year": 1881, "date": "28 July 1881", "place": "Baltimore, Maryland", "sources": ["hart", "britannica"]},
-  "died": {"year": 1937, "date": "1 January 1937", "place": "Bismarck, North Dakota", "sources": ["hart", "stonehouse"]},
+  "born": {
+    "year": 1881,
+    "date": "28 July 1881",
+    "place": "Baltimore, Maryland",
+    "sources": [
+      "hart",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1937,
+    "date": "1 January 1937",
+    "place": "Bismarck, North Dakota",
+    "sources": [
+      "hart",
+      "stonehouse"
+    ],
+    "cause": "Pneumonia, on a speaking trip"
+  },
   "summary": "Princeton New Testament scholar who led the conservative side in the Presbyterian fundamentalist–modernist controversy, was suspended from the ministry by his church, and founded a new seminary and denomination.",
   "key_dates": [
-    {"year": 1905, "label": "Studies in Germany at Marburg and Göttingen (1905–06)", "sources": ["stonehouse", "hart"]},
-    {"year": 1906, "label": "Begins teaching New Testament at Princeton Theological Seminary", "sources": ["hart", "britannica"]},
-    {"year": 1914, "label": "Ordained in the Presbyterian Church in the U.S.A.", "sources": ["stonehouse", "hart"]},
-    {"year": 1923, "label": "Publishes Christianity and Liberalism and New Testament Greek for Beginners", "sources": ["machen-cl", "hart"]},
-    {"year": 1929, "label": "Leaves the reorganized Princeton Seminary and founds Westminster Theological Seminary in Philadelphia", "sources": ["hart", "longfield"]},
-    {"year": 1933, "label": "Founds the Independent Board for Presbyterian Foreign Missions", "sources": ["hart", "longfield"]},
-    {"year": 1935, "label": "Convicted by a church court and suspended from the ministry", "sources": ["hart", "longfield"]},
-    {"year": 1936, "label": "Suspension upheld (June); founds the Presbyterian Church of America, later the Orthodox Presbyterian Church", "sources": ["hart", "britannica"]}
+    {
+      "year": 1905,
+      "label": "Studies in Germany at Marburg and Göttingen (1905–06)",
+      "sources": [
+        "stonehouse",
+        "hart"
+      ]
+    },
+    {
+      "year": 1906,
+      "label": "Begins teaching New Testament at Princeton Theological Seminary",
+      "sources": [
+        "hart",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1914,
+      "label": "Ordained in the Presbyterian Church in the U.S.A.",
+      "sources": [
+        "stonehouse",
+        "hart"
+      ]
+    },
+    {
+      "year": 1923,
+      "label": "Publishes Christianity and Liberalism and New Testament Greek for Beginners",
+      "sources": [
+        "machen-cl",
+        "hart"
+      ]
+    },
+    {
+      "year": 1929,
+      "label": "Leaves the reorganized Princeton Seminary and founds Westminster Theological Seminary in Philadelphia",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "year": 1933,
+      "label": "Founds the Independent Board for Presbyterian Foreign Missions",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "year": 1935,
+      "label": "Convicted by a church court and suspended from the ministry",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "year": 1936,
+      "label": "Suspension upheld (June); founds the Presbyterian Church of America, later the Orthodox Presbyterian Church",
+      "sources": [
+        "hart",
+        "britannica"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Wrote Christianity and Liberalism (1923), arguing that theological liberalism was not a form of Christianity but a different religion; it became the classic statement of the conservative case in the controversy.", "sources": ["machen-cl", "hart"]},
-    {"text": "Taught New Testament at Princeton Seminary for 23 years and wrote scholarly defenses of traditional belief, The Origin of Paul's Religion (1921) and The Virgin Birth of Christ (1930).", "sources": ["hart", "britannica"]},
-    {"text": "Wrote New Testament Greek for Beginners (1923), a textbook still used in seminaries.", "sources": ["hart"]},
-    {"text": "Served with the YMCA in France during the First World War (1918–19), working near the front lines.", "sources": ["stonehouse", "hart"]},
-    {"text": "Founded Westminster Theological Seminary in Philadelphia in 1929 after the Presbyterian General Assembly reorganized Princeton Seminary to include a broader range of views.", "sources": ["hart", "longfield"]},
-    {"text": "Founded the Independent Board for Presbyterian Foreign Missions in 1933, charging that the church's missions board tolerated missionaries who denied basic doctrines, in the wake of the report Re-Thinking Missions and Pearl S. Buck's comments on it.", "sources": ["hart", "longfield"]},
-    {"text": "Founded the Presbyterian Church of America in June 1936 after his suspension; it was renamed the Orthodox Presbyterian Church in 1939 after a lawsuit by the larger church over the name.", "sources": ["hart", "britannica"]},
-    {"text": "Held libertarian political views unusual among fundamentalists: he opposed Prohibition, a federal Department of Education, the proposed Child Labor Amendment, and compulsory Bible reading in public schools.", "sources": ["hart"]},
-    {"text": "Never married. He died of pneumonia on a speaking trip to North Dakota at 55.", "sources": ["stonehouse", "hart"]}
+    {
+      "text": "Wrote Christianity and Liberalism (1923), arguing that theological liberalism was not a form of Christianity but a different religion; it became the classic statement of the conservative case in the controversy.",
+      "sources": [
+        "machen-cl",
+        "hart"
+      ]
+    },
+    {
+      "text": "Taught New Testament at Princeton Seminary for 23 years and wrote scholarly defenses of traditional belief, The Origin of Paul's Religion (1921) and The Virgin Birth of Christ (1930).",
+      "sources": [
+        "hart",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote New Testament Greek for Beginners (1923), a textbook still used in seminaries.",
+      "sources": [
+        "hart"
+      ]
+    },
+    {
+      "text": "Served with the YMCA in France during the First World War (1918–19), working near the front lines.",
+      "sources": [
+        "stonehouse",
+        "hart"
+      ]
+    },
+    {
+      "text": "Founded Westminster Theological Seminary in Philadelphia in 1929 after the Presbyterian General Assembly reorganized Princeton Seminary to include a broader range of views.",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "text": "Founded the Independent Board for Presbyterian Foreign Missions in 1933, charging that the church's missions board tolerated missionaries who denied basic doctrines, in the wake of the report Re-Thinking Missions and Pearl S. Buck's comments on it.",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "text": "Founded the Presbyterian Church of America in June 1936 after his suspension; it was renamed the Orthodox Presbyterian Church in 1939 after a lawsuit by the larger church over the name.",
+      "sources": [
+        "hart",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Held libertarian political views unusual among fundamentalists: he opposed Prohibition, a federal Department of Education, the proposed Child Labor Amendment, and compulsory Bible reading in public schools.",
+      "sources": [
+        "hart"
+      ]
+    },
+    {
+      "text": "Never married. He died of pneumonia on a speaking trip to North Dakota at 55.",
+      "sources": [
+        "stonehouse",
+        "hart"
+      ]
+    }
   ],
   "sayings_intro": "A short selection from his own words. His name is sometimes confused with H. L. Mencken, the Baltimore journalist who wrote a respectful obituary of him.",
   "sayings": {
     "original": [
-      {"phrase": "The great redemptive religion which has always been known as Christianity is battling against a totally diverse type of religious belief.", "reference": "Christianity and Liberalism (1923), introduction", "sources": ["machen-cl"]},
-      {"phrase": "I'm so thankful for the active obedience of Christ. No hope without it.", "reference": "Telegram to John Murray shortly before his death (1936–37)", "note": "His last recorded words, reported by Stonehouse.", "sources": ["stonehouse"]}
+      {
+        "phrase": "The great redemptive religion which has always been known as Christianity is battling against a totally diverse type of religious belief.",
+        "reference": "Christianity and Liberalism (1923), introduction",
+        "sources": [
+          "machen-cl"
+        ]
+      },
+      {
+        "phrase": "I'm so thankful for the active obedience of Christ. No hope without it.",
+        "reference": "Telegram to John Murray shortly before his death (1936–37)",
+        "note": "His last recorded words, reported by Stonehouse.",
+        "sources": [
+          "stonehouse"
+        ]
+      }
     ]
   },
   "persecution_note": "Machen was never arrested. His conflict was inside the Presbyterian Church in the U.S.A. (PCUSA), which suspended him from the ministry in 1935–36. Earlier, the 1926 General Assembly held up his promotion to Princeton's chair of apologetics, which he never received.",
   "persecution": [
-    {"year": 1929, "date": "1926–1929", "title": "Reorganization of Princeton Seminary", "summary": "After conflict within the Princeton faculty and board, the General Assembly investigated the seminary and in 1929 replaced its board with a single new board including signers of the liberal Auburn Affirmation. Machen and several colleagues resigned rather than serve under it.", "responsible": [
-      {"name": "General Assembly of the PCUSA (1926–1929)", "role": "Investigated and reorganized the seminary", "jurisdiction": "Presbyterian Church in the U.S.A.", "type": "church"},
-      {"name": "J. Ross Stevenson", "role": "President of Princeton Seminary; pressed for the reorganization", "jurisdiction": "Princeton Theological Seminary", "type": "church"}
-    ], "outcome": "Machen left Princeton and founded Westminster Theological Seminary.", "sources": ["hart", "longfield"]},
-    {"year": 1935, "date": "1934–1936", "title": "Trial and suspension from the ministry", "summary": "The 1934 General Assembly ordered all members to leave the Independent Board for Presbyterian Foreign Missions. Machen refused and was tried by the Presbytery of New Brunswick's judicial commission, which would not let him argue that the board's mandate was unlawful or that the missions board tolerated unbelief. He was convicted in March 1935 of disobeying his church and suspended; the 1936 General Assembly at Syracuse upheld the sentence.", "responsible": [
-      {"name": "General Assembly of the PCUSA (1934)", "role": "Issued the mandate against the Independent Board", "jurisdiction": "Presbyterian Church in the U.S.A.", "type": "church"},
-      {"name": "Presbytery of New Brunswick (judicial commission)", "role": "Tried and convicted him", "jurisdiction": "Presbyterian Church in the U.S.A.", "type": "church"},
-      {"name": "General Assembly of the PCUSA (1936)", "role": "Upheld the suspension", "jurisdiction": "Presbyterian Church in the U.S.A.", "type": "church"}
-    ], "outcome": "Suspended from the ministry; he left and founded a new denomination days later.", "sources": ["hart", "longfield"]}
+    {
+      "year": 1929,
+      "date": "1926–1929",
+      "title": "Reorganization of Princeton Seminary",
+      "summary": "After conflict within the Princeton faculty and board, the General Assembly investigated the seminary and in 1929 replaced its board with a single new board including signers of the liberal Auburn Affirmation. Machen and several colleagues resigned rather than serve under it.",
+      "responsible": [
+        {
+          "name": "General Assembly of the PCUSA (1926–1929)",
+          "role": "Investigated and reorganized the seminary",
+          "jurisdiction": "Presbyterian Church in the U.S.A.",
+          "type": "church"
+        },
+        {
+          "name": "J. Ross Stevenson",
+          "role": "President of Princeton Seminary; pressed for the reorganization",
+          "jurisdiction": "Princeton Theological Seminary",
+          "type": "church"
+        }
+      ],
+      "outcome": "Machen left Princeton and founded Westminster Theological Seminary.",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1934–1936",
+      "title": "Trial and suspension from the ministry",
+      "summary": "The 1934 General Assembly ordered all members to leave the Independent Board for Presbyterian Foreign Missions. Machen refused and was tried by the Presbytery of New Brunswick's judicial commission, which would not let him argue that the board's mandate was unlawful or that the missions board tolerated unbelief. He was convicted in March 1935 of disobeying his church and suspended; the 1936 General Assembly at Syracuse upheld the sentence.",
+      "responsible": [
+        {
+          "name": "General Assembly of the PCUSA (1934)",
+          "role": "Issued the mandate against the Independent Board",
+          "jurisdiction": "Presbyterian Church in the U.S.A.",
+          "type": "church"
+        },
+        {
+          "name": "Presbytery of New Brunswick (judicial commission)",
+          "role": "Tried and convicted him",
+          "jurisdiction": "Presbyterian Church in the U.S.A.",
+          "type": "church"
+        },
+        {
+          "name": "General Assembly of the PCUSA (1936)",
+          "role": "Upheld the suspension",
+          "jurisdiction": "Presbyterian Church in the U.S.A.",
+          "type": "church"
+        }
+      ],
+      "outcome": "Suspended from the ministry; he left and founded a new denomination days later.",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    }
   ],
   "excommunication_note": "Machen was not excommunicated, but his church suspended him from the ministry, its most serious action against him.",
   "excommunications": [
-    {"date": "March 1935 (upheld June 1936)", "by": "Presbytery of New Brunswick; upheld by the 1936 General Assembly", "authority": "Presbyterian Church in the U.S.A.", "reason": "Suspended from the ministry for refusing to obey the 1934 order to leave the Independent Board for Presbyterian Foreign Missions", "status": "Never reversed", "sources": ["hart", "longfield"]}
+    {
+      "date": "March 1935 (upheld June 1936)",
+      "by": "Presbytery of New Brunswick; upheld by the 1936 General Assembly",
+      "authority": "Presbyterian Church in the U.S.A.",
+      "reason": "Suspended from the ministry for refusing to obey the 1934 order to leave the Independent Board for Presbyterian Foreign Missions",
+      "status": "Never reversed",
+      "sources": [
+        "hart",
+        "longfield"
+      ]
+    }
   ],
   "sources": [
-    {"id": "machen-cl", "type": "primary", "citation": "J. Gresham Machen, Christianity and Liberalism. New York: Macmillan, 1923."},
-    {"id": "stonehouse", "type": "primary", "citation": "Ned B. Stonehouse, J. Gresham Machen: A Biographical Memoir. Grand Rapids: Eerdmans, 1954. (A memoir by his colleague, drawing on his letters.)"},
-    {"id": "hart", "type": "scholarly", "citation": "D. G. Hart, Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America. Baltimore: Johns Hopkins University Press, 1994."},
-    {"id": "longfield", "type": "scholarly", "citation": "Bradley J. Longfield, The Presbyterian Controversy: Fundamentalists, Modernists, and Moderates. New York: Oxford University Press, 1991."},
-    {"id": "britannica", "type": "reference", "citation": "\"J. Gresham Machen.\" Encyclopaedia Britannica."}
+    {
+      "id": "machen-cl",
+      "type": "primary",
+      "citation": "J. Gresham Machen, Christianity and Liberalism. New York: Macmillan, 1923."
+    },
+    {
+      "id": "stonehouse",
+      "type": "primary",
+      "citation": "Ned B. Stonehouse, J. Gresham Machen: A Biographical Memoir. Grand Rapids: Eerdmans, 1954. (A memoir by his colleague, drawing on his letters.)"
+    },
+    {
+      "id": "hart",
+      "type": "scholarly",
+      "citation": "D. G. Hart, Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America. Baltimore: Johns Hopkins University Press, 1994."
+    },
+    {
+      "id": "longfield",
+      "type": "scholarly",
+      "citation": "Bradley J. Longfield, The Presbyterian Controversy: Fundamentalists, Modernists, and Moderates. New York: Oxford University Press, 1991."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"J. Gresham Machen.\" Encyclopaedia Britannica."
+    }
   ]
 }

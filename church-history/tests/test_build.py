@@ -14,7 +14,7 @@ VALID = {
     "era": "Early Church",
     "summary": "A test.",
     "born": {"year": 300, "sources": ["s1"]},
-    "died": {"year": 360, "sources": ["s1"]},
+    "died": {"year": 360, "cause": "Natural causes", "sources": ["s1"]},
     "key_dates": [{"year": 330, "label": "Did a thing", "sources": ["s1"]}],
     "accomplishments": [{"text": "Accomplished something.", "sources": ["s1"]}],
     "persecution": [],
@@ -92,6 +92,10 @@ class ValidatePersonTest(unittest.TestCase):
         self.assertTrue(any("add 'excommunication_note'" in e for e in errors))
         errors = self.errors_for(lambda p: p.update(excommunications=[{"date": "1410", "sources": ["s1"]}]))
         self.assertIn("excommunications[0] needs 'by'", errors)
+
+    def test_death_needs_cause(self):
+        errors = self.errors_for(lambda p: p["died"].pop("cause"))
+        self.assertTrue(any("needs a 'cause'" in e for e in errors))
 
     def test_missing_field(self):
         errors = self.errors_for(lambda p: p.pop("summary"))
@@ -255,6 +259,7 @@ class EventTest(unittest.TestCase):
         self.assertIn("Council opens", index)
         self.assertNotIn(">Began<", index)
         self.assertIn("Agreed:</strong> Agreed a creed.", index)
+        self.assertIn("How: Natural causes", index)
         self.assertIn('href="events/test-council.html"', index)
         page = build.render_person(person, [event])
         self.assertIn('<h2>Events</h2>', page)

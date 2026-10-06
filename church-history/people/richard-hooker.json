@@ -3,35 +3,163 @@
   "slug": "richard-hooker",
   "era": "Reformation",
   "role": "English priest and theologian of the Elizabethan Church of England",
-  "born": {"year": 1554, "date": "c. March 1554", "circa": true, "place": "Heavitree, near Exeter, Devon, England", "sources": ["secor", "britannica"]},
-  "died": {"year": 1600, "date": "2 November 1600", "place": "Bishopsbourne, Kent, England", "sources": ["secor", "britannica"]},
+  "born": {
+    "year": 1554,
+    "date": "c. March 1554",
+    "circa": true,
+    "place": "Heavitree, near Exeter, Devon, England",
+    "sources": [
+      "secor",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1600,
+    "date": "2 November 1600",
+    "place": "Bishopsbourne, Kent, England",
+    "sources": [
+      "secor",
+      "britannica"
+    ],
+    "cause": "Illness (natural causes)"
+  },
   "summary": "Elizabethan priest whose Of the Laws of Ecclesiastical Polity defended the Church of England against its Puritan critics and became the classic statement of Anglican theology.",
   "key_dates": [
-    {"year": 1569, "label": "Enters Corpus Christi College, Oxford, with the help of Bishop John Jewel", "sources": ["secor", "walton"]},
-    {"year": 1577, "label": "Becomes a fellow of Corpus Christi College", "sources": ["secor", "britannica"]},
-    {"year": 1585, "label": "Appointed Master of the Temple in London", "sources": ["secor", "britannica"]},
-    {"year": 1586, "label": "Pulpit dispute with the Puritan Walter Travers, who is silenced by Archbishop Whitgift", "sources": ["secor", "kirby"]},
-    {"year": 1588, "label": "Marries Joan Churchman", "sources": ["secor"]},
-    {"year": 1593, "label": "First four books of Of the Laws of Ecclesiastical Polity published", "sources": ["laws", "secor"]},
-    {"year": 1595, "label": "Becomes rector of Bishopsbourne, Kent", "sources": ["secor", "britannica"]},
-    {"year": 1597, "label": "Book 5 of the Laws published", "sources": ["laws", "secor"]}
+    {
+      "year": 1569,
+      "label": "Enters Corpus Christi College, Oxford, with the help of Bishop John Jewel",
+      "sources": [
+        "secor",
+        "walton"
+      ]
+    },
+    {
+      "year": 1577,
+      "label": "Becomes a fellow of Corpus Christi College",
+      "sources": [
+        "secor",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1585,
+      "label": "Appointed Master of the Temple in London",
+      "sources": [
+        "secor",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1586,
+      "label": "Pulpit dispute with the Puritan Walter Travers, who is silenced by Archbishop Whitgift",
+      "sources": [
+        "secor",
+        "kirby"
+      ]
+    },
+    {
+      "year": 1588,
+      "label": "Marries Joan Churchman",
+      "sources": [
+        "secor"
+      ]
+    },
+    {
+      "year": 1593,
+      "label": "First four books of Of the Laws of Ecclesiastical Polity published",
+      "sources": [
+        "laws",
+        "secor"
+      ]
+    },
+    {
+      "year": 1595,
+      "label": "Becomes rector of Bishopsbourne, Kent",
+      "sources": [
+        "secor",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1597,
+      "label": "Book 5 of the Laws published",
+      "sources": [
+        "laws",
+        "secor"
+      ]
+    }
   ],
   "accomplishments": [
-    {"text": "Wrote Of the Laws of Ecclesiastical Polity, defending the Elizabethan church's government by bishops, its liturgy, and its ties to the crown against Puritans who wanted a church ordered only by explicit commands of Scripture.", "sources": ["laws", "kirby"]},
-    {"text": "Argued that Scripture is supreme but that reason and the church's tradition also have authority where Scripture is silent, and grounded this in a theory of law running from God's eternal law to natural and human law.", "sources": ["laws", "britannica"]},
-    {"text": "Defended the Book of Common Prayer and the church's sacraments in book 5 of the Laws, the longest and most influential part of the work.", "sources": ["laws", "secor"]},
-    {"text": "Preached at the Temple in 1586 that some Catholics who held the foundation of faith might be saved despite their errors, which led the Puritan Walter Travers to accuse him of false teaching; Hooker's reply became his Learned Discourse of Justification.", "sources": ["kirby", "secor"]},
-    {"text": "Supported the royal supremacy over the church and the system under which those who would not conform, Puritan or Catholic, could be punished by the state.", "sources": ["laws", "kirby"]},
-    {"text": "Influenced political thought, including John Locke, who quoted 'the judicious Hooker' in his Second Treatise of Government (1689).", "sources": ["britannica", "kirby"]},
-    {"text": "Was later held up as the founding theologian of Anglicanism, though his last three books were published only after his death (1648 and 1662) and their texts have been disputed.", "sources": ["laws", "kirby"]}
+    {
+      "text": "Wrote Of the Laws of Ecclesiastical Polity, defending the Elizabethan church's government by bishops, its liturgy, and its ties to the crown against Puritans who wanted a church ordered only by explicit commands of Scripture.",
+      "sources": [
+        "laws",
+        "kirby"
+      ]
+    },
+    {
+      "text": "Argued that Scripture is supreme but that reason and the church's tradition also have authority where Scripture is silent, and grounded this in a theory of law running from God's eternal law to natural and human law.",
+      "sources": [
+        "laws",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Defended the Book of Common Prayer and the church's sacraments in book 5 of the Laws, the longest and most influential part of the work.",
+      "sources": [
+        "laws",
+        "secor"
+      ]
+    },
+    {
+      "text": "Preached at the Temple in 1586 that some Catholics who held the foundation of faith might be saved despite their errors, which led the Puritan Walter Travers to accuse him of false teaching; Hooker's reply became his Learned Discourse of Justification.",
+      "sources": [
+        "kirby",
+        "secor"
+      ]
+    },
+    {
+      "text": "Supported the royal supremacy over the church and the system under which those who would not conform, Puritan or Catholic, could be punished by the state.",
+      "sources": [
+        "laws",
+        "kirby"
+      ]
+    },
+    {
+      "text": "Influenced political thought, including John Locke, who quoted 'the judicious Hooker' in his Second Treatise of Government (1689).",
+      "sources": [
+        "britannica",
+        "kirby"
+      ]
+    },
+    {
+      "text": "Was later held up as the founding theologian of Anglicanism, though his last three books were published only after his death (1648 and 1662) and their texts have been disputed.",
+      "sources": [
+        "laws",
+        "kirby"
+      ]
+    }
   ],
   "sayings_intro": "A short selection.",
   "sayings": {
     "original": [
-      {"phrase": "What Scripture doth plainly deliver, to that the first place both of credit and obedience is due; the next whereunto is whatsoever any man can necessarily conclude by force of reason; after these the voice of the Church succeedeth.", "reference": "Of the Laws of Ecclesiastical Polity, book 5, chapter 8", "sources": ["laws"]}
+      {
+        "phrase": "What Scripture doth plainly deliver, to that the first place both of credit and obedience is due; the next whereunto is whatsoever any man can necessarily conclude by force of reason; after these the voice of the Church succeedeth.",
+        "reference": "Of the Laws of Ecclesiastical Polity, book 5, chapter 8",
+        "sources": [
+          "laws"
+        ]
+      }
     ],
     "misattributed": [
-      {"phrase": "The 'three-legged stool' of Scripture, reason, and tradition", "reference": "Later Anglican summary", "note": "Not found in Hooker's writings; the image was attached to him much later, and it does not reflect his ranking of Scripture first.", "sources": ["kirby"]}
+      {
+        "phrase": "The 'three-legged stool' of Scripture, reason, and tradition",
+        "reference": "Later Anglican summary",
+        "note": "Not found in Hooker's writings; the image was attached to him much later, and it does not reflect his ranking of Scripture first.",
+        "sources": [
+          "kirby"
+        ]
+      }
     ]
   },
   "persecution_note": "Hooker was never arrested or persecuted. He was publicly accused of false teaching by Walter Travers (1586) and attacked in the anonymous Puritan pamphlet A Christian Letter (1599), but no church or state action was taken against him.",
@@ -39,10 +167,30 @@
   "excommunication_note": "Hooker was never excommunicated or disciplined. In his dispute with Travers it was Travers, not Hooker, whom Archbishop Whitgift silenced.",
   "excommunications": [],
   "sources": [
-    {"id": "laws", "type": "primary", "citation": "Richard Hooker, Of the Laws of Ecclesiastical Polity, in The Folger Library Edition of the Works of Richard Hooker, ed. W. Speed Hill. Cambridge, MA: Belknap Press of Harvard University Press, 1977–1998."},
-    {"id": "walton", "type": "primary", "citation": "Izaak Walton, The Life of Mr. Richard Hooker (1665). (An early, admiring biography; some of its details are doubted by modern scholars.)"},
-    {"id": "secor", "type": "scholarly", "citation": "Philip B. Secor, Richard Hooker: Prophet of Anglicanism. Tunbridge Wells: Burns & Oates, 1999."},
-    {"id": "kirby", "type": "scholarly", "citation": "W. J. Torrance Kirby (ed.), A Companion to Richard Hooker. Leiden: Brill, 2008."},
-    {"id": "britannica", "type": "reference", "citation": "\"Richard Hooker.\" Encyclopaedia Britannica."}
+    {
+      "id": "laws",
+      "type": "primary",
+      "citation": "Richard Hooker, Of the Laws of Ecclesiastical Polity, in The Folger Library Edition of the Works of Richard Hooker, ed. W. Speed Hill. Cambridge, MA: Belknap Press of Harvard University Press, 1977–1998."
+    },
+    {
+      "id": "walton",
+      "type": "primary",
+      "citation": "Izaak Walton, The Life of Mr. Richard Hooker (1665). (An early, admiring biography; some of its details are doubted by modern scholars.)"
+    },
+    {
+      "id": "secor",
+      "type": "scholarly",
+      "citation": "Philip B. Secor, Richard Hooker: Prophet of Anglicanism. Tunbridge Wells: Burns & Oates, 1999."
+    },
+    {
+      "id": "kirby",
+      "type": "scholarly",
+      "citation": "W. J. Torrance Kirby (ed.), A Companion to Richard Hooker. Leiden: Brill, 2008."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Richard Hooker.\" Encyclopaedia Britannica."
+    }
   ]
 }

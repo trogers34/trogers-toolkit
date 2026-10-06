@@ -16,12 +16,13 @@
   },
   "died": {
     "year": 1384,
-    "date": "31 December 1384, after a stroke suffered while hearing Mass",
+    "date": "31 December 1384",
     "place": "Lutterworth, Leicestershire, England",
     "sources": [
       "mcfarlane",
       "britannica"
-    ]
+    ],
+    "cause": "Stroke, suffered while hearing Mass"
   },
   "summary": "Oxford theologian who argued that Scripture is the supreme authority for Christians, attacked the wealth and power of the clergy and papacy, and inspired the first complete English Bible and the Lollard movement.",
   "key_dates": [
@@ -377,7 +378,18 @@
   ],
   "excommunication_note": "Wycliffe was not excommunicated during his lifetime. Powerful protectors prevented the papal bulls of 1377 from being enforced, and the Blackfriars Council of 1382 condemned his teachings without naming him. After his death, the Council of Constance declared in 1415 that he had died an obstinate heretic, and condemned his memory.",
   "excommunications": [
-    {"date": "4 May 1415 (31 years after his death)", "by": "Council of Constance", "authority": "General council of the Western Church", "reason": "Declared to have died an obstinate heretic; his writings condemned", "status": "Carried out by the exhumation and burning of his remains in 1428, on the order of Pope Martin V; never reversed", "sources": ["lahey", "britannica", "foxe"]}
+    {
+      "date": "4 May 1415 (31 years after his death)",
+      "by": "Council of Constance",
+      "authority": "General council of the Western Church",
+      "reason": "Declared to have died an obstinate heretic; his writings condemned",
+      "status": "Carried out by the exhumation and burning of his remains in 1428, on the order of Pope Martin V; never reversed",
+      "sources": [
+        "lahey",
+        "britannica",
+        "foxe"
+      ]
+    }
   ],
   "sources": [
     {

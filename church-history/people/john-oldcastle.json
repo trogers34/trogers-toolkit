@@ -17,11 +17,12 @@
   "died": {
     "year": 1417,
     "date": "14 December 1417",
-    "place": "St Giles's Fields, London; hanged and burned as a traitor and heretic",
+    "place": "St Giles's Fields, London, England",
     "sources": [
       "walsingham",
       "foxe"
-    ]
+    ],
+    "cause": "Executed: hanged and burned as a traitor and heretic"
   },
   "summary": "English knight and friend of Henry V who protected Wycliffe's Lollard followers. He was condemned as a heretic, escaped from the Tower of London, led a failed Lollard uprising, and after four years as a fugitive was hanged and burned.",
   "key_dates": [

@@ -1,0 +1,65 @@
+{
+  "name": "Dietrich Bonhoeffer",
+  "slug": "dietrich-bonhoeffer",
+  "era": "Modern",
+  "role": "German Lutheran pastor, theologian, and member of the resistance to Hitler",
+  "born": {"year": 1906, "date": "4 February 1906", "place": "Breslau, Germany (modern Wrocław, Poland)", "sources": ["bethge", "britannica"]},
+  "died": {"year": 1945, "date": "9 April 1945", "place": "Flossenbürg concentration camp, Bavaria, Germany", "cause": "Executed by hanging on Nazi orders after a summary SS court-martial", "sources": ["bethge", "marsh"]},
+  "summary": "German theologian who opposed Nazism from 1933, led an underground seminary of the Confessing Church, joined the conspiracy against Hitler, and was hanged weeks before the end of the war.",
+  "key_dates": [
+    {"year": 1927, "label": "Doctorate at Berlin with Sanctorum Communio, aged 21", "sources": ["bethge", "britannica"]},
+    {"year": 1930, "label": "Studies at Union Theological Seminary, New York; worships at Abyssinian Baptist Church in Harlem (1930–31)", "sources": ["bethge", "marsh"]},
+    {"year": 1933, "label": "Radio talk cut off (February); writes 'The Church and the Jewish Question' (April)", "sources": ["bethge", "marsh"]},
+    {"year": 1935, "label": "Leads the Confessing Church's underground seminary, later at Finkenwalde", "sources": ["bethge", "britannica"]},
+    {"year": 1937, "label": "Publishes Discipleship (The Cost of Discipleship); Gestapo closes Finkenwalde", "sources": ["discipleship", "bethge"]},
+    {"year": 1939, "label": "Returns from America weeks after arriving, to share Germany's fate", "sources": ["bethge", "marsh"]},
+    {"year": 1940, "label": "Joins the military intelligence (Abwehr) as cover for resistance work", "sources": ["bethge", "marsh"]},
+    {"year": 1943, "label": "Engaged to Maria von Wedemeyer (January); arrested (5 April)", "sources": ["bethge", "lpp"]},
+    {"year": 1944, "label": "Prison letters on 'religionless Christianity'; plot of 20 July fails", "sources": ["lpp", "bethge"]}
+  ],
+  "accomplishments": [
+    {"text": "Opposed Nazism from its first days, criticizing the 'leader principle' in a radio talk in February 1933 and arguing in 'The Church and the Jewish Question' (April 1933) that the church must help victims of the state, even if they were not Christians.", "sources": ["bethge", "marsh"]},
+    {"text": "Helped found the Confessing Church, which rejected the Nazi-aligned 'German Christians', and directed its illegal seminary for training pastors at Finkenwalde until the Gestapo closed it in 1937.", "sources": ["bethge", "britannica"]},
+    {"text": "Wrote Discipleship (1937), which attacks 'cheap grace' and calls for costly obedience to Christ, and Life Together (1939), on Christian community.", "sources": ["discipleship", "bethge"]},
+    {"text": "Was moved by his time in the Black church in Harlem (1930–31) and later wrote about seeing history 'from below', from the perspective of the suffering.", "sources": ["marsh", "bethge"]},
+    {"text": "Worked with the resistance inside the Abwehr through his brother-in-law Hans von Dohnanyi, used church contacts abroad, including Bishop George Bell of Chichester (1942), to seek Allied support, and helped a group of Jews escape to Switzerland ('Operation 7', 1942).", "sources": ["bethge", "marsh"]},
+    {"text": "Knew of and supported the plans to kill Hitler; historians debate how directly he was involved.", "sources": ["bethge", "marsh"]},
+    {"text": "Wrote, in letters from Tegel prison, about a 'religionless Christianity' for a 'world come of age', published as Letters and Papers from Prison (1951) and widely influential after the war.", "sources": ["lpp", "britannica"]},
+    {"text": "Left his unfinished Ethics, published after his death.", "sources": ["bethge"]}
+  ],
+  "sayings_intro": "A short selection. Several popular quotations credited to him cannot be found in his writings.",
+  "sayings": {
+    "original": [
+      {"phrase": "Cheap grace is the deadly enemy of our church. Our struggle today is for costly grace.", "reference": "Discipleship (1937), chapter 1", "sources": ["discipleship"]},
+      {"phrase": "When Christ calls a man, he bids him come and die.", "reference": "The Cost of Discipleship (English translation, 1959), chapter 4", "note": "The English wording; the German original is closer to 'Every call of Christ leads into death'.", "sources": ["discipleship"]},
+      {"phrase": "This is the end — for me the beginning of life.", "reference": "Message for Bishop George Bell, reported by fellow prisoner Payne Best, April 1945", "sources": ["bethge"]}
+    ],
+    "misattributed": [
+      {"phrase": "Silence in the face of evil is itself evil: God will not hold us guiltless. Not to speak is to speak. Not to act is to act.", "reference": "Widely quoted online", "note": "Not found in his collected works; it appears to be a modern paraphrase.", "sources": ["dbw"]}
+    ]
+  },
+  "persecution_note": "Bonhoeffer was restricted, banned, imprisoned for two years, and finally executed by the Nazi state.",
+  "persecution": [
+    {"year": 1937, "date": "1936–1941", "title": "Bans and the closing of Finkenwalde", "summary": "His right to teach at the University of Berlin was withdrawn (1936); the Gestapo closed the Finkenwalde seminary (September 1937) and arrested 27 of its former students; he was banned from Berlin (1938), from public speaking (1940), and from publishing (1941).", "responsible": [
+      {"name": "Gestapo (Secret State Police)", "role": "Closed the seminary and arrested students", "jurisdiction": "Nazi Germany", "type": "state"},
+      {"name": "Reich Ministry of Education and Reich Security authorities", "role": "Withdrew his teaching right and imposed the bans", "jurisdiction": "Nazi Germany", "type": "state"},
+      {"name": "Heinrich Himmler", "role": "Head of the SS and police; signed the 1937 decree banning Confessing Church seminaries", "jurisdiction": "Nazi Germany", "type": "state"}
+    ], "outcome": "He continued training pastors secretly in 'collective pastorates' until 1940.", "sources": ["bethge", "marsh"]},
+    {"year": 1945, "date": "5 April 1943 – 9 April 1945", "title": "Arrest, imprisonment, and execution", "summary": "Arrested in 1943 in an investigation of Abwehr currency dealings used to smuggle Jews abroad, he was held at Tegel military prison. After the failed 20 July 1944 plot and the discovery of resistance files at Zossen, he was moved to the Gestapo prison on Prinz-Albrecht-Strasse, then Buchenwald and Flossenbürg. On Hitler's order that the Abwehr conspirators be killed, an SS summary court-martial condemned him on 8 April 1945, and he was hanged at dawn on 9 April with Wilhelm Canaris, Hans Oster, and others, two weeks before American troops reached the camp.", "responsible": [
+      {"name": "Adolf Hitler", "role": "Ordered the conspirators' execution (early April 1945)", "jurisdiction": "Nazi Germany", "type": "state"},
+      {"name": "Walter Huppenkothen", "role": "SS prosecutor at the court-martial", "jurisdiction": "Reich Security Main Office (RSHA)", "type": "state"},
+      {"name": "Otto Thorbeck", "role": "SS judge who presided", "jurisdiction": "SS and Police courts", "type": "state"},
+      {"name": "Ernst Kaltenbrunner and the RSHA", "role": "Directed the prosecution of the Abwehr conspirators", "jurisdiction": "Nazi Germany", "type": "state"}
+    ], "outcome": "Hanged. His brother Klaus and brothers-in-law Hans von Dohnanyi and Rüdiger Schleicher were also killed in April 1945.", "sources": ["bethge", "marsh"]}
+  ],
+  "excommunication_note": "Bonhoeffer was never excommunicated or formally disciplined by his church, though the official Nazi-aligned church leadership disowned the Confessing Church. After the war, West German courts in 1956 acquitted Huppenkothen and Thorbeck of murder over Flossenbürg, a ruling widely criticized; in 1996 a Berlin court formally declared the 1945 verdict void.",
+  "excommunications": [],
+  "sources": [
+    {"id": "discipleship", "type": "primary", "citation": "Dietrich Bonhoeffer, Discipleship, Dietrich Bonhoeffer Works, vol. 4, ed. Geffrey B. Kelly and John D. Godsey. Minneapolis: Fortress Press, 2001."},
+    {"id": "lpp", "type": "primary", "citation": "Dietrich Bonhoeffer, Letters and Papers from Prison, Dietrich Bonhoeffer Works, vol. 8, ed. John W. de Gruchy. Minneapolis: Fortress Press, 2010."},
+    {"id": "dbw", "type": "primary", "citation": "Dietrich Bonhoeffer Works, English edition, 17 vols. Minneapolis: Fortress Press, 1996–2014."},
+    {"id": "bethge", "type": "scholarly", "citation": "Eberhard Bethge, Dietrich Bonhoeffer: A Biography, rev. ed., ed. Victoria J. Barnett. Minneapolis: Fortress Press, 2000."},
+    {"id": "marsh", "type": "scholarly", "citation": "Charles Marsh, Strange Glory: A Life of Dietrich Bonhoeffer. New York: Alfred A. Knopf, 2014."},
+    {"id": "britannica", "type": "reference", "citation": "\"Dietrich Bonhoeffer.\" Encyclopaedia Britannica."}
+  ]
+}

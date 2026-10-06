@@ -138,6 +138,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
+- Dietrich Bonhoeffer (`dietrich-bonhoeffer`)
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
@@ -292,7 +293,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Birth and death rows on the home page now show date, place, and (for deaths) cause; `died.cause`
+- Dietrich Bonhoeffer (bans, Finkenwalde closure, imprisonment, and execution, naming those
+  responsible; misattributed "silence in the face of evil"). 45 people, 48 events.
+- **PR #79**: Birth and death rows on the home page now show date, place, and (for deaths) cause; `died.cause`
   added for all 44 people and required by the build.
 - **PR #78**: Denomination histories, option C chosen by the user: overview events for Baptist, Presbyterian,
   Anglican, Methodist, Lutheran, and Calvary Chapel ("denomination" event type), plus the Southern

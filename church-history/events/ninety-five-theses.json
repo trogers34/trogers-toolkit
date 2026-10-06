@@ -1,0 +1,59 @@
+{
+  "name": "Ninety-five Theses (the Wittenberg door)",
+  "slug": "ninety-five-theses",
+  "also_known_as": "Disputation on the Power and Efficacy of Indulgences; the posting of the theses on the Castle Church door",
+  "era": "Reformation",
+  "event_type": "document",
+  "summary": "Martin Luther's 95 Latin propositions against the sale of indulgences, sent to the archbishop of Mainz on 31 October 1517 and, by a later account, nailed to the door of Wittenberg's Castle Church. The date is traditionally taken as the start of the Protestant Reformation.",
+  "place": "Wittenberg, Electoral Saxony (Holy Roman Empire)",
+  "start": {"year": 1517, "date": "31 October 1517 (eve of All Saints' Day)", "sources": ["lw48", "brecht"]},
+  "background": [
+    {"text": "Pope Leo X had authorized a plenary indulgence to fund the rebuilding of St. Peter's Basilica in Rome. In the lands of Albrecht of Brandenburg, archbishop of Mainz and Magdeburg, half the proceeds went to repaying the Fugger bank, which had lent Albrecht the fees he paid Rome for permission to hold several bishoprics at once.", "sources": ["brecht", "britannica"]},
+    {"text": "The Dominican friar Johann Tetzel preached the indulgence near Saxony's border. Elector Frederick the Wise banned it from his territory, so people from Wittenberg crossed into nearby towns to buy it.", "sources": ["brecht", "bainton"]},
+    {"text": "The rhyme 'As soon as the coin in the coffer rings, the soul from purgatory springs' is attributed to Tetzel's preaching; Luther's thesis 27 attacks the same idea.", "sources": ["lw31", "bainton"]}
+  ],
+  "happened": [
+    {"text": "On 31 October 1517 Luther, a professor of theology at Wittenberg, sent the theses with a letter to Archbishop Albrecht, asking him to withdraw his instructions to the indulgence preachers; the letter survives. He sent them to his own bishop, Jerome Schulze of Brandenburg, as well.", "sources": ["lw48", "brecht"]},
+    {"text": "The theses were written in Latin as propositions for an academic debate. They questioned the pope's power over purgatory and the selling of indulgences, and argued that true repentance is lifelong (thesis 1), but did not yet reject papal authority or teach justification by faith alone.", "sources": ["lw31", "brecht"]},
+    {"text": "The story that Luther posted them on the door of the Castle Church, which served as the university's notice board, first appears in Philip Melanchthon's preface of 1546, after Luther's death; Melanchthon did not arrive in Wittenberg until 1518, and Luther himself never mentioned posting them.", "sources": ["leppin-wengert", "iserloh"]},
+    {"text": "In 1961 the Catholic historian Erwin Iserloh argued the posting never happened. In 2006 a handwritten note by Luther's secretary Georg Rörer was found saying the theses were posted on the doors of Wittenberg's churches on the eve of All Saints. Historians still disagree; the image of Luther with a hammer is a much later tradition.", "sources": ["leppin-wengert", "iserloh"]},
+    {"text": "No debate ever took place. Printers in Nuremberg, Leipzig, and Basel published the theses by the end of 1517, and they spread across Germany within weeks, followed by Luther's German Sermon on Indulgence and Grace (1518), which became a bestseller.", "sources": ["pettegree", "brecht"]}
+  ],
+  "participants": [
+    {"name": "Martin Luther", "role": "Wrote the theses", "person": "martin-luther"},
+    {"name": "Albrecht of Brandenburg", "role": "Archbishop of Mainz and Magdeburg; received the theses and sent them to Rome"},
+    {"name": "Johann Tetzel", "role": "Dominican indulgence preacher; issued counter-theses in 1518 and died in 1519 after a papal envoy blamed him for the trouble"},
+    {"name": "Leo X", "role": "Pope who authorized the indulgence and later condemned Luther"},
+    {"name": "Frederick III (the Wise)", "role": "Elector of Saxony; banned the indulgence sale in his lands and protected Luther"},
+    {"name": "Philip Melanchthon", "role": "Luther's colleague; first recorded the story of the posting (1546)"}
+  ],
+  "outcomes": [
+    {"text": "Albrecht reported Luther to Rome in December 1517. Tetzel and others published replies, Pope Leo X's theologian Silvester Prierias wrote against him in 1518, and heresy proceedings began in Rome that year.", "sources": ["brecht", "oberman"]},
+    {"text": "The controversy grew from indulgences into a dispute over the authority of popes and councils, leading to Luther's excommunication (1521) and the Diet of Worms.", "sources": ["brecht", "britannica"]},
+    {"text": "The Council of Trent (1563) kept indulgences but condemned their abuse, and Pope Pius V cancelled all indulgences that involved payments in 1567.", "sources": ["britannica"]},
+    {"text": "31 October is celebrated as Reformation Day by many Protestant churches. The original wooden doors burned in 1760; bronze doors bearing the Latin text of the theses were installed in 1858.", "sources": ["britannica"]}
+  ],
+  "condemnations": [
+    {"date": "15 June 1520", "by": "Pope Leo X", "authority": "Papacy (bull Exsurge Domine)", "reason": "41 propositions from Luther's writings condemned, including his teaching on indulgences; he was given 60 days to recant", "status": "Never formally withdrawn", "sources": ["brecht", "bainton"]},
+    {"date": "3 January 1521", "by": "Pope Leo X", "authority": "Papacy (bull Decet Romanum Pontificem)", "reason": "Luther excommunicated for refusing to recant", "status": "Never lifted; Catholics and Lutherans held joint commemorations of the Reformation in 2016–2017", "sources": ["brecht", "britannica"]}
+  ],
+  "persecution_note": "Luther was not arrested over the theses. They began the proceedings that led to his excommunication and the imperial ban (see the Diet of Worms).",
+  "persecution": [
+    {"year": 1517, "date": "December 1517 – October 1518", "title": "Heresy proceedings against Luther begin", "summary": "Albrecht of Brandenburg sent the theses to Rome. In 1518 Luther was summoned to Rome, and the papal legate Cardinal Cajetan questioned him at Augsburg in October, demanding that he recant. Fearing arrest, Luther fled Augsburg at night. Frederick the Wise refused to hand him over.", "responsible": [
+      {"name": "Albrecht of Brandenburg", "role": "Archbishop of Mainz; denounced Luther to Rome", "jurisdiction": "Archdiocese of Mainz", "type": "church"},
+      {"name": "Leo X", "role": "Pope; opened proceedings", "jurisdiction": "Papacy", "type": "church"},
+      {"name": "Cardinal Thomas Cajetan", "role": "Papal legate; demanded a recantation", "jurisdiction": "Papacy", "type": "church"}
+    ], "defended_by": [{"name": "Frederick III of Saxony", "role": "Elector; refused to surrender Luther"}], "outcome": "Luther stayed free under Frederick's protection; the case led to his excommunication in 1521.", "sources": ["brecht", "oberman"]}
+  ],
+  "sources": [
+    {"id": "lw31", "type": "primary", "citation": "Martin Luther, Ninety-Five Theses, in Luther's Works, American Edition, vol. 31: Career of the Reformer I, ed. Harold J. Grimm. Philadelphia: Muhlenberg Press, 1957."},
+    {"id": "lw48", "type": "primary", "citation": "Martin Luther, letter to Archbishop Albrecht of Mainz, 31 October 1517, in Luther's Works, American Edition, vol. 48: Letters I, ed. Gottfried G. Krodel. Philadelphia: Fortress Press, 1963."},
+    {"id": "brecht", "type": "scholarly", "citation": "Martin Brecht, Martin Luther: His Road to Reformation, 1483–1521, trans. James L. Schaaf. Philadelphia: Fortress Press, 1985."},
+    {"id": "bainton", "type": "scholarly", "citation": "Roland H. Bainton, Here I Stand: A Life of Martin Luther. Nashville: Abingdon Press, 1950."},
+    {"id": "oberman", "type": "scholarly", "citation": "Heiko A. Oberman, Luther: Man between God and the Devil. New Haven: Yale University Press, 1989."},
+    {"id": "iserloh", "type": "scholarly", "citation": "Erwin Iserloh, The Theses Were Not Posted: Luther between Reform and Reformation, trans. Jared Wicks. Boston: Beacon Press, 1968."},
+    {"id": "leppin-wengert", "type": "scholarly", "citation": "Volker Leppin and Timothy J. Wengert, \"Sources for and against the Posting of the Ninety-Five Theses,\" Lutheran Quarterly 29 (2015)."},
+    {"id": "pettegree", "type": "scholarly", "citation": "Andrew Pettegree, Brand Luther: 1517, Printing, and the Making of the Reformation. New York: Penguin Press, 2015."},
+    {"id": "britannica", "type": "reference", "citation": "\"Ninety-five Theses.\" Encyclopaedia Britannica."}
+  ]
+}

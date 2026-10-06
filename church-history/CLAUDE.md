@@ -129,6 +129,7 @@ Keep this list in sync with `events/` (the tests check it). Oldest first.
 - Second Council of Nicaea, 787, 7th ecumenical (event: `second-council-of-nicaea`)
 - Great Schism of 1054 (event: `great-schism`)
 - Council of Constance, 1414–1418 (event: `council-of-constance`)
+- Ninety-five Theses / the Wittenberg door, 1517 (event: `ninety-five-theses`): the user asked for "Wittenberg Door"
 - Diet of Worms, 1521 (event: `diet-of-worms`)
 - Council of Trent, 1545–1563 (event: `council-of-trent`)
 - St. Bartholomew's Day Massacre, 1572 (event: `st-bartholomews-day-massacre`)
@@ -228,7 +229,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- All seven ecumenical councils: added Constantinople I, Ephesus, Constantinople II,
+- Ninety-five Theses ("Wittenberg Door"), with the debate over whether they were actually
+  posted on the door. 32 people, 13 events.
+- **PR #64**: all seven ecumenical councils: added Constantinople I, Ephesus, Constantinople II,
   Constantinople III, Nicaea II; Nicaea renamed "First Council of Nicaea". 32 people, 12 events.
 - **PR #63**: **Events** added, on the same timeline as people (user: "I would want these on the same
   timeline as the people"): event pages, Events section on linked people's pages, Events

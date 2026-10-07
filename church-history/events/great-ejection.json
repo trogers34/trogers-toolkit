@@ -19,7 +19,7 @@
     {"name": "Charles II", "role": "King, who had promised 'liberty to tender consciences' at Breda (1660)"},
     {"name": "Edward Hyde, Earl of Clarendon", "role": "Lord Chancellor whose name was given to the code"},
     {"name": "Gilbert Sheldon", "role": "Bishop of London, later archbishop of Canterbury; strong supporter of uniformity"},
-    {"name": "Richard Baxter", "role": "Leading Puritan minister ejected in 1662"}
+    {"name": "Richard Baxter", "role": "Leading Puritan minister ejected in 1662", "person": "richard-baxter"}
   ],
   "outcomes": [
     {"text": "The ejected ministers and their followers formed the Presbyterian, Congregational (Independent), and Baptist churches of English Nonconformity.", "sources": ["watts", "britannica"]},

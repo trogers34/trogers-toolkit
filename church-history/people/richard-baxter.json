@@ -1,0 +1,68 @@
+{
+  "name": "Richard Baxter",
+  "slug": "richard-baxter",
+  "era": "Modern",
+  "role": "English Puritan pastor, theologian, and devotional writer",
+  "born": {"year": 1615, "date": "12 November 1615", "place": "Rowton, Shropshire, England", "sources": ["reliquiae", "keeble"]},
+  "died": {"year": 1691, "date": "8 December 1691", "place": "Charterhouse Yard, London, England", "cause": "Natural causes after many years of chronic illness", "sources": ["keeble", "britannica"]},
+  "summary": "Puritan minister whose pastoral work at Kidderminster became a model for parish ministry; a moderate who sought unity between Presbyterians, Episcopalians, and Independents, he was ejected in 1662, repeatedly prosecuted for preaching, and wrote some of the most widely read devotional books in English.",
+  "key_dates": [
+    {"year": 1638, "label": "Ordained deacon by the Bishop of Worcester", "sources": ["reliquiae", "nuttall"]},
+    {"year": 1641, "label": "Becomes lecturer (preacher) at Kidderminster, Worcestershire", "sources": ["reliquiae", "keeble"]},
+    {"year": 1645, "label": "Becomes a chaplain in the Parliamentary army after the Battle of Naseby (to 1647)", "sources": ["reliquiae", "nuttall"]},
+    {"year": 1650, "label": "Publishes The Saints' Everlasting Rest", "sources": ["keeble", "britannica"]},
+    {"year": 1656, "label": "Publishes Gildas Salvianus: The Reformed Pastor", "sources": ["keeble", "britannica"]},
+    {"year": 1661, "label": "Leads the Presbyterian side at the Savoy Conference and drafts a reformed liturgy; declines the bishopric of Hereford", "sources": ["reliquiae", "keeble"]},
+    {"year": 1662, "label": "Leaves the Church of England ministry in the Great Ejection; marries Margaret Charlton", "sources": ["reliquiae", "keeble"]},
+    {"year": 1673, "label": "Publishes A Christian Directory", "sources": ["keeble", "britannica"]},
+    {"year": 1685, "label": "Tried before Judge Jeffreys for seditious libel; imprisoned until 1686", "sources": ["reliquiae", "keeble"]}
+  ],
+  "accomplishments": [
+    {"text": "At Kidderminster (1641–42 and 1647–61) he turned an unruly parish into a model congregation by preaching and by catechizing every family in their homes, a method he urged on other ministers in The Reformed Pastor (1656).", "sources": ["reliquiae", "keeble"]},
+    {"text": "Organized the Worcestershire Association (1653), in which ministers of different church views agreed to cooperate in discipline and catechizing; it was copied in other counties.", "sources": ["nuttall", "keeble"]},
+    {"text": "Wrote The Saints' Everlasting Rest (1650), A Call to the Unconverted (1658), and A Christian Directory (1673), a huge manual of Puritan practical ethics; he published well over a hundred works.", "sources": ["keeble", "britannica"]},
+    {"text": "Sought a 'mere Christian' unity: he refused to be bound to any party, argued for a church that Presbyterians and moderate Episcopalians could share, and at the Savoy Conference (1661) proposed revisions to the Prayer Book, which the bishops rejected.", "sources": ["reliquiae", "keeble"]},
+    {"text": "Served as a Parliamentary army chaplain (1645–47) in order to argue against the radical sects among the soldiers; he later opposed Cromwell's rule as a usurpation and supported the return of Charles II, whom he served briefly as a royal chaplain (1660).", "sources": ["reliquiae", "nuttall"]},
+    {"text": "His theology, a middle way between Calvinism and Arminianism later called 'Baxterianism', provoked controversy with stricter Calvinists such as John Owen.", "sources": ["keeble", "britannica"]},
+    {"text": "His autobiography, Reliquiae Baxterianae (published 1696), is a major source for the religious history of the Civil War and Restoration.", "sources": ["reliquiae", "keeble"]},
+    {"text": "His 1681 Breviate of the life of his wife Margaret, who died that year, is one of the earliest English memoirs of a marriage.", "sources": ["keeble"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "I preached as never sure to preach again, and as a dying man to dying men", "reference": "Poem 'Love Breathing Thanks and Praise', in Poetical Fragments (1681)", "sources": ["keeble"]},
+      {"phrase": "I am a Christian, a mere Christian", "reference": "Church-History of the Government of Bishops (1680)", "note": "C. S. Lewis's title Mere Christianity (1952) echoes this phrase.", "sources": ["keeble", "britannica"]}
+    ],
+    "misattributed": [
+      {"phrase": "In necessary things, unity; in doubtful things, liberty; in all things, charity", "reference": "Often credited to Baxter, who quoted it", "note": "First found in a 1626 tract by the Lutheran Rupertus Meldenius (Peter Meiderlin); Baxter used and spread it but did not coin it.", "sources": ["britannica"]}
+    ]
+  },
+  "persecuted_others_note": "Baxter opposed the persecution of moderate dissenters and spent much of his life arguing for a broad church. He did not, however, support general toleration: in the 1650s he argued that the magistrate should restrain Catholics, Quakers, and other sects he judged dangerous, and he wrote sharply against them. No record shows him taking part in any arrest or punishment.",
+  "persecuted_others": [
+    {"year": 1659, "date": "1650s–1659", "title": "Argued for restraining 'popery' and the sects", "targets": "Catholics, Quakers, Socinians, and other sects", "involvement": "advocated", "summary": "In A Holy Commonwealth (1659) and other writings he argued that a Christian magistrate should suppress public Catholic worship and restrain blasphemy and heresy, and he opposed Cromwell's toleration of the sects. He later withdrew A Holy Commonwealth (1670).", "sources": ["lamont", "keeble"]}
+  ],
+  "persecution_note": "As a Nonconformist after 1662, Baxter was repeatedly prosecuted under the Clarendon Code for preaching. He was imprisoned twice, his goods and books were seized, and at his 1685 trial Judge Jeffreys abused him from the bench.",
+  "persecution": [
+    {"year": 1669, "title": "Imprisoned for holding a conventicle at Acton", "summary": "Arrested for preaching to his household and neighbours at Acton, Middlesex, contrary to the Five Mile Act; he spent about a week in Clerkenwell prison before being released on a technicality.", "responsible": [
+      {"name": "Middlesex justices of the peace", "role": "Magistrates who committed him", "jurisdiction": "Kingdom of England (Five Mile Act, 1665)", "type": "state"}
+    ], "outcome": "Released on appeal after about a week; forced to leave Acton.", "sources": ["reliquiae", "keeble"]},
+    {"year": 1682, "date": "1682–1684", "title": "Distraint of goods and books", "summary": "Warrants were issued against him for preaching, and officers seized his goods, including his books, to pay fines under the Conventicle Act; he was too ill to be taken to prison.", "responsible": [
+      {"name": "London and Middlesex magistrates and informers", "role": "Issued warrants and enforced fines", "jurisdiction": "Kingdom of England (Conventicle Act, 1670)", "type": "state"}
+    ], "outcome": "Goods and library sold off to pay fines.", "sources": ["reliquiae", "keeble"]},
+    {"year": 1685, "date": "May 1685 – November 1686", "title": "Trial for seditious libel before Judge Jeffreys", "summary": "Prosecuted for passages in his Paraphrase on the New Testament (1685) said to libel the bishops and the Church of England. Lord Chief Justice George Jeffreys refused to let his counsel be heard and abused him from the bench; a packed jury convicted him.", "responsible": [
+      {"name": "George Jeffreys", "role": "Lord Chief Justice who presided", "jurisdiction": "Court of King's Bench", "type": "state"},
+      {"name": "James II's government", "role": "Crown prosecution", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "defended_by": [
+      {"name": "Lord Powis", "role": "Catholic peer who helped obtain his release"}
+    ], "outcome": "Fined 500 marks and imprisoned in the King's Bench prison until pardoned in November 1686.", "sources": ["reliquiae", "keeble", "britannica"]}
+  ],
+  "excommunication_note": "No record of his being excommunicated. He was barred from ministry in the Church of England by the Act of Uniformity (1662) but continued to attend his parish church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "reliquiae", "type": "primary", "citation": "Richard Baxter, Reliquiae Baxterianae, ed. Matthew Sylvester. London, 1696."},
+    {"id": "keeble", "type": "scholarly", "citation": "N. H. Keeble, Richard Baxter: Puritan Man of Letters. Oxford: Clarendon Press, 1982."},
+    {"id": "nuttall", "type": "scholarly", "citation": "Geoffrey F. Nuttall, Richard Baxter. London: Nelson, 1965."},
+    {"id": "lamont", "type": "scholarly", "citation": "William M. Lamont, Richard Baxter and the Millennium: Protestant Imperialism and the English Revolution. London: Croom Helm, 1979."},
+    {"id": "britannica", "type": "reference", "citation": "\"Richard Baxter.\" Encyclopaedia Britannica."}
+  ]
+}

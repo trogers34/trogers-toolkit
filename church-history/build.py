@@ -11,6 +11,7 @@ No third-party dependencies.
 import argparse
 import html
 import json
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -541,6 +542,15 @@ def render_persecuted_others(person, numbers):
 '''
 
 
+def short_name(person):
+    """Name used in phrases like 'What Calvin is accused of': `short_name`, else the surname,
+    else the full name when the last word is a regnal number (Henry VIII, Elizabeth I)."""
+    if person.get("short_name"):
+        return person["short_name"]
+    last = person["name"].split()[-1]
+    return person["name"] if re.fullmatch(r"[IVXLC]+", last) else last
+
+
 def render_person(person, events=()):
     numbers = source_numbers(person)
     born, died = person["born"], person["died"]
@@ -634,7 +644,7 @@ def render_person(person, events=()):
     <h2>What they did</h2>
     {render_bullets(person["accomplishments"], numbers)}
   </section>
-{events_html}{sayings_html}{render_victims(person, numbers, person["name"].split()[-1])}{render_persecuted_others(person, numbers)}{persecution_html}{render_key_dates(dates, numbers)}{render_sources(person)}</article>
+{events_html}{sayings_html}{render_victims(person, numbers, short_name(person))}{render_persecuted_others(person, numbers)}{persecution_html}{render_key_dates(dates, numbers)}{render_sources(person)}</article>
 """
     notice = ai_notice(person.get("ai_generated", "full"))
     return page(f'{person["name"]} — Church History', body, root="../", notice=notice)

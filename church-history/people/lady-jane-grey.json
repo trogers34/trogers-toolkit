@@ -1,0 +1,419 @@
+{
+  "name": "Lady Jane Grey",
+  "slug": "lady-jane-grey",
+  "also_known_as": "Jane Dudley; Queen Jane; the 'Nine Days' Queen'",
+  "era": "Reformation",
+  "role": "Proclaimed Queen of England and Ireland (10–19 July 1553); Protestant noblewoman and scholar",
+  "born": {
+    "year": 1537,
+    "circa": true,
+    "date": "c. 1537 (the exact date is unknown; older accounts give October 1537, and some historians argue for spring 1537)",
+    "place": "Bradgate Park, Leicestershire, England, by tradition; disputed, and some historians suggest London",
+    "sources": [
+      "ives",
+      "de-lisle",
+      "odnb"
+    ]
+  },
+  "died": {
+    "year": 1554,
+    "date": "12 February 1554",
+    "place": "Tower of London, England (within the Tower; traditionally identified as Tower Green)",
+    "cause": "Beheaded with an axe for high treason, on the order of Mary I, at about sixteen or seventeen",
+    "sources": [
+      "chronicle",
+      "foxe",
+      "ives"
+    ]
+  },
+  "summary": "Great-granddaughter of Henry VII and a highly educated Protestant who, at about sixteen, was named heir by the dying Edward VI and proclaimed queen on 10 July 1553 to keep the Catholic Mary I from the throne; deposed after nine days, she was condemned for treason and beheaded in 1554 after her father joined Wyatt's rebellion, and was remembered by Protestants as a martyr.",
+  "key_dates": [
+    {
+      "year": 1537,
+      "circa": true,
+      "label": "Born, eldest daughter of Henry Grey, Marquess of Dorset, and Frances Brandon, niece of Henry VIII",
+      "sources": [
+        "ives",
+        "odnb"
+      ]
+    },
+    {
+      "year": 1547,
+      "circa": true,
+      "label": "Placed in the household of the dowager queen Catherine Parr and then as a ward of Thomas Seymour, who hoped to marry her to Edward VI (c. 1547–1549)",
+      "sources": [
+        "ives",
+        "de-lisle"
+      ]
+    },
+    {
+      "year": 1551,
+      "label": "Writes in Latin to Heinrich Bullinger of Zürich (letters c. 1551–1553); her father becomes Duke of Suffolk (October)",
+      "sources": [
+        "original-letters",
+        "ives"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Married to Guildford Dudley, son of the Duke of Northumberland, at Durham House, London (25 May)",
+      "sources": [
+        "ives",
+        "chronicle"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Edward VI's 'Device for the Succession' and letters patent (21 June) name her heir; Edward dies 6 July",
+      "sources": [
+        "ives",
+        "loach"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Proclaimed queen in London (10 July); the council goes over to Mary, who is proclaimed queen (19 July); Jane held in the Tower",
+      "sources": [
+        "chronicle",
+        "ives",
+        "loades"
+      ]
+    },
+    {
+      "year": 1553,
+      "label": "Tried for high treason at the Guildhall, London, with her husband and others; pleads guilty and is condemned (13 November)",
+      "sources": [
+        "chronicle",
+        "ives"
+      ]
+    },
+    {
+      "year": 1554,
+      "label": "Wyatt's rebellion, joined by her father (January–February); refuses John Feckenham's attempts to convert her; beheaded 12 February, the same morning as her husband",
+      "sources": [
+        "chronicle",
+        "foxe",
+        "ives"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Her nine days as queen came at the hinge of England's religious swings: under Henry VIII the church broke with Rome but kept Catholic worship; under her predecessor Edward VI (1547–1553) it became fully Protestant, with the English Book of Common Prayer replacing the Latin Mass, images removed, and Catholic bishops such as Stephen Gardiner and Edmund Bonner deprived and imprisoned; under her successor Mary I the Edwardian religious laws were repealed (Latin Mass restored from 20 December 1553), Protestant bishops and married clergy were removed, England was reconciled to Rome (1554), and about 280 Protestants were burned for heresy from 1555; under Elizabeth I (1558) the church became Protestant again.",
+      "sources": [
+        "macculloch",
+        "duffy-altars",
+        "haigh",
+        "loades"
+      ]
+    },
+    {
+      "text": "Was proclaimed queen on 10 July 1553 under Edward VI's 'Device for the Succession', which set aside his half-sisters Mary and Elizabeth (both declared illegitimate under Henry VIII) in favor of Jane, partly to keep the realm Protestant; the plan was driven by Edward himself and by John Dudley, Duke of Northumberland, whose son she had just married. Support collapsed as Mary raised an army in East Anglia, and the council proclaimed Mary on 19 July.",
+      "sources": [
+        "ives",
+        "loach",
+        "loades",
+        "britannica"
+      ]
+    },
+    {
+      "text": "As queen she reportedly refused to make her husband Guildford Dudley king, offering at most to make him a duke, according to her own later letter to Mary; she also asked that her father, not Northumberland, stay with her in London, so Northumberland led the army against Mary.",
+      "sources": [
+        "ives",
+        "chronicle"
+      ]
+    },
+    {
+      "text": "Received an unusually full humanist and Protestant education under her tutor John Aylmer (later Bishop of London), reading Latin and Greek and starting Hebrew; Roger Ascham recorded finding her at Bradgate reading Plato's Phaedo in Greek while her family was out hunting.",
+      "sources": [
+        "ascham",
+        "ives",
+        "original-letters"
+      ]
+    },
+    {
+      "text": "Corresponded in Latin with the Zürich reformer Heinrich Bullinger (c. 1551–1553), asking his advice on learning Hebrew and thanking him for his writings; Bullinger had dedicated part of his Decades to her father. The letters were later printed by the Parker Society.",
+      "sources": [
+        "original-letters",
+        "ives"
+      ]
+    },
+    {
+      "text": "Wrote a harsh Protestant letter to her former tutor-chaplain Thomas Harding after he returned to Catholicism, and in the Tower wrote a letter of counsel to her sister Katherine in her Greek New Testament, a prayer, and a letter to her father; Foxe printed these.",
+      "sources": [
+        "foxe",
+        "ives"
+      ]
+    },
+    {
+      "text": "In the days before her execution she debated the Mass, justification, and the sacraments with Mary's chaplain John Feckenham, sent to convert her, and refused to change her faith; an account of the discussion circulated and was printed by Foxe.",
+      "sources": [
+        "foxe",
+        "chronicle",
+        "ives"
+      ]
+    },
+    {
+      "text": "On the scaffold she admitted that accepting the crown had been unlawful but denied having sought it, said she died 'a true Christian woman' trusting to be saved only by God's mercy in Christ, and recited Psalm 51 in English.",
+      "sources": [
+        "chronicle",
+        "foxe"
+      ]
+    },
+    {
+      "text": "Foxe's Acts and Monuments presented her as a Protestant martyr, and later writers, painters (notably Paul Delaroche's 1833 'The Execution of Lady Jane Grey'), and historians made her the 'Nine Days' Queen', an innocent victim of her family's ambitions; recent historians such as Eric Ives and Leanda de Lisle stress her own convinced Protestantism and question parts of the legend, including stories that her parents beat her into the marriage.",
+      "sources": [
+        "foxe",
+        "ives",
+        "de-lisle"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection of words attributed to Jane. Most come from contemporary accounts of her imprisonment and execution or from letters printed by Foxe, which may have been edited.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"All their sport in the park is but a shadow to that pleasure that I find in Plato\"",
+        "reference": "Reported by Roger Ascham, The Scholemaster (1570), from a visit to Bradgate around 1550",
+        "note": "Ascham's recollection, written some twenty years later; he also records her complaint of harsh treatment by her parents ('pinches, nips and bobs').",
+        "sources": [
+          "ascham",
+          "ives"
+        ]
+      },
+      {
+        "phrase": "\"It will teach you to live and learn you to die\"",
+        "reference": "Letter to her sister Katherine written in her Greek New Testament, February 1554; printed by Foxe",
+        "note": "Said of the New Testament she sent to Katherine.",
+        "sources": [
+          "foxe",
+          "ives"
+        ]
+      },
+      {
+        "phrase": "\"The fact against the Queen's highness was unlawful, and the consenting thereunto by me: but touching the procurement and desire thereof by me or on my behalf, I do wash my hands thereof in innocency\"",
+        "reference": "Scaffold speech, 12 February 1554, in the Chronicle of Queen Jane and in Foxe",
+        "note": "Wording varies slightly between accounts.",
+        "sources": [
+          "chronicle",
+          "foxe"
+        ]
+      },
+      {
+        "phrase": "\"What shall I do? Where is it?\"",
+        "reference": "Scaffold, 12 February 1554, in the Chronicle of Queen Jane",
+        "note": "Said when, blindfolded, she could not find the block and had to be guided to it.",
+        "sources": [
+          "chronicle"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Lord, into thy hands I commend my spirit\"",
+        "reference": "Her last words as recorded in the Chronicle of Queen Jane and by Foxe",
+        "note": "Words of Jesus on the cross (Luke 23:46, quoting Psalm 31:5), used by many dying Christians; not original to her.",
+        "sources": [
+          "chronicle",
+          "foxe"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"The Nine Days' Queen\"",
+        "reference": "Later label",
+        "note": "Not her words, and not a title used in her lifetime. It counts from her proclamation on 10 July to Mary's on 19 July; counted from Edward VI's death on 6 July her reign was thirteen days.",
+        "sources": [
+          "ives",
+          "britannica"
+        ]
+      }
+    ]
+  },
+  "persecuted_others_note": "No persecution supported or carried out by Jane is recorded. During her nine days, letters and proclamations went out in her name declaring Mary illegitimate and calling on the realm to resist her, and Northumberland led an army against Mary, but no one was arrested, tried, or executed for religion in her name. Her harsh letter to Thomas Harding condemned his return to Catholicism but did not call for action against him.",
+  "persecuted_others": [],
+  "persecution_note": "After Mary I's accession Jane was held in the Tower of London, tried and condemned for treason in November 1553, and beheaded in February 1554 after her father's part in Wyatt's rebellion; Mary's chaplain John Feckenham was sent to convert her before she died. Her father Henry Grey, Duke of Suffolk, and her husband Guildford Dudley were also executed, as was her father-in-law Northumberland in August 1553. Earlier, Ascham recorded her complaint of harsh treatment by her parents, and later (disputed) Italian and Catholic accounts say she was beaten into marrying Guildford; historians such as de Lisle doubt those stories.",
+  "persecution": [
+    {
+      "year": 1553,
+      "date": "19 July 1553 onward",
+      "title": "Deposed and held in the Tower of London",
+      "summary": "When the Privy Council went over to Mary and proclaimed her queen in London on 19 July 1553, Jane, who had been lodged in the Tower as queen, was kept there as a prisoner; her father, the Duke of Suffolk, is said to have told her she was no longer queen. Her husband Guildford was also held. Northumberland was arrested at Cambridge and beheaded on 22 August 1553 after declaring himself a Catholic.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Queen of England, who claimed the throne by Henry VIII's will and the Act of Succession of 1544",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "The Privy Council (including the Earls of Arundel and Pembroke)",
+          "role": "Councillors who had proclaimed Jane and then switched to Mary",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Imprisoned in the Tower, in the house of the Gentleman Gaoler, with some freedom to walk in the grounds.",
+      "sources": [
+        "chronicle",
+        "ives",
+        "loades"
+      ]
+    },
+    {
+      "year": 1553,
+      "date": "13 November 1553",
+      "title": "Trial and condemnation for high treason",
+      "summary": "Jane was tried at the Guildhall, London, by a special commission, together with Guildford Dudley, his brothers Ambrose and Henry Dudley, and Archbishop Thomas Cranmer. She pleaded guilty to treason for usurping the crown and was sentenced to be burned or beheaded at the queen's pleasure. Mary was reported to intend to spare her, and the sentence was not carried out at once.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Queen; the prosecution was brought in her name",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Special commission of judges at the Guildhall",
+          "role": "Tried and sentenced her",
+          "jurisdiction": "Kingdom of England (royal courts)",
+          "type": "state"
+        }
+      ],
+      "outcome": "Condemned to death; left in the Tower while Mary hesitated.",
+      "sources": [
+        "chronicle",
+        "ives",
+        "loades"
+      ]
+    },
+    {
+      "year": 1554,
+      "date": "February 1554",
+      "title": "Attempts to convert her to Catholicism",
+      "summary": "After the death warrant was signed, Mary sent her chaplain John Feckenham (later Abbot of Westminster) to persuade Jane to accept Catholic teaching; her execution was put off for about three days to allow it. They disputed faith, justification, and the sacraments, and she refused to convert. Feckenham attended her on the scaffold at her request.",
+      "responsible": [
+        {
+          "name": "John Feckenham",
+          "role": "Mary I's chaplain, sent to convert her",
+          "jurisdiction": "Catholic Church in England",
+          "type": "church"
+        },
+        {
+          "name": "Mary I",
+          "role": "Sent Feckenham and delayed the execution",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "She remained Protestant; an account of the debate was later printed by Foxe.",
+      "sources": [
+        "foxe",
+        "chronicle",
+        "ives"
+      ]
+    },
+    {
+      "year": 1554,
+      "date": "12 February 1554",
+      "title": "Execution after Wyatt's rebellion",
+      "summary": "In January–February 1554 Sir Thomas Wyatt led a rising in Kent against Mary's planned marriage to Philip of Spain; Jane's father, the Duke of Suffolk, tried without success to raise Leicestershire and was captured. Jane had no recorded part in the rising, but it showed she could be a rallying point. Mary signed the death warrants for Jane and Guildford; Lord Chancellor Stephen Gardiner preached urging severity against the rebels, and the imperial ambassador Simon Renard had long pressed for Jane's death. Guildford was beheaded on Tower Hill that morning, and Jane saw his body brought back; she was then beheaded within the Tower.",
+      "responsible": [
+        {
+          "name": "Mary I",
+          "role": "Queen; signed the death warrant",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Stephen Gardiner",
+          "role": "Bishop of Winchester and Lord Chancellor; urged severity after the rebellion",
+          "jurisdiction": "Kingdom of England / Diocese of Winchester",
+          "type": "church"
+        },
+        {
+          "name": "Simon Renard",
+          "role": "Ambassador of Emperor Charles V; urged that Jane and other potential rivals be executed before Philip's arrival",
+          "jurisdiction": "Holy Roman Empire (diplomatic)",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Beheaded at about sixteen or seventeen; buried in the chapel of St Peter ad Vincula in the Tower. Her father Suffolk was beheaded on Tower Hill on 23 February 1554.",
+      "sources": [
+        "chronicle",
+        "foxe",
+        "ives",
+        "loades"
+      ]
+    }
+  ],
+  "excommunication_note": "Jane was never excommunicated or condemned by any church authority. She was tried and executed for treason, not heresy. England was not formally reconciled to Rome until November 1554, after her death.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "chronicle",
+      "type": "primary",
+      "citation": "The Chronicle of Queen Jane, and of Two Years of Queen Mary, ed. John Gough Nichols. London: Camden Society, 1850."
+    },
+    {
+      "id": "foxe",
+      "type": "primary",
+      "citation": "John Foxe, Acts and Monuments ('Foxe's Book of Martyrs'), 1563 and later editions."
+    },
+    {
+      "id": "original-letters",
+      "type": "primary",
+      "citation": "Original Letters Relative to the English Reformation, ed. Hastings Robinson. 2 vols. Cambridge: Parker Society, 1846–1847."
+    },
+    {
+      "id": "ascham",
+      "type": "primary",
+      "citation": "Roger Ascham, The Scholemaster. London, 1570."
+    },
+    {
+      "id": "ives",
+      "type": "scholarly",
+      "citation": "Eric Ives, Lady Jane Grey: A Tudor Mystery. Chichester: Wiley-Blackwell, 2009."
+    },
+    {
+      "id": "de-lisle",
+      "type": "scholarly",
+      "citation": "Leanda de Lisle, The Sisters Who Would Be Queen: The Tragedy of Mary, Katherine, and Lady Jane Grey. London: HarperPress, 2008."
+    },
+    {
+      "id": "loach",
+      "type": "scholarly",
+      "citation": "Jennifer Loach, Edward VI, ed. George Bernard and Penry Williams. New Haven: Yale University Press, 1999."
+    },
+    {
+      "id": "loades",
+      "type": "scholarly",
+      "citation": "David Loades, Mary Tudor: A Life. Oxford: Blackwell, 1989."
+    },
+    {
+      "id": "macculloch",
+      "type": "scholarly",
+      "citation": "Diarmaid MacCulloch, Tudor Church Militant: Edward VI and the Protestant Reformation. London: Allen Lane, 1999."
+    },
+    {
+      "id": "duffy-altars",
+      "type": "scholarly",
+      "citation": "Eamon Duffy, The Stripping of the Altars: Traditional Religion in England, c. 1400–c. 1580. New Haven: Yale University Press, 1992."
+    },
+    {
+      "id": "haigh",
+      "type": "scholarly",
+      "citation": "Christopher Haigh, English Reformations: Religion, Politics, and Society under the Tudors. Oxford: Clarendon Press, 1993."
+    },
+    {
+      "id": "odnb",
+      "type": "reference",
+      "citation": "\"Grey [married name Dudley], Lady Jane (1537–1554).\" Oxford Dictionary of National Biography. Oxford University Press."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Lady Jane Grey.\" Encyclopaedia Britannica."
+    }
+  ]
+}

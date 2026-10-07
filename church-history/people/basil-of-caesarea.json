@@ -1,0 +1,401 @@
+{
+  "name": "Basil of Caesarea",
+  "slug": "basil-of-caesarea",
+  "also_known_as": "Basil the Great; Saint Basil",
+  "era": "Early Church",
+  "role": "Monastic founder, theologian, Bishop of Caesarea in Cappadocia",
+  "born": {
+    "year": 330,
+    "circa": true,
+    "date": "c. 329–330",
+    "place": "Caesarea in Cappadocia (modern Kayseri, Turkey)",
+    "sources": [
+      "rousseau",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 379,
+    "circa": true,
+    "date": "1 January 379 (traditional date; some scholars argue for 377 or 378)",
+    "place": "Caesarea in Cappadocia",
+    "cause": "Illness, after years of poor health; he was about 49",
+    "sources": [
+      "greg-or43",
+      "rousseau",
+      "britannica"
+    ]
+  },
+  "summary": "Bishop of Caesarea in Cappadocia and one of the three \"Cappadocian Fathers,\" who shaped Eastern monasticism with his Rules, defended the divinity of the Holy Spirit, built a large hospital and poorhouse complex, and resisted the pro-Arian policy of Emperor Valens.",
+  "key_dates": [
+    {
+      "year": 350,
+      "circa": true,
+      "label": "Studies rhetoric at Constantinople and then Athens (c. 349–355), where he becomes close friends with Gregory of Nazianzus",
+      "sources": [
+        "greg-or43",
+        "rousseau"
+      ]
+    },
+    {
+      "year": 357,
+      "circa": true,
+      "label": "Baptized; tours monastic communities in Egypt, Palestine, Syria, and Mesopotamia, then settles into ascetic life at Annesi in Pontus",
+      "sources": [
+        "letters",
+        "rousseau"
+      ]
+    },
+    {
+      "year": 364,
+      "circa": true,
+      "label": "Ordained presbyter at Caesarea by Bishop Eusebius (c. 362–364); writes Against Eunomius",
+      "sources": [
+        "rousseau",
+        "radde-gallwitz"
+      ]
+    },
+    {
+      "year": 369,
+      "circa": true,
+      "label": "Organizes relief for the hungry during the Cappadocian famine (368–369)",
+      "sources": [
+        "greg-or43",
+        "holman"
+      ]
+    },
+    {
+      "year": 370,
+      "label": "Elected Bishop (metropolitan) of Caesarea",
+      "sources": [
+        "greg-or43",
+        "rousseau",
+        "britannica"
+      ]
+    },
+    {
+      "year": 372,
+      "label": "Defies the prefect Modestus and Emperor Valens's visit to Caesarea; Cappadocia divided, leading to his dispute with Anthimus of Tyana; makes Gregory of Nazianzus bishop of Sasima",
+      "sources": [
+        "greg-or43",
+        "rousseau"
+      ]
+    },
+    {
+      "year": 372,
+      "circa": true,
+      "label": "The Basileias, his hospital and poorhouse complex outside Caesarea, is operating (built c. 369–372)",
+      "sources": [
+        "letters",
+        "holman",
+        "rousseau"
+      ]
+    },
+    {
+      "year": 375,
+      "circa": true,
+      "label": "Writes On the Holy Spirit; breaks with his former mentor Eustathius of Sebaste (c. 373–375)",
+      "sources": [
+        "on-spirit",
+        "rousseau"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Came from a wealthy Christian family that produced several saints: his father Basil the Elder was a rhetorician, his mother was Emmelia, his grandmother Macrina the Elder had been a disciple of followers of Gregory the Wonderworker, his sister Macrina the Younger led an ascetic household at Annesi, and his younger brothers included Gregory of Nyssa and Peter of Sebaste. Gregory of Nyssa credits Macrina with turning Basil from worldly ambition to the ascetic life, though Basil never mentions her in his surviving writings.",
+      "sources": [
+        "macrina",
+        "rousseau",
+        "van-dam"
+      ]
+    },
+    {
+      "text": "Defended the full divinity of the Holy Spirit in On the Holy Spirit (c. 375), arguing for the doxology \"with the Son, together with the Holy Spirit\"; with his brother Gregory of Nyssa and his friend Gregory of Nazianzus he developed the formula of one essence (ousia) in three persons (hypostaseis) that the Council of Constantinople (381) endorsed after his death.",
+      "sources": [
+        "on-spirit",
+        "radde-gallwitz",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote Against Eunomius (c. 364), answering the leading Anomoean (radical Arian) theologian, who taught that the Son is unlike the Father in essence. Earlier, at Annesi in the late 350s or 360s, he and Gregory of Nazianzus compiled the Philokalia, an anthology of passages from Origen (the attribution comes from Gregory's letters).",
+      "sources": [
+        "radde-gallwitz",
+        "rousseau",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote the Asceticon, known as the Longer and Shorter Rules, in question-and-answer form; it favored monks living together in community under obedience rather than as solitary hermits, and remains the basic monastic rule of the Eastern Orthodox Church.",
+      "sources": [
+        "silvas",
+        "rousseau",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Founded the Basileias (c. 369–372), a complex outside Caesarea with a hospital, poorhouse, and lodging for travelers, staffed by monks; Gregory of Nazianzus called it a \"new city,\" and it is often cited as one of the first Christian hospitals. During the famine of 368–369 he sold inherited property and organized food distribution, and he preached sermons sharply criticizing the hoarding of wealth.",
+      "sources": [
+        "greg-or43",
+        "holman",
+        "social-justice"
+      ]
+    },
+    {
+      "text": "Preached the Hexaemeron, nine homilies on the six days of creation drawing on the natural science of his day, and wrote the Address to Young Men on how Christians could profit from Greek literature, a much-read defense of classical education.",
+      "sources": [
+        "npnf-basil",
+        "rousseau"
+      ]
+    },
+    {
+      "text": "The Liturgy of St Basil, still used on about ten days a year in the Byzantine rite and in another form by the Coptic Church, bears his name; scholars think he revised an existing anaphora (eucharistic prayer) rather than composing the whole rite.",
+      "sources": [
+        "britannica",
+        "radde-gallwitz"
+      ]
+    },
+    {
+      "text": "His three Canonical Letters to Amphilochius of Iconium (c. 374–375) set penances for sins such as murder, adultery, and abortion, and rules for receiving heretics and schismatics; they became part of Orthodox canon law.",
+      "sources": [
+        "npnf-basil",
+        "rousseau"
+      ]
+    },
+    {
+      "text": "As bishop he used church appointments to strengthen the Nicene party in his struggles: after Valens split Cappadocia in two (371–372), he created new sees and made his brother Gregory bishop of Nyssa and Gregory of Nazianzus bishop of Sasima, a remote post town that Gregory never took up and resented for the rest of his life.",
+      "sources": [
+        "greg-or43",
+        "rousseau",
+        "van-dam"
+      ]
+    },
+    {
+      "text": "Tried to heal the Meletian schism at Antioch and to win the support of Pope Damasus and the Western bishops for the beleaguered Nicene East. Rome backed Meletius's rival Paulinus and was slow to respond, and Basil's letters complain of Western pride; relations stayed strained until his death.",
+      "sources": [
+        "letters",
+        "rousseau"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection. His letters and sermons survive in large numbers; many short sayings credited to him online cannot be traced to his writings and are not listed here.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"The bread you hold back belongs to the hungry; the cloak you keep locked away belongs to the naked; the shoes rotting in your closet belong to the barefoot; the silver you have buried belongs to the needy.\"",
+        "reference": "Homily on Luke 12:18, \"I will tear down my barns\" (Homily 6)",
+        "note": "Often quoted as \"The bread you hoard belongs to the hungry.\" Wording varies between translations; the thought (that surplus wealth belongs to the poor) has earlier parallels, but this formulation is his.",
+        "sources": [
+          "social-justice",
+          "holman"
+        ]
+      },
+      {
+        "phrase": "\"Perhaps you have never met a bishop.\"",
+        "reference": "Recorded by Gregory of Nazianzus, Oration 43 (funeral oration for Basil)",
+        "note": "His reply when the prefect Modestus, in 372, said that no one had ever spoken to him with such boldness. Known only from Gregory's speech, given a few years later, which may polish the exchange.",
+        "sources": [
+          "greg-or43"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Glory to the Father, with the Son, together with the Holy Spirit\"",
+        "reference": "On the Holy Spirit 1.3 and throughout",
+        "note": "His use of this form of the doxology alongside the common \"through the Son, in the Holy Spirit\" drew criticism; he argued that both were older church usage, and his defense made the form famous.",
+        "sources": [
+          "on-spirit"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Basil lived under Emperor Valens (364–378), who favored the Homoian (Arian-leaning) party and exiled many Nicene bishops. Basil was threatened with confiscation, exile, and death by the praetorian prefect Modestus in 372 and an exile order was reportedly drafted, but it was never carried out and he kept his see. A provincial magistrate also threatened him over a widow who took sanctuary with him. Associates suffered more: his brother Gregory of Nyssa was deposed and arrested in 376. Opposition that fell short of persecution included the long feud with Eustathius of Sebaste, whose party accused Basil in writing of heresy, the rivalry with Anthimus of Tyana, who blocked roads and seized revenues from Basil's church after the division of Cappadocia, and suspicion from some Nicene monks over his caution in speaking of the Spirit as God.",
+  "persecution": [
+    {
+      "year": 372,
+      "title": "Threatened by the prefect Modestus during Valens's visit",
+      "summary": "As Valens moved through Cappadocia pressing bishops to accept the Homoian creed, his praetorian prefect Modestus summoned Basil and threatened him with confiscation of his goods, exile, torture, and death if he would not enter communion with the emperor's party. According to Gregory of Nazianzus, Basil answered that he owned nothing but a cloak and a few books, that he would be at home anywhere on God's earth, and that death would be a kindness; when Modestus said no one had ever spoken to him so boldly, Basil replied that perhaps he had never met a bishop. Valens then attended the Epiphany liturgy in Basil's church and made an offering.",
+      "responsible": [
+        {
+          "name": "Emperor Valens",
+          "role": "Pressed the eastern bishops to accept the Homoian (Arian-leaning) creed",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Domitius Modestus",
+          "role": "Praetorian prefect of the East; threatened Basil in person",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Demosthenes",
+          "role": "Imperial official (the emperor's chief cook in Gregory's account) who also threatened Basil",
+          "jurisdiction": "Imperial court",
+          "type": "state"
+        }
+      ],
+      "outcome": "Basil kept his see. Valens left him in place and even granted land for the Basileias, according to Theodoret.",
+      "sources": [
+        "greg-or43",
+        "theodoret",
+        "rousseau"
+      ]
+    },
+    {
+      "year": 372,
+      "circa": true,
+      "title": "Exile order said to have been abandoned (tradition)",
+      "summary": "Gregory of Nazianzus says that Valens's advisers persuaded him to sign a decree exiling Basil, but that the emperor's young son Galates fell gravely ill and the order was dropped while Basil was asked to pray for the child. The later historian Theodoret adds that the pen broke three times as Valens tried to sign. These stories come from admirers and are treated by historians as tradition; that Basil was threatened with exile and was not exiled is secure.",
+      "responsible": [
+        {
+          "name": "Emperor Valens",
+          "role": "Reportedly drafted and nearly signed the order of exile",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Valens's Homoian advisers",
+          "role": "Pressed for the exile, in Gregory's account",
+          "jurisdiction": "Imperial court",
+          "type": "group"
+        }
+      ],
+      "outcome": "Never carried out.",
+      "sources": [
+        "greg-or43",
+        "theodoret",
+        "rousseau"
+      ]
+    },
+    {
+      "date": "early 370s",
+      "circa": true,
+      "year": 373,
+      "title": "Threatened by a provincial magistrate over a widow in sanctuary",
+      "summary": "Gregory of Nazianzus tells that a widow, pressed to marry an official against her will, fled to the altar of Basil's church. The magistrate, a relative of the prefect, summoned Basil, had his cloak pulled off, and threatened to have him torn apart; the people of Caesarea, including workers from the imperial arms factory, rose in Basil's defense and the magistrate had to ask Basil to calm them. Gregory does not name the magistrate.",
+      "responsible": [
+        {
+          "name": "An unnamed provincial magistrate (a relative of the prefect)",
+          "role": "Summoned and threatened Basil",
+          "jurisdiction": "Roman provincial government in Cappadocia",
+          "type": "state"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "The people of Caesarea",
+          "role": "Rioted to protect him"
+        }
+      ],
+      "outcome": "Basil was released unharmed.",
+      "sources": [
+        "greg-or43"
+      ]
+    },
+    {
+      "year": 376,
+      "date": "375–376",
+      "title": "Deposition and arrest of his brother Gregory of Nyssa",
+      "summary": "Demosthenes, now vicar of the diocese of Pontus and working with Homoian bishops, moved against Basil's allies. A synod deposed Gregory of Nyssa, Basil's brother and suffragan bishop, on charges of mishandling church funds and irregular ordination; soldiers arrested him, he escaped, and he lived in hiding until Valens's death in 378. Other Nicene bishops in Basil's network were also removed or threatened. Basil wrote letters protesting the proceedings but could not reverse them.",
+      "responsible": [
+        {
+          "name": "Demosthenes",
+          "role": "Vicar of Pontus; carried out the proceedings",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        },
+        {
+          "name": "Homoian bishops of Galatia and Pontus",
+          "role": "Held the synod that deposed Gregory",
+          "jurisdiction": "Synod of bishops",
+          "type": "church"
+        },
+        {
+          "name": "Emperor Valens",
+          "role": "His government's policy toward Nicene bishops",
+          "jurisdiction": "Eastern Roman Empire",
+          "type": "state"
+        }
+      ],
+      "outcome": "Gregory returned to Nyssa after Valens died at Adrianople in 378.",
+      "sources": [
+        "letters",
+        "rousseau"
+      ]
+    }
+  ],
+  "excommunication_note": "Basil was never excommunicated, deposed, or condemned as a heretic by any synod; he is venerated as a saint and Doctor of the Church in Catholic, Orthodox, and Anglican traditions. He did have bitter church quarrels: Eustathius of Sebaste and his circle accused him of Sabellianism and of sympathy with Apollinaris (c. 375), and Basil in turn broke communion with Eustathius; Anthimus of Tyana contested his authority as metropolitan; and his relations with Pope Damasus over the Meletian schism at Antioch were cool. None of these produced a formal sentence against him.",
+  "excommunications": [],
+  "persecuted_others_note": "No record shows Basil calling on the state to punish anyone for their faith or taking part in violence against pagans, Jews, or heretics. His coercion was ecclesiastical: his Canonical Letters impose long exclusions from communion as penance (for example, about twenty years for deliberate murder and ten for abortion), and he required converts from some heretical groups to be baptized again, regarding their baptism as invalid. He broke communion with former allies such as Eustathius of Sebaste and used appointments to bishoprics against his rivals. These were church discipline rather than persecution in the site's sense, so the list below is empty.",
+  "persecuted_others": [],
+  "sources": [
+    {
+      "id": "letters",
+      "type": "primary",
+      "citation": "Saint Basil, The Letters, trans. Roy J. Deferrari, 4 vols., Loeb Classical Library (Cambridge, MA: Harvard University Press, 1926–1934)."
+    },
+    {
+      "id": "npnf-basil",
+      "type": "primary",
+      "citation": "St. Basil: Letters and Select Works, trans. Blomfield Jackson. Nicene and Post-Nicene Fathers, Second Series, vol. 8. New York: Christian Literature Co., 1895. (Includes On the Holy Spirit, the Hexaemeron, and the letters, among them the Canonical Letters.)"
+    },
+    {
+      "id": "on-spirit",
+      "type": "primary",
+      "citation": "St Basil the Great, On the Holy Spirit, trans. Stephen Hildebrand, Popular Patristics 42 (Yonkers, NY: St Vladimir's Seminary Press, 2011)."
+    },
+    {
+      "id": "social-justice",
+      "type": "primary",
+      "citation": "St Basil the Great, On Social Justice, trans. C. Paul Schroeder, Popular Patristics 38 (Crestwood, NY: St Vladimir's Seminary Press, 2009). (Sermons on wealth, poverty, and the famine.)"
+    },
+    {
+      "id": "greg-or43",
+      "type": "primary",
+      "citation": "Gregory of Nazianzus, Oration 43, Funeral Oration on the Great S. Basil, in Cyril of Jerusalem, Gregory Nazianzen, Nicene and Post-Nicene Fathers, Second Series, vol. 7. New York: Christian Literature Co., 1894. Delivered by his friend a few years after his death."
+    },
+    {
+      "id": "theodoret",
+      "type": "primary",
+      "citation": "Theodoret, Ecclesiastical History, in Theodoret, Jerome, Gennadius, Rufinus: Historical Writings, Nicene and Post-Nicene Fathers, Second Series, vol. 3. New York: Christian Literature Co., 1892."
+    },
+    {
+      "id": "rousseau",
+      "type": "scholarly",
+      "citation": "Philip Rousseau, Basil of Caesarea (Berkeley: University of California Press, 1994)."
+    },
+    {
+      "id": "radde-gallwitz",
+      "type": "scholarly",
+      "citation": "Andrew Radde-Gallwitz, Basil of Caesarea: A Guide to His Life and Doctrine (Eugene, OR: Cascade Books, 2012)."
+    },
+    {
+      "id": "silvas",
+      "type": "scholarly",
+      "citation": "Anna M. Silvas, The Asketikon of St Basil the Great (Oxford: Oxford University Press, 2005)."
+    },
+    {
+      "id": "holman",
+      "type": "scholarly",
+      "citation": "Susan R. Holman, The Hungry Are Dying: Beggars and Bishops in Roman Cappadocia (Oxford: Oxford University Press, 2001)."
+    },
+    {
+      "id": "van-dam",
+      "type": "scholarly",
+      "citation": "Raymond Van Dam, Families and Friends in Late Roman Cappadocia (Philadelphia: University of Pennsylvania Press, 2003)."
+    },
+    {
+      "id": "macrina",
+      "type": "primary",
+      "citation": "Gregory of Nyssa, The Life of Saint Macrina, trans. Kevin Corrigan (Toronto: Peregrina, 1987)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Basil the Great,\" Encyclopaedia Britannica."
+    }
+  ]
+}

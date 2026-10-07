@@ -114,6 +114,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
+- Basil of Caesarea (`basil-of-caesarea`): the user wrote "Basil"; Basil the Great was assumed
 - Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
@@ -121,6 +122,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Gregory the Great (`gregory-the-great`)
 
 **Medieval**
+- Bede (`bede`)
 - Anselm of Canterbury (`anselm-of-canterbury`)
 - Peter Abelard (`peter-abelard`): the user wrote "Abelard"
 - Bernard of Clairvaux (`bernard-of-clairvaux`)
@@ -339,7 +341,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Origen (Hexapla, On First Principles, Against Celsus; deprived by Demetrius, tortured under Decius;
+- Basil of Caesarea ("Basil", taken as Basil the Great: On the Holy Spirit, the Basileias, the monastic
+  Rules, standoff with Valens's prefect Modestus) and Bede (Ecclesiastical History, AD dating, the 708 heresy
+  charge; approved Æthelfrith's massacre of the Bangor monks as divine judgement). 65 people, 56 events.
+- **PR #89**: Origen (Hexapla, On First Principles, Against Celsus; deprived by Demetrius, tortured under Decius;
   condemned 400, 543, and 553); the user wrote "Origin". Linked from Constantinople II. 63 people, 56 events.
 - **PR #88**: Lady Jane Grey, Mary Queen of Scots, and James VI and I (offered earlier; the user: "Add Lady Jane Grey,
   Mary Queen of Scots and James VI/I"), covering the Scottish and English religious swings; James has a

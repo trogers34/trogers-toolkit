@@ -150,6 +150,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Martin Chemnitz (`martin-chemnitz`)
 
 **Modern**
+- Richard Baxter (`richard-baxter`)
 - Jonathan Edwards (`jonathan-edwards`)
 - George Whitefield (`george-whitefield`): the user wrote "Whitfield" (the pronunciation)
 - John Wesley (`john-wesley`): starter example
@@ -334,7 +335,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- New "Persecution they supported or carried out" section for all 58 people (`persecuted_others`,
+- Richard Baxter (Kidderminster, The Reformed Pastor, Savoy Conference, ejection; Acton arrest 1669,
+  distraint 1682, trial before Jeffreys 1685; argued for restraining Catholics and sects in the 1650s);
+  linked from the Great Ejection and Stuart England. 59 people, 56 events.
+- **PR #86**: New "Persecution they supported or carried out" section for all 58 people (`persecuted_others`,
   required by the build), at the user's request. Drafted by helper agents and reviewed.
 - **PR #85**: Henry VIII, Edward VI, Mary I ("Bloody Mary"), Elizabeth I (with the Catholic–Protestant swings and
   victims lists; linked from the Anglican history), Ignatius of Loyola, Jerome, Heinrich Bullinger,

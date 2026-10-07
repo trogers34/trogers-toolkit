@@ -95,6 +95,11 @@
     {
       "name": "Vigilius",
       "role": "Bishop of Rome; refused to attend, then accepted the council"
+    },
+    {
+      "name": "Origen",
+      "role": "Theologian (d. c. 253) condemned by name in the council's anathemas",
+      "person": "origen"
     }
   ],
   "outcomes": [

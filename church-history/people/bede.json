@@ -1,0 +1,335 @@
+{
+  "name": "Bede",
+  "slug": "bede",
+  "also_known_as": "The Venerable Bede; Saint Bede; Beda Venerabilis",
+  "era": "Medieval",
+  "role": "Monk and priest of Wearmouth–Jarrow, biblical commentator, scholar of time-reckoning, and historian of the English church",
+  "born": {
+    "year": 673,
+    "circa": true,
+    "date": "c. 672/673",
+    "place": "On the lands of the monastery of Wearmouth–Jarrow, Northumbria (near modern Sunderland and Jarrow, England)",
+    "sources": [
+      "he",
+      "blair",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 735,
+    "date": "26 May 735 (the evening before Ascension Day; some reckon it 25 May)",
+    "place": "Monastery of St Paul, Jarrow, Northumbria",
+    "cause": "Illness, after several weeks of weakness and breathlessness",
+    "sources": [
+      "cuthbert",
+      "brown",
+      "britannica"
+    ]
+  },
+  "summary": "Northumbrian monk who spent almost his whole life in the twin monastery of Wearmouth–Jarrow, wrote the Ecclesiastical History of the English People, the main source for early English Christianity, popularized dating years from the birth of Christ (AD), and produced widely copied biblical commentaries and textbooks. He was once accused of heresy over his chronology, held strongly hostile views of the British (Welsh) Christians, and late in life criticized abuses in the Northumbrian church.",
+  "key_dates": [
+    {
+      "year": 680,
+      "circa": true,
+      "label": "Aged seven, given by his family to Abbot Benedict Biscop at Wearmouth, then placed under Ceolfrith",
+      "sources": [
+        "he",
+        "blair"
+      ]
+    },
+    {
+      "year": 682,
+      "circa": true,
+      "label": "Moves to the new sister house of St Paul at Jarrow with Ceolfrith (c. 681–682)",
+      "sources": [
+        "blair",
+        "brown"
+      ]
+    },
+    {
+      "year": 686,
+      "circa": true,
+      "label": "Plague at Jarrow; tradition says only Abbot Ceolfrith and one boy, probably Bede, were left to sing the office",
+      "sources": [
+        "life-ceolfrith",
+        "blair"
+      ]
+    },
+    {
+      "year": 692,
+      "circa": true,
+      "label": "Ordained deacon at nineteen",
+      "sources": [
+        "he",
+        "brown"
+      ]
+    },
+    {
+      "year": 703,
+      "circa": true,
+      "label": "Ordained priest at thirty by Bishop John of Hexham (John of Beverley); writes On Times (De temporibus)",
+      "sources": [
+        "he",
+        "wallis",
+        "brown"
+      ]
+    },
+    {
+      "year": 708,
+      "label": "Letter to Plegwin, answering a charge of heresy over his dating of the world's ages",
+      "sources": [
+        "wallis",
+        "brown"
+      ]
+    },
+    {
+      "year": 716,
+      "label": "Abbot Ceolfrith leaves for Rome with the Codex Amiatinus, a giant Bible made at Wearmouth–Jarrow; he dies on the way at Langres",
+      "sources": [
+        "abbots",
+        "life-ceolfrith",
+        "brown"
+      ]
+    },
+    {
+      "year": 725,
+      "label": "Completes On the Reckoning of Time (De temporum ratione)",
+      "sources": [
+        "wallis",
+        "britannica"
+      ]
+    },
+    {
+      "year": 731,
+      "label": "Completes the Ecclesiastical History of the English People",
+      "sources": [
+        "he",
+        "colgrave-mynors",
+        "britannica"
+      ]
+    },
+    {
+      "year": 734,
+      "label": "Letter to Egbert, bishop (later archbishop) of York, criticizing abuses in the Northumbrian church",
+      "sources": [
+        "egbert",
+        "blair"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Wrote the Ecclesiastical History of the English People (731), the fundamental account of the conversion and early church of the Anglo-Saxons; it quotes documents, names its informants, and is the source of many famous stories, including Pope Gregory and the English slave boys and the cowherd-poet Cædmon.",
+      "sources": [
+        "he",
+        "colgrave-mynors",
+        "brown"
+      ]
+    },
+    {
+      "text": "Popularized dating years from the birth of Christ (Anno Domini). The system was devised by Dionysius Exiguus in the 520s for Easter tables; Bede used it in On the Reckoning of Time (725) and throughout the Ecclesiastical History, and through his works it spread across western Europe.",
+      "sources": [
+        "wallis",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Wrote On Times (703) and On the Reckoning of Time (725), textbooks on the calendar, calculating the date of Easter, tides, and world chronology that were standard in medieval schools.",
+      "sources": [
+        "wallis",
+        "brown"
+      ]
+    },
+    {
+      "text": "Wrote commentaries on much of the Bible, including Genesis, Samuel, Luke, Mark, Acts, the Catholic Epistles, Revelation, and the Tabernacle and Temple, drawing on Augustine, Jerome, Ambrose, and Gregory the Great; these were copied widely and he was valued above all as an interpreter of Scripture in the Middle Ages.",
+      "sources": [
+        "brown",
+        "ward"
+      ]
+    },
+    {
+      "text": "Preserved the story of Cædmon, a cowherd at Whitby who, he reports, was given the gift of religious song in a dream; the nine-line 'Cædmon's Hymn' is among the oldest surviving poems in English.",
+      "sources": [
+        "he",
+        "colgrave-mynors"
+      ]
+    },
+    {
+      "text": "Wrote the Lives of the Abbots of Wearmouth and Jarrow, a prose and a verse Life of Cuthbert, martyrologies, textbooks on grammar, metre, and figures of speech, and homilies, together making him the most prolific scholar of his time in western Europe.",
+      "sources": [
+        "abbots",
+        "brown",
+        "blair"
+      ]
+    },
+    {
+      "text": "In his Letter to Egbert (734) urged reform: more bishops and priests for Northumbria, preaching in English, frequent communion, and action against so-called monasteries that he said were set up by laymen to gain land and tax privileges without living as monks.",
+      "sources": [
+        "egbert",
+        "blair"
+      ]
+    },
+    {
+      "text": "Worked in the monastery that produced the Codex Amiatinus, the oldest surviving complete Latin Vulgate Bible; it was made at Wearmouth–Jarrow before 716, but how much Bede himself took part in it is uncertain.",
+      "sources": [
+        "abbots",
+        "brown"
+      ]
+    },
+    {
+      "text": "Was called 'Venerable' within a century of his death, was later honored as a saint, and in 1899 was declared a Doctor of the Church by Pope Leo XIII, the only English person given that title. His bones were taken from Jarrow to Durham in the early 11th century and lie in Durham Cathedral's Galilee Chapel.",
+      "sources": [
+        "britannica",
+        "ward"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection of phrases and stories found in or attached to Bede's writings.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I have always taken delight in learning, teaching, and writing\" (semper aut discere aut docere aut scribere dulce habui)",
+        "reference": "Ecclesiastical History, book 5, chapter 24",
+        "sources": [
+          "he",
+          "colgrave-mynors"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"Not Angles, but angels\" (Non Angli sed angeli)",
+        "reference": "Ecclesiastical History, book 2, chapter 1",
+        "note": "Bede reports, as a tradition handed down, that Gregory the Great said this on seeing English slave boys in Rome. An earlier Whitby Life of Gregory tells the story too; it may be legend, but Bede's version made it famous.",
+        "sources": [
+          "he",
+          "colgrave-mynors"
+        ]
+      },
+      {
+        "phrase": "Life as a sparrow flying through the banqueting hall",
+        "reference": "Ecclesiastical History, book 2, chapter 13",
+        "note": "Bede puts this parable in the mouth of an unnamed counsellor of King Edwin of Northumbria at the council that accepted Christianity (c. 627). Whether it records a real speech is unknown.",
+        "sources": [
+          "he",
+          "brown"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "Cædmon's Hymn",
+        "reference": "Ecclesiastical History, book 4, chapter 24",
+        "note": "Bede tells the story and gives a Latin paraphrase; the Old English poem itself is credited to Cædmon and survives in the margins and texts of manuscripts of Bede's History.",
+        "sources": [
+          "he",
+          "colgrave-mynors"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Bede was never arrested, tried, exiled, or punished. The one threat to him was an accusation of heresy in 708, which he answered in writing and which led to no recorded action. After his death his shrine at Durham, like others, was dismantled during Henry VIII's dissolution of the monasteries (c. 1540), and his remains were reburied at the same spot.",
+  "persecution": [
+    {
+      "year": 708,
+      "date": "708",
+      "title": "Accusation of heresy over the six ages of the world",
+      "summary": "In On Times (703) Bede calculated, from the Hebrew text of the Old Testament as translated by Jerome, that fewer years had passed from Creation to Christ than the older Septuagint-based figure of about 5,200, which implied that the world's sixth and final age was not near its end. A monk named Plegwin told him that at a feast, in the hearing of Bishop Wilfrid, men Bede calls 'lewd rustics' had said in their cups that he was a heretic who denied that Christ came in the sixth age. Bede wrote an indignant Letter to Plegwin defending his orthodoxy and asked that it be read to the bishop by a monk named David.",
+      "responsible": [
+        {
+          "name": "Unnamed accusers at Bishop Wilfrid's table",
+          "role": "Made the charge of heresy at a feast; Bede describes them as drunken rustics",
+          "jurisdiction": "Diocese of Hexham, Northumbrian church",
+          "type": "group"
+        },
+        {
+          "name": "Bishop Wilfrid",
+          "role": "Bishop in whose presence the charge was made, usually identified as Wilfrid of York, then bishop of Hexham; his own attitude is not recorded",
+          "jurisdiction": "Diocese of Hexham",
+          "type": "church"
+        }
+      ],
+      "outcome": "No recorded proceedings; Bede repeated and expanded his chronology in On the Reckoning of Time (725).",
+      "sources": [
+        "wallis",
+        "brown"
+      ]
+    }
+  ],
+  "excommunication_note": "Bede was never excommunicated, deposed, or condemned. The 708 accusation of heresy was never taken up by any church authority, and the Catholic Church later named him a Doctor of the Church (1899).",
+  "excommunications": [],
+  "persecuted_others_note": "Bede did not order or carry out persecution of anyone; he was a monk with no secular or episcopal power. His writings are, however, strongly hostile to the British (Welsh) Christians, whom he blamed for not preaching to the English and for keeping a different date of Easter, and he presented King Æthelfrith's killing of the monks of Bangor at the Battle of Chester as the fulfilment of a prophecy and a just judgement. Like most patristic and medieval commentators, his biblical commentaries also repeat the traditional Christian reading that the Jews had rejected Christ.",
+  "persecuted_others": [
+    {
+      "year": 731,
+      "date": "Written by 731 (the battle was c. 615/616)",
+      "circa": false,
+      "title": "Approval of the massacre of the Bangor monks at Chester",
+      "targets": "British (Welsh) monks of Bangor-is-Coed",
+      "involvement": "approved",
+      "summary": "In the Ecclesiastical History (book 2, chapter 2) Bede relates that the pagan Northumbrian king Æthelfrith, before the Battle of Chester, had about 1,200 monks of Bangor who had come to pray for the British army killed. Bede presents this as the fulfilment of Augustine of Canterbury's warning that the British would suffer death at English hands if they refused to join in preaching to the English, and treats it as divine punishment of 'that perfidious people'. Bede acted only as a historian writing a century later; the killing was ordered by Æthelfrith.",
+      "sources": [
+        "he",
+        "colgrave-mynors",
+        "blair"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "he",
+      "type": "primary",
+      "citation": "Bede, Ecclesiastical History of the English People, trans. Leo Sherley-Price, rev. R. E. Latham, with introduction by D. H. Farmer (London: Penguin, 1990). Written 731."
+    },
+    {
+      "id": "colgrave-mynors",
+      "type": "primary",
+      "citation": "Bede's Ecclesiastical History of the English People, ed. and trans. Bertram Colgrave and R. A. B. Mynors, Oxford Medieval Texts (Oxford: Clarendon Press, 1969). Includes Cuthbert's Letter on the Death of Bede."
+    },
+    {
+      "id": "cuthbert",
+      "type": "primary",
+      "citation": "Cuthbert of Jarrow, Letter on the Death of Bede (Epistola de obitu Bedae), in Bede, The Ecclesiastical History of the English People, ed. Judith McClure and Roger Collins, Oxford World's Classics (Oxford: Oxford University Press, 1994)."
+    },
+    {
+      "id": "egbert",
+      "type": "primary",
+      "citation": "Bede, Letter to Egbert (734), in Bede, The Ecclesiastical History of the English People, ed. Judith McClure and Roger Collins, Oxford World's Classics (Oxford: Oxford University Press, 1994)."
+    },
+    {
+      "id": "abbots",
+      "type": "primary",
+      "citation": "Bede, Lives of the Abbots of Wearmouth and Jarrow, in The Age of Bede, trans. J. F. Webb, ed. D. H. Farmer (London: Penguin, rev. ed. 1998)."
+    },
+    {
+      "id": "life-ceolfrith",
+      "type": "primary",
+      "citation": "Anonymous, Life of Ceolfrith, in The Age of Bede, trans. J. F. Webb, ed. D. H. Farmer (London: Penguin, rev. ed. 1998)."
+    },
+    {
+      "id": "wallis",
+      "type": "primary",
+      "citation": "Bede, The Reckoning of Time, trans. with introduction and commentary by Faith Wallis, Translated Texts for Historians 29 (Liverpool: Liverpool University Press, 1999). Includes the Letter to Plegwin."
+    },
+    {
+      "id": "blair",
+      "type": "scholarly",
+      "citation": "Peter Hunter Blair, The World of Bede (London: Secker & Warburg, 1970; repr. Cambridge: Cambridge University Press, 1990)."
+    },
+    {
+      "id": "brown",
+      "type": "scholarly",
+      "citation": "George Hardin Brown, A Companion to Bede (Woodbridge: Boydell Press, 2009)."
+    },
+    {
+      "id": "ward",
+      "type": "scholarly",
+      "citation": "Benedicta Ward, The Venerable Bede, Outstanding Christian Thinkers (London: Geoffrey Chapman, 1990)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Saint Bede the Venerable,\" Encyclopaedia Britannica."
+    }
+  ]
+}

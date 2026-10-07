@@ -1,0 +1,606 @@
+{
+  "name": "Mary, Queen of Scots",
+  "slug": "mary-queen-of-scots",
+  "also_known_as": "Mary Stuart; Mary Stewart; Mary I of Scotland",
+  "era": "Reformation",
+  "role": "Queen of Scots (1542–1567); Queen consort of France (1559–1560)",
+  "born": {
+    "year": 1542,
+    "date": "8 December 1542",
+    "place": "Linlithgow Palace, West Lothian, Scotland",
+    "sources": [
+      "guy",
+      "fraser",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1587,
+    "date": "8 February 1587 (Old Style, the calendar then used in England; 18 February New Style). English documents of the time, starting the year on 25 March, often write it 1586/7",
+    "place": "Fotheringhay Castle, Northamptonshire, England",
+    "cause": "Executed by beheading on the order of Elizabeth I, after conviction for plotting Elizabeth's death, at age 44",
+    "sources": [
+      "guy",
+      "fraser",
+      "wingfield",
+      "britannica"
+    ]
+  },
+  "summary": "Catholic queen of a Scotland that turned Protestant while she was in France; she kept her own Mass but left the new Protestant church in place, was deposed in 1567 after the murder of her husband Darnley and her marriage to Bothwell, and after nineteen years as Elizabeth I's prisoner in England was beheaded in 1587 for plotting against Elizabeth.",
+  "key_dates": [
+    {
+      "year": 1542,
+      "label": "Born at Linlithgow (8 December); becomes queen six days later on the death of her father James V (14 December); crowned at Stirling, 9 September 1543",
+      "sources": [
+        "guy",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1548,
+      "label": "Sent to France, aged five, during the 'Rough Wooing' (English attacks to force her marriage to Edward VI); brought up at the French court as a Catholic",
+      "sources": [
+        "guy",
+        "wormald"
+      ]
+    },
+    {
+      "year": 1558,
+      "label": "Marries the Dauphin Francis at Notre-Dame, Paris (24 April); becomes Queen of France when he succeeds as Francis II (July 1559); he dies 5 December 1560",
+      "sources": [
+        "guy",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1561,
+      "label": "Lands at Leith (19 August); her private Mass at Holyrood draws a protest (24 August); proclamation of 25 August keeps the religious state of the realm as she found it",
+      "sources": [
+        "guy",
+        "knox-history",
+        "donaldson"
+      ]
+    },
+    {
+      "year": 1565,
+      "label": "Marries her cousin Henry Stuart, Lord Darnley, by Catholic rite at Holyrood (29 July); puts down the 'Chaseabout Raid' of her half-brother the Earl of Moray",
+      "sources": [
+        "guy",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1566,
+      "label": "Her secretary David Rizzio murdered in her presence at Holyrood (9 March); son James born at Edinburgh Castle (19 June) and baptised by Catholic rite at Stirling (December)",
+      "sources": [
+        "guy",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1567,
+      "label": "Darnley murdered at Kirk o' Field (10 February); marries Bothwell by Protestant rite (15 May); surrenders at Carberry Hill (15 June), imprisoned at Lochleven, forced to abdicate for James VI (24 July)",
+      "sources": [
+        "guy",
+        "wormald",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1568,
+      "label": "Escapes Lochleven (2 May), defeated at Langside (13 May), crosses into England (16 May) and is held by Elizabeth I; inquiry at York and Westminster where the 'Casket Letters' are produced",
+      "sources": [
+        "guy",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1586,
+      "label": "Babington plot letters intercepted by Walsingham's agents; tried at Fotheringhay (14–15 October) and sentenced to death (25 October)",
+      "sources": [
+        "guy",
+        "read-walsingham",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1587,
+      "label": "Elizabeth signs the death warrant (1 February); beheaded in the great hall at Fotheringhay (8 February)",
+      "sources": [
+        "guy",
+        "wingfield"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "Her life ran across Scotland's change of religion. She left a Catholic kingdom as a child; while she was in France the Reformation Parliament of August 1560 abolished papal authority in Scotland, forbade the Mass on pain of punishment (death for a third offence), and adopted the Protestant Scots Confession. She never gave those acts royal assent, but on her return in 1561 she left them in force, kept the Mass only for her own household, and the acts were ratified in 1567 after her deposition under the Protestant regency of the Earl of Moray.",
+      "sources": [
+        "donaldson",
+        "wormald",
+        "guy"
+      ]
+    },
+    {
+      "text": "Succeeded her father James V (died 14 December 1542), with the Earl of Arran and then her mother Mary of Guise as regents; was succeeded on her forced abdication in 1567 by her son James VI, raised a Protestant, who became James I of England in 1603.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Her proclamation of 25 August 1561 forbade any change to 'the state of religion' she found on arrival, under pain of death, which protected the new Protestant church in public life while also protecting her own private Mass from interference.",
+      "sources": [
+        "donaldson",
+        "guy"
+      ]
+    },
+    {
+      "text": "In the parishes, worship stayed Protestant throughout her personal reign: the Latin Mass, images, and altars removed in 1559–1560 were not restored, and the Kirk used the Book of Common Order and the Scots Confession. A 1562 arrangement, the 'thirds of benefices', gave part of the old church's revenues to the crown and to Protestant ministers' stipends, while former Catholic clergy kept the rest of their incomes for life.",
+      "sources": [
+        "donaldson",
+        "wormald"
+      ]
+    },
+    {
+      "text": "Had several recorded confrontations with the Protestant preacher John Knox at Holyrood and Lochleven (1561–1563), over her Mass, her right to command subjects' religion, and her marriage plans; Knox's History of the Reformation is the main and partisan account of them.",
+      "sources": [
+        "knox-history",
+        "guy"
+      ]
+    },
+    {
+      "text": "Sought recognition as heir to the English throne as the great-granddaughter of Henry VII; in France she and Francis had quartered the English royal arms, which Elizabeth I's government treated as a claim to England itself. Her son James VI succeeded Elizabeth as James I of England in 1603.",
+      "sources": [
+        "guy",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Her marriage to Darnley (1565) and the murder of Rizzio by Darnley and Protestant lords (1566) were followed by Darnley's murder (1567). James Hepburn, Earl of Bothwell, was widely held responsible; he was acquitted in a trial widely regarded as rigged, and Mary married him three months later by Protestant rite. Whether she knew of the plot against Darnley has been disputed since the 1560s and rests largely on the 'Casket Letters', whose originals are lost.",
+      "sources": [
+        "guy",
+        "wormald",
+        "fraser"
+      ]
+    },
+    {
+      "text": "Was deposed by the Protestant confederate lords in 1567 in favour of her infant son James VI, who was crowned at Stirling with John Knox preaching; her half-brother James Stewart, Earl of Moray, became regent.",
+      "sources": [
+        "guy",
+        "donaldson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "During nineteen years of captivity in England she became a focus for Catholic hopes and plots against Elizabeth I, including the Ridolfi plot (1571), the Throckmorton plot (1583), and the Babington plot (1586). Her written approval of the Babington plan, intercepted by Sir Francis Walsingham's agents, led to her trial and execution.",
+      "sources": [
+        "guy",
+        "read-walsingham",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Died professing the Catholic faith, refusing the ministrations of the Protestant Dean of Peterborough on the scaffold, and was treated by many Catholics as a martyr; the Catholic Church has never beatified or canonised her. In 1612 her son James moved her body from Peterborough Cathedral to Westminster Abbey.",
+      "sources": [
+        "wingfield",
+        "guy",
+        "britannica"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection. Most of her recorded words survive in reports by others, so the source is given for each.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"I will defend the Kirk of Rome, for I think it is the true Kirk of God\"",
+        "reference": "Her first interview with John Knox at Holyrood, September 1561",
+        "note": "Known only from Knox's own account in his History of the Reformation in Scotland, a partisan source written by the other party to the conversation.",
+        "sources": [
+          "knox-history"
+        ]
+      },
+      {
+        "phrase": "\"What have ye to do with my marriage?\"",
+        "reference": "Interview with John Knox at Holyrood, 1563, after he preached against her possible marriage to a Catholic prince",
+        "note": "Reported by Knox, who says she wept with anger; wording as in his History.",
+        "sources": [
+          "knox-history",
+          "guy"
+        ]
+      },
+      {
+        "phrase": "\"Look to your consciences, and remember that the theatre of the world is wider than the realm of England\"",
+        "reference": "Said to the commissioners at her trial, Fotheringhay, October 1586",
+        "note": "From contemporary reports of the trial; the exact wording varies between accounts.",
+        "sources": [
+          "guy",
+          "fraser"
+        ]
+      }
+    ],
+    "popularized": [
+      {
+        "phrase": "\"En ma fin est mon commencement\" (\"In my end is my beginning\")",
+        "reference": "Motto she embroidered on a cloth of state during her captivity in England",
+        "note": "Recorded as her embroidered device during her imprisonment, not a phrase she is known to have coined; it is related to older emblem mottoes about rebirth (her mother Mary of Guise's device of the phoenix is often linked to it). T. S. Eliot reused it in 'East Coker' (1940).",
+        "sources": [
+          "fraser",
+          "guy"
+        ]
+      },
+      {
+        "phrase": "\"In manus tuas, Domine, commendo spiritum meum\" (\"Into thy hands, O Lord, I commend my spirit\")",
+        "reference": "Her last words on the scaffold, 8 February 1587",
+        "note": "The words of Psalm 31 and Luke 23:46, recorded by eyewitnesses as her last words.",
+        "sources": [
+          "wingfield",
+          "guy"
+        ]
+      }
+    ]
+  },
+  "persecution_note": "Mary was held captive three times: briefly at Holyrood by Darnley and the Protestant lords who murdered Rizzio (1566); at Lochleven by the confederate lords, who forced her abdication (1567–1568); and for nineteen years in England by Elizabeth I (1568–1587). She was tried by an English commission under an English statute, though she denied that an anointed queen of another realm could be tried by it, and was beheaded on Elizabeth's warrant. Her deposition and execution were justified by her opponents on political and criminal grounds (Darnley's murder, plots against Elizabeth) rather than as heresy proceedings, though religion was central to both sides.",
+  "persecution": [
+    {
+      "year": 1566,
+      "date": "9–11 March 1566",
+      "title": "Held at gunpoint during the murder of David Rizzio",
+      "summary": "While Mary, six months pregnant, was at supper in Holyrood, her Italian secretary David Rizzio was dragged from her and stabbed to death by conspirators including her husband Darnley. A pistol was reportedly held toward her, and she was kept under guard in the palace. The plotters, mostly Protestant lords, resented Rizzio's influence and feared Mary's moves against the exiled Protestant lords and in favour of Catholics. She persuaded Darnley to change sides and escaped with him to Dunbar.",
+      "responsible": [
+        {
+          "name": "Henry Stuart, Lord Darnley",
+          "role": "Her husband; signed a bond with the conspirators",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "Patrick, Lord Ruthven",
+          "role": "Led the attack on Rizzio",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "James Douglas, 4th Earl of Morton",
+          "role": "Lord Chancellor; held the palace with armed men",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "Patrick, Lord Lindsay of the Byres",
+          "role": "Conspirator",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "George Douglas (the 'Postulate')",
+          "role": "Reportedly struck the first blow",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Mary regained control; the main conspirators fled to England. Knox left Edinburgh soon after and later wrote approvingly of the killing in his History.",
+      "sources": [
+        "guy",
+        "fraser",
+        "knox-history"
+      ]
+    },
+    {
+      "year": 1567,
+      "date": "15 June 1567 – 2 May 1568",
+      "title": "Imprisoned at Lochleven and forced to abdicate",
+      "summary": "After she surrendered to the confederate lords at Carberry Hill and Bothwell fled, Mary was led through Edinburgh to jeers and imprisoned in Lochleven Castle. There, after a miscarriage of twins, she was made to sign deeds of abdication in favour of her son on 24 July 1567, reportedly under threat; Lord Lindsay is said to have threatened her life if she refused. Protestant preachers including John Knox called for her to be tried and even executed for Darnley's murder and adultery.",
+      "responsible": [
+        {
+          "name": "The confederate lords",
+          "role": "Protestant and other nobles who rose against Mary and Bothwell",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "group"
+        },
+        {
+          "name": "James Douglas, 4th Earl of Morton",
+          "role": "Leading confederate lord",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "Patrick, Lord Lindsay of the Byres",
+          "role": "Presented the abdication deeds",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "William, Lord Ruthven",
+          "role": "Confederate lord; one of her keepers",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "Sir William Douglas of Lochleven",
+          "role": "Keeper of Lochleven Castle",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "James Stewart, Earl of Moray",
+          "role": "Her half-brother; became regent and visited her at Lochleven",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "state"
+        },
+        {
+          "name": "John Knox",
+          "role": "Preacher; called for her punishment from the pulpit",
+          "jurisdiction": "Church of Scotland",
+          "type": "church"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "George Douglas and Willie Douglas",
+          "role": "Members of her keeper's household who helped her escape on 2 May 1568"
+        }
+      ],
+      "outcome": "Abdication; James VI crowned 29 July 1567 and Moray made regent. She escaped, raised an army, and was defeated by Moray at Langside (13 May 1568).",
+      "sources": [
+        "guy",
+        "wormald",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1568,
+      "date": "16 May 1568 – 8 February 1587",
+      "title": "Nineteen years' captivity in England",
+      "summary": "Crossing into England for Elizabeth I's help, Mary was instead detained, first at Carlisle and Bolton, then at Tutbury, Sheffield, Wingfield, Chartley, and finally Fotheringhay. An inquiry at York and Westminster (1568–1569), at which Moray's commissioners produced the 'Casket Letters' against her, reached no verdict but she was not released. After the Ridolfi plot (1571) Parliament pressed for her execution, which Elizabeth refused; after the Throckmorton plot (1583) and the Bond of Association (1584), the Act for the Queen's Safety (1585) made anyone in whose favour a plot was made liable to death.",
+      "responsible": [
+        {
+          "name": "Elizabeth I",
+          "role": "Queen of England; ordered her detention",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "William Cecil, Lord Burghley",
+          "role": "Secretary of State, later Lord Treasurer; a leading advocate of keeping and then executing her",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "George Talbot, 6th Earl of Shrewsbury",
+          "role": "Her keeper, 1569–1584",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Sir Ralph Sadler",
+          "role": "Her keeper, 1584–1585",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Sir Amias Paulet",
+          "role": "Her strict Puritan keeper, 1585–1587",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Parliament of England",
+          "role": "Petitioned for her execution (1572, 1586) and passed the Act for the Queen's Safety (1585)",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Held until her execution.",
+      "sources": [
+        "guy",
+        "fraser",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1586,
+      "date": "July–October 1586",
+      "title": "Babington plot interception, trial, and sentence",
+      "summary": "Walsingham's double agent Gilbert Gifford set up a secret channel for Mary's letters in beer barrels at Chartley, read by the decipherer Thomas Phelippes. Anthony Babington wrote proposing Elizabeth's assassination, a Catholic rising, and foreign invasion; Mary's reply of 17 July 1586 approved the plan. Phelippes added a forged postscript asking the names of the six assassins. Babington and his fellows were executed in September. Mary was tried at Fotheringhay on 14–15 October by a commission of about 36 peers, councillors, and judges under the 1585 Act; she was denied counsel and access to her papers, and objected that as an anointed foreign queen she was not subject to English law. The commission pronounced her guilty in Star Chamber on 25 October.",
+      "responsible": [
+        {
+          "name": "Sir Francis Walsingham",
+          "role": "Principal Secretary; organised the surveillance and the case against her",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Thomas Phelippes",
+          "role": "Walsingham's decipherer; added a forged postscript to her letter",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Gilbert Gifford",
+          "role": "Double agent who ran the secret letter channel",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "William Cecil, Lord Burghley",
+          "role": "Lord Treasurer; a leading member of the trial commission",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Sir Thomas Bromley",
+          "role": "Lord Chancellor; presided over the commission",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Elizabeth I",
+          "role": "Appointed the commission",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        }
+      ],
+      "outcome": "Sentenced to death; Parliament petitioned Elizabeth to carry out the sentence, proclaimed 4 December 1586.",
+      "sources": [
+        "guy",
+        "read-walsingham",
+        "fraser"
+      ]
+    },
+    {
+      "year": 1587,
+      "date": "1–8 February 1587",
+      "title": "Execution at Fotheringhay",
+      "summary": "Elizabeth signed the death warrant on 1 February and gave it to her secretary William Davison. Burghley and the Privy Council sent it to Fotheringhay without telling her further, and Robert Beale carried it. Elizabeth had suggested to Paulet that he might quietly kill Mary under the Bond of Association, which he refused. Mary was beheaded in the great hall on 8 February before the Earls of Shrewsbury and Kent, after refusing the prayers of Richard Fletcher, Dean of Peterborough; eyewitness accounts say the executioner needed more than one blow. Elizabeth then claimed the warrant had been sent against her wishes; Davison was tried in Star Chamber, fined, and imprisoned in the Tower.",
+      "responsible": [
+        {
+          "name": "Elizabeth I",
+          "role": "Signed the death warrant",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "William Davison",
+          "role": "Secretary of State; took the signed warrant to the council",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "William Cecil, Lord Burghley",
+          "role": "Lord Treasurer; led the council's decision to send the warrant",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Sir Francis Walsingham",
+          "role": "Principal Secretary; pressed for the execution",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "The Privy Council of England",
+          "role": "Dispatched the warrant",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Robert Beale",
+          "role": "Clerk of the Council; carried the warrant to Fotheringhay",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "George Talbot, Earl of Shrewsbury, and Henry Grey, Earl of Kent",
+          "role": "Presided at the execution",
+          "jurisdiction": "Kingdom of England",
+          "type": "state"
+        },
+        {
+          "name": "Sir Amias Paulet",
+          "role": "Her keeper; oversaw the arrangements",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        }
+      ],
+      "defended_by": [
+        {
+          "name": "James VI of Scotland",
+          "role": "Her son; protested and asked for her life, but did not break with Elizabeth, whose heir he hoped to be"
+        },
+        {
+          "name": "Henry III of France",
+          "role": "Sent envoys to plead for her life"
+        }
+      ],
+      "outcome": "Buried at Peterborough Cathedral (August 1587); moved by James VI and I to Westminster Abbey in 1612.",
+      "sources": [
+        "guy",
+        "wingfield",
+        "fraser",
+        "britannica"
+      ]
+    }
+  ],
+  "excommunication_note": "Mary was never excommunicated, anathematised, or condemned as a heretic; she remained a Catholic all her life. Some Catholic critics, and reportedly Pope Pius V, were dismayed by her Protestant-rite marriage to the divorced Bothwell in 1567, and papal dealings with her cooled for a time, but no formal sentence was issued. The 1570 bull Regnans in Excelsis excommunicated Elizabeth I, not Mary. Scotland's Protestant Kirk did not excommunicate her either, though its preachers called for her punishment in 1567.",
+  "excommunications": [],
+  "persecuted_others_note": "Mary's personal reign (1561–1567) saw no executions for religion. She did not enforce the 1560 ban on the Mass against her own household, but neither did she restore Catholic worship, and her government allowed the law to be enforced against Catholic priests outside her chapel: in 1563 Archbishop John Hamilton of St Andrews and other priests were tried and imprisoned for saying Mass. Archbishop Hamilton's later execution (1571) was carried out by the Protestant king's party after her deposition, not by her. Her religious toleration of Protestants was more a political settlement than a stated principle, and in 1586 she approved, in writing, a plot that included Elizabeth I's assassination.",
+  "persecuted_others": [
+    {
+      "year": 1563,
+      "date": "May 1563",
+      "title": "Prosecution of Catholic priests for saying Mass",
+      "targets": "Archbishop John Hamilton of St Andrews and other priests and laymen who had said or heard Mass, especially in the south-west at Easter 1563",
+      "involvement": "approved",
+      "summary": "After John Knox and Protestant gentlemen complained that the Mass was being said openly in breach of the 1560 laws, and after Mary's interview with Knox at Lochleven in April 1563, her government had Hamilton and others tried before the justice court in Edinburgh. They were convicted and briefly imprisoned. Historians generally read Mary's consent as a political concession to Protestant opinion ahead of her first Parliament. The prosecutions were pressed by Protestants; Mary allowed them.",
+      "outcome": "Short imprisonment; no executions.",
+      "sources": [
+        "guy",
+        "donaldson",
+        "knox-history"
+      ]
+    },
+    {
+      "year": 1586,
+      "date": "17 July 1586",
+      "title": "Approval of the Babington plot",
+      "targets": "Elizabeth I",
+      "involvement": "approved",
+      "summary": "Mary's reply to Anthony Babington, decoded by Walsingham's agents, approved his plan for a Spanish-backed invasion, a Catholic rising, and her own rescue, and is read by most historians as consenting to Elizabeth's killing by 'six gentlemen'. Her defenders have argued that the letter was tampered with; Thomas Phelippes did add a forged postscript, but most scholars accept the body of the letter as hers. Earlier plots in her name (Ridolfi 1571, Throckmorton 1583) also planned her release and Elizabeth's overthrow, and her direct part in them is less clear.",
+      "outcome": "The conspirators were executed in September 1586; the letter was the main evidence for Mary's own conviction.",
+      "sources": [
+        "guy",
+        "read-walsingham",
+        "fraser",
+        "labanoff"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "labanoff",
+      "type": "primary",
+      "citation": "Alexandre Labanoff (ed.), Lettres, instructions et mémoires de Marie Stuart, reine d'Écosse. 7 vols. London: Charles Dolman, 1844."
+    },
+    {
+      "id": "knox-history",
+      "type": "primary",
+      "citation": "John Knox, The History of the Reformation in Scotland (written c. 1559–1571; first full edition 1644). Ed. William Croft Dickinson, 2 vols. Edinburgh: Thomas Nelson, 1949."
+    },
+    {
+      "id": "wingfield",
+      "type": "primary",
+      "citation": "Robert Wingfield, eyewitness report of the execution of Mary, Queen of Scots, at Fotheringhay, 8 February 1587 (British Library, Lansdowne MSS), printed in many collections of documents on Mary."
+    },
+    {
+      "id": "guy",
+      "type": "scholarly",
+      "citation": "John Guy, 'My Heart is My Own': The Life of Mary Queen of Scots. London: Fourth Estate, 2004 (US title: Queen of Scots: The True Life of Mary Stuart)."
+    },
+    {
+      "id": "fraser",
+      "type": "scholarly",
+      "citation": "Antonia Fraser, Mary Queen of Scots. London: Weidenfeld & Nicolson, 1969."
+    },
+    {
+      "id": "wormald",
+      "type": "scholarly",
+      "citation": "Jenny Wormald, Mary Queen of Scots: A Study in Failure. London: George Philip, 1988."
+    },
+    {
+      "id": "donaldson",
+      "type": "scholarly",
+      "citation": "Gordon Donaldson, The Scottish Reformation. Cambridge: Cambridge University Press, 1960."
+    },
+    {
+      "id": "read-walsingham",
+      "type": "scholarly",
+      "citation": "Conyers Read, Mr Secretary Walsingham and the Policy of Queen Elizabeth. 3 vols. Oxford: Clarendon Press, 1925."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"Mary, Queen of Scots.\" Encyclopaedia Britannica."
+    }
+  ]
+}

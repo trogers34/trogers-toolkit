@@ -143,11 +143,14 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Heinrich Bullinger (`heinrich-bullinger`)
 - Mary I of England (`mary-i-of-england`): "Bloody Mary"
 - Edward VI (`edward-vi`)
+- Lady Jane Grey (`lady-jane-grey`)
+- Mary, Queen of Scots (`mary-queen-of-scots`)
 - Elizabeth I (`elizabeth-i`)
 - John Calvin (`john-calvin`): includes people executed in Geneva linked to him (Servetus etc.), with ratings
 - John Knox (`john-knox`)
 - Richard Hooker (`richard-hooker`)
 - Martin Chemnitz (`martin-chemnitz`)
+- James VI and I (`james-vi-and-i`): includes a victims list (witch trials, the 1612 heresy burnings, Catholics)
 
 **Modern**
 - Richard Baxter (`richard-baxter`)
@@ -328,14 +331,18 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 
 ## Open questions for the user
 
-- Whether to add Lady Jane Grey, Mary Queen of Scots, and James VI/I. Offered; no answer yet.
+- None at the moment.
 
 ## Change log
 
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Richard Baxter (Kidderminster, The Reformed Pastor, Savoy Conference, ejection; Acton arrest 1669,
+- Lady Jane Grey, Mary Queen of Scots, and James VI and I (offered earlier; the user: "Add Lady Jane Grey,
+  Mary Queen of Scots and James VI/I"), covering the Scottish and English religious swings; James has a
+  victims list and is linked from Stuart England. Optional `short_name` field fixes "What I is accused of"
+  on monarchs' victims lists. Drafted by helper agents and reviewed. 62 people, 56 events.
+- **PR #87**: Richard Baxter (Kidderminster, The Reformed Pastor, Savoy Conference, ejection; Acton arrest 1669,
   distraint 1682, trial before Jeffreys 1685; argued for restraining Catholics and sects in the 1650s);
   linked from the Great Ejection and Stuart England. 59 people, 56 events.
 - **PR #86**: New "Persecution they supported or carried out" section for all 58 people (`persecuted_others`,

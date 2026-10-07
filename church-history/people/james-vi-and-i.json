@@ -1,0 +1,746 @@
+{
+  "name": "James VI and I",
+  "short_name": "James",
+  "slug": "james-vi-and-i",
+  "also_known_as": "James Charles Stuart; James VI of Scotland; James I of England and Ireland",
+  "era": "Reformation",
+  "role": "King of Scots (1567–1625) and King of England and Ireland (1603–1625); Supreme Governor of the Church of England",
+  "born": {
+    "year": 1566,
+    "date": "19 June 1566",
+    "place": "Edinburgh Castle, Edinburgh, Scotland",
+    "sources": [
+      "stewart-cradle",
+      "britannica"
+    ]
+  },
+  "died": {
+    "year": 1625,
+    "date": "27 March 1625",
+    "place": "Theobalds House, Hertfordshire, England",
+    "cause": "Illness: a fever (tertian ague) followed by what was probably a stroke and severe dysentery; rumours that he was poisoned by George Villiers, Duke of Buckingham, or Buckingham's mother were spread in print but never substantiated",
+    "sources": [
+      "stewart-cradle",
+      "croft-king",
+      "odnb"
+    ]
+  },
+  "summary": "Son of Mary, Queen of Scots and Lord Darnley, baptized a Catholic but raised a Protestant, who became King of Scots as an infant in 1567, struggled for decades with Andrew Melville and the Presbyterian ministers over control of the Kirk and restored bishops in Scotland, and in 1603 succeeded Elizabeth I as King of England. A writer on divine-right kingship and on witchcraft, he personally examined accused witches in the North Berwick trials, survived the Catholic Gunpowder Plot, imposed an Oath of Allegiance on Catholics, commissioned the King James Bible, and allowed the last burnings for heresy in England (1612).",
+  "key_dates": [
+    {
+      "year": 1567,
+      "label": "Crowned King of Scots at Stirling (29 July), aged thirteen months, after his mother Mary was forced to abdicate; John Knox preached at the coronation",
+      "sources": [
+        "stewart-cradle",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1584,
+      "label": "The \"Black Acts\" assert royal authority over the Kirk and uphold bishops; Andrew Melville and other ministers flee to England",
+      "sources": [
+        "macdonald-kirk",
+        "donaldson"
+      ]
+    },
+    {
+      "year": 1590,
+      "label": "North Berwick witch trials begin (1590–1591) after his voyage home from Denmark with his bride, Anne of Denmark; he personally questions the accused",
+      "sources": [
+        "normand-roberts",
+        "newes"
+      ]
+    },
+    {
+      "year": 1592,
+      "label": "The \"Golden Act\" ratifies Presbyterian church government in Scotland",
+      "sources": [
+        "macdonald-kirk",
+        "donaldson"
+      ]
+    },
+    {
+      "year": 1597,
+      "label": "Publishes Daemonologie; begins bringing ministers into Parliament as the first step back to bishops; writes the True Law of Free Monarchies (1598) and Basilikon Doron (1599)",
+      "sources": [
+        "daemonologie",
+        "mcilwain",
+        "macdonald-kirk"
+      ]
+    },
+    {
+      "year": 1603,
+      "label": "Succeeds Elizabeth I as King of England and Ireland (24 March), uniting the crowns",
+      "sources": [
+        "croft-king",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1604,
+      "label": "Hampton Court Conference with bishops and Puritan divines (January); agrees to a new Bible translation",
+      "sources": [
+        "barlow",
+        "fincham-lake"
+      ]
+    },
+    {
+      "year": 1605,
+      "label": "Gunpowder Plot to blow up the king and Parliament is discovered (night of 4–5 November)",
+      "sources": [
+        "fraser-gunpowder",
+        "croft-king"
+      ]
+    },
+    {
+      "year": 1611,
+      "label": "The Authorized (King James) Version of the Bible is published",
+      "sources": [
+        "nicolson",
+        "britannica"
+      ]
+    },
+    {
+      "year": 1618,
+      "label": "Five Articles of Perth forced through the General Assembly; Declaration (Book) of Sports issued; delegates sent to the Synod of Dort (1618–1619)",
+      "sources": [
+        "macdonald-kirk",
+        "patterson",
+        "croft-king"
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "text": "The religious swings of his life ran differently from the Tudors'. He was baptized in the Catholic rite at Stirling Castle in December 1566 by his Catholic mother, but after her deposition (1567) he was raised Protestant under the regents and his tutor George Buchanan. Scotland's Kirk, Protestant since 1560 under his mother's reluctant rule, swung between Presbyterian government by ministers and elders and government by bishops: he upheld bishops in 1584 (Black Acts), conceded Presbyterianism in 1592 (Golden Act), and then restored bishops step by step (1600–1610). In England, where he followed Elizabeth I in 1603, the church stayed Protestant and episcopal; he refused the Puritans' main demands but also kept the laws against Catholics. He was followed in both kingdoms by his son Charles I.",
+      "sources": [
+        "stewart-cradle",
+        "macdonald-kirk",
+        "croft-king",
+        "britannica"
+      ]
+    },
+    {
+      "text": "Changed parish worship in Scotland through the Five Articles of Perth (1618, ratified by Parliament 1621): kneeling to receive communion, private communion for the sick, private baptism, confirmation by bishops, and keeping Christmas, Good Friday, Easter, Ascension, and Pentecost. Many ministers and congregations resisted, and some who refused were deprived or punished.",
+      "sources": [
+        "macdonald-kirk",
+        "donaldson"
+      ]
+    },
+    {
+      "text": "Restored bishops in Scotland: ministers were made bishops to sit in Parliament from 1600, a General Assembly at Glasgow (1610) accepted their authority over church courts, and three of them were consecrated in England in 1610. The Presbyterian courts (kirk sessions, presbyteries, synods) continued under the bishops.",
+      "sources": [
+        "macdonald-kirk",
+        "donaldson",
+        "odnb"
+      ]
+    },
+    {
+      "text": "Set out a theory of divine-right kingship in The True Law of Free Monarchies (1598) and Basilikon Doron (1599, a book of advice to his son Prince Henry), arguing that kings answer to God alone and that subjects may not resist even a bad king; Basilikon Doron also attacked the Presbyterian ministers he called \"Puritans\" as \"very pests in the Church and Commonweal\".",
+      "sources": [
+        "mcilwain",
+        "croft-king"
+      ]
+    },
+    {
+      "text": "Took a personal part in the North Berwick witch trials (1590–1591), questioning accused witches such as Agnes Sampson at Holyroodhouse, where she was said to have told him words he had spoken to his bride on their wedding night. He defended the reality of witchcraft and the duty to punish it in Daemonologie (1597). Later in life he exposed several false accusations, including the Leicester case of 1616, in which nine people had already been hanged on a boy's testimony.",
+      "sources": [
+        "newes",
+        "normand-roberts",
+        "daemonologie",
+        "larner"
+      ]
+    },
+    {
+      "text": "At the Hampton Court Conference (January 1604) heard Puritan requests from the Millenary Petition, made minor changes to the Prayer Book, rejected Presbyterian government (\"No bishop, no king\"), and accepted John Rainolds's proposal for a new translation of the Bible. Archbishop Richard Bancroft then enforced the Canons of 1604, and some 80 or more ministers who refused to conform were deprived.",
+      "sources": [
+        "barlow",
+        "fincham-lake",
+        "croft-king"
+      ]
+    },
+    {
+      "text": "Sponsored the Authorized Version of the Bible (1611), translated by about fifty scholars in six companies under rules drawn up by Bancroft that kept traditional church words and forbade partisan marginal notes; it became the standard English Bible for some three centuries.",
+      "sources": [
+        "nicolson",
+        "britannica"
+      ]
+    },
+    {
+      "text": "After the Gunpowder Plot (1605), approved the Oath of Allegiance (1606), which required Catholics to deny that the pope could depose kings. Pope Paul V forbade Catholics to take it (1606 and 1607), and James defended it in print against Cardinal Robert Bellarmine in Triplici nodo, triplex cuneus, or An Apology for the Oath of Allegiance (1607–1609).",
+      "sources": [
+        "mcilwain",
+        "patterson",
+        "fraser-gunpowder"
+      ]
+    },
+    {
+      "text": "Took part in Reformed theology abroad: he pressed the Dutch to dismiss the theologian Conrad Vorstius from Leiden (1611–1612) and had his books burned in England, and sent a delegation of British divines (George Carleton, John Davenant, Samuel Ward, Joseph Hall, later replaced by Thomas Goad, and the Scot Walter Balcanqual) to the Synod of Dort (1618–1619). He also hoped for a general council to reunite Christendom.",
+      "sources": [
+        "patterson",
+        "croft-king"
+      ]
+    },
+    {
+      "text": "Issued the Declaration of Sports (1617 for Lancashire, 1618 for all England), allowing dancing, archery, and other recreations after Sunday service, against Puritan Sabbath views. His close attachments to male favourites, notably Esmé Stewart, Robert Carr, and George Villiers, drew comment then and since; historians differ on whether the relationships were sexual.",
+      "sources": [
+        "croft-king",
+        "stewart-cradle"
+      ]
+    }
+  ],
+  "sayings_intro": "A selection. Several of his best-known words come from William Barlow's official account of the Hampton Court Conference, which was written by a bishop and criticized by Puritans as one-sided.",
+  "sayings": {
+    "original": [
+      {
+        "phrase": "\"No bishop, no king\"",
+        "reference": "Hampton Court Conference, January 1604",
+        "note": "Recorded by William Barlow, who reports the king saying that Presbyterians, once rid of bishops, would turn on the royal supremacy. A summary of his view, also found in Basilikon Doron, that episcopacy and monarchy stood together.",
+        "sources": [
+          "barlow"
+        ]
+      },
+      {
+        "phrase": "\"A Scottish presbytery ... agreeth as well with a monarchy as God and the devil\"",
+        "reference": "Hampton Court Conference, January 1604",
+        "note": "Barlow's record of his reply to John Rainolds's mention of ministers meeting with their bishop in synod.",
+        "sources": [
+          "barlow"
+        ]
+      },
+      {
+        "phrase": "\"I shall make them conform themselves, or I will harry them out of the land\"",
+        "reference": "Hampton Court Conference, January 1604, of the Puritans",
+        "note": "Recorded by Barlow at the close of the second day.",
+        "sources": [
+          "barlow"
+        ]
+      },
+      {
+        "phrase": "\"The state of monarchy is the supremest thing upon earth: for kings are not only God's lieutenants upon earth, and sit upon God's throne, but even by God himself they are called gods\"",
+        "reference": "Speech to Parliament, 21 March 1610",
+        "note": "Printed in his collected Works (1616).",
+        "sources": [
+          "mcilwain"
+        ]
+      },
+      {
+        "phrase": "\"A custom loathsome to the eye, hateful to the nose, harmful to the brain, dangerous to the lungs\"",
+        "reference": "A Counterblaste to Tobacco (1604)",
+        "note": "Published anonymously, later included in his Works.",
+        "sources": [
+          "mcilwain",
+          "britannica"
+        ]
+      }
+    ],
+    "misattributed": [
+      {
+        "phrase": "\"The wisest fool in Christendom\"",
+        "reference": "Said about James, not by him",
+        "note": "Traditionally credited to Henry IV of France or his minister Sully; no contemporary source for the remark is known, and it is often wrongly quoted as James's own self-description.",
+        "sources": [
+          "croft-king"
+        ]
+      }
+    ]
+  },
+  "victims_title": "Notable people executed in cases linked to James VI and I",
+  "victims_intro": "A selection. In Scotland dozens were executed in the witch trials of 1590–1591 and 1597 in which James took part. In England the last two people burned for heresy died in 1612, and about two dozen Catholics, most of them priests, were executed in his reign under Elizabethan treason laws (fewer than under Elizabeth). The Gunpowder plotters were executed for attempting to kill him and blow up Parliament, a crime of treason under any reading; they are listed because their trials and the torture used were ordered by his government. The links are Wikipedia searches for each name.",
+  "victims": [
+    {
+      "name": "Agnes Sampson",
+      "executed": "Strangled and burned on the Castle Hill, Edinburgh, January 1591",
+      "condemned_by": "Assize (jury) in Edinburgh, under the Scottish Witchcraft Act of 1563",
+      "allegation": "A healer and midwife from Nether Keith, East Lothian, accused of raising storms against the king's ships. She was questioned by James himself at Holyroodhouse, after being shaved and tortured with a rope wrenched around her head, and confessed to a gathering of witches at North Berwick kirk.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Newes from Scotland and the Scottish court records describe the king's personal examination; trial dittays (indictments) survive.",
+      "links": [
+        {
+          "label": "Wikipedia: Agnes Sampson",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Agnes+Sampson"
+        }
+      ],
+      "sources": [
+        "newes",
+        "normand-roberts",
+        "larner"
+      ]
+    },
+    {
+      "name": "John Fian (John Cunningham)",
+      "executed": "Strangled and burned on the Castle Hill, Edinburgh, late 1590 or January 1591 (accounts differ)",
+      "condemned_by": "Assize in Edinburgh, with the king present at his examination",
+      "allegation": "A schoolmaster at Saltpans (Prestonpans), accused of being the witches' secretary. Newes from Scotland says he was tortured with the boots and had his fingernails pulled out in the king's presence, and that he retracted his confession before he was executed.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "Newes from Scotland reports the king's presence at his torture; the pamphlet was printed in London to the king's advantage and its details may be heightened, but the trial and execution are recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: John Fian",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Fian"
+        }
+      ],
+      "sources": [
+        "newes",
+        "normand-roberts"
+      ]
+    },
+    {
+      "name": "Euphame MacCalzean",
+      "executed": "Burned alive on the Castle Hill, Edinburgh, 25 June 1591",
+      "condemned_by": "Assize in Edinburgh",
+      "allegation": "A wealthy Edinburgh woman accused of witchcraft against the king. Unusually, she was sentenced to be burned alive rather than strangled first. Historians link the harshness of the sentence to the king's pressure after the acquittal of Barbara Napier.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "The execution is recorded; the king's personal influence on her sentence is inferred from the circumstances.",
+      "links": [
+        {
+          "label": "Wikipedia: Euphame MacCalzean",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Euphame+MacCalzean"
+        }
+      ],
+      "sources": [
+        "normand-roberts",
+        "larner"
+      ]
+    },
+    {
+      "name": "Guy Fawkes and the Gunpowder plotters",
+      "executed": "Hanged, drawn, and quartered: Everard Digby, Robert Wintour, John Grant, and Thomas Bates at St Paul's Churchyard, 30 January 1606; Thomas Wintour, Ambrose Rookwood, Robert Keyes, and Guy Fawkes at Old Palace Yard, Westminster, 31 January 1606 (Fawkes fell or jumped from the scaffold and died of a broken neck)",
+      "condemned_by": "Special commission at Westminster Hall for high treason; prosecuted by Attorney General Sir Edward Coke",
+      "allegation": "Catholic conspirators who planned to blow up the king and Parliament at the State Opening on 5 November 1605. James wrote the instructions (6 November 1605) authorizing the torture of Fawkes, \"the gentler tortures\" first and then worse.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The king's written authorization of torture survives. Robert Catesby, Thomas Percy, and John and Christopher Wright were killed resisting arrest at Holbeche House on 8 November 1605 and were not executed.",
+      "links": [
+        {
+          "label": "Wikipedia: Gunpowder Plot",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Gunpowder+Plot"
+        }
+      ],
+      "sources": [
+        "fraser-gunpowder",
+        "croft-king"
+      ]
+    },
+    {
+      "name": "Henry Garnet",
+      "executed": "Hanged, drawn, and quartered at St Paul's Churchyard, London, 3 May 1606",
+      "condemned_by": "Trial for treason at the Guildhall, London (28 March 1606)",
+      "allegation": "Superior of the English Jesuits, convicted of misprision of treason and treason for not revealing the Gunpowder Plot, which he said he had learned of under the seal of confession. He was hanged until dead before being quartered, at the crowd's insistence.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Condemned by a royal court; the king followed the case closely, but his personal role in the verdict is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: Henry Garnet",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Henry+Garnet"
+        }
+      ],
+      "sources": [
+        "fraser-gunpowder"
+      ]
+    },
+    {
+      "name": "Bartholomew Legate",
+      "executed": "Burned at Smithfield, London, 18 March 1612",
+      "condemned_by": "Consistory court of John King, Bishop of London, with a royal writ (de haeretico comburendo) for his burning",
+      "allegation": "An Arian (anti-Trinitarian) preacher. James argued with him in person, and when Legate refused to recant the king, with Archbishop George Abbot's support, issued the writ for his burning.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "A burning for heresy required a royal writ; the king's debate with Legate is described by Thomas Fuller and others.",
+      "links": [
+        {
+          "label": "Wikipedia: Bartholomew Legate",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Bartholomew+Legate"
+        }
+      ],
+      "sources": [
+        "fuller",
+        "atherton-como"
+      ]
+    },
+    {
+      "name": "Edward Wightman",
+      "executed": "Burned at Lichfield, 11 April 1612; the last person burned for heresy in England",
+      "condemned_by": "Consistory court of Richard Neile, Bishop of Coventry and Lichfield, with a royal writ for his burning",
+      "allegation": "A draper of Burton upon Trent who denied the Trinity and held other unorthodox views. At a first burning (March 1612) he cried out to recant and was pulled from the fire; when he withdrew his recantation he was burned again.",
+      "verification": {
+        "execution": "verified",
+        "link": "verified"
+      },
+      "verification_note": "The writ was issued under the king's authority.",
+      "links": [
+        {
+          "label": "Wikipedia: Edward Wightman",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=Edward+Wightman"
+        }
+      ],
+      "sources": [
+        "atherton-como",
+        "fuller"
+      ]
+    },
+    {
+      "name": "John Ogilvie",
+      "executed": "Hanged at Glasgow Cross, 10 March 1615",
+      "condemned_by": "Court in Glasgow under John Spottiswoode, Archbishop of Glasgow, for treason",
+      "allegation": "A Scottish Jesuit priest arrested in 1614 for saying Mass. He was kept awake for days to make him name other Catholics, and was convicted of treason for refusing to accept the king's spiritual authority. He was canonized by the Catholic Church in 1976.",
+      "verification": {
+        "execution": "verified",
+        "link": "partial"
+      },
+      "verification_note": "Questions put to him concerned the king's authority and were approved by the king; his direct role in the sentence is not recorded.",
+      "links": [
+        {
+          "label": "Wikipedia: John Ogilvie (saint)",
+          "url": "https://en.wikipedia.org/wiki/Special:Search?search=John+Ogilvie+saint"
+        }
+      ],
+      "sources": [
+        "croft-king",
+        "odnb"
+      ]
+    }
+  ],
+  "persecuted_others_note": "James took a personal part in witch trials in Scotland, questioning accused people at the North Berwick trials, and wrote a defence of witch-hunting, though he later grew sceptical and exposed several false accusations. He allowed the last two burnings for heresy in England (1612), kept and added to the laws against Catholics, especially after the Gunpowder Plot, and imprisoned or exiled Presbyterian ministers who opposed his church policy in Scotland. He was also milder than many contemporaries in some respects: fewer Catholics were executed in his reign than under Elizabeth I, and he often protected the Catholic Scottish earls and preferred fines and banishment to death.",
+  "persecuted_others": [
+    {
+      "date": "1590–1625",
+      "title": "Executions linked to him (summary)",
+      "targets": "Accused witches (Agnes Sampson, John Fian, Euphame MacCalzean), the Gunpowder plotters and Henry Garnet, the heretics Bartholomew Legate and Edward Wightman, and the Jesuit John Ogilvie",
+      "involvement": "ordered",
+      "summary": "See the list of executed people above. He took part in examining the North Berwick accused and signed the writs to burn Legate and Wightman; other cases were decided by courts under his authority.",
+      "sources": [
+        "newes",
+        "normand-roberts",
+        "atherton-como",
+        "fraser-gunpowder"
+      ]
+    },
+    {
+      "date": "1590–1597",
+      "title": "Scottish witch hunts",
+      "targets": "People accused of witchcraft in East Lothian, Edinburgh, and elsewhere in Scotland",
+      "involvement": "took_part",
+      "summary": "Besides questioning the North Berwick accused, James had the jurors who acquitted Barbara Napier in 1591 prosecuted for wilful error and spoke to them in the Tolbooth on the duty to punish witches. In 1597 standing royal commissions to try witches led to a second wave of trials, until the Privy Council revoked the commissions later that year after abuses. Others responsible included the Privy Council, local magistrates, and the Kirk's ministers and sessions, which pressed for prosecutions. In England the Witchcraft Act of 1604, passed by Parliament early in his reign, widened the penalties of the 1563 act.",
+      "outcome": "James grew more sceptical in later life and intervened in several English cases of fraudulent possession and accusation (Anne Gunter, 1605; the Leicester boy, 1616).",
+      "sources": [
+        "normand-roberts",
+        "larner",
+        "goodare",
+        "daemonologie"
+      ]
+    },
+    {
+      "date": "March–April 1612",
+      "title": "Last heresy burnings in England",
+      "targets": "Bartholomew Legate and Edward Wightman, anti-Trinitarians",
+      "involvement": "ordered",
+      "summary": "The king issued writs for both burnings after their condemnation by the bishops of London (John King) and Coventry and Lichfield (Richard Neile), with the support of Archbishop George Abbot. At least one other anti-Trinitarian condemned at about the same time was kept in prison instead of burned, reportedly because the burnings had aroused public sympathy.",
+      "outcome": "No one was burned for heresy in England after 1612.",
+      "sources": [
+        "atherton-como",
+        "fuller"
+      ]
+    },
+    {
+      "date": "1604–1625",
+      "title": "Laws and penalties against Catholics",
+      "targets": "English and Scottish Catholics, priests, and Jesuits",
+      "involvement": "ordered",
+      "summary": "After a brief easing of recusancy fines in 1603, James ordered Jesuits and seminary priests out of England (proclamation of 1604) and the fines were renewed. After the Gunpowder Plot the Popish Recusants Act (1606) imposed the Oath of Allegiance and new penalties, and the 1610 act extended the oath. Around two dozen Catholics, most of them priests, were executed in his reign. Parliament, the Privy Council, Robert Cecil, Earl of Salisbury, and the bishops shared responsibility.",
+      "sources": [
+        "fraser-gunpowder",
+        "patterson",
+        "croft-king"
+      ]
+    },
+    {
+      "date": "1584–1611",
+      "title": "Imprisonment and exile of Presbyterian ministers",
+      "targets": "Andrew Melville, his nephew James Melville, John Welsh, John Forbes, and other Scottish ministers",
+      "involvement": "ordered",
+      "summary": "The Black Acts (1584) led Andrew Melville and other ministers to flee to England. In 1606 six ministers, including John Welsh and John Forbes, were convicted of treason at Linlithgow for holding a General Assembly at Aberdeen (1605) against the king's prohibition and were banished. The same year Andrew and James Melville and other ministers were summoned to London; Andrew Melville was sent to the Tower of London (1607–1611) over a Latin epigram mocking worship in the Chapel Royal and then exiled to Sedan in France, where he died in 1622, and James Melville was confined in the north of England. The Privy Council of Scotland and the archbishops of St Andrews and Glasgow (George Gladstanes, John Spottiswoode) carried out the policy.",
+      "sources": [
+        "melville-diary",
+        "macdonald-kirk",
+        "donaldson"
+      ]
+    },
+    {
+      "date": "1604–1609",
+      "title": "Deprivation of Puritan ministers in England",
+      "targets": "English ministers who refused to subscribe to the Canons of 1604",
+      "involvement": "approved",
+      "summary": "After the Hampton Court Conference, Archbishop Richard Bancroft required all clergy to subscribe to the Prayer Book and the Thirty-nine Articles; some 80 or more were deprived of their livings, with the king's backing.",
+      "sources": [
+        "fincham-lake",
+        "barlow"
+      ]
+    },
+    {
+      "date": "1611–1612",
+      "title": "Campaign against Conrad Vorstius",
+      "targets": "Conrad Vorstius, German theologian appointed at Leiden, and his books",
+      "involvement": "advocated",
+      "summary": "James condemned Vorstius as a heretic, had his books burned at St Paul's, Oxford, and Cambridge, and pressed the States of Holland, through his ambassador Ralph Winwood, to remove him; James wrote that he deserved to be burned.",
+      "outcome": "Vorstius was kept from teaching and later, after the Synod of Dort, banished from the Dutch Republic.",
+      "sources": [
+        "patterson",
+        "croft-king"
+      ]
+    },
+    {
+      "date": "1617–1625",
+      "title": "Enforcement of the Five Articles of Perth",
+      "targets": "Scottish ministers and laypeople who refused kneeling at communion and other articles",
+      "involvement": "ordered",
+      "summary": "Ministers who refused to conform were summoned before the Court of High Commission, and some were deprived, confined, or banished (David Calderwood was banished in 1617 for protesting the king's church policy); Archbishop John Spottiswoode enforced the articles.",
+      "sources": [
+        "macdonald-kirk",
+        "donaldson"
+      ]
+    }
+  ],
+  "persecution_note": "As a child king James was a prize in the struggles between noble factions: he was held captive for ten months by the Ruthven raiders (1582–1583), was the target of raids by his cousin Francis Stewart, Earl of Bothwell, whom the North Berwick witches were said to have served, and of the disputed Gowrie conspiracy (1600). In England he was the intended victim of the Bye and Main plots (1603) and the Gunpowder Plot (1605). Presbyterian ministers denounced him from the pulpit, which he resented, but this fell short of persecution.",
+  "persecution": [
+    {
+      "year": 1582,
+      "date": "August 1582 – June 1583",
+      "title": "Ruthven Raid: held captive by Protestant lords",
+      "summary": "To break the influence of his favourite Esmé Stewart, Duke of Lennox, whom they suspected of Catholic sympathies, a group of Protestant nobles seized the sixteen-year-old king at Ruthven Castle and held him for about ten months. The General Assembly of the Kirk approved the raid.",
+      "responsible": [
+        {
+          "name": "William Ruthven, 1st Earl of Gowrie",
+          "role": "Leader of the raid",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        },
+        {
+          "name": "Ruthven raiders (the Earl of Mar and other Protestant lords)",
+          "role": "Held the king",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "group"
+        },
+        {
+          "name": "General Assembly of the Church of Scotland",
+          "role": "Endorsed the raid",
+          "jurisdiction": "Church of Scotland",
+          "type": "church"
+        }
+      ],
+      "outcome": "James escaped in June 1583; Gowrie was executed in 1584.",
+      "sources": [
+        "stewart-cradle",
+        "donaldson"
+      ]
+    },
+    {
+      "year": 1591,
+      "date": "1591–1594",
+      "title": "Raids by the Earl of Bothwell",
+      "summary": "Francis Stewart, 5th Earl of Bothwell, accused of using the North Berwick witches against the king, escaped from prison and raided Holyroodhouse (December 1591) and Falkland Palace (June 1592), and in July 1593 forced his way into the king's presence at Holyroodhouse.",
+      "responsible": [
+        {
+          "name": "Francis Stewart, 5th Earl of Bothwell",
+          "role": "Scottish nobleman, the king's cousin",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Bothwell was forfeited and went into exile in 1595.",
+      "sources": [
+        "stewart-cradle",
+        "normand-roberts"
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "5 August 1600",
+      "title": "Gowrie conspiracy",
+      "summary": "At Gowrie House in Perth, John Ruthven, 3rd Earl of Gowrie, and his brother Alexander Ruthven were killed by the king's attendants after, by James's account, Alexander tried to seize or kill him. Several ministers doubted the king's version, and some historians have suspected that the plot was the king's own; what happened remains disputed.",
+      "responsible": [
+        {
+          "name": "John Ruthven, 3rd Earl of Gowrie, and Alexander Ruthven",
+          "role": "Alleged conspirators",
+          "jurisdiction": "Kingdom of Scotland",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Both brothers were killed; their bodies were tried and forfeited for treason. Ministers who refused to give thanks for the king's deliverance, such as Robert Bruce of Edinburgh, were banished from the capital.",
+      "sources": [
+        "stewart-cradle",
+        "croft-king"
+      ]
+    },
+    {
+      "year": 1603,
+      "date": "July 1603",
+      "title": "Bye and Main plots",
+      "summary": "The Bye Plot, led by the Catholic priests William Watson and William Clark with others, planned to seize the king to force toleration for Catholics; the related Main Plot, attributed to Lord Cobham and implicating Sir Walter Raleigh, allegedly aimed to put Arbella Stuart on the throne with Spanish help.",
+      "responsible": [
+        {
+          "name": "William Watson and William Clark",
+          "role": "Catholic secular priests",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Henry Brooke, Lord Cobham",
+          "role": "Alleged leader of the Main Plot",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        }
+      ],
+      "outcome": "Watson and Clark were executed; Cobham and Raleigh were condemned but reprieved on the scaffold.",
+      "sources": [
+        "croft-king",
+        "fraser-gunpowder"
+      ]
+    },
+    {
+      "year": 1605,
+      "date": "5 November 1605",
+      "title": "Gunpowder Plot",
+      "summary": "A group of English Catholics led by Robert Catesby placed gunpowder under the House of Lords to kill the king, his heirs, and Parliament at the State Opening. The plot was revealed by an anonymous letter to Lord Monteagle, and Guy Fawkes was arrested guarding the powder.",
+      "responsible": [
+        {
+          "name": "Robert Catesby",
+          "role": "Leader of the plot",
+          "jurisdiction": "Kingdom of England",
+          "type": "individual"
+        },
+        {
+          "name": "Gunpowder plotters (Guy Fawkes, Thomas Percy, the Wintour and Wright brothers, and others)",
+          "role": "Conspirators",
+          "jurisdiction": "Kingdom of England",
+          "type": "group"
+        }
+      ],
+      "outcome": "The plot failed; the plotters were killed or executed. The Jesuit superior Henry Garnet was executed for concealing it. No pope or foreign government was found to be involved.",
+      "sources": [
+        "fraser-gunpowder",
+        "croft-king"
+      ]
+    }
+  ],
+  "excommunication_note": "James was never excommunicated. Pope Paul V condemned the Oath of Allegiance in briefs of 1606 and 1607 and forbade Catholics to take it, which was a ruling on the oath, not a sentence against the king. Earlier popes had hoped he would convert, and his Catholic queen, Anne of Denmark, privately practised Catholicism. In Scotland, the Kirk excommunicated some of his Catholic nobles and his opponent Bothwell, but never the king.",
+  "excommunications": [],
+  "sources": [
+    {
+      "id": "mcilwain",
+      "type": "primary",
+      "citation": "The Political Works of James I, ed. Charles Howard McIlwain (Cambridge, MA: Harvard University Press, 1918). Reprints The True Law of Free Monarchies, Basilikon Doron, the Apology for the Oath of Allegiance, and his speeches to Parliament, from the Works of 1616."
+    },
+    {
+      "id": "daemonologie",
+      "type": "primary",
+      "citation": "James VI, Daemonologie, in Forme of a Dialogie (Edinburgh: Robert Waldegrave, 1597)."
+    },
+    {
+      "id": "newes",
+      "type": "primary",
+      "citation": "Newes from Scotland, Declaring the Damnable Life and Death of Doctor Fian (London: for William Wright, c. 1591–1592)."
+    },
+    {
+      "id": "normand-roberts",
+      "type": "primary",
+      "citation": "Lawrence Normand and Gareth Roberts, eds., Witchcraft in Early Modern Scotland: James VI's Demonology and the North Berwick Witches (Exeter: University of Exeter Press, 2000). Edition of the trial records, Newes from Scotland, and Daemonologie, with commentary."
+    },
+    {
+      "id": "barlow",
+      "type": "primary",
+      "citation": "William Barlow, The Summe and Substance of the Conference ... at Hampton Court, January 14, 1603 [1604 New Style] (London, 1604)."
+    },
+    {
+      "id": "melville-diary",
+      "type": "primary",
+      "citation": "James Melville, The Autobiography and Diary of Mr James Melvill, ed. Robert Pitcairn (Edinburgh: Wodrow Society, 1842)."
+    },
+    {
+      "id": "fuller",
+      "type": "primary",
+      "citation": "Thomas Fuller, The Church-History of Britain (London, 1655). Includes an account of the burning of Bartholomew Legate and Edward Wightman."
+    },
+    {
+      "id": "stewart-cradle",
+      "type": "scholarly",
+      "citation": "Alan Stewart, The Cradle King: A Life of James VI and I (London: Chatto & Windus, 2003)."
+    },
+    {
+      "id": "croft-king",
+      "type": "scholarly",
+      "citation": "Pauline Croft, King James (Basingstoke: Palgrave Macmillan, 2003)."
+    },
+    {
+      "id": "patterson",
+      "type": "scholarly",
+      "citation": "W. B. Patterson, King James VI and I and the Reunion of Christendom (Cambridge: Cambridge University Press, 1997)."
+    },
+    {
+      "id": "macdonald-kirk",
+      "type": "scholarly",
+      "citation": "Alan R. MacDonald, The Jacobean Kirk, 1567–1625: Sovereignty, Polity and Liturgy (Aldershot: Ashgate, 1998)."
+    },
+    {
+      "id": "donaldson",
+      "type": "scholarly",
+      "citation": "Gordon Donaldson, Scotland: James V to James VII (Edinburgh: Oliver & Boyd, 1965)."
+    },
+    {
+      "id": "fincham-lake",
+      "type": "scholarly",
+      "citation": "Kenneth Fincham and Peter Lake, \"The Ecclesiastical Policy of King James I,\" Journal of British Studies 24 (1985)."
+    },
+    {
+      "id": "fraser-gunpowder",
+      "type": "scholarly",
+      "citation": "Antonia Fraser, The Gunpowder Plot: Terror and Faith in 1605 (London: Weidenfeld & Nicolson, 1996)."
+    },
+    {
+      "id": "nicolson",
+      "type": "scholarly",
+      "citation": "Adam Nicolson, God's Secretaries: The Making of the King James Bible (New York: HarperCollins, 2003)."
+    },
+    {
+      "id": "larner",
+      "type": "scholarly",
+      "citation": "Christina Larner, Enemies of God: The Witch-Hunt in Scotland (London: Chatto & Windus, 1981)."
+    },
+    {
+      "id": "goodare",
+      "type": "scholarly",
+      "citation": "Julian Goodare, ed., The Scottish Witch-Hunt in Context (Manchester: Manchester University Press, 2002)."
+    },
+    {
+      "id": "atherton-como",
+      "type": "scholarly",
+      "citation": "Ian Atherton and David Como, \"The Burning of Edward Wightman: Puritanism, Prelacy and the Politics of Heresy in Early Modern England,\" English Historical Review 120 (2005)."
+    },
+    {
+      "id": "odnb",
+      "type": "reference",
+      "citation": "Jenny Wormald, \"James VI and I (1566–1625),\" Oxford Dictionary of National Biography (Oxford: Oxford University Press, 2004)."
+    },
+    {
+      "id": "britannica",
+      "type": "reference",
+      "citation": "\"James I (king of England and Scotland),\" Encyclopaedia Britannica."
+    }
+  ]
+}

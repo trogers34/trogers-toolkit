@@ -44,7 +44,7 @@
     {"text": "The Act of Settlement (1701) gave the succession to the Protestant heirs of Sophia of Hanover and required the monarch to be in communion with the Church of England. Under Anne, High Church and Low Church parties clashed, notably over the trial of Henry Sacheverell (1710), the Occasional Conformity Act (1711), and the Schism Act (1714).", "sources": ["coward", "britannica"]}
   ],
   "participants": [
-    {"name": "James I (VI of Scotland)", "role": "King 1603–25; chaired the Hampton Court Conference and backed the 1611 Bible"},
+    {"name": "James I (VI of Scotland)", "role": "King 1603–25; chaired the Hampton Court Conference and backed the 1611 Bible", "person": "james-vi-and-i"},
     {"name": "John Rainolds", "role": "Puritan spokesman at Hampton Court who proposed the new translation"},
     {"name": "Robert Catesby and Guy Fawkes", "role": "Leaders of the Gunpowder Plot"},
     {"name": "Charles I", "role": "King 1625–49; backed Laud's policies; executed 1649"},

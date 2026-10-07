@@ -109,6 +109,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Hermas (`hermas`): Apostolic Father; author of the Shepherd
 - Quadratus of Athens (`quadratus-of-athens`): Apostolic Father / earliest apologist
 - Pseudo-Barnabas (`pseudo-barnabas`): anonymous author of the Epistle of Barnabas; lifespan placeholders
+- Origen (`origen`)
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
@@ -338,7 +339,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Lady Jane Grey, Mary Queen of Scots, and James VI and I (offered earlier; the user: "Add Lady Jane Grey,
+- Origen (Hexapla, On First Principles, Against Celsus; deprived by Demetrius, tortured under Decius;
+  condemned 400, 543, and 553); the user wrote "Origin". Linked from Constantinople II. 63 people, 56 events.
+- **PR #88**: Lady Jane Grey, Mary Queen of Scots, and James VI and I (offered earlier; the user: "Add Lady Jane Grey,
   Mary Queen of Scots and James VI/I"), covering the Scottish and English religious swings; James has a
   victims list and is linked from Stuart England. Optional `short_name` field fixes "What I is accused of"
   on monarchs' victims lists. Drafted by helper agents and reviewed. 62 people, 56 events.

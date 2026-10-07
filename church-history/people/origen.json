@@ -1,0 +1,81 @@
+{
+  "name": "Origen",
+  "slug": "origen",
+  "also_known_as": "Origen of Alexandria; Origen Adamantius",
+  "era": "Early Church",
+  "role": "Teacher, biblical scholar, and theologian of Alexandria and Caesarea",
+  "born": {"year": 185, "circa": true, "date": "c. 184–185", "place": "Alexandria, Egypt", "sources": ["eusebius", "trigg"]},
+  "died": {"year": 253, "circa": true, "date": "c. 253–254", "place": "Tyre, Phoenicia (by tradition; some say Caesarea)", "cause": "Died some years after being imprisoned and tortured in the Decian persecution, probably from its effects", "sources": ["eusebius", "crouzel"]},
+  "summary": "The most learned and prolific Christian scholar of the early church: founder of systematic textual criticism of the Bible (the Hexapla), author of the first Christian systematic theology (On First Principles), and defender of Christianity against the philosopher Celsus. Tortured in the Decian persecution, he was deprived of his priesthood by his own bishop, and some of his speculative ideas were condemned as heresy three centuries after his death.",
+  "key_dates": [
+    {"year": 202, "label": "His father Leonides is martyred under Septimius Severus; Origen, about 17, wants to follow him", "sources": ["eusebius", "trigg"]},
+    {"year": 203, "circa": true, "label": "Bishop Demetrius puts him in charge of catechetical teaching in Alexandria", "sources": ["eusebius", "crouzel"]},
+    {"year": 215, "circa": true, "label": "Leaves Alexandria during Caracalla's massacre; preaches as a layman in Caesarea, to Demetrius's anger", "sources": ["eusebius", "trigg"]},
+    {"year": 229, "circa": true, "label": "Writes On First Principles (Peri Archon), c. 220–230", "sources": ["butterworth", "crouzel"]},
+    {"year": 231, "circa": true, "label": "Ordained presbyter at Caesarea without Demetrius's consent; Alexandrian synods expel him and strip him of the priesthood", "sources": ["eusebius", "trigg"]},
+    {"year": 245, "circa": true, "label": "Completes the Hexapla, a six-column comparison of the Hebrew Old Testament and its Greek versions", "sources": ["eusebius", "trigg"]},
+    {"year": 248, "circa": true, "label": "Writes Against Celsus (Contra Celsum)", "sources": ["chadwick", "britannica"]},
+    {"year": 250, "label": "Imprisoned and tortured in the Decian persecution", "sources": ["eusebius", "crouzel"]}
+  ],
+  "accomplishments": [
+    {"text": "Compiled the Hexapla, setting the Hebrew Old Testament, a Greek transliteration, and four Greek translations side by side; it was the first large work of biblical textual criticism and was later used by Jerome.", "sources": ["eusebius", "trigg"]},
+    {"text": "Wrote On First Principles, the first attempt at a systematic Christian theology, covering God, the Trinity, rational beings, free will, and how to interpret Scripture; it survives mainly in Rufinus's softened Latin translation.", "sources": ["butterworth", "crouzel"]},
+    {"text": "Developed a method of reading Scripture on several levels (literal, moral, and spiritual), which shaped Christian biblical interpretation for over a thousand years.", "sources": ["butterworth", "trigg"]},
+    {"text": "Wrote Against Celsus (c. 248), a point-by-point answer to the pagan philosopher Celsus's attack on Christianity and the most important early Christian apologetic work.", "sources": ["chadwick", "britannica"]},
+    {"text": "Produced an enormous body of commentaries and sermons on almost every book of the Bible; Jerome said he wrote more than most people could read. Much is lost, and much survives only in Latin translation.", "sources": ["eusebius", "crouzel"]},
+    {"text": "Ran a school at Caesarea where he taught philosophy and Scripture together; his pupils included Gregory Thaumaturgus, whose farewell address describes his teaching.", "sources": ["eusebius", "trigg"]},
+    {"text": "Taught some speculative ideas that later generations judged heretical: the pre-existence of souls, a hierarchy within the Trinity, and the hope that all rational beings, possibly even the devil, might finally be restored to God (apokatastasis); he presented some of these as exploration rather than settled doctrine.", "sources": ["crouzel", "clark"]},
+    {"text": "According to Eusebius, he castrated himself as a young man, taking Matthew 19:12 literally; some modern scholars doubt the story, which his opponents later used against him.", "sources": ["eusebius", "trigg"]},
+    {"text": "Shaped later theology deeply even after his condemnation: Athanasius, the Cappadocian Fathers, and Ambrose drew on him, and his spiritual reading of the Song of Songs influenced medieval mystics.", "sources": ["crouzel", "britannica"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "Scripture has a body, a soul, and a spirit", "reference": "On First Principles 4.2.4", "note": "His three levels of meaning: literal, moral, and spiritual.", "sources": ["butterworth"]},
+      {"phrase": "There was not when he was not", "reference": "On First Principles 1.2.9 and 4.4.1", "note": "His phrase for the eternal generation of the Son; later turned against Arius's slogan 'there was when he was not'.", "sources": ["butterworth", "crouzel"]}
+    ]
+  },
+  "persecuted_others_note": "No record of Origen supporting or carrying out persecution of anyone. He argued against pagan critics and against teachers he judged heretical (such as the Valentinians and Marcionites) in writing and debate only, for example in the Dialogue with Heraclides, and in Against Celsus he defended Christians' refusal to take up arms.",
+  "persecuted_others": [],
+  "persecution_note": "Origen lost his father to persecution, was tortured in the Decian persecution, was expelled and deprived of his priesthood by his own bishop, and was condemned as a heretic long after his death. His friend and patron Ambrose was also imprisoned under Maximinus Thrax (235).",
+  "persecution": [
+    {"year": 202, "title": "Martyrdom of his father Leonides", "summary": "His father was beheaded in the persecution under Septimius Severus and the family's property was confiscated. Eusebius says Origen wanted to give himself up and was stopped only because his mother hid his clothes.", "responsible": [
+      {"name": "Septimius Severus", "role": "Emperor whose policy prompted the persecution", "jurisdiction": "Roman Empire", "type": "state"},
+      {"name": "Laetus", "role": "Prefect of Egypt", "jurisdiction": "Roman province of Egypt", "type": "state"}
+    ], "outcome": "Leonides executed; the family left destitute.", "sources": ["eusebius", "trigg"]},
+    {"year": 231, "date": "c. 231–232", "title": "Expulsion and deprivation by Bishop Demetrius", "summary": "After bishops Theoctistus of Caesarea and Alexander of Jerusalem ordained him presbyter without the consent of his own bishop, Demetrius of Alexandria called two synods: the first banished him from Alexandria, the second deprived him of the priesthood. Demetrius reportedly also raised his self-castration as a bar to ordination and circulated the decision to other churches, and Rome under Pontian concurred.", "responsible": [
+      {"name": "Demetrius", "role": "Bishop of Alexandria", "jurisdiction": "Church of Alexandria", "type": "church"},
+      {"name": "Synods of Alexandrian bishops and presbyters", "role": "Banished him and deprived him of the priesthood", "jurisdiction": "Church of Alexandria", "type": "church"}
+    ], "defended_by": [
+      {"name": "Theoctistus of Caesarea and Alexander of Jerusalem", "role": "Bishops in Palestine who ignored the sentence and kept him as a teacher and preacher"}
+    ], "outcome": "He settled permanently at Caesarea; the Palestinian, Arabian, and Phoenician churches ignored the sentence.", "sources": ["eusebius", "trigg", "crouzel"]},
+    {"year": 250, "date": "250–251", "title": "Imprisonment and torture under Decius", "summary": "In the persecution ordered by Emperor Decius, he was imprisoned, put in an iron collar, and had his legs stretched in the stocks for many days, threatened with fire; his torturers tried to make him deny Christ without killing him. Eusebius says he survived and wrote letters afterwards.", "responsible": [
+      {"name": "Decius", "role": "Emperor who ordered universal sacrifice to the gods", "jurisdiction": "Roman Empire", "type": "state"},
+      {"name": "Local Roman officials (names unknown)", "role": "Imprisoned and tortured him", "jurisdiction": "Roman province of Syria Palaestina", "type": "state"}
+    ], "outcome": "Released after Decius's death in 251; died a few years later.", "sources": ["eusebius", "crouzel"]},
+    {"year": 400, "date": "393–404 (after his death)", "title": "The first Origenist controversy", "summary": "Epiphanius of Salamis attacked Origen's ideas; Theophilus of Alexandria, after first supporting Origenist monks, condemned Origen at a synod in 400 and drove Origenist monks, including the 'Tall Brothers', out of the Egyptian desert. Jerome turned against Origen and quarrelled bitterly with his old friend Rufinus, who had translated him.", "responsible": [
+      {"name": "Theophilus", "role": "Bishop of Alexandria", "jurisdiction": "Church of Alexandria", "type": "church"},
+      {"name": "Epiphanius of Salamis", "role": "Bishop who led the attack on Origen's teaching", "jurisdiction": "Church of Cyprus", "type": "church"},
+      {"name": "Jerome", "role": "Scholar who campaigned against Origenism", "jurisdiction": "Bethlehem", "type": "individual"}
+    ], "defended_by": [
+      {"name": "Rufinus of Aquileia", "role": "Translator who defended Origen's orthodoxy"},
+      {"name": "John Chrysostom", "role": "Bishop of Constantinople who sheltered the expelled monks"}
+    ], "outcome": "Origen's works condemned in Egypt; the dispute contributed to Chrysostom's deposition in 403.", "sources": ["clark", "crouzel"]}
+  ],
+  "excommunication_note": "Condemned as a heretic by name about three centuries after his death. He is not venerated as a saint in the Catholic or Orthodox churches, though he is widely honoured as a church father in a broad sense.",
+  "excommunications": [
+    {"date": "c. 231–232", "by": "Demetrius of Alexandria and Alexandrian synods", "authority": "Church of Alexandria", "reason": "Ordained without his bishop's consent; deprived of the priesthood and banished", "status": "Ignored by the churches of Palestine; never formally reversed", "sources": ["eusebius", "trigg"]},
+    {"date": "400", "by": "Theophilus of Alexandria and an Alexandrian synod", "authority": "Church of Alexandria", "reason": "Origen's writings condemned during the first Origenist controversy; Pope Anastasius I also condemned them", "status": "Never reversed", "sources": ["clark"]},
+    {"date": "543", "by": "Emperor Justinian I, endorsed by Patriarch Menas and Pope Vigilius", "authority": "Imperial edict with church approval", "reason": "Edict against Origen with anathemas against his doctrines, including pre-existence of souls and universal restoration", "status": "Never reversed", "sources": ["clark", "britannica"]},
+    {"date": "553", "by": "Second Council of Constantinople (Fifth Ecumenical Council)", "authority": "Ecumenical council", "reason": "Origen named among heretics in its 11th anathema; fifteen anathemas against Origenism were approved by bishops in Constantinople at about the same time, though scholars disagree on whether formally by the council", "status": "Never reversed; some scholars argue the name in the 11th anathema was a later insertion", "sources": ["crouzel", "britannica"]}
+  ],
+  "sources": [
+    {"id": "eusebius", "type": "primary", "citation": "Eusebius of Caesarea, Ecclesiastical History, Book 6. Trans. Kirsopp Lake and J. E. L. Oulton, Loeb Classical Library, 1926–1932."},
+    {"id": "butterworth", "type": "primary", "citation": "Origen, On First Principles, trans. G. W. Butterworth. London: SPCK, 1936."},
+    {"id": "chadwick", "type": "primary", "citation": "Origen, Contra Celsum, trans. Henry Chadwick. Cambridge: Cambridge University Press, 1953."},
+    {"id": "crouzel", "type": "scholarly", "citation": "Henri Crouzel, Origen, trans. A. S. Worrall. Edinburgh: T&T Clark, 1989."},
+    {"id": "trigg", "type": "scholarly", "citation": "Joseph W. Trigg, Origen. London: Routledge, 1998."},
+    {"id": "clark", "type": "scholarly", "citation": "Elizabeth A. Clark, The Origenist Controversy: The Cultural Construction of an Early Christian Debate. Princeton: Princeton University Press, 1992."},
+    {"id": "britannica", "type": "reference", "citation": "\"Origen.\" Encyclopaedia Britannica."}
+  ]
+}

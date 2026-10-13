@@ -110,6 +110,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Quadratus of Athens (`quadratus-of-athens`): Apostolic Father / earliest apologist
 - Pseudo-Barnabas (`pseudo-barnabas`): anonymous author of the Epistle of Barnabas; lifespan placeholders
 - Origen (`origen`)
+- Saint George (`saint-george`): almost entirely legend; labelled as such
 - Nicholas of Myra (`nicholas-of-myra`): the user wrote "Nicolas"; Nicholas of Myra was assumed
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
@@ -341,7 +342,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Basil of Caesarea ("Basil", taken as Basil the Great: On the Holy Spirit, the Basileias, the monastic
+- Saint George (martyr c. 303 under Diocletian, by tradition; the Gelasian list barring his legendary Acts;
+  the late dragon story; Crusades, Order of the Garter, patron of England; 1969 calendar change). 66 people,
+  56 events.
+- **PR #90**: Basil of Caesarea ("Basil", taken as Basil the Great: On the Holy Spirit, the Basileias, the monastic
   Rules, standoff with Valens's prefect Modestus) and Bede (Ecclesiastical History, AD dating, the 708 heresy
   charge; approved Æthelfrith's massacre of the Bangor monks as divine judgement). 65 people, 56 events.
 - **PR #89**: Origen (Hexapla, On First Principles, Against Celsus; deprived by Demetrius, tortured under Decius;

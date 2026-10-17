@@ -1,0 +1,65 @@
+{
+  "name": "Eusebius of Caesarea",
+  "slug": "eusebius-of-caesarea",
+  "short_name": "Eusebius",
+  "also_known_as": "Eusebius Pamphili; 'the Father of Church History'",
+  "era": "Early Church",
+  "role": "Bishop of Caesarea in Palestine, biblical scholar, and the first historian of the church",
+  "born": {"year": 263, "circa": true, "date": "c. 260–265", "place": "Probably Caesarea Maritima, Palestine", "sources": ["barnes", "britannica"]},
+  "died": {"year": 339, "circa": true, "date": "Probably 30 May 339 (some say 340)", "place": "Caesarea Maritima, Palestine", "cause": "Unknown; probably natural causes in old age", "sources": ["barnes", "britannica"]},
+  "summary": "Bishop and scholar whose Ecclesiastical History is the main surviving source for the first three centuries of Christianity. He lived through the Great Persecution, became a leading adviser and admirer of Constantine, sympathized with Arius before accepting the Nicene Creed, and later took part in the depositions of Eustathius, Athanasius, and Marcellus.",
+  "key_dates": [
+    {"year": 303, "label": "The Great Persecution begins; his teacher Pamphilus is imprisoned (307) and martyred (310), and Eusebius witnesses martyrdoms in Palestine and Egypt", "sources": ["eusebius-hist", "barnes"]},
+    {"year": 313, "circa": true, "label": "Becomes bishop of Caesarea (c. 313–315)", "sources": ["barnes", "britannica"]},
+    {"year": 325, "label": "Provisionally excommunicated at a council in Antioch for supporting Arius; months later signs the creed at the Council of Nicaea", "sources": ["barnes", "socrates"]},
+    {"year": 326, "label": "Completes the final edition of the Ecclesiastical History (c. 325–326)", "sources": ["eusebius-hist", "grant"]},
+    {"year": 327, "circa": true, "label": "Takes part in the synod at Antioch that deposes Bishop Eustathius; declines to be made bishop of Antioch", "sources": ["barnes", "socrates"]},
+    {"year": 335, "label": "Takes part in the Council of Tyre, which deposes Athanasius", "sources": ["athanasius-apol", "barnes"]},
+    {"year": 336, "label": "Delivers his oration for the thirtieth anniversary of Constantine's reign; writes against Marcellus of Ancyra", "sources": ["barnes", "britannica"]},
+    {"year": 337, "label": "Begins the Life of Constantine after the emperor's death (unfinished at his own death)", "sources": ["cameron-hall", "barnes"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the Ecclesiastical History (in several editions, c. 300–326), the first history of the church, preserving long quotations from earlier Christian and Jewish writers, lists of bishops, and accounts of martyrs that survive nowhere else.", "sources": ["eusebius-hist", "grant"]},
+    {"text": "His Chronicle set world history from Abraham onward in parallel columns; Jerome translated and continued it, and it shaped Western chronology for a thousand years.", "sources": ["grant", "britannica"]},
+    {"text": "Devised the Eusebian Canons, tables for finding parallel passages in the four Gospels, which were copied into Gospel manuscripts for centuries.", "sources": ["grant", "britannica"]},
+    {"text": "Wrote the Preparation for the Gospel and the Demonstration of the Gospel, a large defence of Christianity against pagan and Jewish critics, and the Onomasticon, a gazetteer of biblical place names.", "sources": ["barnes", "britannica"]},
+    {"text": "Recorded the persecution he lived through in The Martyrs of Palestine, naming victims and the governors who condemned them.", "sources": ["eusebius-martyrs", "barnes"]},
+    {"text": "Became the leading Christian admirer of Constantine: his orations and Life of Constantine present the emperor as God's chosen ruler, and they are the main source for Constantine's conversion story, though historians treat them as panegyric rather than neutral history.", "sources": ["cameron-hall", "barnes"]},
+    {"text": "At first sympathized with Arius and wrote in his support; at Nicaea he presented his church's baptismal creed, then signed the Nicene Creed and wrote to his church explaining how he understood 'of one substance' (homoousios).", "sources": ["socrates", "barnes"]},
+    {"text": "Took part in the anti-Nicene party's campaigns after Nicaea, joining the depositions of Eustathius of Antioch (c. 327), Athanasius (335), and Marcellus of Ancyra (336).", "sources": ["barnes", "athanasius-apol"]},
+    {"text": "His letter to Constantine's sister Constantia, refusing her request for an image of Christ, was later cited by iconoclasts, and the Second Council of Nicaea (787) rejected his authority on images and questioned his orthodoxy.", "sources": ["barnes", "britannica"]}
+  ],
+  "persecuted_others_note": "Eusebius never ordered or carried out violence, but he took part in church councils that deposed and helped send into exile three bishops of the opposing Nicene party, and in a polemical work he urged the condemnation of Marcellus. He also praised Constantine's laws against heretics and pagan sacrifice in the Life of Constantine.",
+  "persecuted_others": [
+    {"year": 327, "circa": true, "date": "c. 327–328", "title": "Deposition of Eustathius of Antioch", "targets": "Eustathius, bishop of Antioch, and his supporters", "involvement": "took_part", "summary": "A synod at Antioch led by bishops of the pro-Arian party, including Eusebius and Eusebius of Nicomedia, deposed Eustathius, a leading defender of Nicaea, on charges that included doctrinal error and insulting the emperor's mother; Constantine exiled him. Eusebius then declined the vacant see.", "outcome": "Eustathius exiled to Thrace, where he died.", "sources": ["socrates", "barnes"]},
+    {"year": 335, "title": "Council of Tyre against Athanasius", "targets": "Athanasius, bishop of Alexandria", "involvement": "took_part", "summary": "Eusebius was one of the bishops at the Council of Tyre, which deposed Athanasius on charges of violence against the Melitians that Athanasius said were invented; Constantine then exiled Athanasius to Trier. Athanasius later named Eusebius among his persecutors.", "outcome": "Athanasius deposed and exiled (336–337).", "sources": ["athanasius-apol", "barnes"]},
+    {"year": 336, "title": "Condemnation of Marcellus of Ancyra", "targets": "Marcellus, bishop of Ancyra", "involvement": "advocated", "summary": "Eusebius attended the synod at Constantinople that deposed Marcellus for Sabellianism and wrote Against Marcellus and On the Theology of the Church to justify the sentence.", "outcome": "Marcellus deposed and exiled.", "sources": ["barnes", "britannica"]},
+    {"year": 337, "date": "c. 337–339", "title": "Praise of imperial laws against heretics and pagan sacrifice", "targets": "Novatianists, Valentinians, Marcionites, Paul of Samosata's followers, and other groups; pagan cults", "involvement": "approved", "summary": "In the Life of Constantine he quoted and praised Constantine's edict banning the meetings of named heretical groups and seizing their churches, and the emperor's measures against pagan sacrifice and temples.", "sources": ["cameron-hall", "barnes"]}
+  ],
+  "persecution_note": "Eusebius lived through the Great Persecution (303–313), in which his teacher Pamphilus was martyred. He was later accused, at the Council of Tyre in 335, of having sacrificed to escape prison; the charge is known only from hostile sources and is unproven.",
+  "persecution": [
+    {"year": 307, "date": "303–313", "title": "The Great Persecution and the martyrdom of Pamphilus", "summary": "During the persecution begun by Diocletian and continued in the East by Galerius and Maximinus Daia, Eusebius's teacher Pamphilus was imprisoned at Caesarea (307) and executed (310) with several companions. Eusebius visited him in prison and helped him write a defence of Origen; he also saw martyrdoms in Egypt. Whether Eusebius himself was imprisoned is not clear.", "responsible": [
+      {"name": "Diocletian and Galerius", "role": "Emperors who began the persecution", "jurisdiction": "Roman Empire", "type": "state"},
+      {"name": "Maximinus Daia", "role": "Emperor in the East who continued it", "jurisdiction": "Roman Empire (East)", "type": "state"},
+      {"name": "Urbanus and Firmilianus", "role": "Governors of Palestine who condemned Pamphilus and other Christians", "jurisdiction": "Roman province of Palestine", "type": "state"}
+    ], "outcome": "Pamphilus executed; Eusebius survived and took the name 'Eusebius of Pamphilus' in his honour.", "sources": ["eusebius-martyrs", "barnes"]},
+    {"year": 335, "title": "Accusation of apostasy at Tyre", "summary": "According to Epiphanius, the Egyptian bishop Potamon of Heraclea, a supporter of Athanasius, accused Eusebius at the Council of Tyre of having escaped prison during the persecution by sacrificing to the gods. Eusebius left the meeting in anger. No evidence supports the charge.", "responsible": [
+      {"name": "Potamon of Heraclea", "role": "Bishop who made the accusation", "jurisdiction": "Church of Egypt", "type": "church"}
+    ], "outcome": "No action was taken against Eusebius.", "sources": ["barnes"]}
+  ],
+  "excommunication_note": "He was provisionally excommunicated in 325, before Nicaea, and restored when he signed the Nicene Creed. He was never condemned by name as a heretic, though the Second Council of Nicaea (787) questioned his orthodoxy.",
+  "excommunications": [
+    {"date": "Early 325", "by": "Council of Antioch under Ossius of Córdoba", "authority": "Synod of bishops", "reason": "Refused to accept the council's anti-Arian creed; provisionally excommunicated with Theodotus of Laodicea and Narcissus of Neronias pending the great council", "status": "Lifted when he signed the creed at Nicaea (325)", "sources": ["barnes"]},
+    {"date": "787", "by": "Second Council of Nicaea", "authority": "Ecumenical council", "reason": "His letter to Constantia against images rejected; the council called him unreliable and suspected of Arianism", "status": "A censure of his authority, not an anathema; never reversed", "sources": ["barnes", "britannica"]}
+  ],
+  "sources": [
+    {"id": "eusebius-hist", "type": "primary", "citation": "Eusebius, The Ecclesiastical History, trans. Kirsopp Lake and J. E. L. Oulton, 2 vols. Loeb Classical Library, 1926–1932."},
+    {"id": "eusebius-martyrs", "type": "primary", "citation": "Eusebius, The Martyrs of Palestine, in the Loeb Ecclesiastical History, vol. 2 (1932)."},
+    {"id": "cameron-hall", "type": "primary", "citation": "Eusebius, Life of Constantine, trans. Averil Cameron and Stuart G. Hall. Oxford: Clarendon Press, 1999."},
+    {"id": "socrates", "type": "primary", "citation": "Socrates Scholasticus, Ecclesiastical History, Book 1. Nicene and Post-Nicene Fathers, 2nd series, vol. 2."},
+    {"id": "athanasius-apol", "type": "primary", "citation": "Athanasius, Defence against the Arians (Apologia contra Arianos). Nicene and Post-Nicene Fathers, 2nd series, vol. 4."},
+    {"id": "barnes", "type": "scholarly", "citation": "Timothy D. Barnes, Constantine and Eusebius. Cambridge, MA: Harvard University Press, 1981."},
+    {"id": "grant", "type": "scholarly", "citation": "Robert M. Grant, Eusebius as Church Historian. Oxford: Clarendon Press, 1980."},
+    {"id": "britannica", "type": "reference", "citation": "\"Eusebius of Caesarea.\" Encyclopaedia Britannica."}
+  ]
+}

@@ -137,6 +137,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 
 **Reformation**
 - Desiderius Erasmus (`desiderius-erasmus`)
+- Maximus the Greek (`maximus-the-greek`)
 - Thomas More (`thomas-more`): includes the list of people executed for heresy linked to him, with verification ratings
 - Martin Luther (`martin-luther`): starter example
 - Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
@@ -343,7 +344,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Eusebius of Caesarea (the user wrote "Eusabius"; taken as the historian): Ecclesiastical History,
+- Maximus the Greek (Athonite monk in Moscow from 1518: translations, Non-possessors; tried 1525 and 1531,
+  imprisoned and barred from communion, never allowed home; canonized 1988). 68 people, 56 events.
+- **PR #92**: Eusebius of Caesarea (the user wrote "Eusabius"; taken as the historian): Ecclesiastical History,
   Chronicle, Life of Constantine; provisional excommunication at Antioch 325; took part in deposing
   Eustathius, Athanasius, and Marcellus. Linked from Nicaea. 67 people, 56 events.
 - **PR #91**: Saint George (martyr c. 303 under Diocletian, by tradition; the Gelasian list barring his legendary Acts;

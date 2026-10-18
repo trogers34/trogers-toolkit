@@ -1,0 +1,58 @@
+{
+  "name": "Maximus the Greek",
+  "slug": "maximus-the-greek",
+  "short_name": "Maximus",
+  "also_known_as": "Maxim Grek; Michael Trivolis (birth name); Saint Maximus the Greek",
+  "era": "Reformation",
+  "role": "Greek monk, scholar, and translator in Muscovite Russia",
+  "born": {"year": 1470, "circa": true, "date": "c. 1470", "place": "Arta, Epirus (now Greece), then under Ottoman rule", "sources": ["haney", "obolensky"]},
+  "died": {"year": 1556, "date": "21 January 1556 (by tradition)", "place": "Trinity–St Sergius Monastery, near Moscow", "cause": "Natural causes in old age, after about 25 years of imprisonment and confinement", "sources": ["haney", "britannica"]},
+  "summary": "A Greek scholar trained in Renaissance Italy who became a monk on Mount Athos and was sent to Moscow in 1518 to translate and correct Russian church books. He brought Greek learning to Muscovy, but his criticism of monastic landholding and of Russian church practices, and his alleged political contacts, led to two church trials (1525 and 1531), long imprisonment, and exclusion from communion. He was never allowed to go home, and was canonized by the Russian Orthodox Church in 1988.",
+  "key_dates": [
+    {"year": 1492, "circa": true, "label": "Studies in Italy (c. 1492–1504), working with humanists in Florence and Venice, including the printer Aldus Manutius", "sources": ["haney", "obolensky"]},
+    {"year": 1502, "label": "Becomes a Dominican friar at San Marco, Florence, Savonarola's former house (to c. 1504)", "sources": ["haney", "obolensky"]},
+    {"year": 1506, "circa": true, "label": "Returns to Orthodoxy and becomes a monk at Vatopedi Monastery, Mount Athos, taking the name Maximus", "sources": ["haney", "obolensky"]},
+    {"year": 1518, "label": "Arrives in Moscow at the request of Grand Prince Vasily III to translate the commentated Psalter", "sources": ["haney", "britannica"]},
+    {"year": 1525, "label": "Tried before a church council under Metropolitan Daniel; condemned and imprisoned at the Joseph-Volokolamsk Monastery", "sources": ["pokrovsky", "haney"]},
+    {"year": 1531, "label": "Tried again, with Vassian Patrikeev; sent to Tver under stricter confinement", "sources": ["pokrovsky", "haney"]},
+    {"year": 1551, "circa": true, "label": "Allowed to move to the Trinity–St Sergius Monastery, still forbidden to leave Russia", "sources": ["haney", "obolensky"]}
+  ],
+  "accomplishments": [
+    {"text": "Brought Greek and Renaissance learning to Muscovy: he translated the Psalter with patristic commentary (finished 1519, through Latin with Russian interpreters) and corrected errors in Slavonic liturgical books against the Greek originals.", "sources": ["haney", "obolensky"]},
+    {"text": "Wrote some 350 works in Russian Church Slavonic, on theology, ethics, grammar, and the duties of rulers, which circulated widely in Russian manuscripts.", "sources": ["haney", "britannica"]},
+    {"text": "Supported the 'Non-possessors', led by Vassian Patrikeev, who argued that monasteries should not own villages and serfs, against the 'Possessors' (Josephites) who followed Joseph of Volokolamsk.", "sources": ["haney", "obolensky"]},
+    {"text": "Criticized injustice by rulers and officials, the oppression of peasants, usury by monasteries, and superstition such as astrology, in writings addressed to the grand prince and later to Ivan IV.", "sources": ["haney", "obolensky"]},
+    {"text": "His Italian experience gave Russians one of their first descriptions of Western scholarship, the Dominicans and Franciscans, and Savonarola, whom he admired.", "sources": ["haney", "obolensky"]},
+    {"text": "Wrote polemics against Latin (Catholic) doctrine, Islam, and Judaism, defending Orthodoxy in the manner usual for his time.", "sources": ["haney", "britannica"]},
+    {"text": "Taught pupils who carried his influence into later Russian learning, and is honoured as a 'Russian enlightener'; the Russian Orthodox Church canonized him in 1988, and his relics were found at the Trinity Lavra in 1996.", "sources": ["obolensky", "britannica"]}
+  ],
+  "persecuted_others_note": "No record of Maximus supporting or carrying out persecution of anyone. He wrote sharp polemics against Catholics, Muslims, Jews, and astrologers, but they argued doctrine and did not call for punishment. He criticized the harsh treatment of peasants and the poor.",
+  "persecuted_others": [],
+  "persecution_note": "Maximus was tried twice by Russian church councils, held in monastery prisons for about twenty years, barred from communion for much of that time, and refused permission to return to Mount Athos despite appeals from Eastern patriarchs. Historians debate how far the charges were doctrinal and how far political.",
+  "persecution": [
+    {"year": 1525, "title": "First trial and imprisonment at Volokolamsk", "summary": "A church council in Moscow charged him with heresy, based on errors in his translations (which he blamed partly on his interpreters), with criticizing the Russian church's independence from Constantinople, and with treasonous contacts with the Ottoman ambassador Skinder. Many historians think his opposition to the Josephites and, possibly, to Vasily III's plan to divorce his wife were the real causes.", "responsible": [
+      {"name": "Metropolitan Daniel of Moscow", "role": "Head of the Russian church, a Josephite, who presided and pressed the charges", "jurisdiction": "Metropolitanate of Moscow", "type": "church"},
+      {"name": "Vasily III", "role": "Grand Prince of Moscow, who allowed the trial", "jurisdiction": "Grand Principality of Moscow", "type": "state"},
+      {"name": "Council of Russian bishops", "role": "Condemned him", "jurisdiction": "Russian Orthodox Church", "type": "church"}
+    ], "outcome": "Condemned; imprisoned in harsh conditions in the Joseph-Volokolamsk Monastery and barred from communion.", "sources": ["pokrovsky", "haney"]},
+    {"year": 1531, "title": "Second trial and confinement at Tver", "summary": "Tried again with his ally Vassian Patrikeev, on charges including corrupting the sacred books and heretical opinions. He was transferred to the Otroch Monastery at Tver under Bishop Akaky, who treated him more kindly.", "responsible": [
+      {"name": "Metropolitan Daniel of Moscow", "role": "Presided", "jurisdiction": "Metropolitanate of Moscow", "type": "church"},
+      {"name": "Vasily III", "role": "Grand Prince", "jurisdiction": "Grand Principality of Moscow", "type": "state"}
+    ], "defended_by": [
+      {"name": "Bishop Akaky of Tver", "role": "Eased his confinement"}
+    ], "outcome": "Confined at Tver for about twenty years; Vassian Patrikeev was sent to Volokolamsk and died there.", "sources": ["pokrovsky", "haney"]},
+    {"year": 1545, "circa": true, "date": "1530s–1550s", "title": "Refused permission to return home", "summary": "The Patriarchs of Constantinople and Alexandria and the monks of Athos repeatedly asked for his release; the Russian authorities refused, apparently fearing what he would say about Muscovy abroad.", "responsible": [
+      {"name": "Russian church and court authorities, including Metropolitan Makary", "role": "Refused his release to Athos", "jurisdiction": "Russian Orthodox Church and Grand Principality / Tsardom of Moscow", "type": "state"}
+    ], "outcome": "Allowed only to move to the Trinity Monastery (c. 1551), where he died.", "sources": ["haney", "obolensky"]}
+  ],
+  "excommunication_note": "He was barred from receiving communion after his first trial; the ban was relaxed only years later. The condemnation was never formally reversed, but the Russian Orthodox Church canonized him in 1988.",
+  "excommunications": [
+    {"date": "1525 (confirmed 1531)", "by": "Councils of the Russian church under Metropolitan Daniel", "authority": "Russian Orthodox Church", "reason": "Heresy (errors in his translations and corrections) and other charges; barred from communion and imprisoned", "status": "Communion restored later in life; not formally revoked, but he was canonized in 1988", "sources": ["pokrovsky", "haney"]}
+  ],
+  "sources": [
+    {"id": "pokrovsky", "type": "primary", "citation": "N. N. Pokrovsky, ed., Sudnye spiski Maksima Greka i Isaka Sobaki (The trial records of Maximus the Greek and Isaac Sobaka). Moscow, 1971."},
+    {"id": "haney", "type": "scholarly", "citation": "Jack V. Haney, From Italy to Muscovy: The Life and Works of Maxim the Greek. Munich: Wilhelm Fink, 1973."},
+    {"id": "obolensky", "type": "scholarly", "citation": "Dimitri Obolensky, Six Byzantine Portraits. Oxford: Clarendon Press, 1988 (chapter on Maximos the Greek)."},
+    {"id": "britannica", "type": "reference", "citation": "\"Maximus the Greek.\" Encyclopaedia Britannica."}
+  ]
+}

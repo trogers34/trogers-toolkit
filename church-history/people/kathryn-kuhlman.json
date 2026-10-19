@@ -1,0 +1,54 @@
+{
+  "name": "Kathryn Kuhlman",
+  "slug": "kathryn-kuhlman",
+  "short_name": "Kuhlman",
+  "era": "Modern",
+  "role": "Evangelist known for 'miracle services' and healing ministry; television preacher",
+  "born": {"year": 1907, "date": "9 May 1907", "place": "Near Concordia, Missouri", "sources": ["warner", "britannica"]},
+  "died": {"year": 1976, "date": "20 February 1976", "place": "Tulsa, Oklahoma", "cause": "Heart failure following open-heart surgery for long-standing heart disease", "sources": ["warner", "buckingham"]},
+  "summary": "An independent American evangelist whose 'miracle services' in Pittsburgh, Los Angeles, and elsewhere, where people reported being healed, made her one of the best-known healing ministers of the 20th century and a forerunner of the charismatic movement. She insisted that she healed no one and credited the Holy Spirit. Her healings were questioned by doctors, and her private life and finances drew criticism.",
+  "key_dates": [
+    {"year": 1923, "label": "Begins preaching at about 16, travelling with her sister and brother-in-law's evangelistic team", "sources": ["warner", "buckingham"]},
+    {"year": 1935, "label": "Opens the Denver Revival Tabernacle", "sources": ["warner"]},
+    {"year": 1938, "label": "Marries the evangelist Burroughs Waltrip, who had divorced his wife; the scandal ends her Denver ministry (they separate c. 1944 and divorce in 1948)", "sources": ["warner", "buckingham"]},
+    {"year": 1947, "label": "First reported healing during her preaching at Franklin, Pennsylvania", "sources": ["warner", "kuhlman"]},
+    {"year": 1948, "label": "Moves her base to Pittsburgh, holding services at Carnegie Hall there and later at First Presbyterian Church", "sources": ["warner", "britannica"]},
+    {"year": 1962, "label": "Publishes I Believe in Miracles", "sources": ["kuhlman", "warner"]},
+    {"year": 1966, "label": "Begins the CBS television programme I Believe in Miracles (to 1976)", "sources": ["warner", "britannica"]},
+    {"year": 1974, "label": "The surgeon William Nolen publishes a study questioning the healings reported at her services", "sources": ["nolen", "warner"]}
+  ],
+  "accomplishments": [
+    {"text": "Held 'miracle services' for nearly thirty years, attended by thousands in Pittsburgh, the Shrine Auditorium in Los Angeles, and around the world, at which many people said they had been healed.", "sources": ["warner", "britannica"]},
+    {"text": "Taught that she had no healing power of her own and that healing was the work of the Holy Spirit; she often named healings from the platform rather than laying hands on the sick.", "sources": ["kuhlman", "warner"]},
+    {"text": "Was one of the bridges between Pentecostalism and the wider charismatic renewal, attracting Catholics and mainline Protestants; she met Pope Paul VI in 1972.", "sources": ["warner", "buckingham"]},
+    {"text": "Reached a national audience with the television programme I Believe in Miracles and with books such as I Believe in Miracles (1962) and God Can Do It Again (1969).", "sources": ["warner", "britannica"]},
+    {"text": "Funded missions, church buildings, and relief work abroad through the Kathryn Kuhlman Foundation (established 1954).", "sources": ["warner"]},
+    {"text": "Influenced later healing evangelists, notably Benny Hinn, who attended her services and modelled his ministry on hers.", "sources": ["warner", "britannica"]},
+    {"text": "Her ministry was dogged by questions: her marriage to a divorced man, which she later called a mistake; doubts from doctors about the healings; and, near the end of her life, a lawsuit by a former associate and disputes over her finances and will.", "sources": ["warner", "nolen"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "I believe in miracles", "reference": "Title of her 1962 book and her television programme", "sources": ["kuhlman", "warner"]},
+      {"phrase": "I have nothing to do with it; it is the Holy Spirit", "reference": "Repeated in her services and books, in varying wording", "note": "Her standard answer to people who called her a healer.", "sources": ["kuhlman", "warner"]}
+    ]
+  },
+  "persecuted_others_note": "No record of Kathryn Kuhlman supporting or carrying out persecution of anyone. She avoided political and denominational fights and welcomed Christians of all traditions to her services.",
+  "persecuted_others": [],
+  "persecution_note": "Kuhlman was never arrested or persecuted. She faced public criticism and lawsuits rather than persecution.",
+  "persecution": [
+    {"year": 1974, "date": "1974–1976", "title": "Medical criticism and lawsuits", "summary": "The Minnesota surgeon William Nolen followed up people reported healed at one of her services and concluded that none of the serious organic illnesses he examined had been cured, and that some people had been harmed by abandoning treatment. In 1975 a former associate, Paul Bartholomew, sued her over money and alleged misuse of funds; the suit was settled. These were criticism and legal disputes, not persecution.", "responsible": [
+      {"name": "William A. Nolen", "role": "Surgeon and author of Healing: A Doctor in Search of a Miracle", "jurisdiction": "Independent", "type": "individual"},
+      {"name": "Paul Bartholomew", "role": "Former business manager who sued her", "jurisdiction": "U.S. civil courts", "type": "individual"}
+    ], "outcome": "Her ministry continued until her death; the lawsuit was settled out of court.", "sources": ["nolen", "warner"]}
+  ],
+  "excommunication_note": "Kuhlman was never excommunicated or disciplined by any church. She worked independently of denominations, though she was ordained by the Evangelical Church Alliance.",
+  "excommunications": [],
+  "sources": [
+    {"id": "kuhlman", "type": "primary", "citation": "Kathryn Kuhlman, I Believe in Miracles. Englewood Cliffs, NJ: Prentice-Hall, 1962."},
+    {"id": "nolen", "type": "primary", "citation": "William A. Nolen, Healing: A Doctor in Search of a Miracle. New York: Random House, 1974."},
+    {"id": "warner", "type": "scholarly", "citation": "Wayne E. Warner, Kathryn Kuhlman: The Woman Behind the Miracles. Ann Arbor: Servant Publications, 1993."},
+    {"id": "buckingham", "type": "scholarly", "citation": "Jamie Buckingham, Daughter of Destiny: Kathryn Kuhlman, Her Story. Plainfield, NJ: Logos International, 1976."},
+    {"id": "britannica", "type": "reference", "citation": "\"Kathryn Kuhlman.\" Encyclopaedia Britannica."}
+  ]
+}

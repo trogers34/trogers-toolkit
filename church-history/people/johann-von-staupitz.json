@@ -1,0 +1,60 @@
+{
+  "name": "Johann von Staupitz",
+  "slug": "johann-von-staupitz",
+  "short_name": "Staupitz",
+  "also_known_as": "Johannes von Staupitz",
+  "era": "Reformation",
+  "role": "Augustinian friar, theologian, vicar general of the German Observant Augustinians, Martin Luther's superior and confessor",
+  "born": {"year": 1460, "circa": true, "date": "c. 1460–1469", "place": "Motterwitz, near Leisnig, Saxony", "sources": ["steinmetz-mis", "britannica"]},
+  "died": {"year": 1524, "date": "28 December 1524", "place": "St Peter's Abbey, Salzburg", "cause": "Natural causes (illness)", "sources": ["steinmetz-mis", "britannica"]},
+  "summary": "Theologian and head of the reformed (Observant) Augustinian friars in Germany who guided the young Martin Luther, sent him to teach at Wittenberg, and comforted him in his spiritual anguish by pointing him to Christ's grace. He protected Luther in 1518 but never joined the Reformation, resigned his office in 1520, submitted to the pope, and died a Benedictine abbot in Salzburg.",
+  "key_dates": [
+    {"year": 1500, "label": "Doctor of theology at Tübingen", "sources": ["steinmetz-mis", "brecht"]},
+    {"year": 1502, "label": "First dean of the theology faculty at Frederick the Wise's new University of Wittenberg", "sources": ["brecht", "britannica"]},
+    {"year": 1503, "label": "Elected vicar general of the German Observant Augustinian congregation", "sources": ["steinmetz-mis", "brecht"]},
+    {"year": 1512, "label": "Persuades Luther to take his doctorate and hands over to him his chair of Bible at Wittenberg", "sources": ["brecht", "luther-tt"]},
+    {"year": 1517, "label": "Publishes his book on predestination (Libellus de exsecutione aeternae praedestinationis)", "sources": ["steinmetz-mis"]},
+    {"year": 1518, "label": "Arranges Luther's Heidelberg Disputation (April); at Augsburg in October releases Luther from his vow of obedience to the order", "sources": ["brecht", "steinmetz-luther"]},
+    {"year": 1520, "label": "Resigns as vicar general; Wenceslaus Link succeeds him", "sources": ["brecht", "steinmetz-mis"]},
+    {"year": 1522, "label": "Joins the Benedictines and becomes abbot of St Peter's, Salzburg", "sources": ["steinmetz-mis", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Served as Luther's superior, confessor, and spiritual guide: when Luther was tormented by fear of God's judgement and predestination, Staupitz told him to look to the wounds of Christ, and Luther later credited him with first showing him the gospel.", "sources": ["luther-tt", "steinmetz-luther"]},
+    {"text": "Helped found the theology faculty at the University of Wittenberg (1502) and placed Luther there, ordering him to take his doctorate (1512) and succeed him as professor of Bible.", "sources": ["brecht", "britannica"]},
+    {"text": "Led the reform-minded Observant Augustinians in Germany for seventeen years, and tried to unite them with the less strict Conventual houses (1510); the plan was resisted by seven Observant houses, and Luther's journey to Rome (1510–11) was connected with the dispute.", "sources": ["brecht", "steinmetz-mis"]},
+    {"text": "Wrote and preached on grace, predestination, and the love of God (On the Love of God, 1518), in a late-medieval Augustinian theology that stressed God's mercy; scholars debate how much of Luther's thought came from him.", "sources": ["steinmetz-mis", "steinmetz-luther"]},
+    {"text": "Protected Luther in 1518: he arranged for him to present his theology at Heidelberg and, at Augsburg, released him from his vow of obedience so that the order would not be bound to hand him over to Cardinal Cajetan.", "sources": ["brecht", "steinmetz-luther"]},
+    {"text": "Did not follow Luther out of the Catholic Church: he resigned his office (1520), submitted to the pope's judgement when pressed in 1520–21, and ended his life as a Benedictine abbot, while writing to Luther in 1524 that his love for him was unchanged.", "sources": ["steinmetz-luther", "brecht"]}
+  ],
+  "sayings_intro": "Both lines are known from Luther's later reports, not from Staupitz's own writings.",
+  "sayings": {
+    "original": [
+      {"phrase": "Look at the wounds of Christ", "reference": "Advice to Luther on predestination, reported by Luther in his Table Talk and letters", "note": "Staupitz's counsel, known only through Luther's recollection.", "sources": ["luther-tt", "steinmetz-luther"]}
+    ],
+    "popularized": [
+      {"phrase": "If it had not been for Dr Staupitz, I should have sunk into hell", "reference": "Luther, Table Talk", "note": "Luther's words about Staupitz, often quoted on his behalf.", "sources": ["luther-tt"]}
+    ]
+  },
+  "persecuted_others_note": "No record of Staupitz supporting or carrying out persecution of anyone. In 1518 he was under orders from the head of his order to have Luther arrested and sent to Rome, and he did not carry them out.",
+  "persecuted_others": [],
+  "persecution_note": "Staupitz was never arrested or tried, but Rome and the leaders of his order pressed him to discipline Luther, and after Luther's condemnation he was pressed to distance himself from him.",
+  "persecution": [
+    {"year": 1518, "title": "Ordered to arrest Luther", "summary": "Following papal instructions, Gabriele della Volta, prior general of the Augustinian order, wrote ordering the German province to arrest Luther and send him to Rome. Staupitz did not act on it and instead released Luther from his obedience at Augsburg.", "responsible": [
+      {"name": "Pope Leo X", "role": "Ordered action against Luther", "jurisdiction": "Papacy", "type": "church"},
+      {"name": "Gabriele della Volta", "role": "Prior general of the Augustinian Hermits", "jurisdiction": "Augustinian order", "type": "church"}
+    ], "outcome": "Staupitz did not comply; he resigned as vicar general in 1520.", "sources": ["brecht", "steinmetz-luther"]},
+    {"year": 1520, "date": "1520–1521", "title": "Pressed to submit after Luther's condemnation", "summary": "After the bull Exsurge Domine condemned Luther (1520), Rome, through Cardinal Matthäus Lang, archbishop of Salzburg, demanded that Staupitz renounce Luther's errors. He submitted his writings to the pope's judgement, which Luther regretted as a weakness.", "responsible": [
+      {"name": "Pope Leo X", "role": "Issued Exsurge Domine and demanded submission", "jurisdiction": "Papacy", "type": "church"},
+      {"name": "Matthäus Lang", "role": "Cardinal and archbishop of Salzburg, his patron, who conveyed the demand", "jurisdiction": "Archdiocese of Salzburg", "type": "church"}
+    ], "outcome": "He submitted; no further action was taken against him.", "sources": ["steinmetz-luther", "brecht"]}
+  ],
+  "excommunication_note": "Staupitz was never excommunicated. He died in communion with Rome as a Benedictine abbot.",
+  "excommunications": [],
+  "sources": [
+    {"id": "luther-tt", "type": "primary", "citation": "Martin Luther, Table Talk, ed. Theodore G. Tappert. Luther's Works, vol. 54. Philadelphia: Fortress Press, 1967."},
+    {"id": "steinmetz-mis", "type": "scholarly", "citation": "David C. Steinmetz, Misericordia Dei: The Theology of Johannes von Staupitz in Its Late Medieval Setting. Leiden: Brill, 1968."},
+    {"id": "steinmetz-luther", "type": "scholarly", "citation": "David C. Steinmetz, Luther and Staupitz: An Essay in the Intellectual Origins of the Protestant Reformation. Durham, NC: Duke University Press, 1980."},
+    {"id": "brecht", "type": "scholarly", "citation": "Martin Brecht, Martin Luther: His Road to Reformation, 1483–1521, trans. James L. Schaaf. Philadelphia: Fortress Press, 1985."},
+    {"id": "britannica", "type": "reference", "citation": "\"Johann von Staupitz.\" Encyclopaedia Britannica."}
+  ]
+}

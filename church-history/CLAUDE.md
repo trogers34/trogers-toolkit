@@ -175,6 +175,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Aimee Semple McPherson (`aimee-semple-mcpherson`): the user wrote "Amy Semple McPhearson"
 - Dietrich Bonhoeffer (`dietrich-bonhoeffer`)
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
+- Kathryn Kuhlman (`kathryn-kuhlman`)
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -348,7 +349,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Billy Sunday (White Stockings outfielder turned evangelist; tabernacle campaigns, Prohibition 'booze sermon';
+- Kathryn Kuhlman (miracle services in Pittsburgh and LA, TV show, charismatic bridge; Waltrip marriage,
+  Nolen's 1974 medical critique, 1975 lawsuit; died after heart surgery 1976). 73 people, 56 events.
+- **PR #97**: Billy Sunday (White Stockings outfielder turned evangelist; tabernacle campaigns, Prohibition 'booze sermon';
   wartime anti-German and anti-pacifist rhetoric; Klan donations in the 1920s). 72 people, 56 events.
 - **PR #96**: Aimee Semple McPherson (Angelus Temple, KFSG radio, Foursquare Church, Depression commissary; 1926
   disappearance and dropped prosecution; accidental overdose 1944). 71 people, 56 events.

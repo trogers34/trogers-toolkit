@@ -1,0 +1,59 @@
+{
+  "name": "Jerome of Prague",
+  "slug": "jerome-of-prague",
+  "short_name": "Jerome",
+  "also_known_as": "Jeroným Pražský",
+  "era": "Medieval",
+  "role": "Czech philosopher, reformer, and ally of Jan Hus",
+  "born": {"year": 1379, "circa": true, "date": "c. 1379 (estimates range from the late 1360s to about 1380)", "place": "Prague, Kingdom of Bohemia", "sources": ["fudge", "britannica"]},
+  "died": {"year": 1416, "date": "30 May 1416", "place": "Constance (Konstanz), on the same field where Jan Hus had been burned", "cause": "Burned at the stake for heresy", "sources": ["poggio", "fudge"]},
+  "summary": "A brilliant, restless scholar who brought John Wycliffe's writings from Oxford to Prague and became Jan Hus's closest ally. Arrested on his way home from the Council of Constance, he recanted under pressure, then withdrew his recantation before the council and was burned in 1416. An Italian humanist who watched his trial, Poggio Bracciolini, praised his eloquence and courage.",
+  "key_dates": [
+    {"year": 1399, "circa": true, "label": "Studies at Oxford (c. 1399–1401) and brings copies of Wycliffe's works back to Prague", "sources": ["fudge", "britannica"]},
+    {"year": 1406, "label": "Leaves Paris after clashing with the chancellor, Jean Gerson, over his philosophical realism; also teaches at Cologne and Heidelberg", "sources": ["fudge"]},
+    {"year": 1409, "label": "Defends Wycliffe in a public disputation at Prague and supports the Decree of Kutná Hora, which gave the Czechs control of the university", "sources": ["fudge", "britannica"]},
+    {"year": 1410, "label": "Arrested by church authorities in Vienna on suspicion of heresy; escapes and is excommunicated", "sources": ["fudge"]},
+    {"year": 1412, "label": "Takes a leading part in Prague protests against the indulgences of Pope John XXIII, including the public burning of a mock papal bull", "sources": ["fudge", "spinka"]},
+    {"year": 1413, "label": "Travels to Kraków and Lithuania, where his respect for Orthodox Christian worship causes scandal", "sources": ["fudge"]},
+    {"year": 1415, "label": "Goes to Constance to support Hus; arrested at Hirsau while returning home and brought back in chains (May); recants in September", "sources": ["spinka", "fudge"]},
+    {"year": 1416, "label": "Withdraws his recantation before the council (26 May); condemned and burned (30 May)", "sources": ["poggio", "fudge"]}
+  ],
+  "accomplishments": [
+    {"text": "Brought John Wycliffe's philosophical and theological writings from Oxford to Bohemia, where they shaped Jan Hus and the Czech reform movement.", "sources": ["fudge", "britannica"]},
+    {"text": "Was a leading philosophical realist and debater who earned master's degrees at several universities, including Prague, Paris, Cologne, and Heidelberg; his 'Shield of Faith' diagram of the Trinity was used in his disputations.", "sources": ["fudge"]},
+    {"text": "Supported the Czech cause at the University of Prague and the 1409 Decree of Kutná Hora, which gave Bohemian masters three votes out of four.", "sources": ["fudge", "britannica"]},
+    {"text": "Was Jan Hus's closest ally, joining his campaign against the sale of indulgences in 1412 and following him to Constance in 1415.", "sources": ["fudge", "spinka"]},
+    {"text": "Recanted under pressure in September 1415, accepting Hus's condemnation, but in May 1416 publicly withdrew the recantation, praised Hus and Wycliffe, and accepted death.", "sources": ["poggio", "fudge"]},
+    {"text": "The humanist Poggio Bracciolini, a papal secretary who watched his defence, wrote a famous letter to Leonardo Bruni comparing his courage to that of the ancient philosophers.", "sources": ["poggio", "britannica"]},
+    {"text": "Is remembered by Czechs as a national martyr alongside Hus; his death helped spark the Hussite revolt.", "sources": ["fudge", "britannica"]}
+  ],
+  "persecuted_others_note": "No record of Jerome ordering or supporting judicial persecution. His opponents at Constance charged him with violence against friars and clergy who opposed the reform party in Prague; these charges come from hostile witnesses, and how much is true is uncertain.",
+  "persecuted_others": [
+    {"year": 1412, "circa": true, "date": "c. 1410–1412", "title": "Alleged violence against friars in Prague (charges at Constance)", "targets": "Friars and clergy in Prague who preached for indulgences or against the reformers", "involvement": "carried_out", "summary": "Among the articles brought against him at Constance were claims that he struck a friar, threw a monk into the Vltava, and led crowds that intimidated preachers of indulgences. The charges came from his opponents; Jerome denied some of them, and historians treat them as partly exaggerated.", "outcome": "Used as evidence against him at his trial.", "sources": ["fudge"]}
+  ],
+  "persecution_note": "Jerome was arrested by church authorities several times, excommunicated, imprisoned for nearly a year at Constance, and burned. Responsibility lay with the Council of Constance and the secular authorities who carried out its sentence.",
+  "persecution": [
+    {"year": 1410, "title": "Arrest in Vienna", "summary": "While in Vienna he was arrested and tried by the bishop of Passau's officials on suspicion of Wycliffite heresy. He escaped before the case ended.", "responsible": [
+      {"name": "Officials of the bishop of Passau", "role": "Ecclesiastical judges in Vienna", "jurisdiction": "Diocese of Passau", "type": "church"}
+    ], "outcome": "He fled and was excommunicated for failing to answer the charges.", "sources": ["fudge"]},
+    {"year": 1415, "date": "April 1415 – May 1416", "title": "Arrest and imprisonment at Constance", "summary": "He went to Constance in April 1415 without a safe-conduct to support Hus, left when he saw the danger, and was arrested at Hirsau. He was brought back to Constance in chains and held in harsh conditions; under pressure he recanted in September 1415.", "responsible": [
+      {"name": "Council of Constance", "role": "Ordered his arrest and trial", "jurisdiction": "General council of the Western Church", "type": "church"},
+      {"name": "Count Palatine Ludwig III", "role": "Secular lord who held and handed him over (according to the trial accounts)", "jurisdiction": "Palatinate", "type": "state"}
+    ], "outcome": "Imprisoned for about a year.", "sources": ["spinka", "fudge"]},
+    {"year": 1416, "title": "Condemnation and burning", "summary": "On 26 May 1416 he withdrew his recantation before the council. On 30 May the council condemned him as a relapsed heretic and handed him to the secular power; he was burned the same day.", "responsible": [
+      {"name": "Council of Constance", "role": "Condemned him as a relapsed heretic", "jurisdiction": "General council of the Western Church", "type": "church"},
+      {"name": "City authorities of Constance under Sigismund's authority", "role": "Carried out the burning", "jurisdiction": "Imperial city of Constance", "type": "state"}
+    ], "outcome": "Burned; his ashes were thrown into the Rhine.", "sources": ["poggio", "fudge"]}
+  ],
+  "excommunication_note": "Jerome was excommunicated more than once and condemned as a heretic by the Council of Constance. The Catholic Church has never revoked the sentence; Pope John Paul II expressed regret in 1999 for Hus's death, but did not formally rehabilitate Hus or Jerome.",
+  "excommunications": [
+    {"date": "1410", "by": "Ecclesiastical court in Vienna (diocese of Passau)", "authority": "Diocesan court", "reason": "Fled during his heresy trial", "status": "Never lifted", "sources": ["fudge"]},
+    {"date": "30 May 1416", "by": "Council of Constance", "authority": "General council", "reason": "Condemned as a relapsed heretic for Wycliffite and Hussite teachings", "status": "Never revoked", "sources": ["poggio", "fudge"]}
+  ],
+  "sources": [
+    {"id": "poggio", "type": "primary", "citation": "Poggio Bracciolini, letter to Leonardo Bruni on the death of Jerome of Prague (1416), in Phyllis W. G. Gordan, trans., Two Renaissance Book Hunters. New York: Columbia University Press, 1974."},
+    {"id": "spinka", "type": "primary", "citation": "Matthew Spinka, trans., John Hus at the Council of Constance (with Peter of Mladoňovice's account). New York: Columbia University Press, 1965."},
+    {"id": "fudge", "type": "scholarly", "citation": "Thomas A. Fudge, Jerome of Prague and the Foundations of the Hussite Movement. New York: Oxford University Press, 2016."},
+    {"id": "britannica", "type": "reference", "citation": "\"Jerome of Prague.\" Encyclopaedia Britannica."}
+  ]
+}

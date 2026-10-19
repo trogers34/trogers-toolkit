@@ -170,6 +170,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Charles Finney (`charles-finney`)
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
+- Billy Sunday (`billy-sunday`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
 - Aimee Semple McPherson (`aimee-semple-mcpherson`): the user wrote "Amy Semple McPhearson"
 - Dietrich Bonhoeffer (`dietrich-bonhoeffer`)
@@ -347,7 +348,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Aimee Semple McPherson (Angelus Temple, KFSG radio, Foursquare Church, Depression commissary; 1926
+- Billy Sunday (White Stockings outfielder turned evangelist; tabernacle campaigns, Prohibition 'booze sermon';
+  wartime anti-German and anti-pacifist rhetoric; Klan donations in the 1920s). 72 people, 56 events.
+- **PR #96**: Aimee Semple McPherson (Angelus Temple, KFSG radio, Foursquare Church, Depression commissary; 1926
   disappearance and dropped prosecution; accidental overdose 1944). 71 people, 56 events.
 - **PR #95**: Jerome of Prague (Wycliffe's writings to Prague, Hus's ally; Vienna arrest 1410; arrested 1415, recanted,
   withdrew it, burned at Constance 1416; alleged attacks on friars). Linked from Constance. 70 people, 56 events.

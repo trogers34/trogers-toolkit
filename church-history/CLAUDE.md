@@ -171,6 +171,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - J. Gresham Machen (`j-gresham-machen`): the user wrote "J Gresham Mencken"; Machen was assumed (H. L. Mencken wrote his obituary)
+- Aimee Semple McPherson (`aimee-semple-mcpherson`): the user wrote "Amy Semple McPhearson"
 - Dietrich Bonhoeffer (`dietrich-bonhoeffer`)
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
 - C. S. Lewis (`c-s-lewis`)
@@ -346,7 +347,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Jerome of Prague (Wycliffe's writings to Prague, Hus's ally; Vienna arrest 1410; arrested 1415, recanted,
+- Aimee Semple McPherson (Angelus Temple, KFSG radio, Foursquare Church, Depression commissary; 1926
+  disappearance and dropped prosecution; accidental overdose 1944). 71 people, 56 events.
+- **PR #95**: Jerome of Prague (Wycliffe's writings to Prague, Hus's ally; Vienna arrest 1410; arrested 1415, recanted,
   withdrew it, burned at Constance 1416; alleged attacks on friars). Linked from Constance. 70 people, 56 events.
 - **PR #94**: Johann von Staupitz (Luther's superior and confessor; Wittenberg; released Luther from his vow at
   Augsburg 1518; resigned 1520, submitted to Rome, died a Benedictine abbot). 69 people, 56 events.

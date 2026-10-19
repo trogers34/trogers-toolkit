@@ -1,0 +1,59 @@
+{
+  "name": "Aimee Semple McPherson",
+  "slug": "aimee-semple-mcpherson",
+  "short_name": "McPherson",
+  "also_known_as": "Sister Aimee; born Aimee Elizabeth Kennedy",
+  "era": "Modern",
+  "role": "Pentecostal evangelist, founder of Angelus Temple and the International Church of the Foursquare Gospel",
+  "born": {"year": 1890, "date": "9 October 1890", "place": "Near Ingersoll (Salford), Ontario, Canada", "sources": ["blumhofer", "britannica"]},
+  "died": {"year": 1944, "date": "27 September 1944", "place": "Oakland, California", "cause": "Overdose of the sleeping medication Seconal; the coroner ruled it accidental, with kidney failure contributing", "sources": ["sutton", "britannica"]},
+  "summary": "Canadian-born Pentecostal evangelist who became one of the most famous preachers in America in the 1920s and 1930s. She built Angelus Temple in Los Angeles, used radio and stage-like 'illustrated sermons', founded the Foursquare Church, and ran large relief work in the Depression. Her career was shadowed by her 1926 disappearance, which she said was a kidnapping and prosecutors said was staged, and by family and legal disputes.",
+  "key_dates": [
+    {"year": 1908, "label": "Marries the Pentecostal evangelist Robert Semple", "sources": ["blumhofer", "mcpherson-this"]},
+    {"year": 1910, "label": "Goes as a missionary to China; Robert dies of malaria in Hong Kong a month before their daughter is born", "sources": ["blumhofer", "mcpherson-this"]},
+    {"year": 1915, "label": "Begins itinerant preaching, later touring the U.S. in her 'Gospel Car'", "sources": ["blumhofer", "sutton"]},
+    {"year": 1923, "label": "Opens Angelus Temple in Los Angeles (1 January), seating about 5,300", "sources": ["sutton", "britannica"]},
+    {"year": 1924, "label": "Begins broadcasting on her own radio station, KFSG", "sources": ["sutton", "blumhofer"]},
+    {"year": 1926, "label": "Disappears at Venice Beach (18 May); reappears in Mexico (23 June) saying she was kidnapped; charged with conspiracy and fraud", "sources": ["sutton", "epstein"]},
+    {"year": 1927, "label": "Charges dropped (January); incorporates the International Church of the Foursquare Gospel", "sources": ["sutton", "blumhofer"]},
+    {"year": 1931, "label": "Opens a commissary that feeds and clothes huge numbers of people in the Depression; marries David Hutton (divorced 1934)", "sources": ["sutton", "blumhofer"]}
+  ],
+  "accomplishments": [
+    {"text": "Founded the International Church of the Foursquare Gospel (1927), named for Christ as Saviour, Baptizer with the Holy Spirit, Healer, and Coming King; it is now a worldwide Pentecostal denomination.", "sources": ["blumhofer", "britannica"]},
+    {"text": "Built Angelus Temple (1923), one of the first American megachurches, and drew crowds with dramatic 'illustrated sermons' using costumes, sets, and music.", "sources": ["sutton", "epstein"]},
+    {"text": "Was an early Christian broadcaster: her station KFSG (1924) was among the first owned by a church and the first run by a woman evangelist.", "sources": ["sutton", "blumhofer"]},
+    {"text": "Ran the Angelus Temple commissary during the Great Depression, which handed out food and clothing to many thousands of people regardless of religion, and also ran a free employment service.", "sources": ["sutton", "britannica"]},
+    {"text": "Was one of the most prominent women preachers in American history and ordained women ministers in her church.", "sources": ["blumhofer", "britannica"]},
+    {"text": "Held healing services and interracial meetings, and drew support from Mexican Americans and other minorities in Los Angeles, at a time when segregation was common.", "sources": ["sutton", "blumhofer"]},
+    {"text": "Took public political stands: she supported Prohibition and the teaching of creation rather than evolution in schools, campaigned against communism, and promoted Christian patriotism in the 1930s and during the Second World War.", "sources": ["sutton"]},
+    {"text": "Her career was marked by controversy: the unresolved 1926 disappearance, a public break with her mother and business partner Minnie Kennedy, lawsuits, a third marriage that her church opposed as remarriage after divorce, and her early death from a drug overdose.", "sources": ["sutton", "epstein"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "the Foursquare Gospel", "reference": "Her name for her message, from a 1922 sermon in Oakland based on Ezekiel's vision", "note": "She described Christ as Saviour, Baptizer, Healer, and Coming King.", "sources": ["blumhofer"]}
+    ]
+  },
+  "persecuted_others_note": "No record of McPherson supporting or carrying out persecution of anyone. She attacked evolution, communism, and liberal theology in sermons, and was later criticized for reports that Ku Klux Klan members attended her meetings in the early 1920s; she preached to them but there is no evidence she endorsed the Klan, and she held interracial services.",
+  "persecuted_others": [],
+  "persecution_note": "McPherson was never imprisoned. She faced a criminal prosecution over her 1926 disappearance, which was dropped, and hostile attacks from some clergy and newspapers. She also faced lawsuits and public ridicule.",
+  "persecution": [
+    {"year": 1926, "date": "July 1926 – January 1927", "title": "Prosecution over the 1926 disappearance", "summary": "After she reappeared saying she had been kidnapped and held in Mexico, Los Angeles prosecutors concluded she had staged it, possibly to spend time with her married radio engineer Kenneth Ormiston, and charged her, her mother, and others with conspiracy to obstruct justice and manufacturing evidence. A preliminary hearing sent the case to trial, but the district attorney dropped the charges. What really happened has never been established.", "responsible": [
+      {"name": "Asa Keyes", "role": "Los Angeles County district attorney who brought and then dropped the charges", "jurisdiction": "Los Angeles County, California", "type": "state"},
+      {"name": "Los Angeles County grand jury", "role": "Investigated the case", "jurisdiction": "Los Angeles County, California", "type": "state"}
+    ], "outcome": "Charges dismissed in January 1927; her reputation was damaged and the episode was mocked nationally.", "sources": ["sutton", "epstein"]},
+    {"year": 1926, "date": "1920s–1930s", "title": "Attacks by rival clergy and the press", "summary": "The Methodist preacher Robert 'Fighting Bob' Shuler and other Los Angeles clergy denounced her from the pulpit and on radio, and newspapers covered her private life intensely. This was opposition rather than persecution.", "responsible": [
+      {"name": "Robert P. Shuler", "role": "Methodist pastor and radio preacher", "jurisdiction": "Trinity Methodist Church, Los Angeles", "type": "individual"},
+      {"name": "Los Angeles newspapers", "role": "Sensational coverage", "jurisdiction": "Los Angeles", "type": "group"}
+    ], "outcome": "Her church kept growing despite the attacks.", "sources": ["sutton", "epstein"]}
+  ],
+  "excommunication_note": "McPherson was never excommunicated. She held ministerial credentials with the Assemblies of God from 1919 and returned them in 1922 amid disagreements over church property and control; she was also briefly licensed by a Baptist church. Neither was a disciplinary condemnation.",
+  "excommunications": [],
+  "sources": [
+    {"id": "mcpherson-this", "type": "primary", "citation": "Aimee Semple McPherson, This Is That: Personal Experiences, Sermons and Writings. Los Angeles: Bridal Call Publishing House, 1919 (rev. 1923)."},
+    {"id": "blumhofer", "type": "scholarly", "citation": "Edith L. Blumhofer, Aimee Semple McPherson: Everybody's Sister. Grand Rapids: Eerdmans, 1993."},
+    {"id": "sutton", "type": "scholarly", "citation": "Matthew Avery Sutton, Aimee Semple McPherson and the Resurrection of Christian America. Cambridge, MA: Harvard University Press, 2007."},
+    {"id": "epstein", "type": "scholarly", "citation": "Daniel Mark Epstein, Sister Aimee: The Life of Aimee Semple McPherson. New York: Harcourt Brace Jovanovich, 1993."},
+    {"id": "britannica", "type": "reference", "citation": "\"Aimee Semple McPherson.\" Encyclopaedia Britannica."}
+  ]
+}

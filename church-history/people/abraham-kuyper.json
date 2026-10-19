@@ -1,0 +1,59 @@
+{
+  "name": "Abraham Kuyper",
+  "slug": "abraham-kuyper",
+  "short_name": "Kuyper",
+  "era": "Modern",
+  "role": "Dutch Reformed theologian, journalist, founder of the Free University of Amsterdam, and prime minister of the Netherlands (1901–1905)",
+  "born": {"year": 1837, "date": "29 October 1837", "place": "Maassluis, Netherlands", "sources": ["bratt", "britannica"]},
+  "died": {"year": 1920, "date": "8 November 1920", "place": "The Hague, Netherlands", "cause": "Natural causes after a short illness in old age", "sources": ["bratt", "britannica"]},
+  "summary": "Pastor turned newspaper editor, party leader, university founder, and prime minister, who built a Calvinist movement that reshaped Dutch church and political life. He led the 1886 Doleantie split from the national Reformed church, taught 'sphere sovereignty' and 'common grace', and inspired neo-Calvinism worldwide. He also broke a railway strike with harsh laws as prime minister, and his writings on race and on Jews have been criticized; his influence on Afrikaner thought is debated.",
+  "key_dates": [
+    {"year": 1863, "label": "Doctorate at Leiden; becomes pastor at Beesd, where devout parishioners, notably Pietje Baltus, turn him toward orthodox Calvinism", "sources": ["bratt", "britannica"]},
+    {"year": 1870, "label": "Becomes a pastor in Amsterdam", "sources": ["bratt"]},
+    {"year": 1872, "label": "Founds the daily newspaper De Standaard, which he edits for nearly fifty years", "sources": ["bratt", "britannica"]},
+    {"year": 1874, "label": "Elected to the Dutch parliament (resigns his pastorate)", "sources": ["bratt"]},
+    {"year": 1879, "label": "Organizes the Anti-Revolutionary Party, the first modern Dutch political party", "sources": ["bratt", "britannica"]},
+    {"year": 1880, "label": "Founds the Free University of Amsterdam with his 'Sphere Sovereignty' address", "sources": ["kuyper-reader", "bratt"]},
+    {"year": 1886, "label": "Leads the Doleantie: suspended and deposed by the national Reformed church; in 1892 his churches unite with the Seceders as the Gereformeerde Kerken", "sources": ["bratt", "britannica"]},
+    {"year": 1898, "label": "Gives the Stone Lectures on Calvinism at Princeton", "sources": ["kuyper-lectures", "bratt"]},
+    {"year": 1901, "label": "Becomes prime minister (to 1905); breaks the 1903 railway strike with anti-strike laws", "sources": ["bratt", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Taught 'sphere sovereignty': that family, church, school, business, and state each have their own God-given authority, which the state must not absorb; and 'common grace', God's goodness to all people, which grounds Christian engagement in culture.", "sources": ["kuyper-reader", "bratt"]},
+    {"text": "Founded the Free University of Amsterdam (1880), independent of church and state, declaring that 'there is not a square inch in the whole domain of our human existence over which Christ... does not cry: Mine!'", "sources": ["kuyper-reader", "bratt"]},
+    {"text": "Built the Anti-Revolutionary Party and, with Catholics, won equal state funding for religious schools, a foundation of the Dutch system of 'pillarization'.", "sources": ["bratt", "britannica"]},
+    {"text": "Led the Doleantie (1886), a break from the national Netherlands Reformed Church over doctrine and church government, and united his churches with the earlier Seceders in 1892 to form the Reformed Churches in the Netherlands.", "sources": ["bratt", "britannica"]},
+    {"text": "His Stone Lectures (1898) presented Calvinism as a complete 'life-system', and his ideas shaped Reformed thinkers in the Netherlands, North America, and South Africa.", "sources": ["kuyper-lectures", "bratt"]},
+    {"text": "As prime minister (1901–1905) he passed social legislation but crushed the 1903 railway strike with laws banning strikes by railway and public workers, earning lasting hostility from the labour movement.", "sources": ["bratt", "britannica"]},
+    {"text": "Wrote about race in hierarchical terms common in his time, supported the Boer republics against Britain, and published antisemitic articles (1878); historians debate how far his ideas fed later Afrikaner apartheid theology.", "sources": ["bratt"]},
+    {"text": "Was investigated in 1909–10 over claims that he had accepted money in connection with royal honours (the 'Decorations Affair'); a committee found his conduct improper but not criminal.", "sources": ["bratt"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'", "reference": "'Sphere Sovereignty', inaugural address of the Free University, 20 October 1880", "sources": ["kuyper-reader", "bratt"]}
+    ]
+  },
+  "persecuted_others_note": "Kuyper did not persecute anyone for religion; he argued for freedom of conscience and for equal treatment of Catholic and Protestant schools. As prime minister he did use the law against striking workers, and his writings on Jews and on race have been criticized as prejudiced.",
+  "persecuted_others": [
+    {"year": 1903, "title": "Anti-strike laws during the railway strike", "targets": "Railway and other public-service workers and their unions", "involvement": "ordered", "summary": "When railway workers struck in early 1903, his government passed laws (called the 'strangling laws' by opponents) making strikes by railway and public employees a crime and calling in troops to guard the railways. The second, general strike collapsed and many strikers lost their jobs.", "outcome": "The strike failed; Kuyper's party lost the 1905 election.", "sources": ["bratt", "britannica"]},
+    {"year": 1878, "title": "Antisemitic newspaper articles", "targets": "Dutch Jews", "involvement": "advocated", "summary": "In a series of articles in De Standaard (1878), titled 'Liberalists and Jews', he portrayed Jews as a foreign influence aligned with liberalism and argued against their influence in public life. He did not call for legal measures against them, and he opposed some later forms of antisemitism.", "sources": ["bratt"]}
+  ],
+  "persecution_note": "Kuyper was never imprisoned. As a church leader he was suspended and deposed by the national Reformed church in the Doleantie, and he faced political attacks and a parliamentary investigation.",
+  "persecution": [
+    {"year": 1886, "title": "Suspension and deposition in the Doleantie", "summary": "When the Amsterdam consistory, led by Kuyper, refused to admit members who did not hold to Reformed doctrine and changed control of church property to resist the national synod, the classical board suspended Kuyper and about eighty consistory members (January 1886) and later deposed them. Kuyper's supporters had sawed through a panel to enter the locked consistory room, which became a symbol of the dispute.", "responsible": [
+      {"name": "Classical board of Amsterdam", "role": "Suspended the consistory members", "jurisdiction": "Netherlands Reformed Church (Nederlandse Hervormde Kerk)", "type": "church"},
+      {"name": "Provincial church board of North Holland and the national synod", "role": "Confirmed the depositions", "jurisdiction": "Netherlands Reformed Church", "type": "church"}
+    ], "outcome": "About 200 congregations left with him to form the Doleantie churches.", "sources": ["bratt", "britannica"]}
+  ],
+  "excommunication_note": "Kuyper was deposed from church office by the Netherlands Reformed Church in 1886, but not excommunicated as a heretic. He then led his own churches out of that body.",
+  "excommunications": [
+    {"date": "1886", "by": "Boards of the Netherlands Reformed Church (Amsterdam classis and North Holland provincial board)", "authority": "Netherlands Reformed Church", "reason": "Deposed as an elder for resisting church authority in the Amsterdam consistory dispute", "status": "Never reversed; he left to form the Reformed Churches in the Netherlands", "sources": ["bratt"]}
+  ],
+  "sources": [
+    {"id": "kuyper-lectures", "type": "primary", "citation": "Abraham Kuyper, Lectures on Calvinism (the Stone Lectures, 1898). Grand Rapids: Eerdmans, 1931 and later reprints."},
+    {"id": "kuyper-reader", "type": "primary", "citation": "James D. Bratt, ed., Abraham Kuyper: A Centennial Reader. Grand Rapids: Eerdmans, 1998."},
+    {"id": "bratt", "type": "scholarly", "citation": "James D. Bratt, Abraham Kuyper: Modern Calvinist, Christian Democrat. Grand Rapids: Eerdmans, 2013."},
+    {"id": "britannica", "type": "reference", "citation": "\"Abraham Kuyper.\" Encyclopaedia Britannica."}
+  ]
+}

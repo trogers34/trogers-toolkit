@@ -35,7 +35,7 @@
   "participants": [
     {"name": "John Calvin", "role": "Reformer whose theology the churches follow", "person": "john-calvin"},
     {"name": "Guido de Brès", "role": "Author of the Belgic Confession; executed 1567"},
-    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie and later prime minister"},
+    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie and later prime minister", "person": "abraham-kuyper"},
     {"name": "Klaas Schilder", "role": "Leader of the 1944 Liberation"}
   ],
   "outcomes": [

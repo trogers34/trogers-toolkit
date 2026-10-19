@@ -16,7 +16,7 @@
     {"text": "Kuyper and others were deposed; some 200 congregations and about 180,000 people followed into the 'grieving' (doleerende) churches.", "sources": ["bratt-kuyper", "britannica"]}
   ],
   "participants": [
-    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie; later prime minister (1901–05)"},
+    {"name": "Abraham Kuyper", "role": "Leader of the Doleantie; later prime minister (1901–05)", "person": "abraham-kuyper"},
     {"name": "Herman Bavinck", "role": "Seceder theologian who helped unite the churches in 1892"}
   ],
   "outcomes": [

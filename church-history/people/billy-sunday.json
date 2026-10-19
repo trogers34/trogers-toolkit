@@ -1,0 +1,55 @@
+{
+  "name": "Billy Sunday",
+  "slug": "billy-sunday",
+  "short_name": "Sunday",
+  "also_known_as": "William Ashley Sunday",
+  "era": "Modern",
+  "role": "Professional baseball player turned evangelist; leading American revivalist and Prohibition campaigner",
+  "born": {"year": 1862, "date": "19 November 1862", "place": "Near Ames, Story County, Iowa", "sources": ["dorsett", "britannica"]},
+  "died": {"year": 1935, "date": "6 November 1935", "place": "Chicago, Illinois", "cause": "Heart attack", "sources": ["martin", "britannica"]},
+  "summary": "A former Chicago White Stockings outfielder who became the most famous American evangelist of the early 1900s. His athletic, slang-filled preaching drew millions to temporary wooden 'tabernacles', and he was a leading voice for Prohibition. He also preached fierce wartime attacks on Germans and pacifists, and his popularity faded in the 1920s amid changing tastes and troubles in his family.",
+  "key_dates": [
+    {"year": 1883, "label": "Joins the Chicago White Stockings as an outfielder, known for his speed", "sources": ["dorsett", "britannica"]},
+    {"year": 1886, "label": "Converted after hearing a gospel team from the Pacific Garden Mission in Chicago", "sources": ["dorsett", "mcloughlin"]},
+    {"year": 1891, "label": "Leaves professional baseball for full-time work with the Chicago YMCA", "sources": ["dorsett", "martin"]},
+    {"year": 1893, "label": "Becomes advance man and assistant to the evangelist J. Wilbur Chapman", "sources": ["dorsett", "mcloughlin"]},
+    {"year": 1896, "label": "Holds his first revival of his own, in Garner, Iowa", "sources": ["dorsett", "martin"]},
+    {"year": 1903, "label": "Ordained a Presbyterian minister by the Presbytery of Chicago", "sources": ["dorsett", "britannica"]},
+    {"year": 1917, "label": "Ten-week New York City campaign draws more than a million people; preaches strongly for the war against Germany", "sources": ["mcloughlin", "martin"]},
+    {"year": 1919, "label": "National Prohibition (the Eighteenth Amendment) is ratified, which he had campaigned for", "sources": ["martin", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Became the most popular American evangelist of the 1900s and 1910s: his campaigns in large cities are estimated to have drawn tens of millions of listeners, and about a million people 'hit the sawdust trail' to make public commitments.", "sources": ["mcloughlin", "britannica"]},
+    {"text": "Developed a theatrical preaching style, sliding, shouting, and acting out stories on the platform, with slang and baseball images that appealed to working men.", "sources": ["dorsett", "martin"]},
+    {"text": "Organized large, businesslike campaigns with temporary wooden 'tabernacles', advance teams, cooperation from local churches, and the song leader Homer Rodeheaver; his wife Helen 'Ma' Sunday managed the organization.", "sources": ["dorsett", "martin"]},
+    {"text": "Was one of the most effective campaigners for Prohibition; his 'booze sermon' was preached hundreds of times and is credited with helping several states go 'dry' before national Prohibition (1919).", "sources": ["martin", "mcloughlin"]},
+    {"text": "Defended traditional Protestant teaching against liberal theology and evolution, and supported Fundamentalists in the 1920s.", "sources": ["martin", "dorsett"]},
+    {"text": "During the First World War he preached intense patriotism and hostility to Germany, sold war bonds, and attacked pacifists and German Americans he saw as disloyal.", "sources": ["mcloughlin", "martin"]},
+    {"text": "His meetings were usually racially segregated, particularly in the South, and in the 1920s he accepted donations from Ku Klux Klan groups at some meetings; he also spoke against lynching on occasion. Historians debate how far he shared the Klan's views.", "sources": ["martin", "dorsett"]},
+    {"text": "Was criticized in his lifetime for the large freewill offerings he received and for his showmanship; writers such as Carl Sandburg and Sinclair Lewis satirized revivalists like him.", "sources": ["mcloughlin", "martin"]}
+  ],
+  "sayings_intro": "A selection. Many lines credited to Sunday come from newspaper reports of his sermons and vary in wording.",
+  "sayings": {
+    "original": [
+      {"phrase": "If you turn hell upside down, you will find 'Made in Germany' stamped on the bottom", "reference": "Wartime sermons, 1917–1918, as reported in the press", "sources": ["mcloughlin", "martin"]},
+      {"phrase": "I'm against the saloon, and I'll fight it as long as I've got a foot to kick with", "reference": "Variants in his 'booze sermon' (from c. 1908)", "note": "Wording differs between reports.", "sources": ["martin"]}
+    ],
+    "misattributed": [
+      {"phrase": "Going to church doesn't make you a Christian any more than going to a garage makes you an automobile", "reference": "Widely credited to him", "note": "Not found in reliable records of his sermons; its origin is uncertain.", "sources": ["martin"]}
+    ]
+  },
+  "persecuted_others_note": "Sunday never held office or ordered anyone punished. He did, however, use his pulpit during the First World War to call for harsh treatment of people he considered disloyal, and he attacked immigrants, socialists, and later the IWW in strong language. He also supported laws against alcohol, which he did not see as persecution.",
+  "persecuted_others": [
+    {"year": 1917, "date": "1917–1918", "title": "Wartime calls for harsh treatment of 'traitors' and pacifists", "targets": "German Americans, pacifists, socialists, and others accused of disloyalty", "involvement": "advocated", "summary": "In sermons during the First World War he denounced Germans and German Americans in extreme terms and called for disloyal people and wartime opponents to be treated as traitors, at a time when federal and local authorities were prosecuting dissenters and mobs were attacking German Americans. He was one of many public figures who encouraged this climate.", "sources": ["mcloughlin", "martin"]}
+  ],
+  "persecution_note": "Sunday was never arrested or tried. He faced ridicule from journalists and writers, and opposition from liquor interests and from ministers who disliked his methods, but nothing that amounted to persecution.",
+  "persecution": [],
+  "excommunication_note": "Sunday was never excommunicated or disciplined by his church. He remained an ordained Presbyterian minister until his death.",
+  "excommunications": [],
+  "sources": [
+    {"id": "mcloughlin", "type": "scholarly", "citation": "William G. McLoughlin Jr., Billy Sunday Was His Real Name. Chicago: University of Chicago Press, 1955."},
+    {"id": "dorsett", "type": "scholarly", "citation": "Lyle W. Dorsett, Billy Sunday and the Redemption of Urban America. Grand Rapids: Eerdmans, 1991."},
+    {"id": "martin", "type": "scholarly", "citation": "Robert F. Martin, Hero of the Heartland: Billy Sunday and the Transformation of American Society, 1862–1935. Bloomington: Indiana University Press, 2002."},
+    {"id": "britannica", "type": "reference", "citation": "\"Billy Sunday.\" Encyclopaedia Britannica."}
+  ]
+}

@@ -133,6 +133,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - William of Ockham (`william-of-ockham`)
 - John Wycliffe (`john-wycliffe`)
 - Jan Hus (`jan-hus`)
+- Jerome of Prague (`jerome-of-prague`)
 - John Oldcastle (`john-oldcastle`)
 
 **Reformation**
@@ -345,7 +346,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Johann von Staupitz (Luther's superior and confessor; Wittenberg; released Luther from his vow at
+- Jerome of Prague (Wycliffe's writings to Prague, Hus's ally; Vienna arrest 1410; arrested 1415, recanted,
+  withdrew it, burned at Constance 1416; alleged attacks on friars). Linked from Constance. 70 people, 56 events.
+- **PR #94**: Johann von Staupitz (Luther's superior and confessor; Wittenberg; released Luther from his vow at
   Augsburg 1518; resigned 1520, submitted to Rome, died a Benedictine abbot). 69 people, 56 events.
 - **PR #93**: Maximus the Greek (Athonite monk in Moscow from 1518: translations, Non-possessors; tried 1525 and 1531,
   imprisoned and barred from communion, never allowed home; canonized 1988). 68 people, 56 events.

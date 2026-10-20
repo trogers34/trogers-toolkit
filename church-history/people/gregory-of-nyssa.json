@@ -1,0 +1,54 @@
+{
+  "name": "Gregory of Nyssa",
+  "slug": "gregory-of-nyssa",
+  "short_name": "Gregory",
+  "also_known_as": "Saint Gregory of Nyssa; one of the Cappadocian Fathers",
+  "era": "Early Church",
+  "role": "Bishop of Nyssa, theologian, and mystical writer; younger brother of Basil the Great",
+  "born": {"year": 335, "circa": true, "date": "c. 335", "place": "Probably Caesarea in Cappadocia (or the family estates in Pontus)", "sources": ["meredith", "britannica"]},
+  "died": {"year": 395, "circa": true, "date": "c. 395 (after 394)", "place": "Probably Nyssa, Cappadocia", "cause": "Unknown; probably natural causes", "sources": ["meredith", "britannica"]},
+  "summary": "The most philosophically daring of the Cappadocian Fathers, who with his brother Basil and his friend Gregory of Nazianzus shaped the doctrine of the Trinity confirmed at the Council of Constantinople (381). He wrote on the infinity of God, on the spiritual life as endless growth, and against slavery; he also hoped for the final restoration of all creatures to God. He was deposed and exiled under the emperor Valens before becoming a leading bishop under Theodosius.",
+  "key_dates": [
+    {"year": 371, "circa": true, "label": "Writes On Virginity; he may himself have been married (to Theosebia, a debated identification)", "sources": ["meredith", "npnf"]},
+    {"year": 372, "label": "Made bishop of Nyssa by his brother Basil", "sources": ["meredith", "basil-letters"]},
+    {"year": 376, "label": "Deposed by a synod of Homoian (anti-Nicene) bishops and exiled; returns after Valens's death (378)", "sources": ["basil-letters", "meredith"]},
+    {"year": 379, "label": "Basil dies; Gregory is at his sister Macrina's deathbed and later writes her Life and On the Soul and the Resurrection", "sources": ["corrigan", "meredith"]},
+    {"year": 380, "label": "Briefly bishop of Sebaste; writes Against Eunomius (c. 380–383)", "sources": ["meredith", "npnf"]},
+    {"year": 381, "label": "Takes part in the Council of Constantinople; named by Theodosius as one of the bishops whose communion marked orthodoxy", "sources": ["meredith", "britannica"]},
+    {"year": 385, "circa": true, "label": "Writes the Catechetical Oration and preaches funeral orations for the imperial family", "sources": ["npnf", "meredith"]},
+    {"year": 390, "circa": true, "label": "Writes the Life of Moses and Homilies on the Song of Songs", "sources": ["malherbe", "meredith"]}
+  ],
+  "accomplishments": [
+    {"text": "Helped define the doctrine of the Trinity as one divine nature in three persons, defending the full divinity of the Son and the Holy Spirit against Eunomius and in works such as On Not Three Gods.", "sources": ["npnf", "meredith"]},
+    {"text": "Taught that God is infinite and beyond all concepts, and that the soul's journey into God is endless growth (epektasis), most fully in the Life of Moses and the Homilies on the Song of Songs; this shaped Eastern and Western mysticism.", "sources": ["malherbe", "meredith"]},
+    {"text": "In his fourth homily on Ecclesiastes he condemned the owning of human beings outright, one of the earliest and strongest rejections of slavery as such by any ancient writer.", "sources": ["npnf", "meredith"]},
+    {"text": "Wrote the Life of Macrina, honouring his sister as his teacher in the ascetic life, and On the Soul and the Resurrection, a dialogue with her at her deathbed.", "sources": ["corrigan", "meredith"]},
+    {"text": "Wrote the Catechetical Oration, an early systematic presentation of Christian doctrine for teachers, and On the Making of Man (379), on human nature as the image of God.", "sources": ["npnf", "britannica"]},
+    {"text": "Hoped for the final restoration of all rational beings, including the wicked, to God (apokatastasis), following Origen; later critics found this troubling, but he was never condemned for it, and the Second Council of Nicaea (787) honoured him as 'father of fathers'.", "sources": ["meredith", "britannica"]},
+    {"text": "Criticized the growing fashion for pilgrimage to Jerusalem in a letter that later Protestants often quoted.", "sources": ["npnf", "meredith"]}
+  ],
+  "persecuted_others_note": "No record of Gregory ordering or carrying out persecution. He wrote sharp polemics against Eunomius and other opponents. Theodosius's 381 edict, which named Gregory as a test of orthodox communion, was used to hand churches of the anti-Nicene party to Nicene bishops; there is no record of Gregory's own part in enforcing it.",
+  "persecuted_others": [],
+  "persecution_note": "Gregory was deposed, arrested, and exiled under the pro-Homoian emperor Valens, as part of the campaign against Nicene bishops.",
+  "persecution": [
+    {"year": 376, "date": "375–378", "title": "Arrest, deposition, and exile", "summary": "Demosthenes, vicar of the diocese of Pontus, acting with Homoian bishops, had Gregory arrested on charges of misusing church funds and irregular ordination. He escaped from his guards, was deposed in absence by a synod at Nyssa, and lived in hiding or exile until Valens's death in 378. His brother Basil protested the charges in his letters.", "responsible": [
+      {"name": "Demosthenes", "role": "Vicar of the civil diocese of Pontus", "jurisdiction": "Roman Empire", "type": "state"},
+      {"name": "Synod of Homoian bishops at Nyssa", "role": "Deposed him", "jurisdiction": "Bishops of the Homoian (anti-Nicene) party", "type": "church"},
+      {"name": "Valens", "role": "Emperor whose policy favoured the Homoians", "jurisdiction": "Eastern Roman Empire", "type": "state"}
+    ], "defended_by": [
+      {"name": "Basil of Caesarea", "role": "His brother, who protested the charges"}
+    ], "outcome": "Returned to Nyssa in 378 to popular welcome.", "sources": ["basil-letters", "meredith"]}
+  ],
+  "excommunication_note": "He was deposed in 376 by a synod of the anti-Nicene party, a sentence reversed when he returned in 378. He was never condemned by any council recognized by the Catholic or Orthodox churches, which honour him as a saint.",
+  "excommunications": [
+    {"date": "376", "by": "Synod of Homoian bishops at Nyssa", "authority": "Regional synod under imperial pressure", "reason": "Deposed on charges of misusing funds and irregular ordination, as part of Valens's campaign against Nicene bishops", "status": "Reversed in practice: restored to his see in 378", "sources": ["basil-letters", "meredith"]}
+  ],
+  "sources": [
+    {"id": "npnf", "type": "primary", "citation": "Gregory of Nyssa: Dogmatic Treatises, etc., trans. William Moore and Henry Austin Wilson. Nicene and Post-Nicene Fathers, 2nd series, vol. 5. 1893."},
+    {"id": "malherbe", "type": "primary", "citation": "Gregory of Nyssa, The Life of Moses, trans. Abraham J. Malherbe and Everett Ferguson. New York: Paulist Press, 1978."},
+    {"id": "corrigan", "type": "primary", "citation": "Gregory of Nyssa, The Life of Saint Macrina, trans. Kevin Corrigan. Toronto: Peregrina, 1987."},
+    {"id": "basil-letters", "type": "primary", "citation": "Basil of Caesarea, Letters, trans. Roy J. Deferrari, 4 vols. Loeb Classical Library, 1926–1934."},
+    {"id": "meredith", "type": "scholarly", "citation": "Anthony Meredith, Gregory of Nyssa. London: Routledge, 1999."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Gregory of Nyssa.\" Encyclopaedia Britannica."}
+  ]
+}

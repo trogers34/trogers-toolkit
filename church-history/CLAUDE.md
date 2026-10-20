@@ -117,6 +117,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - John Chrysostom (`john-chrysostom`)
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
 - Basil of Caesarea (`basil-of-caesarea`): the user wrote "Basil"; Basil the Great was assumed
+- Gregory of Nyssa (`gregory-of-nyssa`): the user wrote "Gregory of nissa"
 - Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
@@ -351,7 +352,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- J. Vernon McGee (Church of the Open Door, Thru the Bible radio; no persecution or excommunication recorded).
+- Gregory of Nyssa (Trinity, Life of Moses, condemnation of slavery, apokatastasis; deposed and exiled
+  under Valens 376–378). Linked from Constantinople I. 76 people, 56 events.
+- **PR #100**: J. Vernon McGee (Church of the Open Door, Thru the Bible radio; no persecution or excommunication recorded).
   75 people, 56 events.
 - **PR #99**: Abraham Kuyper (the user wrote "Kuiper"; sphere sovereignty, Free University, Anti-Revolutionary Party,
   Doleantie deposition 1886, prime minister; 1903 anti-strike laws, 1878 antisemitic articles). Linked from

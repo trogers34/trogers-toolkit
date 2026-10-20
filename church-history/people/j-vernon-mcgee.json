@@ -1,0 +1,43 @@
+{
+  "name": "J. Vernon McGee",
+  "slug": "j-vernon-mcgee",
+  "short_name": "McGee",
+  "also_known_as": "John Vernon McGee",
+  "era": "Modern",
+  "role": "Presbyterian pastor and radio Bible teacher; host of Thru the Bible",
+  "born": {"year": 1904, "date": "17 June 1904", "place": "Hillsboro, Texas", "sources": ["latimes", "ttb"]},
+  "died": {"year": 1988, "date": "1 December 1988", "place": "Pasadena, California", "cause": "Heart failure, after years of heart trouble", "sources": ["latimes"]},
+  "summary": "A Texas-born Presbyterian minister who pastored the Church of the Open Door in Los Angeles and became one of the best-known radio Bible teachers in the world. His Thru the Bible programme took listeners through the whole Bible in five years, in a folksy Southern style, and has been translated and broadcast in more than a hundred languages since his death.",
+  "key_dates": [
+    {"year": 1933, "label": "Ordained in the Presbyterian Church in the U.S.; marries Ruth Jordan", "sources": ["latimes", "ttb"]},
+    {"year": 1940, "label": "Earns a doctorate (Th.D.) at Dallas Theological Seminary; becomes pastor of Lincoln Avenue Presbyterian Church, Pasadena", "sources": ["latimes"]},
+    {"year": 1949, "label": "Becomes pastor of the Church of the Open Door, Los Angeles (to 1970)", "sources": ["latimes", "ttb"]},
+    {"year": 1965, "label": "Undergoes treatment for cancer and recovers", "sources": ["latimes"]},
+    {"year": 1967, "label": "Begins the five-year Thru the Bible radio programme", "sources": ["ttb", "latimes"]},
+    {"year": 1970, "label": "Retires from the pastorate to concentrate on radio teaching", "sources": ["latimes"]}
+  ],
+  "accomplishments": [
+    {"text": "Created Thru the Bible, a radio course that covered the entire Bible in five years of daily half-hour programmes; it was rebroadcast after his death and translated into more than a hundred languages.", "sources": ["ttb", "latimes"]},
+    {"text": "Pastored the Church of the Open Door in Los Angeles, a large independent fundamentalist church linked with the Bible Institute of Los Angeles (Biola), for over twenty years.", "sources": ["latimes"]},
+    {"text": "Taught a plain, verse-by-verse style with homespun humour and a strong Texas accent, aimed at ordinary listeners rather than scholars.", "sources": ["ttb", "latimes"]},
+    {"text": "Held dispensational, premillennial views typical of Dallas Theological Seminary, which shaped his teaching on prophecy and Israel.", "sources": ["ttb"]},
+    {"text": "His radio talks were published as a five-volume Thru the Bible commentary (1981–1983).", "sources": ["ttb"]},
+    {"text": "Grew up poor; his father was killed in an accident when he was a teenager, and he worked to pay for his education.", "sources": ["latimes"]}
+  ],
+  "sayings_intro": "A selection. Many quotations circulate online without a known source.",
+  "sayings": {
+    "original": [
+      {"phrase": "Thru the Bible", "reference": "Title of his radio programme and commentary", "sources": ["ttb"]}
+    ]
+  },
+  "persecuted_others_note": "No record of J. Vernon McGee supporting or carrying out persecution of anyone. He criticized liberal theology and some other movements from the pulpit and on the radio, but did not call for action against anyone.",
+  "persecuted_others": [],
+  "persecution_note": "McGee was never arrested or persecuted. No significant public opposition beyond theological disagreement is recorded.",
+  "persecution": [],
+  "excommunication_note": "McGee was never excommunicated or disciplined by any church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "ttb", "type": "primary", "citation": "J. Vernon McGee, Thru the Bible with J. Vernon McGee, 5 vols. Nashville: Thomas Nelson, 1981–1983."},
+    {"id": "latimes", "type": "reference", "citation": "Obituary of J. Vernon McGee, Los Angeles Times, December 1988."}
+  ]
+}

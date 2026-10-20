@@ -176,6 +176,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Aimee Semple McPherson (`aimee-semple-mcpherson`): the user wrote "Amy Semple McPhearson"
 - Dietrich Bonhoeffer (`dietrich-bonhoeffer`)
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
+- J. Vernon McGee (`j-vernon-mcgee`): sourcing thinner than usual (his own commentary and an obituary)
 - Kathryn Kuhlman (`kathryn-kuhlman`)
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
@@ -350,7 +351,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Abraham Kuyper (the user wrote "Kuiper"; sphere sovereignty, Free University, Anti-Revolutionary Party,
+- J. Vernon McGee (Church of the Open Door, Thru the Bible radio; no persecution or excommunication recorded).
+  75 people, 56 events.
+- **PR #99**: Abraham Kuyper (the user wrote "Kuiper"; sphere sovereignty, Free University, Anti-Revolutionary Party,
   Doleantie deposition 1886, prime minister; 1903 anti-strike laws, 1878 antisemitic articles). Linked from
   the Doleantie and Dutch Reformed histories. 74 people, 56 events.
 - **PR #98**: Kathryn Kuhlman (miracle services in Pittsburgh and LA, TV show, charismatic bridge; Waltrip marriage,

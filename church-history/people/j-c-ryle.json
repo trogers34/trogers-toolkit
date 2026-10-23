@@ -1,0 +1,44 @@
+{
+  "name": "J. C. Ryle",
+  "slug": "j-c-ryle",
+  "short_name": "Ryle",
+  "also_known_as": "John Charles Ryle",
+  "era": "Modern",
+  "role": "Evangelical Anglican clergyman, writer, and first Bishop of Liverpool (1880–1900)",
+  "born": {"year": 1816, "date": "10 May 1816", "place": "Macclesfield, Cheshire, England", "sources": ["autobiography", "murray"]},
+  "died": {"year": 1900, "date": "10 June 1900", "place": "Lowestoft, Suffolk, England", "cause": "Natural causes in old age, months after resigning his see because of failing health", "sources": ["murray", "odnb"]},
+  "summary": "A leading voice of evangelical Anglicanism in Victorian England, known for plain, forceful writing such as Holiness and the Expository Thoughts on the Gospels. After his family's bank collapsed he became a country parson in Suffolk for nearly forty years, then the first Bishop of Liverpool. He was a strong opponent of Anglo-Catholic ritualism, and in his diocese a ritualist priest was prosecuted and briefly jailed.",
+  "key_dates": [
+    {"year": 1841, "label": "His father's bank fails, ruining the family and ending his expected career in politics and business", "sources": ["autobiography", "murray"]},
+    {"year": 1842, "label": "Ordained in the Church of England; curate at Exbury, Hampshire", "sources": ["autobiography", "murray"]},
+    {"year": 1844, "label": "Becomes rector of Helmingham, Suffolk (to 1861)", "sources": ["murray", "russell"]},
+    {"year": 1856, "label": "Begins publishing Expository Thoughts on the Gospels (to 1873)", "sources": ["murray"]},
+    {"year": 1861, "label": "Becomes vicar of Stradbroke, Suffolk (to 1880)", "sources": ["murray", "russell"]},
+    {"year": 1877, "label": "Publishes Holiness (enlarged 1879)", "sources": ["ryle-holiness", "murray"]},
+    {"year": 1880, "label": "Consecrated first Bishop of the new Diocese of Liverpool", "sources": ["murray", "odnb"]},
+    {"year": 1900, "label": "Resigns as bishop (March) and dies three months later", "sources": ["murray", "odnb"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote Holiness (1877–79), a defence of Reformed teaching on sanctification against the 'higher life' (Keswick) movement, which remains one of the most widely read books on the Christian life.", "sources": ["ryle-holiness", "murray"]},
+    {"text": "Wrote Expository Thoughts on the Gospels (1856–1873), plain devotional commentaries for family reading, and hundreds of popular tracts that sold in the millions.", "sources": ["murray", "russell"]},
+    {"text": "Wrote Knots Untied (1874) and Christian Leaders of the Last Century (1869), defending evangelical Anglican teaching and recalling the eighteenth-century revival leaders.", "sources": ["murray", "odnb"]},
+    {"text": "As the first Bishop of Liverpool he put money into more clergy, mission halls, and a clergy pension fund rather than building a cathedral, a choice that drew criticism.", "sources": ["murray", "odnb"]},
+    {"text": "Led the evangelical party in the Church of England against Anglo-Catholic ritualism, while urging evangelicals to stay in the established church and take part in its councils.", "sources": ["murray", "russell"]},
+    {"text": "Was widowed twice and lost his third wife in 1889; he raised several children, among them Herbert Edward Ryle, who became Bishop of Winchester and Dean of Westminster.", "sources": ["autobiography", "murray"]}
+  ],
+  "persecuted_others_note": "Ryle did not prosecute anyone himself, but as Bishop of Liverpool he allowed a prosecution of a ritualist priest under the Public Worship Regulation Act to go ahead when he had the power to stop it. He supported legal limits on ritual while saying he regretted imprisonment.",
+  "persecuted_others": [
+    {"year": 1885, "date": "1885–1887", "title": "Prosecution of the ritualist priest James Bell Cox", "targets": "James Bell Cox, vicar of St Margaret's, Princes Road, Liverpool, and his Anglo-Catholic congregation", "involvement": "approved", "summary": "Members of the Church Association brought a case against Bell Cox under the Public Worship Regulation Act (1874) for using ritual practices the courts had banned. Under the Act the bishop could veto proceedings; Ryle did not. Bell Cox refused to obey the court and was jailed in Walton prison in 1887 for about two weeks before being released on a legal technicality.", "outcome": "Bell Cox was released and continued at St Margaret's; the case damaged the reputation of the Act.", "sources": ["murray", "odnb"]}
+  ],
+  "persecution_note": "Ryle was never persecuted. Anglo-Catholics and others criticized him sharply, and his decisions as bishop were attacked in the church press, but this was opposition, not persecution.",
+  "persecution": [],
+  "excommunication_note": "Ryle was never excommunicated or disciplined by any church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "autobiography", "type": "primary", "citation": "J. C. Ryle, The Autobiography of J. C. Ryle, ed. Andrew Atherstone. Edinburgh: Banner of Truth, 2016."},
+    {"id": "ryle-holiness", "type": "primary", "citation": "J. C. Ryle, Holiness: Its Nature, Hindrances, Difficulties, and Roots. London: William Hunt, 1877 (enlarged 1879)."},
+    {"id": "murray", "type": "scholarly", "citation": "Iain H. Murray, J. C. Ryle: Prepared to Stand Alone. Edinburgh: Banner of Truth, 2016."},
+    {"id": "russell", "type": "scholarly", "citation": "Eric Russell, That Man of Granite with the Heart of a Child: A New Biography of J. C. Ryle. Fearn: Christian Focus, 2001."},
+    {"id": "odnb", "type": "reference", "citation": "\"Ryle, John Charles (1816–1900).\" Oxford Dictionary of National Biography."}
+  ]
+}

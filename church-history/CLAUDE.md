@@ -170,6 +170,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - William Carey (`william-carey`)
 - Charles Finney (`charles-finney`)
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
+- J. C. Ryle (`j-c-ryle`): the user wrote "JC Ryle"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
 - Abraham Kuyper (`abraham-kuyper`): the user wrote "Kuiper"
 - Billy Sunday (`billy-sunday`)
@@ -352,7 +353,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Gregory of Nyssa (Trinity, Life of Moses, condemnation of slavery, apokatastasis; deposed and exiled
+- J. C. Ryle (Holiness, Expository Thoughts, first Bishop of Liverpool; let the 1885–87 prosecution of the
+  ritualist James Bell Cox proceed). 77 people, 56 events.
+- **PR #101**: Gregory of Nyssa (Trinity, Life of Moses, condemnation of slavery, apokatastasis; deposed and exiled
   under Valens 376–378). Linked from Constantinople I. 76 people, 56 events.
 - **PR #100**: J. Vernon McGee (Church of the Open Door, Thru the Bible radio; no persecution or excommunication recorded).
   75 people, 56 events.

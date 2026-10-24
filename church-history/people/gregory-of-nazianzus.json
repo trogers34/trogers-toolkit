@@ -1,0 +1,62 @@
+{
+  "name": "Gregory of Nazianzus",
+  "slug": "gregory-of-nazianzus",
+  "short_name": "Gregory",
+  "also_known_as": "Gregory the Theologian; Gregory Nazianzen; one of the Cappadocian Fathers",
+  "era": "Early Church",
+  "role": "Theologian, poet, and briefly bishop of Constantinople; friend of Basil the Great",
+  "born": {"year": 329, "circa": true, "date": "c. 329", "place": "Arianzus, near Nazianzus, Cappadocia", "sources": ["mcguckin", "britannica"]},
+  "died": {"year": 390, "circa": true, "date": "c. 390 (traditionally 25 January)", "place": "Arianzus, Cappadocia", "cause": "Natural causes after years of ill health", "sources": ["mcguckin", "britannica"]},
+  "summary": "The orator of the Cappadocian Fathers, whose Five Theological Orations (380), preached in Constantinople, gave classic form to the doctrine of the Trinity and earned him the title 'the Theologian' in the Eastern church. A reluctant churchman who loved solitude and literature, he was ordained against his will, attacked by opponents in Constantinople, made bishop there with imperial backing, and forced to resign during the Council of Constantinople in 381.",
+  "key_dates": [
+    {"year": 350, "circa": true, "label": "Studies at Athens (c. 350–358) with Basil; also meets the future emperor Julian", "sources": ["mcguckin", "daley"]},
+    {"year": 361, "circa": true, "label": "Ordained priest against his will by his father, bishop of Nazianzus; flees to Basil, then returns and writes his defence (Oration 2)", "sources": ["npnf", "mcguckin"]},
+    {"year": 372, "label": "Consecrated by Basil as bishop of Sasima, a post he never takes up, straining their friendship", "sources": ["white", "mcguckin"]},
+    {"year": 379, "label": "Called to Constantinople to lead its small Nicene congregation at the Anastasia chapel", "sources": ["white", "mcguckin"]},
+    {"year": 380, "label": "Preaches the Five Theological Orations; installed as bishop of Constantinople by Emperor Theodosius (November)", "sources": ["npnf", "mcguckin"]},
+    {"year": 381, "label": "Presides over the Council of Constantinople after Meletius dies, then resigns amid opposition and gives a farewell oration", "sources": ["npnf", "mcguckin"]},
+    {"year": 382, "circa": true, "label": "Retires to Cappadocia and writes his autobiographical poems, including On His Own Life", "sources": ["white", "daley"]}
+  ],
+  "accomplishments": [
+    {"text": "Defined the doctrine of the Trinity in the Five Theological Orations (380), defending the full divinity of the Son and especially of the Holy Spirit; the Eastern church calls him 'the Theologian' for them.", "sources": ["npnf", "daley"]},
+    {"text": "Argued against Apollinarius that Christ had a full human mind and soul, in the principle that 'what has not been assumed has not been healed'.", "sources": ["npnf", "mcguckin"]},
+    {"text": "Rebuilt the Nicene community in Constantinople from a house chapel, the Anastasia, before the city's churches were handed over to the Nicenes by Theodosius.", "sources": ["mcguckin", "britannica"]},
+    {"text": "Wrote some 17,000 lines of poetry, including the autobiographical On His Own Life, and many letters; he is one of the great Greek stylists of late antiquity.", "sources": ["white", "daley"]},
+    {"text": "Compiled with Basil the Philokalia, an anthology of Origen's writings.", "sources": ["mcguckin", "britannica"]},
+    {"text": "Preached on care for the poor and the sick, especially lepers, in his oration On Love for the Poor (Oration 14).", "sources": ["npnf", "daley"]},
+    {"text": "Wrote two bitter invectives against the emperor Julian after his death (Orations 4–5).", "sources": ["npnf", "mcguckin"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "What has not been assumed has not been healed", "reference": "Letter 101, to Cledonius, against Apollinarius", "sources": ["npnf", "mcguckin"]}
+    ]
+  },
+  "persecuted_others_note": "Gregory did not order violence, but his installation as bishop of Constantinople was part of Theodosius's expulsion of the anti-Nicene clergy from the city's churches, and he later asked the authorities to stop the Apollinarians from holding meetings. He also wrote fierce invectives against Julian and against Arian opponents.",
+  "persecuted_others": [
+    {"year": 380, "date": "November 380", "title": "Installed in the cathedral after the expulsion of the Homoian clergy", "targets": "Bishop Demophilus and the Homoian (anti-Nicene) clergy and congregations of Constantinople", "involvement": "took_part", "summary": "When Theodosius ordered the Homoian bishop Demophilus to accept the Nicene creed or leave, Demophilus left, and Theodosius led Gregory into the Church of the Holy Apostles under armed guard. Gregory describes the tense scene in On His Own Life.", "outcome": "The Homoians lost their churches in Constantinople.", "sources": ["white", "mcguckin"]},
+    {"year": 383, "circa": true, "title": "Called for restraints on the Apollinarians", "targets": "Followers of Apollinarius of Laodicea", "involvement": "advocated", "summary": "In a letter to Nectarius, his successor at Constantinople (Letter 202), he complained that the Apollinarians were being allowed to hold assemblies and urged that this be stopped.", "sources": ["npnf", "mcguckin"]}
+  ],
+  "persecution_note": "In Constantinople Gregory faced violence from opponents, an attempt to replace him with a rival bishop, and a campaign that forced his resignation.",
+  "persecution": [
+    {"year": 379, "date": "Easter 379", "title": "Attack on the Anastasia", "summary": "During the Easter vigil, a crowd of his anti-Nicene opponents, reportedly including monks and poor people incited by Homoian clergy, broke into the Anastasia and threw stones; one of his followers was killed or badly hurt, and Gregory was later accused in court of causing the disturbance.", "responsible": [
+      {"name": "Homoian clergy and their supporters in Constantinople", "role": "Incited and took part in the attack", "jurisdiction": "Constantinople", "type": "group"}
+    ], "outcome": "He was acquitted, according to his own account.", "sources": ["white", "mcguckin"]},
+    {"year": 380, "title": "Attempted replacement by Maximus the Cynic", "summary": "Maximus, a philosopher Gregory had befriended, was secretly consecrated bishop of Constantinople by Egyptian bishops sent by Peter of Alexandria, in an attempt to take over the see. The plot failed, but it humiliated Gregory.", "responsible": [
+      {"name": "Maximus the Cynic", "role": "Rival claimant to the see", "jurisdiction": "Constantinople", "type": "individual"},
+      {"name": "Peter II of Alexandria", "role": "Bishop who backed the consecration", "jurisdiction": "Church of Alexandria", "type": "church"}
+    ], "outcome": "Maximus was rejected and later condemned by the Council of Constantinople (381).", "sources": ["white", "mcguckin"]},
+    {"year": 381, "title": "Forced resignation at the Council of Constantinople", "summary": "Egyptian and Macedonian bishops argued that his move from Sasima to Constantinople broke the canon against bishops changing sees, and others resented his policies at the council. He resigned rather than continue the dispute.", "responsible": [
+      {"name": "Egyptian and Macedonian bishops at the council", "role": "Challenged the legality of his appointment", "jurisdiction": "Council of Constantinople", "type": "church"}
+    ], "outcome": "He resigned in June 381 and Nectarius was chosen in his place.", "sources": ["npnf", "mcguckin"]}
+  ],
+  "excommunication_note": "Gregory was never excommunicated or condemned. He resigned his see in 381 under pressure, but no council deposed him, and he is honoured as a saint and Doctor of the Church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "npnf", "type": "primary", "citation": "Gregory Nazianzen, Select Orations and Letters, trans. Charles Gordon Browne and James Edward Swallow. Nicene and Post-Nicene Fathers, 2nd series, vol. 7. 1894."},
+    {"id": "white", "type": "primary", "citation": "Gregory of Nazianzus, Autobiographical Poems, trans. Carolinne White. Cambridge: Cambridge University Press, 1996."},
+    {"id": "mcguckin", "type": "scholarly", "citation": "John A. McGuckin, Saint Gregory of Nazianzus: An Intellectual Biography. Crestwood, NY: St Vladimir's Seminary Press, 2001."},
+    {"id": "daley", "type": "scholarly", "citation": "Brian E. Daley, Gregory of Nazianzus. London: Routledge, 2006."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Gregory of Nazianzus.\" Encyclopaedia Britannica."}
+  ]
+}

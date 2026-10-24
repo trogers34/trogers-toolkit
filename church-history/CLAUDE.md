@@ -117,6 +117,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - John Chrysostom (`john-chrysostom`)
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
 - Basil of Caesarea (`basil-of-caesarea`): the user wrote "Basil"; Basil the Great was assumed
+- Gregory of Nazianzus (`gregory-of-nazianzus`): the user wrote "Gregory of naziansa"
 - Gregory of Nyssa (`gregory-of-nyssa`): the user wrote "Gregory of nissa"
 - Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
@@ -353,7 +354,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- J. C. Ryle (Holiness, Expository Thoughts, first Bishop of Liverpool; let the 1885–87 prosecution of the
+- Gregory of Nazianzus (Theological Orations; attacked at the Anastasia 379, Maximus plot, resigned 381;
+  installed by Theodosius after the Homoians were expelled; urged curbs on Apollinarians). Linked from
+  Constantinople I. 78 people, 56 events.
+- **PR #102**: J. C. Ryle (Holiness, Expository Thoughts, first Bishop of Liverpool; let the 1885–87 prosecution of the
   ritualist James Bell Cox proceed). 77 people, 56 events.
 - **PR #101**: Gregory of Nyssa (Trinity, Life of Moses, condemnation of slavery, apokatastasis; deposed and exiled
   under Valens 376–378). Linked from Constantinople I. 76 people, 56 events.

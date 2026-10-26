@@ -119,8 +119,8 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Macrina the Younger (`macrina-the-younger`): offered as an extra for the Cappadocian Fathers; the user chose her
 - Basil of Caesarea (`basil-of-caesarea`): the user wrote "Basil"; Basil the Great was assumed
 - Gregory of Nazianzus (`gregory-of-nazianzus`): the user wrote "Gregory of naziansa"
-- Gregory of Nyssa (`gregory-of-nyssa`)
-- Amphilochius of Iconium (`amphilochius-of-iconium`): offered as an extra for the Cappadocian Fathers; the user chose him: the user wrote "Gregory of nissa"
+- Gregory of Nyssa (`gregory-of-nyssa`): the user wrote "Gregory of nissa"
+- Amphilochius of Iconium (`amphilochius-of-iconium`): offered as an extra for the Cappadocian Fathers; the user chose him
 - Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)

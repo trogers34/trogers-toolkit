@@ -170,6 +170,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Charles Wesley (`charles-wesley`): has a Words and sayings list of hymn lines
 - William Carey (`william-carey`)
 - Charles Finney (`charles-finney`)
+- Charles Hodge (`charles-hodge`)
 - John Henry Newman (`john-henry-newman`): the user wrote "Newman"
 - J. C. Ryle (`j-c-ryle`): the user wrote "JC Ryle"
 - Charles Haddon Spurgeon (`charles-spurgeon`)
@@ -354,7 +355,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Gregory of Nazianzus (Theological Orations; attacked at the Anastasia 379, Maximus plot, resigned 381;
+- Charles Hodge (Princeton Seminary, Systematic Theology, What Is Darwinism?; defended slavery as not sinful in
+  itself and owned enslaved people). 79 people, 56 events.
+- **PR #103**: Gregory of Nazianzus (Theological Orations; attacked at the Anastasia 379, Maximus plot, resigned 381;
   installed by Theodosius after the Homoians were expelled; urged curbs on Apollinarians). Linked from
   Constantinople I. 78 people, 56 events.
 - **PR #102**: J. C. Ryle (Holiness, Expository Thoughts, first Bishop of Liverpool; let the 1885–87 prosecution of the

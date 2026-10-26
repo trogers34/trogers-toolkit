@@ -1,0 +1,53 @@
+{
+  "name": "Charles Hodge",
+  "slug": "charles-hodge",
+  "short_name": "Hodge",
+  "era": "Modern",
+  "role": "Presbyterian theologian and professor at Princeton Theological Seminary (1822–1878)",
+  "born": {"year": 1797, "date": "27 December 1797", "place": "Philadelphia, Pennsylvania", "sources": ["aa-hodge", "gutjahr"]},
+  "died": {"year": 1878, "date": "19 June 1878", "place": "Princeton, New Jersey", "cause": "Natural causes in old age", "sources": ["aa-hodge", "gutjahr"]},
+  "summary": "The leading American Reformed theologian of the nineteenth century, who taught some 3,000 students at Princeton Seminary over more than fifty years and wrote the three-volume Systematic Theology. He defended Calvinist orthodoxy and the authority of Scripture, argued that Darwinism (as he defined it) amounted to atheism, and taught that slavery was not in itself a sin while opposing its abuses; he owned enslaved people early in his career.",
+  "key_dates": [
+    {"year": 1819, "label": "Graduates from Princeton Theological Seminary under Archibald Alexander", "sources": ["aa-hodge", "gutjahr"]},
+    {"year": 1822, "label": "Becomes professor at Princeton Seminary, where he teaches until his death", "sources": ["aa-hodge", "gutjahr"]},
+    {"year": 1825, "label": "Founds the Biblical Repertory (later the Princeton Review), which he edits for over forty years", "sources": ["gutjahr", "britannica"]},
+    {"year": 1826, "label": "Studies in Germany (to 1828) at Halle and Berlin under Tholuck and Neander", "sources": ["aa-hodge", "gutjahr"]},
+    {"year": 1836, "label": "Publishes an essay on slavery arguing it is not sinful in itself; publishes his Commentary on Romans (1835)", "sources": ["gutjahr", "hodge-slavery"]},
+    {"year": 1837, "label": "Sides with the Old School in the split of the Presbyterian Church, though as a moderate", "sources": ["gutjahr", "britannica"]},
+    {"year": 1861, "label": "Protests the Gardiner Spring Resolutions, which tied church membership to loyalty to the federal government", "sources": ["gutjahr"]},
+    {"year": 1872, "label": "Publishes the first volumes of his Systematic Theology (1872–73); celebrates fifty years of teaching", "sources": ["hodge-st", "gutjahr"]},
+    {"year": 1874, "label": "Publishes What Is Darwinism?", "sources": ["hodge-darwin", "gutjahr"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the three-volume Systematic Theology (1872–73), long the standard textbook of conservative Reformed theology in America.", "sources": ["hodge-st", "britannica"]},
+    {"text": "Taught about 3,000 students at Princeton Seminary, shaping the 'Princeton Theology' carried on by his son A. A. Hodge, B. B. Warfield, and later J. Gresham Machen.", "sources": ["gutjahr", "britannica"]},
+    {"text": "Edited the Princeton Review for over forty years, using it to comment on theology, church politics, science, and national affairs.", "sources": ["gutjahr"]},
+    {"text": "Defended the plenary inspiration of Scripture and taught theology as an inductive science working from the facts of the Bible.", "sources": ["hodge-st", "gutjahr"]},
+    {"text": "In What Is Darwinism? (1874) he concluded that Darwin's theory, because it excluded design, was atheism, while accepting that evolution itself need not be.", "sources": ["hodge-darwin", "gutjahr"]},
+    {"text": "Argued in 1836 and later that the Bible did not condemn slavery as sinful in itself and opposed the abolitionists, while calling for slaves' education, marriages, and eventual freedom; during the Civil War he supported the Union and later welcomed emancipation.", "sources": ["hodge-slavery", "gutjahr"]},
+    {"text": "Owned enslaved people in Princeton in the 1820s and 1830s, as documented in the seminary's own 2019 report on its ties to slavery.", "sources": ["pts-report", "gutjahr"]},
+    {"text": "Argued in 1845, against the majority of the Old School General Assembly, that Catholic baptism was valid Christian baptism.", "sources": ["gutjahr"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "What is Darwinism? It is Atheism.", "reference": "What Is Darwinism? (1874)", "sources": ["hodge-darwin"]},
+      {"phrase": "A new idea never originated in this Seminary", "reference": "Address at his semi-centennial celebration, 1872", "note": "Said as praise of Princeton's faithfulness to old doctrine.", "sources": ["aa-hodge", "gutjahr"]}
+    ]
+  },
+  "persecuted_others_note": "Hodge did not take part in religious persecution. His defence of slavery as not sinful in itself and his own ownership of enslaved people are serious wrongs recorded under his deeds; they are not religious persecution. He opposed the Gardiner Spring Resolutions, which he saw as forcing political tests on church members, and argued for recognizing Catholic baptism.",
+  "persecuted_others": [],
+  "persecution_note": "Hodge was never persecuted. He faced theological opposition from New School Presbyterians, Mercersburg theologians, and others, and was disabled for some years in the 1830s by a leg ailment.",
+  "persecution": [],
+  "excommunication_note": "Hodge was never excommunicated or disciplined by any church.",
+  "excommunications": [],
+  "sources": [
+    {"id": "hodge-st", "type": "primary", "citation": "Charles Hodge, Systematic Theology, 3 vols. New York: Scribner, 1872–1873."},
+    {"id": "hodge-darwin", "type": "primary", "citation": "Charles Hodge, What Is Darwinism? New York: Scribner, Armstrong, 1874."},
+    {"id": "hodge-slavery", "type": "primary", "citation": "Charles Hodge, \"Slavery,\" Biblical Repertory and Princeton Review 8 (1836)."},
+    {"id": "aa-hodge", "type": "primary", "citation": "A. A. Hodge, The Life of Charles Hodge. New York: Scribner, 1880."},
+    {"id": "gutjahr", "type": "scholarly", "citation": "Paul C. Gutjahr, Charles Hodge: Guardian of American Orthodoxy. New York: Oxford University Press, 2011."},
+    {"id": "pts-report", "type": "scholarly", "citation": "Princeton Theological Seminary and Slavery: A Report of the Historical Audit Committee. Princeton Theological Seminary, 2019."},
+    {"id": "britannica", "type": "reference", "citation": "\"Charles Hodge.\" Encyclopaedia Britannica."}
+  ]
+}

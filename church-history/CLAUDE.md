@@ -116,9 +116,11 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Athanasius of Alexandria (`athanasius-of-alexandria`)
 - John Chrysostom (`john-chrysostom`)
 - Monica (`monica-of-hippo`): Augustine's mother; the user wrote "St Monica"
+- Macrina the Younger (`macrina-the-younger`): offered as an extra for the Cappadocian Fathers; the user chose her
 - Basil of Caesarea (`basil-of-caesarea`): the user wrote "Basil"; Basil the Great was assumed
 - Gregory of Nazianzus (`gregory-of-nazianzus`): the user wrote "Gregory of naziansa"
 - Gregory of Nyssa (`gregory-of-nyssa`): the user wrote "Gregory of nissa"
+- Amphilochius of Iconium (`amphilochius-of-iconium`): offered as an extra for the Cappadocian Fathers; the user chose him
 - Jerome (`jerome`)
 - Augustine of Hippo (`augustine-of-hippo`): starter example, added without a user request
 - Leo the Great (`leo-the-great`)
@@ -355,7 +357,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Charles Hodge (Princeton Seminary, Systematic Theology, What Is Darwinism?; defended slavery as not sinful in
+- Macrina the Younger and Amphilochius of Iconium (the user asked for "the Cappadocian Fathers"; all three
+  were already on the site, so these two extras were offered and the user chose "1 and 2"; the overview event
+  was declined). 81 people, 56 events.
+- **PR #104**: Charles Hodge (Princeton Seminary, Systematic Theology, What Is Darwinism?; defended slavery as not sinful in
   itself and owned enslaved people). 79 people, 56 events.
 - **PR #103**: Gregory of Nazianzus (Theological Orations; attacked at the Anastasia 379, Maximus plot, resigned 381;
   installed by Theodosius after the Homoians were expelled; urged curbs on Apollinarians). Linked from

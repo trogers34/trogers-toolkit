@@ -1,0 +1,38 @@
+{
+  "name": "Macrina the Younger",
+  "slug": "macrina-the-younger",
+  "short_name": "Macrina",
+  "also_known_as": "Saint Macrina; 'the Teacher'; sometimes called the fourth Cappadocian",
+  "era": "Early Church",
+  "role": "Ascetic leader and teacher; elder sister of Basil the Great and Gregory of Nyssa",
+  "born": {"year": 327, "circa": true, "date": "c. 327", "place": "Caesarea in Cappadocia", "sources": ["silvas", "britannica"]},
+  "died": {"year": 379, "circa": true, "date": "July 379 (some date it 380)", "place": "Annesi, Pontus, near the Iris River", "cause": "Illness (a fever), recorded at her deathbed by her brother Gregory", "sources": ["corrigan", "silvas"]},
+  "summary": "The eldest child of a devout Cappadocian family, who turned the family estate at Annesi into a community of ascetic women and men and, according to her brother Gregory of Nyssa, led Basil the Great himself to give up worldly ambition. Nearly everything known of her comes from Gregory's Life of Macrina and his dialogue On the Soul and the Resurrection, in which she is his teacher.",
+  "key_dates": [
+    {"year": 339, "circa": true, "label": "Her betrothed dies before the marriage; she refuses all other suitors and chooses a life of virginity", "sources": ["corrigan", "silvas"]},
+    {"year": 341, "circa": true, "label": "After her father's death she helps her mother Emmelia run the household and raise her younger brothers, including Peter", "sources": ["corrigan", "silvas"]},
+    {"year": 356, "circa": true, "label": "Turns the family estate at Annesi into an ascetic community, living on equal terms with the household's former servants", "sources": ["corrigan", "silvas"]},
+    {"year": 356, "circa": true, "label": "By Gregory's account, persuades Basil, newly back from his studies, to give up a career in rhetoric for the ascetic life", "sources": ["corrigan", "silvas"]},
+    {"year": 379, "label": "Gregory visits her as she is dying, months after Basil's death; their conversation becomes On the Soul and the Resurrection", "sources": ["npnf", "corrigan"]}
+  ],
+  "accomplishments": [
+    {"text": "Led a mixed ascetic community at Annesi, where women of the family and former slaves lived, prayed, and worked as equals; her brother Peter led the men's house.", "sources": ["corrigan", "silvas"]},
+    {"text": "Is portrayed by Gregory of Nyssa as the family's spiritual teacher and as a philosopher who guided both Basil and Gregory.", "sources": ["corrigan", "silvas"]},
+    {"text": "Appears as Gregory's teacher in On the Soul and the Resurrection, a dialogue modelled on Plato's Phaedo, defending the immortality of the soul and the resurrection of the body.", "sources": ["npnf", "silvas"]},
+    {"text": "Raised and educated her youngest brother Peter, who became bishop of Sebaste.", "sources": ["corrigan", "silvas"]},
+    {"text": "Cared for the poor during a famine, according to the Life, and gathered abandoned girls into the community.", "sources": ["corrigan"]},
+    {"text": "Is honoured as a saint in the Orthodox and Catholic churches; scholars note that Basil's own writings never mention her, so the picture of her depends on Gregory.", "sources": ["silvas", "britannica"]}
+  ],
+  "persecuted_others_note": "No record of Macrina supporting or carrying out persecution of anyone.",
+  "persecuted_others": [],
+  "persecution_note": "No persecution of Macrina is recorded. Her grandmother, Macrina the Elder, had suffered in the persecution under Diocletian and Galerius, hiding in the forests of Pontus.",
+  "persecution": [],
+  "excommunication_note": "Macrina was never excommunicated or condemned.",
+  "excommunications": [],
+  "sources": [
+    {"id": "corrigan", "type": "primary", "citation": "Gregory of Nyssa, The Life of Saint Macrina, trans. Kevin Corrigan. Toronto: Peregrina, 1987."},
+    {"id": "npnf", "type": "primary", "citation": "Gregory of Nyssa, On the Soul and the Resurrection, trans. William Moore and Henry Austin Wilson. Nicene and Post-Nicene Fathers, 2nd series, vol. 5. 1893."},
+    {"id": "silvas", "type": "scholarly", "citation": "Anna M. Silvas, Macrina the Younger, Philosopher of God. Turnhout: Brepols, 2008."},
+    {"id": "britannica", "type": "reference", "citation": "\"Saint Macrina the Younger.\" Encyclopaedia Britannica."}
+  ]
+}

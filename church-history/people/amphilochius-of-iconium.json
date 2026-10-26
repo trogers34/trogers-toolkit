@@ -1,0 +1,43 @@
+{
+  "name": "Amphilochius of Iconium",
+  "slug": "amphilochius-of-iconium",
+  "short_name": "Amphilochius",
+  "also_known_as": "Saint Amphilochius",
+  "era": "Early Church",
+  "role": "Bishop of Iconium; cousin of Gregory of Nazianzus and friend of Basil the Great",
+  "born": {"year": 340, "circa": true, "date": "c. 340", "place": "Cappadocia (probably Diocaesarea, near Nazianzus)", "sources": ["holl", "odcc"]},
+  "died": {"year": 400, "circa": true, "date": "after 394, probably c. 400", "place": "Iconium, Lycaonia (modern Konya, Turkey)", "cause": "Unknown; probably natural causes", "sources": ["holl", "odcc"]},
+  "summary": "A lawyer turned ascetic who, with Basil's support, became the first metropolitan bishop of Iconium in 373. He was a close ally of the Cappadocian Fathers: Basil dedicated On the Holy Spirit to him and addressed his Canonical Letters to him. He defended the divinity of the Holy Spirit, took part in the Council of Constantinople (381), and later led the condemnation of the Messalians.",
+  "key_dates": [
+    {"year": 365, "circa": true, "label": "Practises law in Constantinople, then withdraws to an ascetic life near Nazianzus", "sources": ["holl", "gregory-letters"]},
+    {"year": 373, "label": "Becomes bishop of Iconium with Basil's backing", "sources": ["basil-letters", "holl"]},
+    {"year": 375, "label": "Basil dedicates On the Holy Spirit to him; Basil's Canonical Letters (374–375) answer his questions on church discipline", "sources": ["basil-letters", "odcc"]},
+    {"year": 376, "circa": true, "label": "Holds a synod at Iconium that issues a letter affirming the divinity of the Holy Spirit", "sources": ["holl", "odcc"]},
+    {"year": 381, "label": "Attends the Council of Constantinople; Theodosius names him among the bishops whose communion marks orthodoxy in Asia", "sources": ["odcc", "theodoret"]},
+    {"year": 390, "circa": true, "label": "Presides over a synod at Side that condemns the Messalians", "sources": ["odcc", "holl"]}
+  ],
+  "accomplishments": [
+    {"text": "Defended the full divinity of the Holy Spirit, prompting Basil's treatise On the Holy Spirit (375), which Basil dedicated to him.", "sources": ["basil-letters", "odcc"]},
+    {"text": "Received Basil's three Canonical Letters, which became part of Eastern church law on penance, marriage, and discipline.", "sources": ["basil-letters", "odcc"]},
+    {"text": "Wrote the Iambics to Seleucus, a poem of advice that includes an influential list of the books of Scripture; it was long attributed to Gregory of Nazianzus.", "sources": ["oberg", "odcc"]},
+    {"text": "Organized the church of Lycaonia as its first metropolitan and was one of the leading bishops of the Nicene party in Asia Minor.", "sources": ["holl", "odcc"]},
+    {"text": "Was a cousin of Gregory of Nazianzus, who wrote him several letters, and a close friend of Basil.", "sources": ["gregory-letters", "holl"]}
+  ],
+  "persecuted_others_note": "Amphilochius did not use force himself, but he pressed the emperor Theodosius to act against the Arians and presided over a synod that excommunicated the Messalians.",
+  "persecuted_others": [
+    {"year": 383, "circa": true, "title": "Pressed Theodosius to restrict the Arians", "targets": "Arians (Homoians and Eunomians)", "involvement": "advocated", "summary": "Theodoret tells the story that Amphilochius, received at court, greeted Theodosius but pointedly ignored his young son Arcadius, then explained that God likewise expects the Son to be honoured equally with the Father; Theodosius is said to have responded by issuing a law forbidding Arian assemblies. The story's details are not confirmed elsewhere.", "outcome": "Laws of the early 380s restricted Arian worship, though the link to this meeting rests on Theodoret.", "sources": ["theodoret", "holl"]},
+    {"year": 390, "circa": true, "title": "Condemnation of the Messalians at Side", "targets": "Messalians (an ascetic movement that taught constant prayer over the sacraments)", "involvement": "took_part", "summary": "He presided over a synod at Side in Pamphylia that condemned the Messalians and excommunicated their leaders; they were later condemned again at Antioch and at the Council of Ephesus (431).", "outcome": "The Messalians were excluded from communion in the region.", "sources": ["odcc", "holl"]}
+  ],
+  "persecution_note": "No persecution of Amphilochius is recorded. He became bishop under the anti-Nicene emperor Valens but was not exiled.",
+  "persecution": [],
+  "excommunication_note": "Amphilochius was never excommunicated or condemned. He is honoured as a saint in the Orthodox and Catholic churches.",
+  "excommunications": [],
+  "sources": [
+    {"id": "basil-letters", "type": "primary", "citation": "Basil of Caesarea, Letters, trans. Roy J. Deferrari, 4 vols. Loeb Classical Library, 1926–1934."},
+    {"id": "gregory-letters", "type": "primary", "citation": "Gregory Nazianzen, Letters, in Nicene and Post-Nicene Fathers, 2nd series, vol. 7. 1894."},
+    {"id": "theodoret", "type": "primary", "citation": "Theodoret, Ecclesiastical History, Book 5. Nicene and Post-Nicene Fathers, 2nd series, vol. 3."},
+    {"id": "oberg", "type": "primary", "citation": "Amphilochius of Iconium, Iambi ad Seleucum, ed. Eberhard Oberg. Berlin: de Gruyter, 1969."},
+    {"id": "holl", "type": "scholarly", "citation": "Karl Holl, Amphilochius von Ikonium in seinem Verhältnis zu den grossen Kappadoziern. Tübingen: Mohr, 1904."},
+    {"id": "odcc", "type": "reference", "citation": "\"Amphilochius, St.\" The Oxford Dictionary of the Christian Church, 3rd ed. Oxford: Oxford University Press, 1997."}
+  ]
+}

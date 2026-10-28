@@ -357,7 +357,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Macrina the Younger and Amphilochius of Iconium (the user asked for "the Cappadocian Fathers"; all three
+- John Henry Newman: headline (role and summary) now leads with his theory of the development of doctrine
+  (the user: "make it clean in the headline about his development of doctrine"); added the seven notes and
+  the controversy over the theory.
+- **PR #105**: Macrina the Younger and Amphilochius of Iconium (the user asked for "the Cappadocian Fathers"; all three
   were already on the site, so these two extras were offered and the user chose "1 and 2"; the overview event
   was declined). 81 people, 56 events.
 - **PR #104**: Charles Hodge (Princeton Seminary, Systematic Theology, What Is Darwinism?; defended slavery as not sinful in

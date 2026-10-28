@@ -3,7 +3,7 @@
   "slug": "john-henry-newman",
   "also_known_as": "Saint John Henry Newman; Cardinal Newman",
   "era": "Modern",
-  "role": "Anglican priest and leader of the Oxford Movement; later Catholic priest and cardinal",
+  "role": "Theologian of the development of doctrine; Anglican leader of the Oxford Movement, later Catholic priest and cardinal",
   "born": {
     "year": 1801,
     "date": "21 February 1801",
@@ -23,7 +23,7 @@
     ],
     "cause": "Pneumonia, in old age"
   },
-  "summary": "Leader of the Oxford Movement in the Church of England who became a Catholic in 1845, wrote the Apologia Pro Vita Sua and The Idea of a University, was made a cardinal, and was canonized in 2019.",
+  "summary": "Best known for his theory of the development of doctrine: in An Essay on the Development of Christian Doctrine (1845) he argued that Christian teaching grows and unfolds over time, as a living idea does, while remaining true to what was first revealed, and that genuine developments can be told from corruptions by tests he set out. Working through this question led him from leadership of the Oxford Movement in the Church of England into the Catholic Church in 1845. He also wrote the Apologia Pro Vita Sua and The Idea of a University, was made a cardinal, and was canonized in 2019.",
   "key_dates": [
     {
       "year": 1822,
@@ -108,6 +108,21 @@
   ],
   "accomplishments": [
     {
+      "text": "Wrote An Essay on the Development of Christian Doctrine (1845), arguing that Christian doctrine develops over time, as the Church comes to understand more fully what was revealed, without adding anything foreign to it. He proposed seven 'notes' to tell a true development from a corruption: preservation of type, continuity of principles, power of assimilation, logical sequence, anticipation of its future, conservative action upon its past, and chronic vigour. He used the theory to answer the Anglican charge that later Catholic teachings were additions, and it convinced him to become a Catholic.",
+      "sources": [
+        "development",
+        "ker",
+        "gilley"
+      ]
+    },
+    {
+      "text": "The theory was controversial: Protestant and some Anglican critics said it could justify any innovation, and some Catholics at first suspected it of implying that doctrine changes; it later became widely influential in Catholic theology and is often linked to the thinking behind the Second Vatican Council.",
+      "sources": [
+        "ker",
+        "gilley"
+      ]
+    },
+    {
       "text": "Led the Oxford Movement, which sought to recover the Catholic heritage of the Church of England, writing many of the Tracts for the Times (1833–41) and preaching influential Parochial and Plain Sermons at St Mary's.",
       "sources": [
         "apologia",
@@ -125,13 +140,6 @@
       "text": "Left the Church of England for the Catholic Church in 1845, a conversion that shocked Victorian England and was followed by many others.",
       "sources": [
         "apologia",
-        "britannica"
-      ]
-    },
-    {
-      "text": "Wrote An Essay on the Development of Christian Doctrine (1845), arguing that doctrine develops over time while remaining faithful to its origins.",
-      "sources": [
-        "ker",
         "britannica"
       ]
     },
@@ -307,6 +315,11 @@
   "persecuted_others_note": "No record of Newman supporting or carrying out persecution of others. As a young Anglican he held that the pope was Antichrist, a view he later retracted, and in 1829 he campaigned against Robert Peel's re-election at Oxford after Peel supported Catholic Emancipation, chiefly on grounds of the Church of England's independence from the state.",
   "persecuted_others": [],
   "sources": [
+    {
+      "id": "development",
+      "type": "primary",
+      "citation": "John Henry Newman, An Essay on the Development of Christian Doctrine. London: James Toovey, 1845 (revised edition 1878)."
+    },
     {
       "id": "apologia",
       "type": "primary",

@@ -1,0 +1,49 @@
+{
+  "name": "William Perkins",
+  "slug": "william-perkins",
+  "short_name": "Perkins",
+  "era": "Reformation",
+  "role": "Puritan theologian and preacher at Cambridge",
+  "born": {"year": 1558, "date": "1558", "place": "Marston Jabbett, Warwickshire, England", "sources": ["patterson", "odnb"]},
+  "died": {"year": 1602, "date": "22 October 1602", "place": "Cambridge, England", "cause": "Kidney stones ('the stone'), after long suffering", "sources": ["fuller", "patterson"]},
+  "summary": "The leading theologian of Elizabethan Puritanism and one of the most widely read English writers of his day. From Cambridge he taught Reformed doctrine of predestination, pioneered Protestant 'cases of conscience', and trained a generation of preachers in plain preaching. His works were translated across Europe, and his treatise on predestination provoked Jacobus Arminius's reply. He also argued that witches should be put to death.",
+  "key_dates": [
+    {"year": 1577, "label": "Enters Christ's College, Cambridge (BA 1581, MA 1584)", "sources": ["patterson", "odnb"]},
+    {"year": 1584, "label": "Elected fellow of Christ's College and becomes lecturer at Great St Andrew's Church, Cambridge, a post he holds until his death", "sources": ["patterson", "fuller"]},
+    {"year": 1587, "label": "Summoned before the university's vice-chancellor for a sermon criticizing kneeling at communion", "sources": ["patterson", "odnb"]},
+    {"year": 1590, "label": "Publishes A Golden Chaine, with its chart of the causes of salvation and damnation", "sources": ["perkins-golden", "patterson"]},
+    {"year": 1592, "label": "Publishes The Art of Prophesying (in Latin), a handbook on preaching", "sources": ["breward", "patterson"]},
+    {"year": 1595, "label": "Marries Timothye Cradock and gives up his fellowship", "sources": ["patterson", "odnb"]},
+    {"year": 1597, "label": "Publishes A Reformed Catholike, setting out where Protestants could and could not agree with Rome", "sources": ["patterson", "breward"]},
+    {"year": 1598, "label": "Publishes his treatise on the order of predestination, which Arminius answered", "sources": ["patterson", "britannica"]}
+  ],
+  "accomplishments": [
+    {"text": "Was the most influential English Reformed theologian of his generation; his books sold more copies in England than Calvin's in the years around 1600 and were translated into Dutch, German, Latin, and other languages.", "sources": ["patterson", "britannica"]},
+    {"text": "Taught a strict Reformed doctrine of predestination, set out in A Golden Chaine (1590); his 1598 treatise on predestination drew a written reply from Jacobus Arminius, an early stage in the debate that led to the Synod of Dort.", "sources": ["perkins-golden", "patterson"]},
+    {"text": "Pioneered Protestant 'casuistry' (practical ethics for troubled consciences) in works such as A Discourse of Conscience (1596) and The Whole Treatise of the Cases of Conscience (1606).", "sources": ["breward", "patterson"]},
+    {"text": "Shaped English Puritan preaching with The Art of Prophesying, urging plain, scriptural sermons applied to the hearers; his pupils included William Ames.", "sources": ["breward", "patterson"]},
+    {"text": "Stayed within the Church of England and avoided open support for presbyterian church government, though he shared Puritan aims for further reform.", "sources": ["patterson", "odnb"]},
+    {"text": "Was remembered by Thomas Fuller for preaching to condemned prisoners at Cambridge Castle, and as a wild youth before his conversion, a story that later scholars treat cautiously.", "sources": ["fuller", "patterson"]}
+  ],
+  "persecuted_others_note": "Perkins did not hold civil power, but his posthumously published Discourse of the Damned Art of Witchcraft argued that all witches, including 'good' witches who used charms to heal, deserved death under God's law. He also wrote polemics against Catholic teaching, without calling for new punishments.",
+  "persecuted_others": [
+    {"year": 1600, "circa": true, "date": "c. 1590s (published 1608)", "title": "Called for the death penalty for all witches", "targets": "People accused of witchcraft, including healers and 'cunning folk'", "involvement": "advocated", "summary": "In sermons later published as A Discourse of the Damned Art of Witchcraft (1608), he argued that anyone who made a pact with the devil should be executed, and that 'good' or 'white' witches were worse than harmful ones because they drew people away from God. The book was influential in England and New England.", "outcome": "Cited in later witchcraft writing and trials, including in New England.", "sources": ["perkins-witchcraft", "patterson"]}
+  ],
+  "persecution_note": "Perkins was never imprisoned. He was called before university authorities once for his views on worship, and the Puritan movement around him came under pressure from Archbishop Whitgift.",
+  "persecution": [
+    {"year": 1587, "title": "Summoned before the vice-chancellor", "summary": "After a sermon in Christ's College chapel criticizing kneeling to receive communion and other ceremonies, he was called before the vice-chancellor of Cambridge University to explain himself. He gave a careful answer and no further action is recorded.", "responsible": [
+      {"name": "Vice-chancellor of the University of Cambridge", "role": "University authority enforcing conformity", "jurisdiction": "University of Cambridge", "type": "church"}
+    ], "outcome": "No punishment recorded.", "sources": ["patterson", "odnb"]}
+  ],
+  "excommunication_note": "Perkins was never excommunicated or deprived. He remained a conforming minister of the Church of England.",
+  "excommunications": [],
+  "sources": [
+    {"id": "perkins-golden", "type": "primary", "citation": "William Perkins, A Golden Chaine: or, The Description of Theologie. Cambridge: John Legat, 1591 (Latin 1590)."},
+    {"id": "perkins-witchcraft", "type": "primary", "citation": "William Perkins, A Discourse of the Damned Art of Witchcraft. Cambridge: Cantrel Legge, 1608."},
+    {"id": "fuller", "type": "primary", "citation": "Thomas Fuller, The Holy State and the Profane State (1642), life of William Perkins."},
+    {"id": "breward", "type": "scholarly", "citation": "Ian Breward, ed., The Work of William Perkins. Appleford: Sutton Courtenay Press, 1970."},
+    {"id": "patterson", "type": "scholarly", "citation": "W. B. Patterson, William Perkins and the Making of a Protestant England. Oxford: Oxford University Press, 2014."},
+    {"id": "odnb", "type": "reference", "citation": "\"Perkins, William (1558–1602).\" Oxford Dictionary of National Biography."},
+    {"id": "britannica", "type": "reference", "citation": "\"William Perkins.\" Encyclopaedia Britannica."}
+  ]
+}

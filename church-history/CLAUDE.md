@@ -191,6 +191,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Chuck Smith (`chuck-smith`)
 - D. James Kennedy (`d-james-kennedy`)
 - R. C. Sproul (`r-c-sproul`)
+- Rod Rosenbladt (`rod-rosenbladt`): recent figure; sourced mainly from 2024 memorial tributes
 
 ## Events on the site
 
@@ -359,7 +360,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- William Perkins (A Golden Chaine, Art of Prophesying, cases of conscience, Arminius's reply; 1587 summons;
+- Rod Rosenbladt (Concordia Irvine, original White Horse Inn host, The Gospel for Those Broken by the Church, Christ Alone,
+  1517 with his son Ted; died 2 February 2024; no persecution recorded). 84 people, 56 events.
+- **PR #108**: William Perkins (A Golden Chaine, Art of Prophesying, cases of conscience, Arminius's reply; 1587 summons;
   argued all witches should be executed). 83 people, 56 events.
 - **PR #107**: Peter Martyr Vermigli (the user wrote "Vermigle"; fled the Inquisition 1542, Oxford under Edward VI, house
   arrest under Mary, wife's body exhumed 1557, Index 1559; worked on the Reformatio legum). 82 people, 56 events.

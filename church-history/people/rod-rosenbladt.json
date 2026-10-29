@@ -1,0 +1,49 @@
+{
+  "name": "Rod Rosenbladt",
+  "slug": "rod-rosenbladt",
+  "short_name": "Rosenbladt",
+  "also_known_as": "Rodney Rosenbladt; 'Dad Rod'",
+  "era": "Modern",
+  "role": "Lutheran theologian and apologist; professor at Concordia University Irvine and original co-host of the White Horse Inn",
+  "born": {"year": 1942, "date": "January 1942 (tributes give 2 or 3 January)", "place": "Washington State, USA", "sources": ["wikipedia", "riddlebarger"]},
+  "died": {"year": 2024, "date": "2 February 2024", "place": "Not stated in the tributes checked; buried in the Pacific Northwest beside his father", "cause": "A brief illness (not described further in published tributes)", "sources": ["modern-reformation", "riddlebarger"]},
+  "summary": "A confessional Lutheran theologian who taught theology at Concordia University Irvine for decades and, from 1990, was one of the four original hosts of the White Horse Inn radio programme with Michael Horton, Kim Riddlebarger, and Ken Jones. A student of John Warwick Montgomery, he combined evidential apologetics with a strong emphasis on law and gospel, best known through his talk The Gospel for Those Broken by the Church. Late in life he helped found the 1517 organization with his son Ted.",
+  "key_dates": [
+    {"year": 1964, "label": "BA, Pacific Lutheran University", "sources": ["wikipedia"]},
+    {"year": 1968, "label": "BD, Evangelical Lutheran Theological Seminary (Capital), Columbus, Ohio", "sources": ["wikipedia", "prabook"]},
+    {"year": 1972, "label": "MA, Trinity Evangelical Divinity School, where he studied under John Warwick Montgomery", "sources": ["wikipedia"]},
+    {"year": 1978, "label": "PhD in theology, University of Strasbourg", "sources": ["wikipedia", "riddlebarger"]},
+    {"year": 1987, "label": "Received into the ministry of the Lutheran Church–Missouri Synod by colloquy (as reported in the synod's memorial listing)", "sources": ["lcms-reporter"]},
+    {"year": 1990, "label": "White Horse Inn radio programme launches, with him as one of its four original hosts", "sources": ["ligonier-horton", "white-horse-inn"]},
+    {"year": 1999, "label": "Publishes Christ Alone (Crossway), a short defence of solus Christus", "sources": ["christ-alone"]},
+    {"year": 2014, "label": "Helps launch the 1517 project with his son Ted after retiring from Concordia", "sources": ["wikipedia", "1517-memorial"]}
+  ],
+  "accomplishments": [
+    {"text": "Taught theology for decades at Concordia University Irvine, a Lutheran Church–Missouri Synod school, mentoring students such as the historian Adam Francisco.", "sources": ["wikipedia", "1517-memorial"]},
+    {"text": "Was one of the four original hosts of the White Horse Inn (from 1990), a radio programme linked to Michael Horton's Christians United for Reformation that urged American evangelicals to recover Reformation theology; he was its Lutheran voice alongside Reformed co-hosts.", "sources": ["ligonier-horton", "white-horse-inn"]},
+    {"text": "Gave the widely circulated talk The Gospel for Those Broken by the Church, addressed to people hurt or exhausted by legalistic churches, stressing that Christ's forgiveness is for sinners and failures.", "sources": ["broken-talk", "modern-reformation"]},
+    {"text": "Taught evidential Christian apologetics in the tradition of his teacher John Warwick Montgomery, arguing from the historical evidence for the resurrection; he is reported to have taught with Montgomery and Walter Martin at the Simon Greenleaf School of Law.", "sources": ["white-horse-inn", "intrepid"]},
+    {"text": "Wrote Christ Alone (1999) in Crossway's Today's Issues series, edited by James Montgomery Boice; it was reissued by 1517 Publishing.", "sources": ["christ-alone"]},
+    {"text": "Co-founded the 1517 organization with his son Ted, which publishes books, podcasts, and conferences in the confessional Lutheran law-and-gospel tradition.", "sources": ["1517-memorial", "wikipedia"]},
+    {"text": "Wrote for Modern Reformation magazine and was remembered by colleagues as 'Dad Rod', a mentor to many younger pastors and writers.", "sources": ["modern-reformation", "riddlebarger"]}
+  ],
+  "persecuted_others_note": "No record of Rosenbladt supporting or carrying out persecution of anyone.",
+  "persecuted_others": [],
+  "persecution_note": "Rosenbladt was never arrested, tried, or persecuted. The White Horse Inn drew sharp theological criticism, for example from the Trinity Foundation, which attacked the programme's teaching; this was published disagreement, not persecution.",
+  "persecution": [],
+  "excommunication_note": "Rosenbladt was never excommunicated, deposed, or disciplined. He moved from the American Lutheran tradition into the Lutheran Church–Missouri Synod and remained a minister in good standing.",
+  "excommunications": [],
+  "sources": [
+    {"id": "christ-alone", "type": "primary", "citation": "Rod Rosenbladt, Christ Alone. Today's Issues, ed. James Montgomery Boice. Wheaton, IL: Crossway, 1999; reissued by 1517 Publishing, 2016."},
+    {"id": "broken-talk", "type": "primary", "citation": "Rod Rosenbladt, \"The Gospel for Those Broken by the Church\" (lecture, audio and study guide). New Reformation Press.", "url": "https://steadfastlutherans.org/blog/2013/01/the-gospel-for-those-broken-by-the-church/"},
+    {"id": "ligonier-horton", "type": "primary", "citation": "\"An Interview with Dr. Michael Horton.\" Ligonier Ministries.", "url": "https://www.ligonier.org/posts/interview-dr-michael-horton"},
+    {"id": "modern-reformation", "type": "primary", "citation": "\"Remembering Dad Rod.\" Modern Reformation, 7 February 2024.", "url": "https://www.modernreformation.org/resources/articles/remembering-dad-rod"},
+    {"id": "riddlebarger", "type": "primary", "citation": "Kim Riddlebarger, \"A Father in the Faith, a Mentor, a Colleague, and a Dear Friend: Dr. Rod Rosenbladt.\" The Riddleblog, February 2024.", "url": "https://www.kimriddlebarger.com/the-riddleblog/a-father-in-the-faith-a-mentor-a-collegue-and-a-dear-friend-dr-rod-rosenbladt-january-2-1942-february-2024"},
+    {"id": "white-horse-inn", "type": "primary", "citation": "\"Remembering Dad Rod.\" White Horse Inn.", "url": "https://www.whitehorseinn.org/resource-library/articles/remembering-dad-rod/"},
+    {"id": "1517-memorial", "type": "primary", "citation": "\"In Memory of Rod Rosenbladt: Encourager of All Things God, True and Beautiful.\" 1517.org.", "url": "https://www.1517.org/articles/in-memory-of-rod-rosenbladt-encourager-of-all-things-god-true-and-beautiful"},
+    {"id": "lcms-reporter", "type": "primary", "citation": "\"In Memoriam (May 2024).\" Reporter (Lutheran Church–Missouri Synod).", "url": "https://reporter.lcms.org/2024/in-memoriam-may-2024/"},
+    {"id": "intrepid", "type": "primary", "citation": "\"The Gospel For Those Broken By The Church.\" Intrepid Lutherans (blog), October 2011.", "url": "http://www.intrepidlutherans.com/2011/10/gospel-for-those-broken-by-church.html"},
+    {"id": "wikipedia", "type": "reference", "citation": "\"Rod Rosenbladt.\" Wikipedia.", "url": "https://en.wikipedia.org/wiki/Rod_Rosenbladt"},
+    {"id": "prabook", "type": "reference", "citation": "\"Rod Rosenbladt (born 1942), theologian.\" Prabook.", "url": "https://prabook.com/web/rod.rosenbladt/1925063"}
+  ]
+}

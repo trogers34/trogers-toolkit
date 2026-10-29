@@ -149,6 +149,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Huldrych Zwingli (`huldrych-zwingli`): includes the Anabaptist executed in Zürich (Felix Manz), with ratings
 - Henry VIII (`henry-viii`)
 - Ignatius of Loyola (`ignatius-of-loyola`)
+- Peter Martyr Vermigli (`peter-martyr-vermigli`): the user wrote "Vermigle"
 - Thomas Cranmer (`thomas-cranmer`)
 - Martin Bucer (`martin-bucer`)
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
@@ -357,7 +358,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- John Henry Newman: headline (role and summary) now leads with his theory of the development of doctrine
+- Peter Martyr Vermigli (the user wrote "Vermigle"; fled the Inquisition 1542, Oxford under Edward VI, house
+  arrest under Mary, wife's body exhumed 1557, Index 1559; worked on the Reformatio legum). 82 people, 56 events.
+- **PR #106**: John Henry Newman: headline (role and summary) now leads with his theory of the development of doctrine
   (the user: "make it clean in the headline about his development of doctrine"); added the seven notes and
   the controversy over the theory.
 - **PR #105**: Macrina the Younger and Amphilochius of Iconium (the user asked for "the Cappadocian Fathers"; all three

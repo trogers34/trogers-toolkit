@@ -152,6 +152,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Peter Martyr Vermigli (`peter-martyr-vermigli`): the user wrote "Vermigle"
 - Thomas Cranmer (`thomas-cranmer`)
 - Nicholas Ridley (`nicholas-ridley`): the user wrote "Ridley"; the Oxford martyr was assumed
+- Hugh Latimer (`hugh-latimer`)
 - Martin Bucer (`martin-bucer`)
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
 - Heinrich Bullinger (`heinrich-bullinger`)
@@ -161,6 +162,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Mary, Queen of Scots (`mary-queen-of-scots`)
 - Elizabeth I (`elizabeth-i`)
 - John Calvin (`john-calvin`): includes people executed in Geneva linked to him (Servetus etc.), with ratings
+- Guido de Brès (`guido-de-bres`): the user wrote "Guido de bres"
 - John Knox (`john-knox`)
 - Richard Hooker (`richard-hooker`)
 - Martin Chemnitz (`martin-chemnitz`)
@@ -361,7 +363,12 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Nicholas Ridley (the user wrote "Ridley"; Bishop of London, Prayer Book and communion tables; sat on the commissions that
+- Hugh Latimer (Cambridge preacher converted by Bilney, Sermons on the Card and of the Plough, Bishop of Worcester;
+  1532 Convocation excommunication, Six Articles resignation, Tower 1546; preached at the burning of John Forest 1538;
+  burned with Ridley 1555) and Guido de Brès (Belgic Confession 1561, Tournai and Valenciennes; Article 36 on
+  suppressing 'false worship'; hanged at Valenciennes 1567). Linked from the Anglican and Dutch Reformed histories.
+  87 people, 56 events.
+- **PR #110**: Nicholas Ridley (the user wrote "Ridley"; Bishop of London, Prayer Book and communion tables; sat on the commissions that
   deprived Bonner and Gardiner and condemned Joan Bocher and George van Parris; pressed Hooper over vestments;
   Tower 1553, Oxford disputation 1554, burned with Latimer 16 October 1555). Linked from the Anglican history.
   85 people, 56 events.

@@ -1,0 +1,63 @@
+{
+  "name": "Guido de Brès",
+  "slug": "guido-de-bres",
+  "short_name": "de Brès",
+  "also_known_as": "Guy de Bray; Guy de Brès",
+  "era": "Reformation",
+  "role": "Reformed preacher in the Southern Netherlands; author of the Belgic Confession",
+  "born": {"year": 1522, "date": "1522", "place": "Mons, County of Hainaut (now Belgium)", "sources": ["gootjes", "crespin"]},
+  "died": {"year": 1567, "date": "31 May 1567", "place": "Valenciennes, County of Hainaut (now France)", "cause": "Executed by hanging after the fall of Valenciennes", "sources": ["crespin", "gootjes"]},
+  "summary": "A glass painter from Mons who became a Reformed preacher to the persecuted 'churches under the cross' of the Habsburg Netherlands. He wrote the Belgic Confession (1561), which became, with the Heidelberg Catechism and the Canons of Dort, one of the standards of Reformed churches. Hunted by the authorities for most of his ministry, he was captured after the siege of Valenciennes in 1567 and hanged. The original text of his Confession also called on magistrates to suppress 'idolatry and false worship'.",
+  "key_dates": [
+    {"year": 1547, "circa": true, "label": "Converted to Protestantism through Bible reading; leaves Mons", "sources": ["gootjes", "crespin"]},
+    {"year": 1548, "label": "Takes refuge in London under Edward VI, among the foreign Protestant congregations", "sources": ["gootjes", "britannica"]},
+    {"year": 1552, "label": "Returns to the Netherlands as a preacher to the secret church at Lille", "sources": ["gootjes"]},
+    {"year": 1555, "label": "Publishes Le Baston de la foy chrestienne, an anthology from the Church Fathers against Catholic teaching", "sources": ["gootjes"]},
+    {"year": 1556, "label": "Flees persecution to Frankfurt, then studies in Lausanne and Geneva", "sources": ["gootjes"]},
+    {"year": 1559, "label": "Becomes pastor of the underground Reformed church in Tournai; marries Catherine Ramon", "sources": ["gootjes", "crespin"]},
+    {"year": 1561, "label": "Writes the Belgic Confession; on 1 November a copy is thrown over the wall of Tournai castle with a letter to Philip II", "sources": ["gootjes", "confession"]},
+    {"year": 1565, "label": "Publishes La racine, source et fondement des Anabaptistes, a polemic against the Anabaptists", "sources": ["gootjes"]},
+    {"year": 1566, "label": "Preaches openly in Valenciennes during the 'Wonder Year' that followed the Iconoclastic Fury", "sources": ["gootjes", "benedict"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the Belgic Confession (1561), modelled on the French Confession of 1559, to show Philip II that the Reformed were law-abiding Christians, not rebels or Anabaptists.", "sources": ["gootjes", "confession"]},
+    {"text": "Saw his Confession adopted by Reformed synods at Antwerp (1566) and later confirmed by the Synod of Dort (1618–19), making it a standard of Dutch Reformed and many other Reformed churches to this day.", "sources": ["gootjes", "britannica"]},
+    {"text": "Served as an itinerant pastor to secret Reformed congregations at Lille, Tournai, Valenciennes, and elsewhere at the risk of his life.", "sources": ["gootjes", "crespin"]},
+    {"text": "Wrote Le Baston de la foy chrestienne (1555), gathering patristic texts to argue that Reformed teaching was the faith of the early church.", "sources": ["gootjes"]},
+    {"text": "Worked to separate the Reformed movement from Anabaptism in La racine, source et fondement des Anabaptistes (1565).", "sources": ["gootjes"]},
+    {"text": "Wrote letters from prison to his wife and mother, published in Jean Crespin's martyrology, which became classics of Reformed devotion.", "sources": ["crespin"]}
+  ],
+  "sayings_intro": "The best-known words linked to de Brès are from the Belgic Confession and his prison letters.",
+  "sayings": {
+    "original": [
+      {"phrase": "\"We all believe in our hearts and confess with our mouths that there is a single and simple spiritual being, whom we call God.\"", "reference": "Belgic Confession, Article 1 (1561; modern English translation)", "sources": ["confession"]},
+      {"phrase": "Willing to \"offer our backs to stripes, our tongues to knives, our mouths to gags, and our whole bodies to the fire\" rather than deny the truth", "reference": "Letter to Philip II accompanying the Confession (1561)", "note": "Wording varies between translations.", "sources": ["gootjes"]}
+    ]
+  },
+  "persecuted_others_note": "De Brès never held power and was himself persecuted, but the original Article 36 of his Belgic Confession taught that magistrates must 'remove and prevent all idolatry and false worship, that the kingdom of antichrist may be destroyed', and the Confession condemned the Anabaptists. Later Reformed churches revised or footnoted that article as endorsing religious coercion.",
+  "persecuted_others": [
+    {"year": 1561, "title": "Article 36: magistrates to suppress 'false worship'", "targets": "Catholic worship ('idolatry') and dissenting sects, especially Anabaptists", "involvement": "advocated", "summary": "Article 36 of the Belgic Confession gave civil rulers the duty to protect the church and to 'remove and prevent all idolatry and false worship', and declared detestation of the Anabaptists and other seditious people. The text did not prescribe penalties, but it was later read as approving state coercion in religion. Synods of the Christian Reformed Church (1910, 1938, 1958) and other churches later removed or qualified the clause.", "outcome": "The clause stood in the Dutch Reformed churches for centuries; many Reformed churches have since amended it.", "sources": ["confession", "gootjes"]}
+  ],
+  "persecution_note": "De Brès lived most of his adult life as a fugitive under the Habsburg heresy edicts (the 'placards') of Charles V and Philip II, which carried the death penalty. He was hunted after the Tournai disturbances of 1561 and captured and hanged after Valenciennes fell in 1567.",
+  "persecution": [
+    {"year": 1561, "date": "September–December 1561", "title": "Hunted after the Tournai psalm-singing demonstrations", "summary": "After Reformed believers in Tournai marched singing psalms ('chanteries') in September 1561, the regent's officials investigated; de Brès was identified as the author of the Confession, his lodging was searched, and his books and papers were seized and burned with an effigy of him. He fled to France and became chaplain at Sedan.", "responsible": [
+      {"name": "Margaret of Parma", "role": "Regent of the Netherlands for Philip II", "jurisdiction": "Habsburg Netherlands", "type": "state"},
+      {"name": "Royal officials at Tournai", "role": "Investigated and burned his books and effigy", "jurisdiction": "Tournai", "type": "state"},
+      {"name": "Philip II", "role": "King of Spain and lord of the Netherlands; enforced the heresy edicts", "jurisdiction": "Habsburg Netherlands", "type": "state"}
+    ], "outcome": "Escaped to Sedan, under the protection of the Duke of Bouillon.", "sources": ["gootjes", "crespin"]},
+    {"year": 1567, "date": "December 1566–31 May 1567", "title": "Capture after the siege of Valenciennes and execution", "summary": "Valenciennes, where Reformed services were held openly after 1566, was declared in rebellion and besieged by royal troops under Philippe de Noircarmes. When it surrendered on 23 March 1567, de Brès and his fellow minister Peregrin de la Grange fled, were captured at Saint-Amand, and were held at Tournai and then in a dungeon at Valenciennes. Condemned as heretics and leaders of rebellion, they were hanged on 31 May 1567. Accounts differ on how far de Brès had supported the town's armed resistance.", "responsible": [
+      {"name": "Philippe de Noircarmes", "role": "Royal governor of Hainaut; besieged the city and oversaw the prisoners", "jurisdiction": "County of Hainaut", "type": "state"},
+      {"name": "Margaret of Parma", "role": "Regent; ordered the suppression of the 1566 revolt", "jurisdiction": "Habsburg Netherlands", "type": "state"},
+      {"name": "Philip II", "role": "King whose heresy edicts were enforced", "jurisdiction": "Spanish monarchy", "type": "state"}
+    ], "outcome": "Hanged with Peregrin de la Grange.", "sources": ["crespin", "gootjes", "benedict"]}
+  ],
+  "excommunication_note": "No individual papal excommunication of de Brès is recorded; as a Protestant minister he was treated by the Catholic and Habsburg authorities as a heretic under the general heresy edicts and condemned on that basis in 1567.",
+  "excommunications": [],
+  "sources": [
+    {"id": "confession", "type": "primary", "citation": "Guido de Brès, Confession de foy (Belgic Confession), 1561; English translation in Ecumenical Creeds and Reformed Confessions (Grand Rapids: CRC Publications, 1988)."},
+    {"id": "crespin", "type": "primary", "citation": "Jean Crespin, Histoire des martyrs persecutez et mis a mort pour la verité de l'Evangile (Geneva, 1570 and later editions), account of Guy de Brès with his prison letters."},
+    {"id": "gootjes", "type": "scholarly", "citation": "Nicolaas H. Gootjes, The Belgic Confession: Its History and Sources. Grand Rapids: Baker Academic, 2007."},
+    {"id": "benedict", "type": "scholarly", "citation": "Philip Benedict, Christ's Churches Purely Reformed: A Social History of Calvinism. New Haven: Yale University Press, 2002."},
+    {"id": "britannica", "type": "reference", "citation": "\"Belgic Confession.\" Encyclopaedia Britannica."}
+  ]
+}

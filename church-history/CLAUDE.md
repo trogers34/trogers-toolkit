@@ -151,6 +151,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Ignatius of Loyola (`ignatius-of-loyola`)
 - Peter Martyr Vermigli (`peter-martyr-vermigli`): the user wrote "Vermigle"
 - Thomas Cranmer (`thomas-cranmer`)
+- Nicholas Ridley (`nicholas-ridley`): the user wrote "Ridley"; the Oxford martyr was assumed
 - Martin Bucer (`martin-bucer`)
 - William Tyndale (`william-tyndale`): the user's first request; has the full Words and sayings list
 - Heinrich Bullinger (`heinrich-bullinger`)
@@ -360,7 +361,11 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Rod Rosenbladt (Concordia Irvine, original White Horse Inn host, The Gospel for Those Broken by the Church, Christ Alone,
+- Nicholas Ridley (the user wrote "Ridley"; Bishop of London, Prayer Book and communion tables; sat on the commissions that
+  deprived Bonner and Gardiner and condemned Joan Bocher and George van Parris; pressed Hooper over vestments;
+  Tower 1553, Oxford disputation 1554, burned with Latimer 16 October 1555). Linked from the Anglican history.
+  85 people, 56 events.
+- **PR #109**: Rod Rosenbladt (Concordia Irvine, original White Horse Inn host, The Gospel for Those Broken by the Church, Christ Alone,
   1517 with his son Ted; died 2 February 2024; no persecution recorded). 84 people, 56 events.
 - **PR #108**: William Perkins (A Golden Chaine, Art of Prophesying, cases of conscience, Arminius's reply; 1587 summons;
   argued all witches should be executed). 83 people, 56 events.

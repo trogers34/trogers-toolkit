@@ -1,0 +1,80 @@
+{
+  "name": "Nicholas Ridley",
+  "slug": "nicholas-ridley",
+  "short_name": "Ridley",
+  "also_known_as": "Bishop Ridley; one of the Oxford Martyrs",
+  "era": "Reformation",
+  "role": "Bishop of Rochester and of London under Edward VI; burned at Oxford with Hugh Latimer",
+  "born": {"year": 1500, "circa": true, "date": "c. 1500 (estimates range to 1503)", "place": "Unthank Hall, near Willimoteswick, Northumberland, England", "sources": ["jridley", "odnb"]},
+  "died": {"year": 1555, "date": "16 October 1555", "place": "Broad Street (then the town ditch), Oxford, England", "cause": "Burned at the stake for heresy, together with Hugh Latimer; the fire burned slowly at first and he suffered long before the gunpowder hung at his neck ignited", "sources": ["foxe", "jridley", "duffy"]},
+  "summary": "A Cambridge scholar and close ally of Archbishop Thomas Cranmer who became one of the leading bishops of the Edwardian Reformation. As Bishop of London he replaced altars with communion tables and helped shape the Book of Common Prayer and Protestant teaching on the Lord's Supper. He sat on the commissions that deprived Catholic bishops and condemned radical heretics, two of whom were burned. After backing Lady Jane Grey in 1553 he was imprisoned by Mary I, and in 1555 he was condemned for heresy and burned at Oxford with Hugh Latimer.",
+  "key_dates": [
+    {"year": 1522, "circa": true, "label": "Graduates at Pembroke Hall, Cambridge, and becomes a fellow (c. 1524); studies at the Sorbonne and Louvain c. 1527–1529", "sources": ["jridley", "odnb"]},
+    {"year": 1537, "label": "Becomes chaplain to Archbishop Cranmer; vicar of Herne, Kent (1538)", "sources": ["jridley", "macculloch"]},
+    {"year": 1540, "label": "Elected Master of Pembroke Hall, Cambridge", "sources": ["jridley", "odnb"]},
+    {"year": 1546, "circa": true, "label": "Abandons belief in transubstantiation after reading Ratramnus, and helps persuade Cranmer to do the same", "sources": ["works", "macculloch"]},
+    {"year": 1547, "label": "Consecrated Bishop of Rochester under Edward VI", "sources": ["jridley", "britannica"]},
+    {"year": 1550, "label": "Becomes Bishop of London after Edmund Bonner's deprivation; orders altars in the diocese replaced with communion tables", "sources": ["jridley", "macculloch"]},
+    {"year": 1553, "label": "Preaches at Paul's Cross for Lady Jane Grey, calling Mary and Elizabeth illegitimate; arrested when Mary takes the throne and sent to the Tower", "sources": ["jridley", "duffy"]},
+    {"year": 1554, "label": "Forced to dispute on the Mass at Oxford (April) with Cranmer and Latimer, declared a heretic, and held in Oxford", "sources": ["foxe", "macculloch"]},
+    {"year": 1555, "label": "Tried for heresy at Oxford before Cardinal Pole's commissioners (30 September–1 October), degraded (15 October), and burned the next day", "sources": ["foxe", "duffy"]}
+  ],
+  "accomplishments": [
+    {"text": "Was one of the main theologians of the Edwardian Reformation; his reading of the ninth-century monk Ratramnus helped move Cranmer to a Reformed view of the Lord's Supper, which shaped the 1549 and 1552 Books of Common Prayer.", "sources": ["macculloch", "works"]},
+    {"text": "As Bishop of London from 1550 ordered the removal of stone altars in favour of wooden communion tables, a step soon imposed across England by the Privy Council.", "sources": ["jridley", "macculloch"]},
+    {"text": "Wrote A Brief Declaration of the Lord's Supper in prison, a defence of the Protestant view of the Eucharist, published after his death.", "sources": ["works", "odnb"]},
+    {"text": "Defended Protestant doctrine against Catholic theologians in the Oxford disputations of April 1554.", "sources": ["foxe", "macculloch"]},
+    {"text": "Urged Edward VI to found charitable institutions for London's poor; Christ's Hospital, St Thomas's Hospital, and Bridewell were set up in 1552–1553 after a sermon he preached before the king.", "sources": ["jridley", "odnb"]},
+    {"text": "Insisted against John Hooper in the vestments controversy (1550–1551) that bishops wear the prescribed robes, an early clash between conforming Protestants and those who later became Puritans.", "sources": ["jridley", "macculloch"]},
+    {"text": "Supported the attempt to make Lady Jane Grey queen in July 1553, preaching against Mary's right to the throne.", "sources": ["jridley", "duffy"]},
+    {"text": "Became, with Latimer and Cranmer, one of the best-known Protestant martyrs, commemorated by the Martyrs' Memorial in Oxford (1843) and in John Foxe's Acts and Monuments.", "sources": ["foxe", "britannica"]}
+  ],
+  "sayings_intro": "Ridley's last words are known through John Foxe's account of the burning; the most famous line spoken at the stake belongs to Latimer, not Ridley.",
+  "sayings": {
+    "original": [
+      {"phrase": "\"Be of good heart, brother, for God will either assuage the fury of the flame, or else strengthen us to abide it.\"", "reference": "To Latimer at the stake, 16 October 1555", "note": "As recorded by Foxe.", "sources": ["foxe"]},
+      {"phrase": "\"Lord, into thy hands I commend my spirit\"", "reference": "At the stake, 16 October 1555", "note": "Foxe reports he cried this repeatedly as the fire burned slowly; the words are Psalm 31:5 and Luke 23:46.", "sources": ["foxe"]}
+    ],
+    "misattributed": [
+      {"phrase": "\"Be of good comfort, Master Ridley, and play the man. We shall this day light such a candle by God's grace in England as I trust shall never be put out.\"", "reference": "Foxe, Acts and Monuments (1570 and later editions)", "note": "Spoken by Hugh Latimer to Ridley, not by Ridley, and sometimes credited to both; it first appears in Foxe's second edition, so some historians doubt Latimer's exact wording.", "sources": ["foxe", "duffy"]}
+    ]
+  },
+  "persecuted_others_note": "As a bishop under Edward VI, Ridley sat on royal commissions that deprived Catholic bishops and condemned two radical Protestants who were burned for heresy, and he pressed John Hooper to conform over vestments until Hooper was imprisoned. Like most magisterial Reformers he accepted that obstinate heretics could be put to death.",
+  "persecuted_others": [
+    {"year": 1549, "date": "September–October 1549", "title": "Deprivation of Bishop Edmund Bonner", "targets": "Edmund Bonner, Catholic Bishop of London", "involvement": "took_part", "summary": "Ridley sat with Archbishop Cranmer, Secretary William Petre, Sir Thomas Smith, and others on the commission that tried Bonner for failing to preach royal supremacy and the new order as instructed. Bonner was deprived and imprisoned in the Marshalsea, and Ridley succeeded him as Bishop of London.", "outcome": "Bonner was jailed until Mary I's accession in 1553, when he was restored and Ridley removed.", "sources": ["jridley", "macculloch"]},
+    {"year": 1550, "date": "1549–2 May 1550", "title": "Condemnation of Joan Bocher", "targets": "Joan Bocher (Joan of Kent), an Anabaptist who denied that Christ took flesh from Mary", "involvement": "took_part", "summary": "Ridley was among the commissioners, headed by Cranmer, who examined and condemned Joan Bocher for heresy; he and others tried to persuade her to recant during a year's delay. Edward VI's council signed the warrant, and she was burned at Smithfield.", "outcome": "Burned at Smithfield, London, on 2 May 1550.", "sources": ["macculloch", "jridley"]},
+    {"year": 1551, "date": "February 1551", "title": "Deprivation of Bishop Stephen Gardiner", "targets": "Stephen Gardiner, Catholic Bishop of Winchester", "involvement": "took_part", "summary": "Ridley served on the commission under Cranmer that heard the case against Gardiner, imprisoned since 1548 for resisting the religious changes, and deprived him of his see.", "outcome": "Gardiner stayed in the Tower until Mary I freed him in 1553 and made him Lord Chancellor.", "sources": ["macculloch", "odnb"]},
+    {"year": 1551, "date": "April 1551", "title": "Condemnation of George van Parris", "targets": "George van Parris, a Flemish surgeon who denied the divinity of Christ", "involvement": "took_part", "summary": "Ridley sat with Cranmer, Miles Coverdale, and others on the commission that excommunicated and condemned van Parris for Arianism; the royal council then ordered his execution.", "outcome": "Burned at Smithfield, 24 April 1551.", "sources": ["macculloch", "jridley"]},
+    {"year": 1550, "date": "1550–January 1551", "title": "Pressure on John Hooper in the vestments controversy", "targets": "John Hooper, bishop-elect of Gloucester", "involvement": "advocated", "summary": "Ridley led the opposition to Hooper's refusal to wear episcopal vestments at his consecration, writing against his position. The Privy Council confined Hooper to his house and then to the Fleet Prison until he gave way.", "outcome": "Hooper submitted and was consecrated in March 1551; the two were reconciled in prison under Mary.", "sources": ["jridley", "macculloch"]}
+  ],
+  "persecution_note": "Ridley was arrested for supporting Lady Jane Grey, imprisoned for over two years under Mary I, and burned for heresy after Parliament restored the medieval heresy laws and England was reconciled with Rome.",
+  "persecution": [
+    {"year": 1553, "date": "July 1553–March 1554", "title": "Arrest and imprisonment in the Tower", "summary": "After Mary I defeated Lady Jane Grey, Ridley, who had preached against Mary's claim, was arrested, deprived of the bishopric of London (Bonner was restored), and imprisoned in the Tower of London.", "responsible": [
+      {"name": "Mary I", "role": "Queen of England", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Mary's Privy Council", "role": "Ordered his arrest and imprisonment", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Moved to Oxford in March 1554.", "sources": ["jridley", "duffy"]},
+    {"year": 1554, "date": "April 1554", "title": "Oxford disputations", "summary": "Ridley, Cranmer, and Latimer were taken to Oxford and made to dispute on the Mass before representatives of the Convocation and the universities, led by Hugh Weston, prolocutor of the lower house of Convocation. They were declared heretics at the end, though no legal sentence could yet be carried out.", "responsible": [
+      {"name": "Hugh Weston", "role": "Prolocutor of Convocation; presided over the disputations", "jurisdiction": "Church of England (Convocation)", "type": "church"},
+      {"name": "Mary I's government", "role": "Ordered the disputations", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Held in Oxford (at the house of the mayor, Edmund Irish) for another eighteen months.", "sources": ["foxe", "macculloch"]},
+    {"year": 1555, "date": "30 September–16 October 1555", "title": "Heresy trial, degradation, and burning", "summary": "After the heresy laws were revived, Cardinal Reginald Pole, as papal legate, appointed John White (Bishop of Lincoln), James Brooks (Bishop of Gloucester), and John Holyman (Bishop of Bristol) to try Ridley and Latimer in the Divinity School at Oxford. Ridley refused to accept papal authority or the Mass and was condemned, handed to the secular power, degraded from the priesthood on 15 October, and burned on 16 October. Cranmer was made to watch from the Bocardo prison. His brother-in-law tied gunpowder to him, but the fire, banked with green wood, burned his lower body slowly before it went off.", "responsible": [
+      {"name": "Cardinal Reginald Pole", "role": "Papal legate who appointed the commission", "jurisdiction": "Papacy / Church of England under Rome", "type": "church"},
+      {"name": "John White, James Brooks, John Holyman", "role": "Bishops of Lincoln, Gloucester, and Bristol; judges", "jurisdiction": "Church courts by legatine commission", "type": "church"},
+      {"name": "Mary I and Philip", "role": "Monarchs whose government revived the heresy laws and carried out the sentence", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Mayor and bailiffs of Oxford", "role": "Secular officers who conducted the burning", "jurisdiction": "City of Oxford", "type": "state"}
+    ], "outcome": "Burned with Latimer in Broad Street, Oxford.", "sources": ["foxe", "duffy", "jridley"]}
+  ],
+  "excommunication_note": "Ridley was condemned as an obstinate heretic in 1555 by Cardinal Pole's legatine commission, degraded from holy orders, and handed over to be burned. The sentence was never formally revoked by Rome; the Church of England honours him as a martyr on 16 October.",
+  "excommunications": [
+    {"date": "1 October 1555", "by": "Bishops John White, James Brooks, and John Holyman, commissioners of Cardinal Pole", "authority": "Papal legatine authority (Cardinal Reginald Pole)", "reason": "Heresy: denying transubstantiation and the sacrifice of the Mass, and rejecting papal authority", "status": "Carried out by his degradation (15 October 1555) and burning; never lifted", "sources": ["foxe", "duffy"]}
+  ],
+  "sources": [
+    {"id": "foxe", "type": "primary", "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; expanded 1570 and later editions. The Unabridged Acts and Monuments Online (HRI Online, Sheffield)."},
+    {"id": "works", "type": "primary", "citation": "The Works of Nicholas Ridley, ed. Henry Christmas. Parker Society. Cambridge: Cambridge University Press, 1841 (includes A Brief Declaration of the Lord's Supper)."},
+    {"id": "jridley", "type": "scholarly", "citation": "Jasper Ridley, Nicholas Ridley: A Biography. London: Longmans, Green, 1957."},
+    {"id": "macculloch", "type": "scholarly", "citation": "Diarmaid MacCulloch, Thomas Cranmer: A Life. New Haven: Yale University Press, 1996."},
+    {"id": "duffy", "type": "scholarly", "citation": "Eamon Duffy, Fires of Faith: Catholic England under Mary Tudor. New Haven: Yale University Press, 2009."},
+    {"id": "odnb", "type": "reference", "citation": "\"Ridley, Nicholas (c. 1502–1555).\" Oxford Dictionary of National Biography."},
+    {"id": "britannica", "type": "reference", "citation": "\"Nicholas Ridley.\" Encyclopaedia Britannica."}
+  ]
+}

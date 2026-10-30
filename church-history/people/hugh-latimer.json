@@ -1,0 +1,83 @@
+{
+  "name": "Hugh Latimer",
+  "slug": "hugh-latimer",
+  "short_name": "Latimer",
+  "also_known_as": "Bishop Latimer; one of the Oxford Martyrs",
+  "era": "Reformation",
+  "role": "Reformation preacher and Bishop of Worcester; burned at Oxford with Nicholas Ridley",
+  "born": {"year": 1487, "circa": true, "date": "c. 1487 (estimates range from c. 1485 to 1492)", "place": "Thurcaston, Leicestershire, England", "sources": ["chester", "odnb"]},
+  "died": {"year": 1555, "date": "16 October 1555", "place": "Broad Street (then the town ditch), Oxford, England", "cause": "Burned at the stake for heresy, together with Nicholas Ridley; Foxe says he died quickly", "sources": ["foxe", "chester", "duffy"]},
+  "summary": "The most famous English preacher of Henry VIII's and Edward VI's reigns, known for blunt, homely sermons attacking clerical abuses and calling for social justice. Converted to reforming views at Cambridge by Thomas Bilney, he became Bishop of Worcester under Henry VIII but resigned over the Six Articles and was twice imprisoned. Under Edward VI he preached before the king and at Paul's Cross. Under Mary I he was condemned for heresy and burned at Oxford with Nicholas Ridley. He also preached at the burning of the Franciscan friar John Forest in 1538.",
+  "key_dates": [
+    {"year": 1510, "label": "Elected fellow of Clare Hall, Cambridge (BA 1511, MA 1514)", "sources": ["chester", "odnb"]},
+    {"year": 1524, "label": "After a BD oration attacking Melanchthon, is won to reforming views by Thomas Bilney", "sources": ["sermons", "chester"]},
+    {"year": 1529, "label": "Preaches his 'Sermons on the Card' at Cambridge at Christmas, urging Christian charity over pious works", "sources": ["sermons", "chester"]},
+    {"year": 1532, "label": "Cited before Convocation, excommunicated and held at Lambeth until he submits", "sources": ["chester", "odnb"]},
+    {"year": 1535, "label": "Consecrated Bishop of Worcester with the backing of Anne Boleyn and Thomas Cromwell", "sources": ["chester", "britannica"]},
+    {"year": 1538, "label": "Preaches at the burning of the friar John Forest at Smithfield", "sources": ["foxe", "chester"]},
+    {"year": 1539, "label": "Resigns his bishopric rather than accept the Act of Six Articles; placed in custody", "sources": ["chester", "macculloch"]},
+    {"year": 1548, "label": "Preaches the 'Sermon of the Plough' at Paul's Cross (18 January), and later sermons before Edward VI (1549)", "sources": ["sermons", "chester"]},
+    {"year": 1553, "label": "Arrested after Mary I's accession and sent to the Tower", "sources": ["foxe", "duffy"]},
+    {"year": 1555, "label": "Tried for heresy at Oxford (30 September–1 October) and burned with Ridley on 16 October", "sources": ["foxe", "duffy"]}
+  ],
+  "accomplishments": [
+    {"text": "Became the leading popular preacher of the English Reformation; his vivid, colloquial sermons, such as the 'Sermon of the Plough' (1548), are among the best-known prose of the period.", "sources": ["sermons", "chester"]},
+    {"text": "Attacked clerical neglect and 'unpreaching prelates', declaring that the most diligent bishop in England was the devil, who never left his diocese.", "sources": ["sermons", "chester"]},
+    {"text": "Preached against enclosures, rack-renting, bribery, and the neglect of the poor before Edward VI and his court, a voice of the 'Commonwealth' reformers.", "sources": ["sermons", "odnb"]},
+    {"text": "As Bishop of Worcester (1535–1539) promoted preaching and the English Bible and attacked pilgrimages and relics, including the Holy Blood of Hailes, exposed in 1538.", "sources": ["chester", "macculloch"]},
+    {"text": "Supported Henry VIII's case for annulling his marriage to Catherine of Aragon and the break with Rome, gaining royal favour.", "sources": ["chester", "britannica"]},
+    {"text": "Refused to resume a bishopric under Edward VI, preferring to preach; lived for a time in Cranmer's household at Lambeth.", "sources": ["chester", "odnb"]},
+    {"text": "Became, with Ridley and Cranmer, one of the most celebrated Protestant martyrs, remembered through Foxe's account and the Martyrs' Memorial in Oxford.", "sources": ["foxe", "britannica"]}
+  ],
+  "sayings_intro": "A selection. Latimer's sermons survive as printed from notes taken by hearers, chiefly his servant Augustine Bernher, so wording is close but not verbatim.",
+  "sayings": {
+    "original": [
+      {"phrase": "\"Who is the most diligent bishop and prelate in all England?... I will tell you: it is the devil.\"", "reference": "Sermon of the Plough, Paul's Cross, 18 January 1548", "sources": ["sermons"]},
+      {"phrase": "\"Be of good comfort, Master Ridley, and play the man. We shall this day light such a candle by God's grace in England as I trust shall never be put out.\"", "reference": "At the stake, 16 October 1555, as given by Foxe", "note": "Recorded only from Foxe's second edition (1570) onward, not in the 1563 account, so some historians doubt the exact words; it may echo words said to Polycarp at his martyrdom.", "sources": ["foxe", "duffy"]}
+    ]
+  },
+  "persecuted_others_note": "Latimer was himself repeatedly prosecuted, but under Henry VIII he preached at the burning of the Franciscan friar John Forest and asked to be the preacher. He later preached in support of Thomas Seymour's execution for treason (1549), a political rather than religious case. No other part in heresy trials is recorded.",
+  "persecuted_others": [
+    {"year": 1538, "date": "22 May 1538", "title": "Sermon at the burning of John Forest", "targets": "John Forest, Franciscan friar who denied the royal supremacy", "involvement": "took_part", "summary": "Forest, Catherine of Aragon's former confessor, was condemned for heresy and treason for rejecting Henry VIII's supremacy. Latimer wrote to Thomas Cromwell offering to preach at the execution and did so from a pulpit at Smithfield, urging Forest to recant; Forest refused and was burned, slowly, over the wooden Welsh image Derfel Gadarn. Henry VIII, Cromwell, and Archbishop Cranmer shared responsibility for the trial and sentence.", "outcome": "Forest was burned at Smithfield; the Catholic Church later beatified him (1886).", "sources": ["foxe", "chester", "odnb"]}
+  ],
+  "persecution_note": "Latimer was banned from preaching, excommunicated and confined by Convocation, imprisoned twice under Henry VIII, and finally imprisoned, tried, and burned under Mary I.",
+  "persecution": [
+    {"year": 1525, "circa": true, "title": "Banned from preaching in Ely diocese", "summary": "Nicholas West, Bishop of Ely, forbade Latimer to preach in the diocese after hearing his reforming sermons; Cardinal Wolsey examined him and licensed him to preach anywhere in England.", "responsible": [
+      {"name": "Nicholas West", "role": "Bishop of Ely", "jurisdiction": "Diocese of Ely", "type": "church"}
+    ], "defended_by": [
+      {"name": "Cardinal Thomas Wolsey", "role": "Papal legate and Lord Chancellor; licensed him to preach"}
+    ], "outcome": "He continued preaching under Wolsey's licence.", "sources": ["foxe", "chester"]},
+    {"year": 1532, "date": "January–April 1532", "title": "Prosecuted before Convocation", "summary": "Summoned by Bishop John Stokesley of London for a sermon at St Mary Abchurch, Latimer was examined by Convocation under Archbishop William Warham, refused at first to subscribe to articles on purgatory, saints, and images, was excommunicated and confined at Lambeth, and was absolved after he submitted, apparently with Henry VIII's intervention.", "responsible": [
+      {"name": "John Stokesley", "role": "Bishop of London; brought the charges", "jurisdiction": "Diocese of London", "type": "church"},
+      {"name": "William Warham", "role": "Archbishop of Canterbury; presided over Convocation", "jurisdiction": "Convocation of Canterbury", "type": "church"}
+    ], "outcome": "Absolved after submission in April 1532.", "sources": ["chester", "odnb"]},
+    {"year": 1539, "date": "July 1539–1540", "title": "Custody after resigning over the Six Articles", "summary": "After Parliament passed the Act of Six Articles enforcing traditional doctrine, Latimer resigned the bishopric of Worcester and was held in custody, first in the Tower and then with Bishop Richard Sampson of Chichester, and forbidden to preach or to visit London, Oxford, Cambridge, or his former diocese.", "responsible": [
+      {"name": "Henry VIII and his council", "role": "Enforced the Six Articles", "jurisdiction": "Kingdom of England", "type": "state"}
+    ], "outcome": "Released in 1540 but silenced until Henry's death.", "sources": ["chester", "macculloch"]},
+    {"year": 1546, "title": "Imprisoned in the Tower", "summary": "In the 1546 drive against evangelicals that led to Anne Askew's burning, Latimer was questioned by the Privy Council over his contacts with the preacher Edward Crome and sent to the Tower.", "responsible": [
+      {"name": "Henry VIII's Privy Council", "role": "Examined and imprisoned him", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Stephen Gardiner", "role": "Bishop of Winchester and a leader of the conservative campaign", "jurisdiction": "Kingdom of England (Privy Council)", "type": "church"}
+    ], "outcome": "Released by the general pardon at Edward VI's accession in 1547.", "sources": ["chester", "odnb"]},
+    {"year": 1553, "date": "September 1553–16 October 1555", "title": "Imprisonment, Oxford disputation, trial, and burning", "summary": "Summoned by Mary I's council in September 1553, he was imprisoned in the Tower, moved to Oxford in March 1554, and made to dispute on the Mass in April 1554 before commissioners led by Hugh Weston. After the heresy laws were revived, Cardinal Reginald Pole's commissioners, Bishops John White of Lincoln, James Brooks of Gloucester, and John Holyman of Bristol, tried him with Ridley at the Divinity School on 30 September–1 October 1555 and condemned him. He was burned with Ridley on 16 October.", "responsible": [
+      {"name": "Mary I and Philip", "role": "Monarchs whose government revived the heresy laws", "jurisdiction": "Kingdom of England", "type": "state"},
+      {"name": "Cardinal Reginald Pole", "role": "Papal legate who appointed the commission", "jurisdiction": "Papacy / Church of England under Rome", "type": "church"},
+      {"name": "John White, James Brooks, John Holyman", "role": "Bishops who tried and condemned him", "jurisdiction": "Church courts by legatine commission", "type": "church"},
+      {"name": "Hugh Weston", "role": "Prolocutor of Convocation; led the 1554 disputation", "jurisdiction": "Convocation", "type": "church"},
+      {"name": "Mayor and bailiffs of Oxford", "role": "Carried out the burning", "jurisdiction": "City of Oxford", "type": "state"}
+    ], "outcome": "Burned at Oxford with Ridley.", "sources": ["foxe", "duffy", "chester"]}
+  ],
+  "excommunication_note": "Latimer was excommunicated by Convocation in 1532 and absolved the same year after submitting. In 1555 he was condemned as a heretic by Cardinal Pole's commissioners; that sentence was never revoked by Rome. The Church of England commemorates him with Ridley on 16 October.",
+  "excommunications": [
+    {"date": "March 1532", "by": "Convocation of Canterbury under Archbishop William Warham", "authority": "Church of England (still under Rome)", "reason": "Refusing to subscribe to articles on purgatory, saints, pilgrimages, and images", "status": "Absolved in April 1532 after his submission", "sources": ["chester", "odnb"]},
+    {"date": "1 October 1555", "by": "Bishops John White, James Brooks, and John Holyman, commissioners of Cardinal Pole", "authority": "Papal legatine authority", "reason": "Heresy: denying transubstantiation and the sacrifice of the Mass, and rejecting papal authority", "status": "Carried out by his burning; never lifted", "sources": ["foxe", "duffy"]}
+  ],
+  "sources": [
+    {"id": "foxe", "type": "primary", "citation": "John Foxe, Acts and Monuments (\"Foxe's Book of Martyrs\"), 1563; expanded 1570 and later editions."},
+    {"id": "sermons", "type": "primary", "citation": "Sermons by Hugh Latimer and Sermons and Remains of Hugh Latimer, ed. George Elwes Corrie. Parker Society, 2 vols. Cambridge: Cambridge University Press, 1844–1845."},
+    {"id": "chester", "type": "scholarly", "citation": "Allan G. Chester, Hugh Latimer: Apostle to the English. Philadelphia: University of Pennsylvania Press, 1954."},
+    {"id": "macculloch", "type": "scholarly", "citation": "Diarmaid MacCulloch, Thomas Cranmer: A Life. New Haven: Yale University Press, 1996."},
+    {"id": "duffy", "type": "scholarly", "citation": "Eamon Duffy, Fires of Faith: Catholic England under Mary Tudor. New Haven: Yale University Press, 2009."},
+    {"id": "odnb", "type": "reference", "citation": "Susan Wabuda, \"Latimer, Hugh (c. 1485–1555).\" Oxford Dictionary of National Biography."},
+    {"id": "britannica", "type": "reference", "citation": "\"Hugh Latimer.\" Encyclopaedia Britannica."}
+  ]
+}

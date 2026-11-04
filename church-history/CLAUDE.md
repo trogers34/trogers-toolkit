@@ -190,6 +190,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - J. Vernon McGee (`j-vernon-mcgee`): sourcing thinner than usual (his own commentary and an obituary)
 - Kathryn Kuhlman (`kathryn-kuhlman`)
 - William Barclay (`william-barclay`): the user wrote "William Barclays"; the Glasgow New Testament scholar was assumed
+- Francis Schaeffer (`francis-schaeffer`): the user wrote "Francis Schaefer"
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -364,7 +365,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- William Barclay (the user wrote "William Barclays"; Daily Study Bible, Glasgow professor, BBC broadcaster; universalism
+- Francis Schaeffer (the user wrote "Francis Schaefer"; Bible Presbyterian minister, L'Abri, The God Who Is There,
+  How Should We Then Live?, A Christian Manifesto and the Christian Right; 1955 Valais expulsion order; son Frank's
+  critical memoir). Linked from the Presbyterian history. 89 people, 56 events.
+- **PR #112**: William Barclay (the user wrote "William Barclays"; Daily Study Bible, Glasgow professor, BBC broadcaster; universalism
   and doubts about the virgin birth; daughter drowned; no persecution or discipline). 88 people, 56 events.
 - **PR #111**: Hugh Latimer (Cambridge preacher converted by Bilney, Sermons on the Card and of the Plough, Bishop of Worcester;
   1532 Convocation excommunication, Six Articles resignation, Tower 1546; preached at the burning of John Forest 1538;

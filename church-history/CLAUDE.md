@@ -189,6 +189,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - G. K. Chesterton (`g-k-chesterton`): the user wrote "CK Chesterton"
 - J. Vernon McGee (`j-vernon-mcgee`): sourcing thinner than usual (his own commentary and an obituary)
 - Kathryn Kuhlman (`kathryn-kuhlman`)
+- William Barclay (`william-barclay`): the user wrote "William Barclays"; the Glasgow New Testament scholar was assumed
 - C. S. Lewis (`c-s-lewis`)
 - Billy Graham (`billy-graham`)
 - Chuck Smith (`chuck-smith`)
@@ -363,7 +364,9 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Hugh Latimer (Cambridge preacher converted by Bilney, Sermons on the Card and of the Plough, Bishop of Worcester;
+- William Barclay (the user wrote "William Barclays"; Daily Study Bible, Glasgow professor, BBC broadcaster; universalism
+  and doubts about the virgin birth; daughter drowned; no persecution or discipline). 88 people, 56 events.
+- **PR #111**: Hugh Latimer (Cambridge preacher converted by Bilney, Sermons on the Card and of the Plough, Bishop of Worcester;
   1532 Convocation excommunication, Six Articles resignation, Tower 1546; preached at the burning of John Forest 1538;
   burned with Ridley 1555) and Guido de Brès (Belgic Confession 1561, Tournai and Valenciennes; Article 36 on
   suppressing 'false worship'; hanged at Valenciennes 1567). Linked from the Anglican and Dutch Reformed histories.

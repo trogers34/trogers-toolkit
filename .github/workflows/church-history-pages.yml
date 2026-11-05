@@ -1,5 +1,5 @@
-# Tests and builds the Church History site (church-history/), then publishes it
-# to GitHub Pages on every push to master. Pull requests run the tests only.
+# Publishes the redirect from the old Church History address to its new home
+# (https://trogers34.github.io/church-history/) on every push to master.
 name: Church History site
 
 on:
@@ -26,18 +26,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: church-history
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Run tests
-        run: python -m unittest discover tests -v
-      - name: Build site
-        run: python build.py
       - if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:

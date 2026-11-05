@@ -132,6 +132,7 @@ Keep this list in sync with `people/` (the tests check it). Grouped by era, olde
 - Anselm of Canterbury (`anselm-of-canterbury`)
 - Peter Abelard (`peter-abelard`): the user wrote "Abelard"
 - Bernard of Clairvaux (`bernard-of-clairvaux`)
+- Peter Lombard (`peter-lombard`)
 - Thomas Aquinas (`thomas-aquinas`)
 - John Duns Scotus (`john-duns-scotus`): the user wrote "Dun Scotus"
 - William of Ockham (`william-of-ockham`)
@@ -365,7 +366,10 @@ one is found. Be explicit that a list is a selection when it can't be complete.
 Update this after every commit that changes the site. Newest first. PR numbers refer to
 trogers34/trogers-toolkit.
 
-- Francis Schaeffer (the user wrote "Francis Schaefer"; Bible Presbyterian minister, L'Abri, The God Who Is There,
+- Peter Lombard (the Sentences and the medieval curriculum, seven sacraments, Bishop of Paris 1159; Alexander III's
+  1170/1177 condemnation of 'Christological nihilianism'; upheld by Lateran IV against Joachim). Linked from
+  Lateran IV. 90 people, 56 events.
+- **PR #113**: Francis Schaeffer (the user wrote "Francis Schaefer"; Bible Presbyterian minister, L'Abri, The God Who Is There,
   How Should We Then Live?, A Christian Manifesto and the Christian Right; 1955 Valais expulsion order; son Frank's
   critical memoir). Linked from the Presbyterian history. 89 people, 56 events.
 - **PR #112**: William Barclay (the user wrote "William Barclays"; Daily Study Bible, Glasgow professor, BBC broadcaster; universalism

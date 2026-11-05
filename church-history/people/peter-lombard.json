@@ -1,0 +1,48 @@
+{
+  "name": "Peter Lombard",
+  "slug": "peter-lombard",
+  "short_name": "Lombard",
+  "also_known_as": "Petrus Lombardus; 'the Master of the Sentences' (Magister Sententiarum)",
+  "era": "Medieval",
+  "role": "Theologian at the cathedral school of Paris and Bishop of Paris; author of the Four Books of Sentences",
+  "born": {"year": 1096, "circa": true, "date": "c. 1096–1100", "place": "Lumellogno, near Novara, Lombardy (Italy)", "sources": ["colish", "rosemann"]},
+  "died": {"year": 1160, "date": "21 or 22 July 1160", "place": "Paris, France", "cause": "Unknown; died in office as Bishop of Paris about a year after his consecration", "sources": ["colish", "rosemann"]},
+  "summary": "An Italian-born master who taught theology at the cathedral school of Notre-Dame in Paris and wrote the Four Books of Sentences (c. 1155–1157), an orderly collection of the teachings of the Church Fathers, above all Augustine, on every major question of doctrine. From the 13th to the 16th century every master of theology in the West had to lecture on it, and commentaries on it by Aquinas, Bonaventure, Scotus, Ockham, and Luther shaped scholastic theology. He fixed the number of sacraments at seven. After his death some of his teachings, especially on Christ's humanity, were attacked and briefly condemned by Pope Alexander III, but the Fourth Lateran Council in 1215 upheld his teaching on the Trinity by name.",
+  "key_dates": [
+    {"year": 1134, "circa": true, "label": "Comes to Paris with a letter of recommendation from Bernard of Clairvaux to the prior of the Abbey of Saint-Victor", "sources": ["colish", "rosemann"]},
+    {"year": 1144, "circa": true, "label": "Teaching at the cathedral school of Notre-Dame; becomes a canon of the cathedral about 1145", "sources": ["colish", "rosemann"]},
+    {"year": 1148, "label": "Attends the Council of Reims under Pope Eugenius III, where Gilbert of Poitiers's teaching on the Trinity is examined", "sources": ["colish", "john-salisbury"]},
+    {"year": 1150, "circa": true, "label": "Completes his glosses on the Psalms and the letters of Paul, later standard commentaries", "sources": ["colish", "britannica"]},
+    {"year": 1155, "circa": true, "label": "Finishes the Four Books of Sentences (c. 1155–1157)", "sources": ["sentences", "colish"]},
+    {"year": 1159, "label": "Consecrated Bishop of Paris (28 June)", "sources": ["colish", "rosemann"]}
+  ],
+  "accomplishments": [
+    {"text": "Wrote the Four Books of Sentences, which arranges the authorities of Scripture and the Fathers under four headings (God and the Trinity; creation and sin; the Incarnation and the virtues; the sacraments and the last things) and weighs conflicting opinions.", "sources": ["sentences", "colish"]},
+    {"text": "His Sentences became the standard theology textbook of the medieval universities; from the 1220s bachelors of theology had to lecture on it, producing commentaries by Alexander of Hales, Bonaventure, Aquinas, Scotus, Ockham, and the young Martin Luther.", "sources": ["rosemann", "britannica"]},
+    {"text": "Gave an influential definition of a sacrament as a sign that both signifies and causes grace, and was among the first to fix the number of sacraments at seven, the list later defined by the Councils of Florence and Trent.", "sources": ["sentences", "colish"]},
+    {"text": "Produced glosses on the Psalms and the Pauline epistles (the 'Great Gloss') that became standard aids to biblical study in the schools.", "sources": ["colish", "britannica"]},
+    {"text": "Taught that the charity by which Christians love God is the Holy Spirit himself, not a created virtue; later Paris masters rejected this in a list of points on which 'the Master is not followed'.", "sources": ["sentences", "rosemann"]},
+    {"text": "Served as Bishop of Paris (1159–1160), the first of several Paris masters raised to the see.", "sources": ["colish", "rosemann"]}
+  ],
+  "sayings_intro": "A selection.",
+  "sayings": {
+    "original": [
+      {"phrase": "\"A sacrament is properly so called because it is a sign of the grace of God and a form of invisible grace, such that it bears its image and exists as its cause.\"", "reference": "Sentences, Book IV, distinction 1", "sources": ["sentences"]}
+    ]
+  },
+  "persecuted_others_note": "No record of Lombard ordering or carrying out persecution. At the Council of Reims (1148) he was among the masters who opposed Gilbert of Poitiers's views on the Trinity, but Gilbert submitted and was not punished.",
+  "persecuted_others": [],
+  "persecution_note": "Lombard was not persecuted in his lifetime. After his death his teaching on Christ's humanity ('Christological nihilianism') was attacked, and Walter of Saint-Victor denounced him as one of the 'four labyrinths of France'.",
+  "persecution": [],
+  "excommunication_note": "Lombard was never excommunicated. After his death Pope Alexander III condemned one proposition associated with his teaching, but the Fourth Lateran Council (1215) defended his doctrine of the Trinity against Joachim of Fiore by name.",
+  "excommunications": [
+    {"date": "1170 and 1177", "by": "Pope Alexander III", "authority": "Papacy (letters to Archbishop William of Sens and a synod)", "reason": "Condemned the proposition that 'Christ as man is not something' (Christus secundum quod est homo non est aliquid), associated with Lombard's Christology; Lombard himself, dead since 1160, was not named as a heretic", "status": "Not lifted, but the Sentences remained the standard textbook; the Fourth Lateran Council (1215) praised Lombard's orthodoxy on the Trinity", "sources": ["colish", "rosemann"]}
+  ],
+  "sources": [
+    {"id": "sentences", "type": "primary", "citation": "Peter Lombard, The Sentences, trans. Giulio Silano, 4 vols. Toronto: Pontifical Institute of Mediaeval Studies, 2007–2010."},
+    {"id": "john-salisbury", "type": "primary", "citation": "John of Salisbury, Historia Pontificalis, ed. and trans. Marjorie Chibnall. Oxford: Clarendon Press, 1986."},
+    {"id": "colish", "type": "scholarly", "citation": "Marcia L. Colish, Peter Lombard, 2 vols. Leiden: Brill, 1994."},
+    {"id": "rosemann", "type": "scholarly", "citation": "Philipp W. Rosemann, Peter Lombard. Oxford: Oxford University Press, 2004."},
+    {"id": "britannica", "type": "reference", "citation": "\"Peter Lombard.\" Encyclopaedia Britannica."}
+  ]
+}

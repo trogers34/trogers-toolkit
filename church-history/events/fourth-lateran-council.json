@@ -90,6 +90,11 @@
     {
       "name": "Raymond VI of Toulouse",
       "role": "Count whose lands were given to Simon de Montfort for failing to suppress the Cathars"
+    },
+    {
+      "name": "Peter Lombard",
+      "role": "Theologian (died 1160) whose teaching on the Trinity the council upheld by name against Joachim of Fiore",
+      "person": "peter-lombard"
     }
   ],
   "outcomes": [
